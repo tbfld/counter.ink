@@ -1,0 +1,21 @@
+---
+title: 2021-02-21-overrated-dataviz
+description:
+extract:
+created: 2024-11-17 17:08
+updated: 2025-02-14 22:04
+author:
+images:
+order:
+enableToc:
+permalink:
+aliases:
+draft:
+publish:
+date: 2021-02-21
+tags:
+---
+
+This new dataviz style — which I’m seeing around more — seems like a tacit acknowledgement that graphs and charts are overrated.
+
+![[overrated-dataviz.jpg]]

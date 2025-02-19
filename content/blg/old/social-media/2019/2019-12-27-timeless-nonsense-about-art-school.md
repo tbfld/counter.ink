@@ -1,0 +1,24 @@
+---
+title: 2019-12-27-timeless-nonsense-about-art-school
+description: 
+extract: 
+created: 2024-11-17 17:07
+updated: 2025-02-14 22:04
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
+date: 2019-12-27
+tags:
+  - "#art"
+  - "#media"
+  - "#culture"
+  - "#art"
+  - "#digital-nostalgia"
+---
+
+[Totally surreal nonsense.](https://news.artnet.com/art-world/art-school-tech-adapt-1742802) This could’ve been written twenty years ago and it would have been out of date.

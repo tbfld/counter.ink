@@ -1,0 +1,26 @@
+---
+title: 2017-05-06-snapuccinos
+description: 
+extract: 
+created: 2024-11-17 17:07
+updated: 2025-02-14 22:04
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
+date: 2017-05-06
+tags:
+  - media
+  - food
+  - celebrity
+---
+
+![[snapuccinos.jpg]]
+
+Future snapuccinos you’ll be hearing about: internet culture from goatse to smiling poop emojis, surprise messages (marriage proposals, harassment, bullying, I’m breaking up with you, you’re fired, etc), IP violations, technical glitches (code fragments, file listings, pictures of USB drives, etc). Next-gen: snapuccinos that disappear after 30 seconds, that can’t be photographed, etc), etc, etc, etc, etc.
+
+([Daily Fail](http://www.dailymail.co.uk/news/article-4480668/The-hot-gadget-help-selfie-fans-espresso-snapuccinos.html))
