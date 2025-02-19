@@ -1,3 +1,24 @@
 @use "./base.scss";
+@use "./themes";
 
 // put your custom CSS here!
+
+// NEXT BLOCK ADDED TB 250218 2136
+
+/* Ensure all callouts render correctly */
+// .callout {
+//   display: block;
+//   overflow: hidden;
+// }
+// 
+/* Ensure all callouts expand fully */
+// .callout {
+//   display: block !important;
+//   overflow: visible !important;
+//   max-height: none !important;
+// }
+// 
+/* Preserve disclosure toggle functionality */
+// .callout .callout-content {
+//   display: block !important;
+// }

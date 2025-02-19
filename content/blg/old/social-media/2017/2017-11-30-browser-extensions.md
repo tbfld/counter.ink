@@ -1,0 +1,26 @@
+---
+title: 2017-11-30-browser-extensions
+description: 
+extract: 
+created: 2024-11-17 17:07
+updated: 2025-02-14 22:04
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
+date: 2017-11-30
+tags:
+  - "#technology"
+  - "#internet"
+  - software
+  - gui
+  - language
+---
+
+Browser extension that appends 🤔to every headline
+
+Actually, browser extension that substitutes 🤔 for every headline and then you just click on random sh\*t

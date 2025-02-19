@@ -1,0 +1,25 @@
+---
+title: 2024-08-20-gramsci-stats-overflow
+description: 
+extract: 
+created: 2024-11-24 10:01
+updated: 2025-02-14 22:04
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
+date: 2024-11-24
+tags:
+  - "#art"
+  - "#media"
+  - "#cultural-critique"
+  - "#visual-culture"
+  - "#political-art"
+status: draft
+---
+
+![[clown-gramsci-overflow.jpg|relative wmed|left]]
