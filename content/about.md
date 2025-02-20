@@ -6,7 +6,7 @@ created: 2025-02-16 23:53
 updated: 2025-02-16 23:53
 author: tb
 images: "false"
-order: 99
+order: 
 enableToc: "true"
 permalink: 
 aliases:
