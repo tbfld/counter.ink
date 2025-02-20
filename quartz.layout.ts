@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg";
 import * as Component from "./quartz/components";
-import { Tagline } from "./quartz/components";
+// import { Tagline } from "./quartz/components";
 import { customSortFn } from "./sidebar-explorer-customSort-TB"; // Import sorting function
 
 // Components shared across all pages
@@ -23,7 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Tagline(), // Add tagline below title
+//  Tagline(), // Add tagline below title
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
