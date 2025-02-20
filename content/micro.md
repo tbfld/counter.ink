@@ -18,6 +18,16 @@ status:
 notitle: "true"
 ---
 
+> [!tip]+ For chunkier things, see [[recent]]
+
+***
+
+***2025-02-20:*** [this Xitter thread](https://threadreaderapp.com/thread/1686514452647329793.html) is unusually dense with smart observations (e.g., fascism is “a counter-revolution against a revolution that never took place,” and “the only mode of moral argumentation you ever see from a reactionary is whataboutism”)
+
+***2025-02-20:*** A phrase we’ll see more of, I wager: [“the shallow state”](https://www.google.com/search?q=%22the+shallow+state%22)
+
+*** 
+
 ***2025-02-12:*** Lucian Truscott offers a preview [of blue-on-blue violence](https://luciantruscott.substack.com/p/how-the-looming-trump-constitutional)
 
 ***2025-02-12:*** Chris Newfield gives a masterclass on [why the proposed change in NIH funding would be a systemic catastrophe for US higher ed](https://utotherescue.blogspot.com/2025/02/liner-note-15-real-crisis-in-research.html) 
