@@ -16,9 +16,6 @@ aliases: index, home
 notitle: "true"
 ---
 
-
-> [!tip] recent additions
-
 > [!note]+ [[2025-02-12-maybe-too-prophetic]]
 > I wrote this on Facebook on 7 Nov 2024, barely a day after the election, and it seems a little *too* prescient.
 
