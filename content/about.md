@@ -19,9 +19,6 @@ status:
 notitle: "true"
 ---
 
-
-> [!tip] about this site
-
 > [!NOTE]- So...tell me about yourself.
 > My name is Ted Byfield. I divide my time between the Deep North (NYC) and the Deep South (Tallahassee), but I’ve also worked quite a bit across Europe with short stretches in South and East Asia. Most people would say I work *in* higher education, but it’s more accurate to say I work *around* it. 
 

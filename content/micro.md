@@ -18,8 +18,6 @@ status:
 notitle: "true"
 ---
 
-> [!tip] micro notes
-
 ***2025-02-12:*** Lucian Truscott offers a preview [of blue-on-blue violence](https://luciantruscott.substack.com/p/how-the-looming-trump-constitutional)
 
 ***2025-02-12:*** Chris Newfield gives a masterclass on [why the proposed change in NIH funding would be a systemic catastrophe for US higher ed](https://utotherescue.blogspot.com/2025/02/liner-note-15-real-crisis-in-research.html) 
