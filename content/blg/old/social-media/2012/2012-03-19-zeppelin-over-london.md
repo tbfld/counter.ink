@@ -18,6 +18,8 @@ tags:
   - "#history"
   - "#war"
   - "#visual-culture"
+  - aviation
+  - sky
 ---
 
 ![[zeppelin.jpg]]
