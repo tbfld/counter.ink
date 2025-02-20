@@ -1,18 +1,26 @@
 ---
 title: 1992 > Roger Ailes — A Retrospective in Context
-description:
-extract:
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: art
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
+tags:
+  - art
+  - media
+  - media-theory
+  - media-analysis
+  - media-critique
+  - politics
+  - television
+  - 1990s
 ---
 
 *I wrote this essay in 1991/1992, which might seem a lifetime away, but it remains all too relevant. It first appeared in a pamphlet distributed at an exhibition called “Roger Ailes: A Retrospective in Context,” staged in 1992. At the time, [Ailes](https://en.wikipedia.org/wiki/Roger_Ailes) was just a freelance political media consultant; four years later, he went on to found Fox News.*

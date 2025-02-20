@@ -1,18 +1,24 @@
 ---
 title: 1993–94 > Cop Sculpture
-description:
-extract:
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: art
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
+tags:
+  - art
+  - media
+  - 1990s
+  - media-aesthetics
+  - police
+  - sculpture
 ---
 
 “Cop Sculpture” was an exhibition I mounted with Lincoln Tobier in 1993 — or, as the poster said, “one project, two installations,” at two galleries across the street from each other.

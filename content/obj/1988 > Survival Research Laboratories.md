@@ -1,20 +1,25 @@
 ---
 title: 1988 > Survival Research Laboratories
-description:
-extract:
+description: 
+extract: 
 created: 2024-12-11 13:49
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 1988-05-17
-tags: art, technology
-status: "draft"
+tags:
+  - art
+  - technology
+  - performance
+  - industrialism
+  - 1980s
+status: draft
 ---
 
 ![[srl-poster-sm.jpeg|relative wtiny|left]]
