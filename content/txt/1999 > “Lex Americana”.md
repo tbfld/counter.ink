@@ -1,21 +1,24 @@
 ---
 title: 1999 > “Lex Americana”
-description:
-extract:
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 tags:
   - art
   - language
-timelines: "[test]"
+  - image
+  - media-analysis
+  - aesthetic-critique
+  - colors
 ---
 
 Written for the exhibition catalog for my BFF [Vuk Ćosić](https://monoskop.org/Vuk_%C4%86osi%C4%87)’s 1999 show *Vuk Cosić: Contemporary ASCII* (Ljubljana: Galerija Kapelica, 2000). The original was published [here](http://www.ljudmila.org/~vuk/).
