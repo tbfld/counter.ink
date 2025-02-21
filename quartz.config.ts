@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Atkinson Hyperlegible, sans-serif",
-        body: "Lora, serif",
-        code: "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace", // keeping a standard monospace stack for code
+        header: "Atkinson+Hyperlegible",
+        body: "Lora",
+        code: "Inconsolata",
       },
       colors: {
         lightMode: {

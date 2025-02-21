@@ -2,6 +2,55 @@
 
 // put your custom CSS here!
 
+
+// TYPOGRAPHY
+//
+// TB 250220: ensure Lora for body
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+}
+
+body, p, li, span {
+  font-family: "Lora", serif;
+}
+
+code, pre {
+  font-family: "Inconsolata", monospace;
+}
+
+// SIDEBAR: TYPOGRAPHY
+.explorer {
+  font-family: var(--headerFont) !important;
+  font-size: 0.8rem;
+  
+  // Style the folder and file links
+  a, .folder-title {
+    font-family: var(--headerFont) !important;
+    color: var(--darkgray);
+  }
+
+  // Style the buttons
+  button {
+    font-family: var(--headerFont) !important;
+  }
+
+  // Ensure proper spacing
+  .content {
+    font-family: var(--headerFont) !important;
+  }
+}
+
+// SIDEBAR: INDENTS
+.explorer {
+  // ... existing explorer styles ...
+
+  // Reduce indentation of nested folders
+  .content {
+    padding-left: 0.4rem !important; // Default is 1.4rem
+  }
+}
+
+
 // NEXT BLOCK ADDED TB 250218 2136
 
 /* Ensure all callouts render correctly */
