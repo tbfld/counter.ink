@@ -27,7 +27,7 @@ notitle: "true"
 > Somewhere between amazing and terrifying
 
 > [!note]+ [[2025-02-09-alphabetical-art|2025 02 09 alphabetical art]]
-> Rutherford Change, RIP
+> Rutherford Chang, RIP
 
 > [!note]+ [[2025-02-08-what-keeps-mankind-alive|2025 02 08 what keeps mankind alive]]
 > Good question! Bestial acts.
