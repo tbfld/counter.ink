@@ -16,7 +16,7 @@ aliases: index, home
 notitle: "true"
 ---
 
-> [!tip]+ For nimbler things, see [[micro]]
+> [!tip]+ For smaller,  nimbler things, see [[micro]]
 
 ***
 

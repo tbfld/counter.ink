@@ -20,9 +20,9 @@ notitle: "true"
 ---
 
 > [!NOTE]- So...tell me about yourself.
-> My name is Ted Byfield. I divide my time between the Deep North (NYC) and the Deep South (Tallahassee), but I’ve also worked quite a bit across Europe with short stretches in South and East Asia. Most people would say I work *in* higher education, but it’s more accurate to say I work *around* it. 
+> My name is Ted Byfield. I divide my time between the Deep North (NYC) and the Deep South (Tallahassee), but I’ve also worked quite a bit across Europe with short stretches in South and East Asia. Most people would say they work *in* higher education, but I work *around* it. 
 
-> [!note]- What do you mean you work *around* it?
+> [!note]- What do you mean?
 > There are all kinds of organizations and activities that orbit around universities, and that penumbra is more interesting than the repetition of working a professor or an administrator (I’ve been both).
 
 > [!note]- So what kinds of things do you do?
