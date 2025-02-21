@@ -20,6 +20,8 @@ notitle: "true"
 
 > [!tip]+ For chunkier things, see [[recent]]
 
+***2025-02-21:*** In a time of unprecedented crisis, House Minority Leader Hakeem Jeffries [is promoting his “vividly illustrated book — the perfect holiday gift to inspire the whole family!”](https://bsky.app/profile/unraveledpress.com/post/3linkppo6ls2j)
+
 ***
 
 ***2025-02-20:*** [this Xitter thread](https://threadreaderapp.com/thread/1686514452647329793.html) is unusually dense with smart observations (e.g., fascism is “a counter-revolution against a revolution that never took place,” and “the only mode of moral argumentation you ever see from a reactionary is whataboutism”)
