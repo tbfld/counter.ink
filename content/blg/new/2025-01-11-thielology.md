@@ -1,25 +1,25 @@
 ---
-title: 2025-01-11-thielology
-description:
-extract:
+title: 2025-01-11 Thielology
+description: 
+extract: 
 created: 2025-01-11 11:22
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-01-11
 tags:
-- history
-- philosophy
-- politics
-- publishing
-- technology
-status: "final"
+  - history
+  - philosophy
+  - politics
+  - publishing
+  - technology
+status: final
 ---
 
 Peter Thiel, a dark guy to begin with, [is utterly lost in his own ‘profound’ metaphors,](https://www.ft.com/content/a46cb128-1f74-4621-ab0b-242a76583105) which is a pretty reliable working definition of insane. Fortunately, [Matthew Gault](https://matthewgault.com/) — new to me, but I’m already a fan — is [on it](https://gizmodo.com/i-have-no-idea-what-peter-thiel-is-trying-to-say-and-its-making-me-really-uncomfortable-2000548724):

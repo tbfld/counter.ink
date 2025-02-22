@@ -1,26 +1,26 @@
 ---
-title: 2025-01-30-on-bsky-and-mastodon
-description:
-extract:
+title: 2025-01-30 on bsky and mastodon
+description: 
+extract: 
 created: 2025-01-30 10:08
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: false
+publish: false
 date: 2025-01-30
 tags:
-- communication
-- corporation
-- internet
-- politics
-- protocol
-- right
-status: "final"
+  - communication
+  - corporation
+  - internet
+  - politics
+  - protocol
+  - right
+status: final
 ---
 
 It occurs to me, as we see more and more people drifting toward Bsky, that the conventional wisdom is that Mastodon “died” or is in the doldrums or somesuch — because it didn’t immediately explode into a magical Xwitter-killer I guess? Nothing could be farther from the truth. It’s rolling along merrily in a low-key way. Bsky is fine, but it has a very familiar undercurrent: it feels like some overhyped trendy restaurant full of being *“mwa! mwa!” faaaaabulous*. Mastodon’s vibe is more like your favorite quiet neighborhood café, especially now that the finger-wagging phase is mostly over.  
@@ -33,4 +33,4 @@ Bsky is fine, but it isn’t safe. “Benefit corp” or not, it’s a US-based 
   
 So: If you think Facebook will remain a safe, viable environment under Trump...good luck with that. If you *don’t* think so, you will NEED to start untangling yourself from it: downloading your data, sharing alternative contact info with FBriends, and building presences and habits elsewhere on the net. You’ll hear lots of reasons you shouldn’t, including people like Rebecca Solnit who will tell you that leaving FB is tantamount to [“ALL GO[ing] SILENT AND BE[ing] UNABLE TO COMMUNICATE WITH EACH OTHER [and] BE[ing] SILENT, UNCONNECTED, AND DISENGAGED.”](https://www.facebook.com/rebecca.solnit/posts/pfbid02HGyA8NsLRBeL1AztPaL3guU1kWcfvJEx5hgaBcE6dWcavfsGNNB7xtPgLFqZAN7Bl) (Seriously?! GTFO.) Another friend put it better: “Spare me the ‘we should stay, fight and keep balance‘ rhetoric, you cannot win against the house.”  
   
-You might expect me to end this with a paean to Mastodon, but I won’t. It’s not for everyone. But, then again, nor is being forced to migrate as one platform after another fails along play-as-day fault lines like centralization, corporation, and (I guess) scalification.
+You might expect me to end this with a paean to Mastodon, but I won’t. It’s not for everyone. But, then again, nor is being forced to migrate as one platform after another fails along plain-as-day fault lines like centralization, corporation, and (I guess) scalification.

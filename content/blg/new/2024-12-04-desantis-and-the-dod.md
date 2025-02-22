@@ -1,23 +1,23 @@
 ---
-title: 2024-12-04-desantis-and-the-dod
-description:
-extract:
+title: 2024-12-04 DeSantis and the DoD
+description: 
+extract: 
 created: 2024-12-04 13:41
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2024-12-04
 tags:
-- politics
-- right
-- military
-status: "draft"
+  - politics
+  - right
+  - military
+status: draft
 ---
 
 If the rumors about DeSantis for Sec Def turns out to be serious, the media flap will focus on his “anti-woke” noise and jokes about his white boots etc, but ignore all that. He’s an *extremely* calculating authoritarian from a state where public corruption is a religion, and as governor he has systematically worked to empower armed forces and hobble civil rights. There’s a name for that mix, and you can guess what it is.

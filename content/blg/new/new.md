@@ -1,6 +1,6 @@
 ---
 title: new
-description: things written for this site (“old” is things written befor this site)
+description: things written for this site (“old” is things written before this site)
 extract: 
 created: 2024-11-27 19:37
 updated: 2025-02-14 22:04

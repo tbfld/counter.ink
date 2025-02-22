@@ -1,25 +1,25 @@
 ---
-title: 2024-12-31-statistics-and-patriarchy
-description:
-extract:
+title: 2024-12-31 statistics and patriarchy
+description: 
+extract: 
 created: 2024-12-31 11:36
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2024-12-31
 tags:
-- design
-- history
-- science
-- statistics
-- technology
-status: "final"
+  - design
+  - history
+  - science
+  - statistics
+  - technology
+status: final
 ---
 
 ![[18C-erotic-dice-1.jpg|wmed relative|left]]

@@ -1,24 +1,24 @@
 ---
-title: 2025-02-02-the-liberal-denialist-complex
-description:
-extract:
+title: 2025-02-02 the liberal denialist complex
+description: 
+extract: 
 created: 2025-02-02 10:24
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-02-02
 tags:
-- government
-- politics
-- right
-- left
-status: "final"
+  - government
+  - politics
+  - right
+  - left
+status: final
 ---
 
 [All of this was predictable](https://heathercoxrichardson.substack.com/p/february-1-2025), indeed all of it was predicted because these were Trump's campaign promises. And since he was president for four long years, we all had an unfortunately long chunk of our lives to learn that, yes, he really does *try* to follow through on his hatreds. No one gets to pretend they're surprised. Shocked at the speed and aggression *maybe*, but surprised? No. 

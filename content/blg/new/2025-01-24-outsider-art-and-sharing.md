@@ -1,24 +1,24 @@
 ---
-title: 2025-01-24-outsider-art-and-sharing
-description:
-extract:
+title: 2025-01-24 outsider art and sharing
+description: 
+extract: 
 created: 2025-01-24 19:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-01-24
 tags:
-- art
-- institution
-- language
-- technology
-status: "final"
+  - art
+  - institution
+  - language
+  - technology
+status: final
 ---
 
 ![[alice-eugenia-ligon-1.jpg|wmed relative|left]]

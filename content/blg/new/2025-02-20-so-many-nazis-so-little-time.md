@@ -1,19 +1,19 @@
 ---
-title:
-description:
-extract:
+title: 2025-02-20 so many nazis so little time
+description: 
+extract: 
 created: 2025-02-20 21:25
 updated: 2025-02-20 21:25
-author: "tb"
+author: tb
 images: "false"
-order:
+order: 
 enableToc: "true"
-permalink:
-aliases:
+permalink: 
+aliases: 
 draft: "true"
 publish: "false"
-date:
-tags: []
+date: 
+tags: 
 status:
 ---
 Quite a few people in the US seem shocked to discover just how many of their fellow citizens are fascists or even straight-up nazis. Not *Casablanca*-style [“shocked, shocked’](https://youtu.be/vxnpY0owPkA); I mean genuinely disoriented, gobsmacked to realize they’re surrounded by people who reject their liberal values. They shouldn’t be surprised, though: they were warned about it for decades, but they didn’t want to listen. And they had an easy way out named [Godwin’s Law](https://en.wikipedia.org/wiki/Godwin%27s_law):

@@ -1,23 +1,23 @@
 ---
-title: 2024-12-30-whipped-cream-and-other-delights
-description:
-extract:
+title: 2024-12-30 Whipped Cream and Other Delights
+description: 
+extract: 
 created: 2024-12-30 12:40
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2024-12-30
 tags:
-- art
-- design
-- music
-status: "final"
+  - art
+  - design
+  - music
+status: final
 ---
 
 [Christopher Bickel writes](https://www.facebook.com/chris.bickel/posts/pfbid0gjPAMbGu8HNra1JV6uis4jMn5y3pt53x2f8VkpSQjNRi4pEYAeAyirXaYTUyYTEel):

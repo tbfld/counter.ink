@@ -1,26 +1,26 @@
 ---
-title: 2025-01-15-hi-def-history
-description:
-extract:
+title: 2025-01-15 hi-def history
+description: 
+extract: 
 created: 2025-01-15 12:00
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-01-15
 tags:
-- ai
-- history
-- media
-- technology
-- video
-- visuality
-status: "final"
+  - ai
+  - history
+  - media
+  - technology
+  - video
+  - visuality
+status: final
 ---
 
 

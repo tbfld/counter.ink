@@ -1,5 +1,5 @@
 ---
-title: 2025-02-09-alphabetical-art
+title: 2025-02-09 alphabetical art
 description: 
 extract: 
 created: 2025-02-09 20:18

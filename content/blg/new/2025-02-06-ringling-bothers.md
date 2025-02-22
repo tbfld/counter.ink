@@ -1,5 +1,5 @@
 ---
-title: 2025-02-06-ringling-bothers
+title: 2025-02-06 ringling bothers (no, that’s not a typo)
 description: 
 extract: 
 created: 2025-02-06 11:34

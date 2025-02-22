@@ -1,17 +1,17 @@
 ---
-title: 2024-12-05-preemptive-pardons
-description:
-extract:
+title: 2024-12-05 preemptive pardons
+description: 
+extract: 
 created: 2024-12-05 21:18
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2024-12-05
 tags:
   - law

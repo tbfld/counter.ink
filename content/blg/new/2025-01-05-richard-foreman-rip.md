@@ -1,23 +1,23 @@
 ---
-title: 2025-01-05-richard-foreman-rip
-description:
-extract:
+title: 2025-01-05Richard Foreman RIP
+description: 
+extract: 
 created: 2025-01-05 09:46
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-01-05
 tags:
-- art
-- history
-- theater
-status: "final"
+  - art
+  - history
+  - theater
+status: final
 ---
 
 ![[foreman-manifesto.jpg|relative wmed|left]]
