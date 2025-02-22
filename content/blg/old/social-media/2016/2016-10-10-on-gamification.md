@@ -1,5 +1,5 @@
 ---
-title: 2016-10-10-on-gamification
+title: 2016-10-10 on gamification
 description: 
 extract: 
 created: 2024-11-17 17:08

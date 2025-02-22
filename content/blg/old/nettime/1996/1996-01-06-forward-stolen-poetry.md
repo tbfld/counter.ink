@@ -1,5 +1,5 @@
 ---
-title: 1996-01-06-forward-stolen-poetry
+title: 1996-01-06 forward stolen poetry
 description: 
 extract: 
 created: 2024-11-17 17:08

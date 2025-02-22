@@ -1,5 +1,5 @@
 ---
-title: 2020-04-21-like-a-ghost-in-the-sunlight
+title: 2020-04-21 like a ghost in the sunlight
 description: 
 extract: 
 created: 2024-11-17 17:08

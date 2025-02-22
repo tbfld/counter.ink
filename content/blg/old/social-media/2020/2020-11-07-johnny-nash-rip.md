@@ -1,5 +1,5 @@
 ---
-title: 2020-11-07-johnny-nash-rip
+title: 2020-11-07 johnny nash rip
 description: 
 extract: 
 created: 2024-11-17 17:08

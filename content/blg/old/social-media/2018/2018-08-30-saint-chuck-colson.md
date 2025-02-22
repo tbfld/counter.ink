@@ -1,5 +1,5 @@
 ---
-title: 2018-08-30-saint-chuck-colson
+title: 2018-08-30 saint chuck colson
 description: 
 extract: 
 created: 2024-11-17 17:08

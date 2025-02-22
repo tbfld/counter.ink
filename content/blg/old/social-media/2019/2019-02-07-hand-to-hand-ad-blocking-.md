@@ -1,5 +1,5 @@
 ---
-title: 2019-02-07-hand-to-hand-ad-blocking-
+title: 2019-02-07 hand to hand ad blocking 
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2019-07-19-on-zuck-as-a-person
+title: 2019-07-19 on zuck as a person
 description: 
 extract: 
 created: 2024-11-17 17:08

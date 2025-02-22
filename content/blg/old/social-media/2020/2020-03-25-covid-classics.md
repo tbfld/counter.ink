@@ -1,5 +1,5 @@
 ---
-title: 2020-03-25-covid-classics
+title: 2020-03-25 covid classics
 description: 
 extract: 
 created: 2024-11-17 17:08

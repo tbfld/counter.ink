@@ -1,5 +1,5 @@
 ---
-title: 2010-04-04-resurrection-mask
+title: 2010-04-04 resurrection mask
 description: 
 extract: 
 created: 2024-11-17 17:07

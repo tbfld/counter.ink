@@ -1,5 +1,5 @@
 ---
-title: 2019-12-06-fb-censorship-screenshots
+title: 2019-12-06 fb censorship screenshots
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2020-10-28-slow-experts-fast-events
+title: 2020-10-28 slow experts fast events
 description: 
 extract: 
 created: 2024-11-17 17:08

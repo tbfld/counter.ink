@@ -1,5 +1,5 @@
 ---
-title: 2024-09-02-hopkins-on-krakatoa
+title: 2024-09-02 hopkins on krakatoa
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2016-12-06-strategic-offshoring-of-fake-news
+title: 2016-12-06 strategic offshoring of fake news
 description: 
 extract: 
 created: 2024-11-17 17:08

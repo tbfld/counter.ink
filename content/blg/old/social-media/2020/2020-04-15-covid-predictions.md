@@ -1,5 +1,5 @@
 ---
-title: 2020-04-15-covid-predictions
+title: 2020-04-15 covid predictions
 description: 
 extract: 
 created: 2024-11-17 17:08

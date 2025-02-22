@@ -1,5 +1,5 @@
 ---
-title: 2012-07-19-guns-and-history-a-reply-to-keith-sanborn
+title: 2012-07-19 guns and history a reply to keith sanborn
 description: 
 extract: 
 created: 2024-11-17 17:08

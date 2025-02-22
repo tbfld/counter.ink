@@ -1,5 +1,5 @@
 ---
-title: 1996-09-25-on-pkd-and-gnosticism-a-reply-to-erik-davis
+title: 1996-09-25 on pkd and gnosticism a reply to erik davis
 description: 
 extract: 
 created: 2024-11-17 17:08

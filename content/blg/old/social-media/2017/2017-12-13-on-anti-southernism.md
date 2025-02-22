@@ -1,5 +1,5 @@
 ---
-title: 2017-12-13-on-anti-southernism
+title: 2017-12-13 on anti southernism
 description:
 extract:
 created: 2024-11-17 17:07

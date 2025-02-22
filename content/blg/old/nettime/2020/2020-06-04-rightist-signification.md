@@ -1,5 +1,5 @@
 ---
-title: 2020-06-04-rightist-signification
+title: 2020-06-04 rightist signification
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 1998-03-30-on-scamizdat-anon.penet.fi
+title: 1998-03-30 on scamizdat anon.penet.fi
 description: 
 extract: 
 created: 2024-11-17 17:08

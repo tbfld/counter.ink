@@ -1,5 +1,5 @@
 ---
-title: 2015-09-25-thoughts-on-the-vw-scandal
+title: 2015-09-25 thoughts on the vw scandal
 description: 
 extract: 
 created: 2024-11-17 17:08

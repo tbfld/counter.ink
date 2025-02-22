@@ -1,5 +1,5 @@
 ---
-title: 2017-07-20-my-fave-graffito
+title: 2017-07-20 my fave graffito
 description: 
 extract: 
 created: 2024-11-17 17:07

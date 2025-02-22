@@ -1,5 +1,5 @@
 ---
-title: 2020-07-18-unserious-journalism
+title: 2020-07-18 unserious journalism
 description: 
 extract: 
 created: 2024-11-17 17:08

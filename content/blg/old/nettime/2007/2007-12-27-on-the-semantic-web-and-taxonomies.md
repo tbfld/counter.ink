@@ -1,5 +1,5 @@
 ---
-title: 2007-12-27-on-the-semantic-web-and-taxonomies
+title: 2007-12-27 on the semantic web and taxonomies
 description: 
 extract: 
 created: 2024-11-17 17:08

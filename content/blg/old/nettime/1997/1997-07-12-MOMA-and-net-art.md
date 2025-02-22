@@ -1,5 +1,5 @@
 ---
-title: 1997-07-12-MOMA-and-net-art
+title: 1997-07-12 MOMA and net art
 description: 
 extract: 
 created: 2024-11-17 17:08

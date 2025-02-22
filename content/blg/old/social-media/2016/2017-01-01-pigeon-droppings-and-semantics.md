@@ -1,5 +1,5 @@
 ---
-title: 2017-01-01-pigeon-droppings-and-semantics
+title: 2017-01-01 pigeon droppings and semantics
 description: 
 extract: 
 created: 2024-11-17 17:08

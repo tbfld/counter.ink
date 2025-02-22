@@ -1,5 +1,5 @@
 ---
-title: 2016-08-22-my-syllabus
+title: 2016-08-22 my syllabus
 description: 
 extract: 
 created: 2024-11-17 17:08

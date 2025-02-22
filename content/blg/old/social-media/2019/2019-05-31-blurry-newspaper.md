@@ -1,5 +1,5 @@
 ---
-title: 2019-05-31-blurry-newspaper
+title: 2019-05-31 blurry newspaper
 description: 
 extract: 
 created: 2024-11-17 17:07

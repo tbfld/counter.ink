@@ -1,5 +1,5 @@
 ---
-title: 2024-09-14-how-maga-orders-adjectives
+title: 2024-09-14 how maga orders adjectives
 description: 
 extract: 
 created: 2024-11-17 17:07

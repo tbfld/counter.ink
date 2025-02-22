@@ -1,5 +1,5 @@
 ---
-title: 2018-07-04-rolling-back-judicial-corruption
+title: 2018-07-04 rolling back judicial corruption
 description: 
 extract: 
 created: 2024-11-17 17:08

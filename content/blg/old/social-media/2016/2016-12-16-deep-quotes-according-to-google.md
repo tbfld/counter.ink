@@ -1,5 +1,5 @@
 ---
-title: 2016-12-16-deep-quotes-according-to-google
+title: 2016-12-16 deep quotes according to google
 description: 
 extract: 
 created: 2024-11-17 17:08

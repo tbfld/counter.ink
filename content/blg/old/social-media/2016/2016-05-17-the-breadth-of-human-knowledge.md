@@ -1,5 +1,5 @@
 ---
-title: 2016-05-17-the-breadth-of-human-knowledge
+title: 2016-05-17 the breadth of human knowledge
 description: 
 extract: 
 created: 2024-11-17 17:08

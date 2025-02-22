@@ -1,5 +1,5 @@
 ---
-title: 2019-12-22-cultural-syncretism
+title: 2019-12-22 cultural syncretism
 description: 
 extract: 
 created: 2024-11-17 17:07

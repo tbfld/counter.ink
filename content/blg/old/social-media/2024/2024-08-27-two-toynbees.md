@@ -1,5 +1,5 @@
 ---
-title: 2024-08-27-two-toynbees
+title: 2024-08-27 two toynbees
 description: 
 extract: 
 created: 2024-11-17 17:07

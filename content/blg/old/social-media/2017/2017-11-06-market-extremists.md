@@ -1,5 +1,5 @@
 ---
-title: 2017-11-06-market-extremists
+title: 2017-11-06 market extremists
 description: 
 extract: 
 created: 2024-11-17 17:07

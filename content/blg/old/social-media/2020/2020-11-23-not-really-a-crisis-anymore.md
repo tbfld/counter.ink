@@ -1,5 +1,5 @@
 ---
-title: 2020-11-23-not-really-a-crisis-anymore
+title: 2020-11-23 not really a crisis anymore
 description: 
 extract: 
 created: 2024-11-17 17:08

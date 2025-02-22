@@ -1,5 +1,5 @@
 ---
-title: 2018-05-16-on-performativity
+title: 2018-05-16 on performativity
 description: 
 extract: 
 created: 2024-11-17 17:08

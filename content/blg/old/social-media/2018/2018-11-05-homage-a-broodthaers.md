@@ -1,5 +1,5 @@
 ---
-title: 2018-11-05-homage-a-broodthaers
+title: 2018-11-05 homage a broodthaers
 description: 
 extract: 
 created: 2024-11-17 17:08

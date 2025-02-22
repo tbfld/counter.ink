@@ -1,5 +1,5 @@
 ---
-title: 2020-07-08-distributed-criminality
+title: 2020-07-08 distributed criminality
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2020-02-25-the-weight-of-black-history
+title: 2020-02-25 the weight of black history
 description: 
 extract: 
 created: 2024-11-17 17:08

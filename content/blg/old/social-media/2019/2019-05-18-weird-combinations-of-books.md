@@ -1,5 +1,5 @@
 ---
-title: 2019-05-18-weird-combinations-of-books
+title: 2019-05-18 weird combinations of books
 description: 
 extract: 
 created: 2024-11-17 17:07

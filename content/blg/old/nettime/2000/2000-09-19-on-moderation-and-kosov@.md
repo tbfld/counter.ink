@@ -1,5 +1,5 @@
 ---
-title: 2000-09-19-on-moderation-and-kosov@
+title: 2000-09-19 on moderation and kosov@
 description: 
 extract: 
 created: 2024-11-17 17:08

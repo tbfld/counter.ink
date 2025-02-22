@@ -1,5 +1,5 @@
 ---
-title: 2020-07-15-adapting-kremlinology
+title: 2020-07-15 adapting kremlinology
 description: 
 extract: 
 created: 2024-11-17 17:08

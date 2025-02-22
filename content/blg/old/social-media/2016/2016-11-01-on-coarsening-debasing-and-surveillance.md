@@ -1,5 +1,5 @@
 ---
-title: 2016-11-01-on-coarsening-debasing-and-surveillance
+title: 2016-11-01 on coarsening debasing and surveillance
 description: 
 extract: 
 created: 2024-11-17 17:08

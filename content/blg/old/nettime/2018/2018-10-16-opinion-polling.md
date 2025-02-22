@@ -1,5 +1,5 @@
 ---
-title: 2018-10-16-opinion-polling
+title: 2018-10-16 opinion polling
 description: 
 extract: 
 created: 2024-11-17 17:08

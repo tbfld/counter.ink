@@ -1,5 +1,5 @@
 ---
-title: 2017-08-30-making-design-theory
+title: 2017-08-30 making design theory
 description: 
 extract: 
 created: 2024-11-17 17:07

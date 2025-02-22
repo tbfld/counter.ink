@@ -1,5 +1,5 @@
 ---
-title: 2021-01-25-on-de-supremacizing
+title: 2021-01-25 on de supremacizing
 description: 
 extract: 
 created: 2024-11-17 17:08

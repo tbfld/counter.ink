@@ -1,5 +1,5 @@
 ---
-title: 2019-06-28-size-of-the-pentagon
+title: 2019-06-28 size of the pentagon
 description: 
 extract: 
 created: 2024-11-17 17:07

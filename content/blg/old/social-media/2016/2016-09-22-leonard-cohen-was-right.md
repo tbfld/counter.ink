@@ -1,5 +1,5 @@
 ---
-title: 2016-09-22-leonard-cohen-was-right
+title: 2016-09-22 leonard cohen was right
 description: 
 extract: 
 created: 2024-11-17 17:08

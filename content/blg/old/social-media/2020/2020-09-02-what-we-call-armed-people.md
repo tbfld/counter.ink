@@ -1,5 +1,5 @@
 ---
-title: 2020-09-02-what-we-call-armed-people
+title: 2020-09-02 what we call armed people
 description: 
 extract: 
 created: 2024-11-17 17:08

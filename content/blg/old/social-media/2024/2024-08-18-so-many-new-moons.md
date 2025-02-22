@@ -1,5 +1,5 @@
 ---
-title: 2024-08-18-so-many-new-moons
+title: 2024-08-18 so many new moons
 description: 
 extract: 
 created: 2024-11-24 10:40

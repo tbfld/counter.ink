@@ -1,5 +1,5 @@
 ---
-title: 2016-07-24-bloomberg-and-doctoroff
+title: 2016-07-24 bloomberg and doctoroff
 description: 
 extract: 
 created: 2024-11-17 17:08

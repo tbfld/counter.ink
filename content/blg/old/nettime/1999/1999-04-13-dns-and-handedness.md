@@ -1,5 +1,5 @@
 ---
-title: 1999-04-13-dns-and-handedness
+title: 1999-04-13 dns and handedness
 description: 
 extract: 
 created: 2024-11-17 17:08

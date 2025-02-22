@@ -1,5 +1,5 @@
 ---
-title: 2024-08-31-the-age-of-limited-liability
+title: 2024-08-31 the age of limited liability
 description: 
 extract: 
 created: 2024-11-17 17:07

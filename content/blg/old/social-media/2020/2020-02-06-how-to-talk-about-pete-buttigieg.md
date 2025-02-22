@@ -1,5 +1,5 @@
 ---
-title: 2020-02-06-how-to-talk-about-pete-buttigieg
+title: 2020-02-06 how to talk about pete buttigieg
 description: 
 extract: 
 created: 2024-11-17 17:08

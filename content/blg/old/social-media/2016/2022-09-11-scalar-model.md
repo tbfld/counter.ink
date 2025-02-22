@@ -1,5 +1,5 @@
 ---
-title: 2022-09-11-scalar-model
+title: 2022-09-11 scalar model
 description: 
 extract: 
 created: 2024-11-17 17:08

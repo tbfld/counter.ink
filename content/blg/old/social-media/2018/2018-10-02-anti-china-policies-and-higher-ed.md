@@ -1,5 +1,5 @@
 ---
-title: 2018-10-02-anti-china-policies-and-higher-ed
+title: 2018-10-02 anti china policies and higher ed
 description: 
 extract: 
 created: 2024-11-17 17:08

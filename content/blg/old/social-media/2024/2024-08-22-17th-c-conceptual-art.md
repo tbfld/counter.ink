@@ -1,5 +1,5 @@
 ---
-title: 2024-08-22-17th-c-conceptual-art
+title: 2024-08-22 17th c conceptual art
 description: 
 extract: 
 created: 2024-11-24 09:16

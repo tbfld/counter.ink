@@ -1,5 +1,5 @@
 ---
-title: 2017-08-09-fire-and-fury-like-the-world-has-never-seen
+title: 2017-08-09 fire and fury like the world has never seen
 description: 
 extract: 
 created: 2024-11-17 17:07

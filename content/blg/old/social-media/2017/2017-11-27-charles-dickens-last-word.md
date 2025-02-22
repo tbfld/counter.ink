@@ -1,5 +1,5 @@
 ---
-title: 2017-11-27-charles-dickens-last-word
+title: 2017-11-27 charles dickens last word
 description: 
 extract: 
 created: 2024-11-17 17:07

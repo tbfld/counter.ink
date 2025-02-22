@@ -1,5 +1,5 @@
 ---
-title: 2013-03-24-on-the-impact-of-desktop-publishing
+title: 2013-03-24 on the impact of desktop publishing
 description: 
 extract: 
 created: 2024-11-17 17:08

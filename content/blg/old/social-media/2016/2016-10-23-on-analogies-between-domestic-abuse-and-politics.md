@@ -1,5 +1,5 @@
 ---
-title: 2016-10-23-on-analogies-between-domestic-abuse-and-politics
+title: 2016-10-23 on analogies between domestic abuse and politics
 description: 
 extract: 
 created: 2024-11-17 17:08

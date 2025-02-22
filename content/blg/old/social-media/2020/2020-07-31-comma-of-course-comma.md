@@ -1,5 +1,5 @@
 ---
-title: 2020-07-31-comma-of-course-comma
+title: 2020-07-31 comma of course comma
 description: 
 extract: 
 created: 2024-11-17 17:08

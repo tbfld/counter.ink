@@ -1,5 +1,5 @@
 ---
-title: 2001 > Control-Shift-Commons — An Interview with James Boyle
+title: 2001 > Control Shift Commons — An Interview with James Boyle
 description:
 extract:
 created: 2024-11-17 17:07

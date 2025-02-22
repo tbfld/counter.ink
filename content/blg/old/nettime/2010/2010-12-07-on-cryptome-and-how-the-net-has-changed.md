@@ -1,5 +1,5 @@
 ---
-title: 2010-12-07-on-cryptome-and-how-the-net-has-changed
+title: 2010-12-07 on cryptome and how the net has changed
 description: 
 extract: 
 created: 2024-11-17 17:08

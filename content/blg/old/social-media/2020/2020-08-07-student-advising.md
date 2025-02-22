@@ -1,5 +1,5 @@
 ---
-title: 2020-08-07-student-advising
+title: 2020-08-07 student advising
 description: 
 extract: 
 created: 2024-11-17 17:08

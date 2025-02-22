@@ -1,5 +1,5 @@
 ---
-title: 2019-12-01-agnes-denes-retrspective
+title: 2019-12-01 agnes denes retrspective
 description: 
 extract: 
 created: 2024-11-17 17:07

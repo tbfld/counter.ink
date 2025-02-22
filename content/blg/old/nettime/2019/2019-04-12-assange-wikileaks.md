@@ -1,5 +1,5 @@
 ---
-title: 2019-04-12-assange-wikileaks
+title: 2019-04-12 assange wikileaks
 description: 
 extract: 
 created: 2024-11-17 17:08

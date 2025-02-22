@@ -1,5 +1,5 @@
 ---
-title: 2024-09-18-what-if-ai-isnt-so-new
+title: 2024-09-18 what if ai isnt so new
 description: 
 extract: 
 created: 2024-11-17 17:07

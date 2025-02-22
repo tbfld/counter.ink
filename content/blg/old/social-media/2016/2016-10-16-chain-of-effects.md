@@ -1,5 +1,5 @@
 ---
-title: 2016-10-16-chain-of-effects
+title: 2016-10-16 chain of effects
 description: 
 extract: 
 created: 2024-11-17 17:08

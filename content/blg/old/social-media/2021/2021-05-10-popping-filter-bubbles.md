@@ -1,5 +1,5 @@
 ---
-title: 2021-05-10-popping-filter-bubbles
+title: 2021-05-10 popping filter bubbles
 description:
 extract:
 created: 2024-11-17 17:08

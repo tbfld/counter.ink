@@ -1,5 +1,5 @@
 ---
-title: 2020-03-30-the-literal-end-of-critical-theory
+title: 2020-03-30 the literal end of critical theory
 description: 
 extract: 
 created: 2024-11-17 17:08

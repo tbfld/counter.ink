@@ -1,5 +1,5 @@
 ---
-title: 2000-05-18-richard-delgado-imperial-scholar
+title: 2000-05-18 richard delgado imperial scholar
 description: 
 extract: 
 created: 2024-11-17 17:08

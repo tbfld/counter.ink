@@ -1,5 +1,5 @@
 ---
-title: 2016-05-17-stolen-pieces-of-a-petrified-forest
+title: 2016-05-17 stolen pieces of a petrified forest
 description: 
 extract: 
 created: 2024-11-17 17:08

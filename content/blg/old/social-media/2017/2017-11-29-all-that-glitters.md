@@ -1,5 +1,5 @@
 ---
-title: 2017-11-29-all-that-glitters
+title: 2017-11-29 all that glitters
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2010-10-15-just-dont-redo-it
+title: 2010-10-15 just dont redo it
 description: 
 extract: 
 created: 2024-11-17 17:07

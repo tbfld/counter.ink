@@ -1,5 +1,5 @@
 ---
-title: 2017-11-22-on-keeping-little-lists-of-subtle-changes
+title: 2017-11-22 on keeping little lists of subtle changes
 description: 
 extract: 
 created: 2024-11-17 17:07

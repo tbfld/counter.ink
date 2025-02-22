@@ -1,5 +1,5 @@
 ---
-title: 2019-12-21-ai-gen-wikihow-illustrations
+title: 2019-12-21 ai gen wikihow illustrations
 description: 
 extract: 
 created: 2024-11-17 17:07

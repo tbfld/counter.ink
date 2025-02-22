@@ -1,5 +1,5 @@
 ---
-title: 2016-09-22-on-corruption
+title: 2016-09-22 on corruption
 description: 
 extract: 
 created: 2024-11-17 17:08

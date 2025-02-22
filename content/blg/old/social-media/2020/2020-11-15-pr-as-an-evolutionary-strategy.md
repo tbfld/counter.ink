@@ -1,5 +1,5 @@
 ---
-title: 2020-11-15-pr-as-an-evolutionary-strategy
+title: 2020-11-15 pr as an evolutionary strategy
 description: 
 extract: 
 created: 2024-11-17 17:08

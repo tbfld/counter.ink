@@ -1,5 +1,5 @@
 ---
-title: 2010-01-22-commodity
+title: 2010-01-22 commodity
 description: 
 extract: 
 created: 2024-11-17 17:07

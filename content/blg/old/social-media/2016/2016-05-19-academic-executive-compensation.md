@@ -1,5 +1,5 @@
 ---
-title: 2016-05-19-academic-executive-compensation
+title: 2016-05-19 academic executive compensation
 description: 
 extract: 
 created: 2024-11-17 17:08

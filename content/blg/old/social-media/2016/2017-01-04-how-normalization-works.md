@@ -1,5 +1,5 @@
 ---
-title: 2017-01-04-how-normalization-works
+title: 2017-01-04 how normalization works
 description: 
 extract: 
 created: 2024-11-17 17:08

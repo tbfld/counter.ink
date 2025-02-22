@@ -1,5 +1,5 @@
 ---
-title: 2018-11-10-metadata-vs-the-constitution
+title: 2018-11-10 metadata vs the constitution
 description: 
 extract: 
 created: 2024-11-17 17:08

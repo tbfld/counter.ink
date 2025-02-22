@@ -1,5 +1,5 @@
 ---
-title: 2016-11-01-x-is-like-the-new-y
+title: 2016-11-01 x is like the new y
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2017-07-15-on-a-review-of-nancy-mccleans-democracy-in-chains
+title: 2017-07-15 on a review of nancy mccleans democracy in chains
 description: 
 extract: 
 created: 2024-11-17 17:07

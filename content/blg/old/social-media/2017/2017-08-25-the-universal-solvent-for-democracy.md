@@ -1,5 +1,5 @@
 ---
-title: 2017-08-25-the-universal-solvent-for-democracy
+title: 2017-08-25 the universal solvent for democracy
 description: 
 extract: 
 created: 2024-11-17 17:07

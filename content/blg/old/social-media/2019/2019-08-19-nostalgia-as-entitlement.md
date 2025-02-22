@@ -1,5 +1,5 @@
 ---
-title: 2019-08-19-nostalgia-as-entitlement
+title: 2019-08-19 nostalgia as entitlement
 description: 
 extract: 
 created: 2024-11-17 17:07

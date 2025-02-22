@@ -1,5 +1,5 @@
 ---
-title: 2021-04-23-foreign-policy-and-climate-change
+title: 2021-04-23 foreign policy and climate change
 description: 
 extract: 
 created: 2024-11-17 17:08

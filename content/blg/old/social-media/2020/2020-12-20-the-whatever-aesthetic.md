@@ -1,5 +1,5 @@
 ---
-title: 2020-12-20-the-whatever-aesthetic
+title: 2020-12-20 the whatever aesthetic
 description: 
 extract: 
 created: 2024-11-17 17:08

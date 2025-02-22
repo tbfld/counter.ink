@@ -1,5 +1,5 @@
 ---
-title: 2020-11-01-always-make-new-expert-mistakes
+title: 2020-11-01 always make new expert mistakes
 description: 
 extract: 
 created: 2024-11-17 17:08

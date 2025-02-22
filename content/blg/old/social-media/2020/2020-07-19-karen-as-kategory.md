@@ -1,5 +1,5 @@
 ---
-title: 2020-07-19-karen-as-kategory
+title: 2020-07-19 karen as kategory
 description: 
 extract: 
 created: 2024-11-17 17:08

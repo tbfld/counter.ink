@@ -1,5 +1,5 @@
 ---
-title: 2016-12-05-dataviz-as-white-flight
+title: 2016-12-05 dataviz as white flight
 description: 
 extract: 
 created: 2024-11-17 17:08

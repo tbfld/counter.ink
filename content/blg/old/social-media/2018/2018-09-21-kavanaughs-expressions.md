@@ -1,5 +1,5 @@
 ---
-title: 2018-09-21-kavanaughs-expressions
+title: 2018-09-21 kavanaughs expressions
 description: 
 extract: 
 created: 2024-11-17 17:08

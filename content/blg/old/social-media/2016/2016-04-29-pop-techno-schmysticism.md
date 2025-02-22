@@ -1,5 +1,5 @@
 ---
-title: 2016-04-29-pop-techno-schmysticism
+title: 2016-04-29 pop techno schmysticism
 description: 
 extract: 
 created: 2024-11-17 17:08

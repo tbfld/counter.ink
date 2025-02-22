@@ -1,5 +1,5 @@
 ---
-title: 2016-08-30-trolloptical-illusion
+title: 2016-08-30 trolloptical illusion
 description: 
 extract: 
 created: 2024-11-17 17:08

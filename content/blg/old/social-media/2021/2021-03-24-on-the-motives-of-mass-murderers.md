@@ -1,5 +1,5 @@
 ---
-title: 2021-03-24-on-the-motives-of-mass-murderers
+title: 2021-03-24 on the motives of mass murderers
 description:
 extract:
 created: 2024-11-17 17:08

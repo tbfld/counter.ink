@@ -1,5 +1,5 @@
 ---
-title: 2019-01-17-jo-andres-rip
+title: 2019-01-17 jo andres rip
 description: 
 extract: 
 created: 2024-11-17 17:07

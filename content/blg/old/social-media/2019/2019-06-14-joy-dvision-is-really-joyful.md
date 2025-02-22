@@ -1,5 +1,5 @@
 ---
-title: 2019-06-14-joy-dvision-is-really-joyful
+title: 2019-06-14 joy dvision is really joyful
 description: 
 extract: 
 created: 2024-11-17 17:07

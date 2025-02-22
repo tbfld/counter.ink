@@ -1,5 +1,5 @@
 ---
-title: 2020-03-13-hobby-lobby-vintage-not-antique
+title: 2020-03-13 hobby lobby vintage not antique
 description: 
 extract: 
 created: 2024-11-17 17:08

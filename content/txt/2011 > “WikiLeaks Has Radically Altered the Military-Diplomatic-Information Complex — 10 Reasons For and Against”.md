@@ -1,5 +1,5 @@
 ---
-title: 2011 > “WikiLeaks Has Radically Altered the Military-Diplomatic-Information Complex — 10 Reasons For and Against”
+title: 2011 > “WikiLeaks Has Radically Altered the Military Diplomatic Information Complex — 10 Reasons For and Against”
 description:
 extract:
 created: 2024-11-17 17:07

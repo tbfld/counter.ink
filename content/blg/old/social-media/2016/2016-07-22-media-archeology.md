@@ -1,5 +1,5 @@
 ---
-title: 2016-07-22-media-archeology
+title: 2016-07-22 media archeology
 description: 
 extract: 
 created: 2024-11-17 17:08

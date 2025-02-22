@@ -1,5 +1,5 @@
 ---
-title: 2018-10-03-ian-bogost-on-trump
+title: 2018-10-03 ian bogost on trump
 description: 
 extract: 
 created: 2024-11-17 17:08

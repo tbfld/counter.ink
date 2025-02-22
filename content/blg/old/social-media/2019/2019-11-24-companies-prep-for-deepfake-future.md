@@ -1,5 +1,5 @@
 ---
-title: 2019-11-24-companies-prep-for-deepfake-future
+title: 2019-11-24 companies prep for deepfake future
 description: 
 extract: 
 created: 2024-11-17 17:07

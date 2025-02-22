@@ -1,5 +1,5 @@
 ---
-title: 2020-02-18-recent-intellectual-history-in-a-meme
+title: 2020-02-18 recent intellectual history in a meme
 description: 
 extract: 
 created: 2024-11-17 17:08

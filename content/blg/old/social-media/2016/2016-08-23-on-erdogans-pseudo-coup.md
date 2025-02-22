@@ -1,5 +1,5 @@
 ---
-title: 2016-08-23-on-erdogans-pseudo-coup
+title: 2016-08-23 on erdogans pseudo coup
 description: 
 extract: 
 created: 2024-11-17 17:08

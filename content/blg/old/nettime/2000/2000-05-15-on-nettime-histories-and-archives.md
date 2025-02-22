@@ -1,5 +1,5 @@
 ---
-title: 2000-05-15-on-nettime-histories-and-archives
+title: 2000-05-15 on nettime histories and archives
 description: 
 extract: 
 created: 2024-11-17 17:08

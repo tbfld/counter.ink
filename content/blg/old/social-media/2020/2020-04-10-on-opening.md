@@ -1,5 +1,5 @@
 ---
-title: 2020-04-10-on-opening
+title: 2020-04-10 on opening
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2020-07-17-on-teachers-unions
+title: 2020-07-17 on teachers unions
 description: 
 extract: 
 created: 2024-11-17 17:08

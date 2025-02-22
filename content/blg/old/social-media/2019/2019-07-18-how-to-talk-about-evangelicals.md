@@ -1,5 +1,5 @@
 ---
-title: 2019-07-18-how-to-talk-about-evangelicals
+title: 2019-07-18 how to talk about evangelicals
 description: 
 extract: 
 created: 2024-11-17 17:07

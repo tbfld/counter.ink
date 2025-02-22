@@ -1,5 +1,5 @@
 ---
-title: 2018-08-22-dischargeable-student-debt
+title: 2018-08-22 dischargeable student debt
 description: 
 extract: 
 created: 2024-11-17 17:08

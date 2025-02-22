@@ -1,5 +1,5 @@
 ---
-title: 2020-02-22-cruel-technologies
+title: 2020-02-22 cruel technologies
 description: 
 extract: 
 created: 2024-11-17 17:08

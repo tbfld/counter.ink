@@ -1,5 +1,5 @@
 ---
-title: 2016-04-10-on-the-need-for-apocalypse
+title: 2016-04-10 on the need for apocalypse
 description: 
 extract: 
 created: 2024-11-17 17:08

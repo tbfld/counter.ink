@@ -1,5 +1,5 @@
 ---
-title: 2023-08-29-manic-pixie-ai-critics
+title: 2023-08-29 manic pixie ai critics
 description: 
 extract: 
 created: 2024-11-17 17:07

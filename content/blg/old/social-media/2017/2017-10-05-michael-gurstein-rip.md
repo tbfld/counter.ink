@@ -1,5 +1,5 @@
 ---
-title: 2017-10-05-michael-gurstein-rip
+title: 2017-10-05 michael gurstein rip
 description: 
 extract: 
 created: 2024-11-17 17:07

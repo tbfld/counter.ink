@@ -1,5 +1,5 @@
 ---
-title: 2014-10-16-morozov-medina-and-the-new-yorker
+title: 2014-10-16 morozov medina and the new yorker
 description: 
 extract: 
 created: 2024-11-17 17:08

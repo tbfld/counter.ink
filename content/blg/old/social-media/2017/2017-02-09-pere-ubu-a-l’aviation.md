@@ -1,5 +1,5 @@
 ---
-title: 2017-02-09-pere-ubu-a-l’aviation
+title: 2017-02-09 pere ubu a l’aviation
 description: 
 extract: 
 created: 2024-11-17 17:07

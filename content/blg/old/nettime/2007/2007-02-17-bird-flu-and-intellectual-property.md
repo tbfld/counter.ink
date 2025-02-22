@@ -1,5 +1,5 @@
 ---
-title: 2007-02-17-bird-flu-and-intellectual-property
+title: 2007-02-17 bird flu and intellectual property
 description: 
 extract: 
 created: 2024-11-17 17:08

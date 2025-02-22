@@ -1,5 +1,5 @@
 ---
-title: 2019-09-24-cultural-sovereignty-and-imperialism
+title: 2019-09-24 cultural sovereignty and imperialism
 description: 
 extract: 
 created: 2024-11-17 17:07

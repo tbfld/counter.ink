@@ -1,5 +1,5 @@
 ---
-title: 2008-07-14-dj-spooky-on-stanislaw-lem
+title: 2008-07-14 dj spooky on stanislaw lem
 description: 
 extract: 
 created: 2024-11-17 17:08

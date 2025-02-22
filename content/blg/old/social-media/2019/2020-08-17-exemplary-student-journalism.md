@@ -1,5 +1,5 @@
 ---
-title: 2020-08-17-exemplary-student-journalism
+title: 2020-08-17 exemplary student journalism
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2017-10-04-on-micro-generations
+title: 2017-10-04 on micro generations
 description:
 extract:
 created: 2024-11-17 17:08

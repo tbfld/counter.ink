@@ -1,5 +1,5 @@
 ---
-title: 2017-01-04-architecture-critics-on-trump-tower
+title: 2017-01-04 architecture critics on trump tower
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2019-11-29-henry-hudson-ikr?!
+title: 2019-11-29 henry hudson ikr?!
 description: 
 extract: 
 created: 2024-11-17 17:07

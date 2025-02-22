@@ -1,5 +1,5 @@
 ---
-title: 1997-02-12-a-reply-to-cook-and-gonggrijp
+title: 1997-02-12 a reply to cook and gonggrijp
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2021-02-19-french-culture-wars
+title: 2021-02-19 french culture wars
 description: 
 extract: 
 created: 2024-11-17 17:08

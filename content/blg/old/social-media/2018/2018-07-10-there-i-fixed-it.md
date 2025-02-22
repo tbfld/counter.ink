@@ -1,5 +1,5 @@
 ---
-title: 2018-07-10-there-i-fixed-it
+title: 2018-07-10 there i fixed it
 description: 
 extract: 
 created: 2024-11-17 17:08

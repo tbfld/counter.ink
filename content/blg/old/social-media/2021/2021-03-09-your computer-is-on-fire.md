@@ -1,5 +1,5 @@
 ---
-title: 2021-03-09-your computer-is-on-fire
+title: 2021-03-09 your computer is on fire
 description:
 extract:
 created: 2024-11-17 17:08

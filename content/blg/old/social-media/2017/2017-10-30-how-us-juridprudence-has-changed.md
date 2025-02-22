@@ -1,5 +1,5 @@
 ---
-title: 2017-10-30-how-us-juridprudence-has-changed
+title: 2017-10-30 how us juridprudence has changed
 description: 
 extract: 
 created: 2024-11-17 17:07

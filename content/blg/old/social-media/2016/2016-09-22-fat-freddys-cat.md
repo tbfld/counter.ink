@@ -1,5 +1,5 @@
 ---
-title: 2016-09-22-fat-freddys-cat
+title: 2016-09-22 fat freddys cat
 description: 
 extract: 
 created: 2024-11-17 17:08

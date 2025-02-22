@@ -1,5 +1,5 @@
 ---
-title: 2016-07-22-democrats-and-centrists
+title: 2016-07-22 democrats and centrists
 description: 
 extract: 
 created: 2024-11-17 17:08

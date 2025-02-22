@@ -1,5 +1,5 @@
 ---
-title: 2017-12-06-academic-tensions
+title: 2017-12-06 academic tensions
 description: 
 extract: 
 created: 2024-11-17 17:07

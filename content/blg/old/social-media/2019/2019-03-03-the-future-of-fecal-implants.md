@@ -1,5 +1,5 @@
 ---
-title: 2019-03-03-the-future-of-fecal-implants
+title: 2019-03-03 the future of fecal implants
 description: 
 extract: 
 created: 2024-11-17 17:07

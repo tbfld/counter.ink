@@ -1,5 +1,5 @@
 ---
-title: 2020-04-12-on-stigmatization
+title: 2020-04-12 on stigmatization
 description: 
 extract: 
 created: 2024-11-17 17:08

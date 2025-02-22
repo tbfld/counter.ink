@@ -1,5 +1,5 @@
 ---
-title: 2019-07-26-accidental-retro-dataviz
+title: 2019-07-26 accidental retro dataviz
 description: 
 extract: 
 created: 2024-11-17 17:07

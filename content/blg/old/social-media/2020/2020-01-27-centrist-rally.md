@@ -1,5 +1,5 @@
 ---
-title: 2020-01-27-centrist-rally
+title: 2020-01-27 centrist rally
 description: 
 extract: 
 created: 2024-11-17 17:08

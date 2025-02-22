@@ -1,5 +1,5 @@
 ---
-title: 1997-04-06-on-jim-bell-and-more
+title: 1997-04-06 on jim bell and more
 description: 
 extract: 
 created: 2024-11-17 17:08

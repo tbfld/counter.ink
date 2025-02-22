@@ -1,5 +1,5 @@
 ---
-title: 2020-07-24-big-boxes-and-masks
+title: 2020-07-24 big boxes and masks
 description: 
 extract: 
 created: 2024-11-17 17:08

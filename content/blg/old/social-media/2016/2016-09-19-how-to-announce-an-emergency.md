@@ -1,5 +1,5 @@
 ---
-title: 2016-09-19-how-to-announce-an-emergency
+title: 2016-09-19 how to announce an emergency
 description: 
 extract: 
 created: 2024-11-17 17:08

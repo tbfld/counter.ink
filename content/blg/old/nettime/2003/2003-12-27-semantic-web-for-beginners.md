@@ -1,5 +1,5 @@
 ---
-title: 2003-12-27-semantic-web-for-beginners
+title: 2003-12-27 semantic web for beginners
 description: 
 extract: 
 created: 2024-11-17 17:08

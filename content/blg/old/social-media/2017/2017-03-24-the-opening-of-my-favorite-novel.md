@@ -1,5 +1,5 @@
 ---
-title: 2017-03-24-the-opening-of-my-favorite-novel
+title: 2017-03-24 the opening of my favorite novel
 description: 
 extract: 
 created: 2024-11-17 17:07

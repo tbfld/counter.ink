@@ -1,5 +1,5 @@
 ---
-title: 2019-01-28-on-sortition
+title: 2019-01-28 on sortition
 description: 
 extract: 
 created: 2024-11-17 17:08

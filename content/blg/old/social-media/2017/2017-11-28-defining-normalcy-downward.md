@@ -1,5 +1,5 @@
 ---
-title: 2017-11-28-defining-normalcy-downward
+title: 2017-11-28 defining normalcy downward
 description: 
 extract: 
 created: 2024-11-17 17:07

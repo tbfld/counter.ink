@@ -1,5 +1,5 @@
 ---
-title: 2018-09-26-midterm-predictions
+title: 2018-09-26 midterm predictions
 description: 
 extract: 
 created: 2024-11-17 17:08

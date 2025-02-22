@@ -1,5 +1,5 @@
 ---
-title: 2021-03-14-recent-visual-mutations
+title: 2021-03-14 recent visual mutations
 description: 
 extract: 
 created: 2024-11-17 17:08

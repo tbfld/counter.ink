@@ -1,5 +1,5 @@
 ---
-title: 2020-01-12-nyt-discovers-there-isnt-one-history
+title: 2020-01-12 nyt discovers there isnt one history
 description: 
 extract: 
 created: 2024-11-17 17:08

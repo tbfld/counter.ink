@@ -1,5 +1,5 @@
 ---
-title: 2003-01-19-on-the-prehistory-of-rhizome
+title: 2003-01-19 on the prehistory of rhizome
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2016-10-19-les-sex-pistols
+title: 2016-10-19 les sex pistols
 description: 
 extract: 
 created: 2024-11-17 17:08

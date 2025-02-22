@@ -1,5 +1,5 @@
 ---
-title: 1996-07-29-net-commercialization
+title: 1996-07-29 net commercialization
 description: 
 extract: 
 created: 2024-11-17 17:08

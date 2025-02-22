@@ -1,5 +1,5 @@
 ---
-title: 2020-09-01-is-this-even-an-election-really
+title: 2020-09-01 is this even an election really
 description: 
 extract: 
 created: 2024-11-17 17:08

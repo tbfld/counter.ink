@@ -1,5 +1,5 @@
 ---
-title: 2016-10-04-the-longue-duree-sure-aint-what-it-used-to-be
+title: 2016-10-04 the longue duree sure aint what it used to be
 description: 
 extract: 
 created: 2024-11-17 17:08

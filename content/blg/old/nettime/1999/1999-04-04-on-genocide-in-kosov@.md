@@ -1,5 +1,5 @@
 ---
-title: 1999-04-04-on-genocide-in-kosov@
+title: 1999-04-04 on genocide in kosov@
 description: 
 extract: 
 created: 2024-11-17 17:08

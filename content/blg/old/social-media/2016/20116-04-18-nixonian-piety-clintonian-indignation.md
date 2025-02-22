@@ -1,5 +1,5 @@
 ---
-title: 20116-04-18-nixonian-piety-clintonian-indignation
+title: 20116 04 18 nixonian piety clintonian indignation
 description:
 extract:
 created: 2024-11-17 17:08

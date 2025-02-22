@@ -1,5 +1,5 @@
 ---
-title: 2018-09-26-what-academics-need-to-do
+title: 2018-09-26 what academics need to do
 description: 
 extract: 
 created: 2024-11-17 17:08

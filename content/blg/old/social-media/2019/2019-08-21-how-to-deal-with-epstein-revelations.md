@@ -1,5 +1,5 @@
 ---
-title: 2019-08-21-how-to-deal-with-epstein-revelations
+title: 2019-08-21 how to deal with epstein revelations
 description: 
 extract: 
 created: 2024-11-17 17:07

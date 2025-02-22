@@ -1,5 +1,5 @@
 ---
-title: 201605-08-on-the-two-party-system
+title: 201605 08 on the two party system
 description:
 extract:
 created: 2024-11-17 17:08

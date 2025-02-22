@@ -1,5 +1,5 @@
 ---
-title: 1998-03-14-four-allegories
+title: 1998-03-14 four allegories
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2020-11-11-arendtsplaining-and-coupsplaining
+title: 2020-11-11 arendtsplaining and coupsplaining
 description: 
 extract: 
 created: 2024-11-17 17:08

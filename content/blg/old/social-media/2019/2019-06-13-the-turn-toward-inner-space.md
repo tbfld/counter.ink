@@ -1,5 +1,5 @@
 ---
-title: 2019-06-13-the-turn-toward-inner-space
+title: 2019-06-13 the turn toward inner space
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2017-07-07-on-hobby-lobby
+title: 2017-07-07 on hobby lobby
 description: 
 extract: 
 created: 2024-11-17 17:07

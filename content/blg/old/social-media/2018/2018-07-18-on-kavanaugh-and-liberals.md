@@ -1,5 +1,5 @@
 ---
-title: 2018-07-18-on-kavanaugh-and-liberals
+title: 2018-07-18 on kavanaugh and liberals
 description: 
 extract: 
 created: 2024-11-17 17:08

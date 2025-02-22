@@ -1,5 +1,5 @@
 ---
-title: 2018-07-13-will-davies-on-hard-and-soft-brexits
+title: 2018-07-13 will davies on hard and soft brexits
 description: 
 extract: 
 created: 2024-11-17 17:08

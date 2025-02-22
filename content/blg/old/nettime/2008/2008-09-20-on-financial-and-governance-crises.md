@@ -1,5 +1,5 @@
 ---
-title: 2008-09-20-on-financial-and-governance-crises
+title: 2008-09-20 on financial and governance crises
 description: 
 extract: 
 created: 2024-11-17 17:08

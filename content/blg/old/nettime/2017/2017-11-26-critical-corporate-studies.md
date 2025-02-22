@@ -1,5 +1,5 @@
 ---
-title: 2017-11-26-critical-corporate-studies
+title: 2017-11-26 critical corporate studies
 description:
 extract:
 created: 2024-11-17 17:08

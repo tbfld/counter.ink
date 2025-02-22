@@ -1,5 +1,5 @@
 ---
-title: 1997-08-17-on-namespace-and-art
+title: 1997-08-17 on namespace and art
 description: 
 extract: 
 created: 2024-11-17 17:08

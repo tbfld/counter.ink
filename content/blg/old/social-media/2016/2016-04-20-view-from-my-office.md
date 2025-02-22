@@ -1,5 +1,5 @@
 ---
-title: 2016-04-20-view-from-my-office
+title: 2016-04-20 view from my office
 description: 
 extract: 
 created: 2024-11-17 17:08

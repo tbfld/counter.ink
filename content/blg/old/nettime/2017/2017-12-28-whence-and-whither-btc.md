@@ -1,5 +1,5 @@
 ---
-title: 2017-12-28-whence-and-whither-btc
+title: 2017-12-28 whence and whither btc
 description:
 extract:
 created: 2024-11-17 17:08

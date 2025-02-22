@@ -1,5 +1,5 @@
 ---
-title: 1998-02-05-on-barbrook-and-dery
+title: 1998-02-05 on barbrook and dery
 description:
 extract:
 created: 2024-11-17 17:08

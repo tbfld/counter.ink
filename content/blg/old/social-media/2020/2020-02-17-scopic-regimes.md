@@ -1,5 +1,5 @@
 ---
-title: 2020-02-17-scopic-regimes
+title: 2020-02-17 scopic regimes
 description: 
 extract: 
 created: 2024-11-17 17:08

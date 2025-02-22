@@ -1,5 +1,5 @@
 ---
-title: 2021-06-23-is-it-ecocide-if-you-didnt-know-it
+title: 2021-06-23 is it ecocide if you didnt know it
 description: 
 extract: 
 created: 2024-11-17 17:08

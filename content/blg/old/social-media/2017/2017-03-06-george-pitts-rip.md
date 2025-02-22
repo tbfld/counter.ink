@@ -1,5 +1,5 @@
 ---
-title: 2017-03-06-george-pitts-rip
+title: 2017-03-06 george pitts rip
 description: 
 extract: 
 created: 2024-11-17 17:07

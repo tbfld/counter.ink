@@ -1,5 +1,5 @@
 ---
-title: 2017-12-03-on-progress
+title: 2017-12-03 on progress
 description: 
 extract: 
 created: 2024-11-17 17:07

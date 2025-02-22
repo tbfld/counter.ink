@@ -1,5 +1,5 @@
 ---
-title: 2020-11-17-on-fox-news-and-the-electoral-college
+title: 2020-11-17 on fox news and the electoral college
 description: 
 extract: 
 created: 2024-11-17 17:08

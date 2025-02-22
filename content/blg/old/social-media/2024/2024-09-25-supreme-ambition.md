@@ -1,5 +1,5 @@
 ---
-title: 2024-09-25-supreme-ambition
+title: 2024-09-25 supreme ambition
 description: 
 extract: 
 created: 2024-11-17 17:07

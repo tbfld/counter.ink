@@ -1,5 +1,5 @@
 ---
-title: 2020-03-26-nyt-dataviz
+title: 2020-03-26 nyt dataviz
 description: 
 extract: 
 created: 2024-11-17 17:08

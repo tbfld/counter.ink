@@ -1,5 +1,5 @@
 ---
-title: 2017-12-02-academic-koolaid
+title: 2017-12-02 academic koolaid
 description: 
 extract: 
 created: 2024-11-17 17:07

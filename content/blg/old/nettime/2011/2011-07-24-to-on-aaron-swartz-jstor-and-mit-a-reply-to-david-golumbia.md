@@ -1,5 +1,5 @@
 ---
-title: 2011-07-24-to-on-aaron-swartz-jstor-and-mit-a-reply-to-david-golumbia
+title: 2011-07-24 to on aaron swartz jstor and mit a reply to david golumbia
 description: 
 extract: 
 created: 2024-11-17 17:08

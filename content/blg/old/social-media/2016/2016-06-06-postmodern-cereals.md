@@ -1,5 +1,5 @@
 ---
-title: 2016-06-06-postmodern-cereals
+title: 2016-06-06 postmodern cereals
 description: 
 extract: 
 created: 2024-11-17 17:08

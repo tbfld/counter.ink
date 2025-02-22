@@ -1,5 +1,5 @@
 ---
-title: 2016-11-30-icann-soliciting-comments-on-metaphorical-diseases
+title: 2016-11-30 icann soliciting comments on metaphorical diseases
 description: 
 extract: 
 created: 2024-11-17 17:08

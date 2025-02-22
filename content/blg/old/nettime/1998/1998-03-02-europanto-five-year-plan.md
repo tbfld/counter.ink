@@ -1,5 +1,5 @@
 ---
-title: 1998-03-02-europanto-five-year-plan
+title: 1998-03-02 europanto five year plan
 description: 
 extract: 
 created: 2024-11-17 17:08

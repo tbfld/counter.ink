@@ -1,5 +1,5 @@
 ---
-title: 2017-11-24-found-toynbee-nyc
+title: 2017-11-24 found toynbee nyc
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2021-04-26-nfts-yawn-stretch
+title: 2021-04-26 nfts yawn stretch
 description: 
 extract: 
 created: 2024-11-17 17:08

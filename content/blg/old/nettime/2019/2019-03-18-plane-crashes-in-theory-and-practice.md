@@ -1,5 +1,5 @@
 ---
-title: 2019-03-18-plane-crashes-in-theory-and-practice
+title: 2019-03-18 plane crashes in theory and practice
 description: 
 extract: 
 created: 2024-11-17 17:08

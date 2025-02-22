@@ -1,5 +1,5 @@
 ---
-title: 2018-10-29-id-rather-be-reading-flannery-oconnor
+title: 2018-10-29 id rather be reading flannery oconnor
 description: 
 extract: 
 created: 2024-11-17 17:08

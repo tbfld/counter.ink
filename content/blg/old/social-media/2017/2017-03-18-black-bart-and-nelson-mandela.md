@@ -1,5 +1,5 @@
 ---
-title: 2017-03-18-black-bart-and-nelson-mandela
+title: 2017-03-18 black bart and nelson mandela
 description: 
 extract: 
 created: 2024-11-17 17:07

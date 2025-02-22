@@ -1,5 +1,5 @@
 ---
-title: 2016-07-11-on-barney-rosset
+title: 2016-07-11 on barney rosset
 description: 
 extract: 
 created: 2024-11-17 17:08

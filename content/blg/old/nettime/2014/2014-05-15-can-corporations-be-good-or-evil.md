@@ -1,5 +1,5 @@
 ---
-title: 2014-05-15-can-corporations-be-good-or-evil
+title: 2014-05-15 can corporations be good or evil
 description: 
 extract: 
 created: 2024-11-17 17:08

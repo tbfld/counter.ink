@@ -1,5 +1,5 @@
 ---
-title: 2020-03-27-michael-sorkin-rip
+title: 2020-03-27 michael sorkin rip
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2000-05-11-reply-to-bruce-perens
+title: 2000-05-11 reply to bruce perens
 description: 
 extract: 
 created: 2024-11-17 17:08

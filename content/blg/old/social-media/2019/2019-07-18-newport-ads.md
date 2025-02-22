@@ -1,5 +1,5 @@
 ---
-title: 2019-07-18-newport-ads
+title: 2019-07-18 newport ads
 description: 
 extract: 
 created: 2024-11-17 17:07

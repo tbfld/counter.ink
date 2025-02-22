@@ -1,5 +1,5 @@
 ---
-title: 2016-11-26-on-fake-news
+title: 2016-11-26 on fake news
 description: 
 extract: 
 created: 2024-11-17 17:08

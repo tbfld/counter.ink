@@ -1,5 +1,5 @@
 ---
-title: 2018-09-06-jackson-lears-on-managing-public-opinion
+title: 2018-09-06 jackson lears on managing public opinion
 description: 
 extract: 
 created: 2024-11-17 17:08

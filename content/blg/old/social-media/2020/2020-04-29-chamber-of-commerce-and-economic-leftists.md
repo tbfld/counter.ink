@@ -1,5 +1,5 @@
 ---
-title: 2020-04-29-chamber-of-commerce-and-economic-leftists
+title: 2020-04-29 chamber of commerce and economic leftists
 description: 
 extract: 
 created: 2024-11-17 17:08

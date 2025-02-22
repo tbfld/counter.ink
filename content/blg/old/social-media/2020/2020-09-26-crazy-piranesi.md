@@ -1,5 +1,5 @@
 ---
-title: 2020-09-26-crazy-piranesi
+title: 2020-09-26 crazy piranesi
 description: 
 extract: 
 created: 2024-11-17 17:08

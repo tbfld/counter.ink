@@ -1,5 +1,5 @@
 ---
-title: 2024-08-10-on-ethics-and-robotics
+title: 2024-08-10 on ethics and robotics
 description: 
 extract: 
 created: 2024-11-24 10:42

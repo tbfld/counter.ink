@@ -1,5 +1,5 @@
 ---
-title: 2017-05-18-obsessively-inward-focus-of-the-cultural-left
+title: 2017-05-18 obsessively inward focus of the cultural left
 description: 
 extract: 
 created: 2024-11-17 17:07

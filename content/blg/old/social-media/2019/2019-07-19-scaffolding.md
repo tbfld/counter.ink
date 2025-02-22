@@ -1,5 +1,5 @@
 ---
-title: 2019-07-19-scaffolding
+title: 2019-07-19 scaffolding
 description: 
 extract: 
 created: 2024-11-17 17:07

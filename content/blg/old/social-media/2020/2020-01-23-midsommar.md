@@ -1,5 +1,5 @@
 ---
-title: 2020-01-23-midsommar
+title: 2020-01-23 midsommar
 description: 
 extract: 
 created: 2024-11-17 17:08

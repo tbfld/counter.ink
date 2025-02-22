@@ -1,5 +1,5 @@
 ---
-title: 2018-07-06-a-brilliant-journalistic-ui
+title: 2018-07-06 a brilliant journalistic ui
 description:
 extract:
 created: 2024-11-17 17:08

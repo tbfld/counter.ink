@@ -1,5 +1,5 @@
 ---
-title: 1997-08-07-on-punctuation-a-reply-to-josephine-bosma
+title: 1997-08-07 on punctuation a reply to josephine bosma
 description: 
 extract: 
 created: 2024-11-17 17:08

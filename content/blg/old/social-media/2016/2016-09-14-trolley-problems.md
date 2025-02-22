@@ -1,5 +1,5 @@
 ---
-title: 2016-09-14-trolley-problems
+title: 2016-09-14 trolley problems
 description: 
 extract: 
 created: 2024-11-17 17:08

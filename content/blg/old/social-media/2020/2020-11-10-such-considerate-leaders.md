@@ -1,5 +1,5 @@
 ---
-title: 2020-11-10-such-considerate-leaders
+title: 2020-11-10 such considerate leaders
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2020-11-02-facial-tattoos-and-diplomacy
+title: 2020-11-02 facial tattoos and diplomacy
 description: 
 extract: 
 created: 2024-11-17 17:08

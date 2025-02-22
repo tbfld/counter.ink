@@ -1,5 +1,5 @@
 ---
-title: 2020-07-18-on-the-carnivalesque-and-its-abuses
+title: 2020-07-18 on the carnivalesque and its abuses
 description: 
 extract: 
 created: 2024-11-17 17:08

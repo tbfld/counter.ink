@@ -1,5 +1,5 @@
 ---
-title: 2018-10-05-delegitimizing-kavanaugh
+title: 2018-10-05 delegitimizing kavanaugh
 description: 
 extract: 
 created: 2024-11-17 17:08

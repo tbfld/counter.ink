@@ -1,5 +1,5 @@
 ---
-title: 2021-01-13-you-just-cant-quit-microsoft
+title: 2021-01-13 you just cant quit microsoft
 description: 
 extract: 
 created: 2024-11-17 17:08

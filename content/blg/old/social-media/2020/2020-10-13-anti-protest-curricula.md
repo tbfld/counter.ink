@@ -1,5 +1,5 @@
 ---
-title: 2020-10-13-anti-protest-curricula
+title: 2020-10-13 anti protest curricula
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2021-04-15-on-william-gaddis
+title: 2021-04-15 on william gaddis
 description: 
 extract: 
 created: 2024-11-17 17:08

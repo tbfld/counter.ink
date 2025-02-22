@@ -1,5 +1,5 @@
 ---
-title: 2020-06-01-artifacts-and-data
+title: 2020-06-01 artifacts and data
 description:
 extract:
 created: 2024-11-17 17:08

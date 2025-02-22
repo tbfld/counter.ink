@@ -1,5 +1,5 @@
 ---
-title: 2021-02-19-practical-participatory-budgeting
+title: 2021-02-19 practical participatory budgeting
 description: 
 extract: 
 created: 2024-11-17 17:08

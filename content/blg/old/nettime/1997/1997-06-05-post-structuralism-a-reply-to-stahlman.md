@@ -1,5 +1,5 @@
 ---
-title: 1997-06-05-post-structuralism-a-reply-to-stahlman
+title: 1997-06-05 post structuralism a reply to stahlman
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2024-09-11-nyt-fact-check
+title: 2024-09-11 nyt fact check
 description: 
 extract: 
 created: 2024-11-17 17:07

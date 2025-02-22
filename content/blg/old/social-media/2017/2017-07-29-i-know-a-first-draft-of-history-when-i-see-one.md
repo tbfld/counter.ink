@@ -1,5 +1,5 @@
 ---
-title: 2017-07-29-i-know-a-first-draft-of-history-when-i-see-one
+title: 2017-07-29 i know a first draft of history when i see one
 description: 
 extract: 
 created: 2024-11-17 17:07

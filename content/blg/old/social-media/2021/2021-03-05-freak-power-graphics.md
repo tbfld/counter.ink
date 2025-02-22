@@ -1,5 +1,5 @@
 ---
-title: 2021-03-05-freak-power-graphics
+title: 2021-03-05 freak power graphics
 description:
 extract:
 created: 2024-11-17 17:08

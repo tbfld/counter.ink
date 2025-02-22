@@ -1,5 +1,5 @@
 ---
-title: 2000-10-03-on-isoc-and-icann
+title: 2000-10-03 on isoc and icann
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2001-03-14-on-defense-shields-a-reply-to-jordan-crandall
+title: 2001-03-14 on defense shields a reply to jordan crandall
 description: 
 extract: 
 created: 2024-11-17 17:08

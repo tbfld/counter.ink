@@ -1,5 +1,5 @@
 ---
-title: 2017-05-18-when-a-scholarly-project-turns-up-in-a-gallery
+title: 2017-05-18 when a scholarly project turns up in a gallery
 description: 
 extract: 
 created: 2024-11-17 17:07

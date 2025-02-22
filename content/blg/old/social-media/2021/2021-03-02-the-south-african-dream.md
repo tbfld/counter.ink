@@ -1,5 +1,5 @@
 ---
-title: 2021-03-02-the-south-african-dream
+title: 2021-03-02 the south african dream
 description:
 extract:
 created: 2024-11-17 17:08

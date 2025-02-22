@@ -1,5 +1,5 @@
 ---
-title: 2020-07-07-incels-and-think-tanks
+title: 2020-07-07 incels and think tanks
 description: 
 extract: 
 created: 2024-11-17 17:08

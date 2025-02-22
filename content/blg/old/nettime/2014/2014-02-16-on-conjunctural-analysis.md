@@ -1,5 +1,5 @@
 ---
-title: 2014-02-16-on-conjunctural-analysis
+title: 2014-02-16 on conjunctural analysis
 description: 
 extract: 
 created: 2024-11-17 17:08

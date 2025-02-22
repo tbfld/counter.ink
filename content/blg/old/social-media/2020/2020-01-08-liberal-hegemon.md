@@ -1,5 +1,5 @@
 ---
-title: 2020-01-08-liberal-hegemon
+title: 2020-01-08 liberal hegemon
 description: 
 extract: 
 created: 2024-11-17 17:08

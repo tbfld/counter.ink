@@ -1,5 +1,5 @@
 ---
-title: 2013-03-29-strict-constructionism
+title: 2013-03-29 strict constructionism
 description: 
 extract: 
 created: 2024-11-17 17:07

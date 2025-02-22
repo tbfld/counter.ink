@@ -1,5 +1,5 @@
 ---
-title: 2020-10-30-what-we-can-learn-from-turkey
+title: 2020-10-30 what we can learn from turkey
 description: 
 extract: 
 created: 2024-11-17 17:08

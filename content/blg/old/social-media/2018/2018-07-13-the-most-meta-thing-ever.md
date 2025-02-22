@@ -1,5 +1,5 @@
 ---
-title: 2018-07-13-the-most-meta-thing-ever
+title: 2018-07-13 the most meta thing ever
 description: 
 extract: 
 created: 2024-11-17 17:08

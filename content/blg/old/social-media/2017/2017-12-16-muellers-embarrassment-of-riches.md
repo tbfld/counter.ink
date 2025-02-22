@@ -1,5 +1,5 @@
 ---
-title: 2017-12-16-muellers-embarrassment-of-riches
+title: 2017-12-16 muellers embarrassment of riches
 description:
 extract:
 created: 2024-11-17 17:07

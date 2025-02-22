@@ -1,5 +1,5 @@
 ---
-title: 2020-03-19-curve-flattening
+title: 2020-03-19 curve flattening
 description: 
 extract: 
 created: 2024-11-17 17:08

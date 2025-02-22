@@ -1,5 +1,5 @@
 ---
-title: 2016-10-20-new-yorker-on-hrc
+title: 2016-10-20 new yorker on hrc
 description: 
 extract: 
 created: 2024-11-17 17:08

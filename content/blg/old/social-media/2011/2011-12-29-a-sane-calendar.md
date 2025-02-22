@@ -1,5 +1,5 @@
 ---
-title: 2011-12-29-a-sane-calendar
+title: 2011-12-29 a sane calendar
 description: 
 extract: 
 created: 2024-11-17 17:08

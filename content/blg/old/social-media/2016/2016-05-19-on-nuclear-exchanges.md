@@ -1,5 +1,5 @@
 ---
-title: 2016-05-19-on-nuclear-exchanges
+title: 2016-05-19 on nuclear exchanges
 description: 
 extract: 
 created: 2024-11-17 17:08

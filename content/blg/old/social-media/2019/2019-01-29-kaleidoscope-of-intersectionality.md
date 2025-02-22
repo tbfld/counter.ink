@@ -1,5 +1,5 @@
 ---
-title: 2019-01-29-kaleidoscope-of-intersectionality
+title: 2019-01-29 kaleidoscope of intersectionality
 description: 
 extract: 
 created: 2024-11-17 17:08

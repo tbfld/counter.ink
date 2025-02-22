@@ -1,5 +1,5 @@
 ---
-title: 2022-09-23-french-theory-american-reception
+title: 2022-09-23 french theory american reception
 description: 
 extract: 
 created: 2024-11-17 17:07

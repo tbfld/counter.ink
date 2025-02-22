@@ -1,5 +1,5 @@
 ---
-title: 2011-11-12-erase-the-police
+title: 2011-11-12 erase the police
 description: 
 extract: 
 created: 2024-11-17 17:08

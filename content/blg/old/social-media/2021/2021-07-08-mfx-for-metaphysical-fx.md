@@ -1,5 +1,5 @@
 ---
-title: 2021-07-08-mfx-for-metaphysical-fx
+title: 2021-07-08 mfx for metaphysical fx
 description: 
 extract: 
 created: 2024-11-17 17:08

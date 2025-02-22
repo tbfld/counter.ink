@@ -1,5 +1,5 @@
 ---
-title: 2017-04-13-nyt-word-salad-on-erdogan
+title: 2017-04-13 nyt word salad on erdogan
 description: 
 extract: 
 created: 2024-11-17 17:07

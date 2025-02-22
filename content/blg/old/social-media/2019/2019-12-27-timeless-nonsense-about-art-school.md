@@ -1,5 +1,5 @@
 ---
-title: 2019-12-27-timeless-nonsense-about-art-school
+title: 2019-12-27 timeless nonsense about art school
 description: 
 extract: 
 created: 2024-11-17 17:07

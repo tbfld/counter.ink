@@ -1,5 +1,5 @@
 ---
-title: 2021-07-02-nice-to-be-acknowledged
+title: 2021-07-02 nice to be acknowledged
 description: 
 extract: 
 created: 2024-11-17 17:08

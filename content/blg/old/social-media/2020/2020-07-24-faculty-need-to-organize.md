@@ -1,5 +1,5 @@
 ---
-title: 2020-07-24-faculty-need-to-organize
+title: 2020-07-24 faculty need to organize
 description: 
 extract: 
 created: 2024-11-17 17:08

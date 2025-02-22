@@ -1,5 +1,5 @@
 ---
-title: 2019-08-19-impossible-burger-as-time-travel
+title: 2019-08-19 impossible burger as time travel
 description: 
 extract: 
 created: 2024-11-17 17:07

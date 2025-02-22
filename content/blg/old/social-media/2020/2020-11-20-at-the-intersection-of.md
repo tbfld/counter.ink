@@ -1,5 +1,5 @@
 ---
-title: 2020-11-20-at-the-intersection-of
+title: 2020-11-20 at the intersection of
 description: 
 extract: 
 created: 2024-11-17 17:08

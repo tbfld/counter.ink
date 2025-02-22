@@ -1,5 +1,5 @@
 ---
-title: 2021-03-23-hard-to-argue-with-a-camellia
+title: 2021-03-23 hard to argue with a camellia
 description:
 extract:
 created: 2024-11-17 17:08

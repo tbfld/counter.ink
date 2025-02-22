@@ -1,5 +1,5 @@
 ---
-title: 2018-12-30-on-scaling
+title: 2018-12-30 on scaling
 description: 
 extract: 
 created: 2024-11-17 17:08

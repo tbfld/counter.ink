@@ -1,5 +1,5 @@
 ---
-title: 2020-07-22-what-wont-you-stand-for
+title: 2020-07-22 what wont you stand for
 description: 
 extract: 
 created: 2024-11-17 17:08

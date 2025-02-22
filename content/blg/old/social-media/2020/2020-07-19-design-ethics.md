@@ -1,5 +1,5 @@
 ---
-title: 2020-07-19-design-ethics
+title: 2020-07-19 design ethics
 description: 
 extract: 
 created: 2024-11-17 17:08

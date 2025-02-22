@@ -1,5 +1,5 @@
 ---
-title: 2011-07-24-on-david-golumbia-leaving-the-list
+title: 2011-07-24 on david golumbia leaving the list
 description: 
 extract: 
 created: 2024-11-17 17:08
