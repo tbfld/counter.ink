@@ -1,25 +1,25 @@
 ---
-title: 2025-02-12-maybe-too-prophetic
-description:
-extract:
+title: 2025-02-12 maybe too prophetic
+description: 
+extract: 
 created: 2025-02-12 23:02
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-02-12
 tags:
-- governance
-- history
-- institution
-- politics
-- right
-status: "final"
+  - governance
+  - history
+  - institution
+  - politics
+  - right
+status: final
 ---
 
 I wrote this [on Facebook on 7 Nov 2024](https://www.facebook.com/tbyfield/posts/pfbid02WeNJSKMu7V6zAuMVpBZn8vRcHZkGmxmLq4TmxfD9wGDdTXNw7uzYwiYv2RqX6KySl), barely a day after the election, and it seems a little *too* prescient.

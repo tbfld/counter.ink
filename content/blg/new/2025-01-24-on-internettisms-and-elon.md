@@ -1,24 +1,24 @@
 ---
-title: 2025-01-24-on-internettisms-and-elon
-description:
-extract:
+title: 2025-01-24 on internettisms and Elon
+description: 
+extract: 
 created: 2025-01-24 11:13
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-01-24
 tags:
-- consumerism
-- gender
-- internet
-- language
-status: "final"
+  - consumerism
+  - gender
+  - internet
+  - language
+status: final
 ---
 
 ![[tesla-community.jpg|wmed relative|left]]

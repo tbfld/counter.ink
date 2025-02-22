@@ -1,26 +1,26 @@
 ---
-title: 2025-01-18-tangled-literary-histories
-description:
-extract:
+title: 2025-01-18 tangled literary histories
+description: 
+extract: 
 created: 2025-01-18 11:50
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-01-18
 tags:
-- france
-- history
-- language
-- literature
-- Mexico
-- publishing
-status: "final"
+  - france
+  - history
+  - language
+  - literature
+  - Mexico
+  - publishing
+status: final
 ---
 
 The French publisher [Minuit](https://en.wikipedia.org/wiki/Les_%C3%89ditions_de_Minuit) just put out [Jean Echenoz](https://en.wikipedia.org/wiki/Jean_Echenoz)’s latest book, *[Bristol](https://isbn.nu/9782707355928)*, and I wrote this in a comment on another platform:

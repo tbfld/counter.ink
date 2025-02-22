@@ -1,24 +1,24 @@
 ---
-title: 2025-02-10-a-handful-of-emoji
-description:
-extract:
+title: 2025-02-10 a handful of emoji
+description: 
+extract: 
 created: 2025-02-10 10:43
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-02-10
 tags:
-- compression
-- language
-- poetry
-- technology
-status: "final"
+  - compression
+  - language
+  - poetry
+  - technology
+status: final
 ---
 
 T. S. Eliot can show you fear in a handful of dust, but I can show you that whole stanza from *The Waste Land* in an emoji:

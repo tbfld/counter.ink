@@ -1,23 +1,23 @@
 ---
-title: 2024-11-27-all-creatures-terrible-and-fabulous
-description:
-extract:
+title: 2024-11-27 all creatures terrible and fabulous
+description: 
+extract: 
 created: 2024-11-27 10:41
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2024-11-27
 tags:
-- language
-- literature
-- education
-status: "draft"
+  - language
+  - literature
+  - education
+status: draft
 ---
 
 ![[heaney-railway.jpg|relative wmed|left]]

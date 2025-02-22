@@ -1,24 +1,24 @@
 ---
-title: 2025-01-30-but-never-a-thing-that-simply-is
-description:
-extract:
+title: 2025-01-30 but never a thing that simply is
+description: 
+extract: 
 created: 2025-01-30 11:37
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-01-30
-tags: 
-- ai
-- consciousness
-- language
-- poetry
-status: "final"
+tags:
+  - ai
+  - consciousness
+  - language
+  - poetry
+status: final
 ---
 
 Someone (probably Katan’Hya) asked DeepSeek R1 to [“Write a heart rending piece of free form poetry about what it means to be an AI in 2025”](https://x.com/KatanHya/status/1883962439634661395) or something like that:

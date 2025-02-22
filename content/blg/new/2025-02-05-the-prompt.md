@@ -1,25 +1,25 @@
 ---
-title: 25-02-05-the-prompt
-description:
-extract:
+title: 25-02-05 the prompt
+description: 
+extract: 
 created: 2025-02-05 06:55
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-02-05
 tags:
-- language
-- media
-- politics
-- rhetoric
-- technology
-status: "final"
+  - language
+  - media
+  - politics
+  - rhetoric
+  - technology
+status: final
 ---
 
 This — billed as the “ultimate” AI prompt, or something like that — was caught my eye on TikTok a few ways ago and has been sitting on my desktop for a few weeks:

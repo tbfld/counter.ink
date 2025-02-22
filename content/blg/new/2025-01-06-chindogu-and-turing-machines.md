@@ -1,23 +1,23 @@
 ---
-title: 2025-01-06-chindogu-and-turing-machines
-description:
-extract:
+title: 2025-01-06 chindogu and turing machines
+description: 
+extract: 
 created: 2025-01-06 08:51
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-01-06
 tags:
-- design
-- education
-- language
-status: "final"
+  - design
+  - education
+  - language
+status: final
 ---
 
 ![[cursing-heatmap.jpg|wmed relative|right]]

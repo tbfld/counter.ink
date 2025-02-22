@@ -1,24 +1,24 @@
 ---
-title: 2025-02-08-what-keeps-mankind-alive
-description:
-extract:
+title: 2025-02-08 what keeps mankind alive
+description: 
+extract: 
 created: 2025-02-08 10:10
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-02-08
 tags:
-- art
-- history
-- left
-- music
-status: "final"
+  - art
+  - history
+  - left
+  - music
+status: final
 ---
 
 ![[three-p-opera.jpeg|wsmall relative|center]]

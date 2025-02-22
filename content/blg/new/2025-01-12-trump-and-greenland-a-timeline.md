@@ -1,29 +1,29 @@
 ---
-title: 2025-01-12-trump-and-greenland-a-timeline
-description:
-extract:
+title: "2025-01-12 Trump and Greenland: a timeline"
+description: 
+extract: 
 created: 2025-01-11 23:16
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-01-11
 tags:
-- governance
-- history
-- international
-- journalism
-- military
-- national
-- politics
-- right
-- security
-status: "final"
+  - governance
+  - history
+  - international
+  - journalism
+  - military
+  - national
+  - politics
+  - right
+  - security
+status: final
 ---
 
 This post is a detailed, annotated, and *sourced* timeline of Trump’s noise about buying Greenland. It has three parts: (1) a short [[2025-01-12-trump-and-greenland-a-timeline#Intro|intro]], (2) a bulleted [[#Summary|summary]], (3) the [[#Timeline|timeline]] itself, and (4) a [[#A Couple of bonus links|couple of bonus links]].

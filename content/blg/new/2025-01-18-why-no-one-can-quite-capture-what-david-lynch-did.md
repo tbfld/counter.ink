@@ -1,24 +1,24 @@
 ---
-title: 2025-01-18-why-no-one-can-quite-capture-what-david-lynch-did
-description:
-extract:
+title: 2025-01-18 why no one can quite capture what David Lynch did
+description: 
+extract: 
 created: 2025-01-18 10:48
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: 
+publish: 
 date: 2025-01-18
 tags:
-- cinema
-- film
-- media
-- philosophy
-status: "final"
+  - cinema
+  - film
+  - media
+  - philosophy
+status: final
 ---
 
 [Roy Galán](https://es.wikipedia.org/wiki/Roy_Gal%C3%A1n) just wrote this *stunning* [tribute to David Lynch](https://www.instagram.com/roygalan/p/DE5lV4SNAli/) (translation by [DeepL](https://www.deepl.com/)):
