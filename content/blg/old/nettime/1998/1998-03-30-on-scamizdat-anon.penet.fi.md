@@ -25,13 +25,12 @@ tags:
   - "#anonymity"
   - "#scientology-case"
 ---
-
 To:  nettime-l
 Subject: <nettime> anon.penet.fi: case closed
 From: t byfield
 Date: [Mon, 30 Mar 1998 21:47:14 -0500](https://nettime.org/Lists-Archives/nettime-l-9803/msg00126.html)
 
-`[Headers edited. Please note that the PGP signature did *not* check out;`
+`\[Headers edited. Please note that the PGP signature did *not* check out;`
  `almost certainly a Finnish<->US charset and/or UNIX<->Mac problem, but`
  `my apologies if it’s a forgery or a fake. What with this and “Spamford”`
  `Wallace getting socked with a US$2M bill for spamming, this is a signi-`
