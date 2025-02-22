@@ -20,7 +20,7 @@ notitle: "true"
 
 > [!tip]+ For chunkier things, see [[recent]]
 
-***2025-02-22:*** I wrote a Bsky thread about Trump’s attacks on higher ed
+***2025-02-22:*** I wrote [a Bsky thread about Trump’s attacks on higher ed](https://bsky.app/profile/tbfld.bsky.social/post/3lirrqbtzis2p)
 
 ***
 
