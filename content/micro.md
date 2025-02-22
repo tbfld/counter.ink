@@ -20,6 +20,10 @@ notitle: "true"
 
 > [!tip]+ For chunkier things, see [[recent]]
 
+***2025-02-22:*** I wrote a thread on Bsky about Trump’s attacks on higher ed
+
+***
+
 ***2025-02-21:***  *WiReD* has a razor-sharp take on the fashion shift among broligarchs: “everyone missed that they were dressing for the job they really wanted”: [emperors.](https://www.instagram.com/reel/DF_E0ruM1CA/)
 
 ***2025-02-21:***  Ithaca’s Lavender Hill Commune, [“home away from home in the 1970s for many displaced members of what is now known as the LGBTQ+ community, has been officially listed in the National Register of Historic Places.”](https://www.ithacajournal.com/story/news/2025/02/21/ithaca-lavender-hill-lgbtq-commune-national-register-of-historic-places/79425486007/)
