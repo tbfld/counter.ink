@@ -1,5 +1,5 @@
 ---
-title: 2016-11-18-on-bruce-schneier-on-congress
+title: 2016-11-18 on bruce schneier on congress
 description: 
 extract: 
 created: 2024-11-17 17:08

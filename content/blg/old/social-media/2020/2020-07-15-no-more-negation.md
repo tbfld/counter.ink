@@ -1,5 +1,5 @@
 ---
-title: 2020-07-15-no-more-negation
+title: 2020-07-15 no more negation
 description: 
 extract: 
 created: 2024-11-17 17:08

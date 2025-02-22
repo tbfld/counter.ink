@@ -1,5 +1,5 @@
 ---
-title: 2018-07-16-origins-of-the-slow-mo-replay
+title: 2018-07-16 origins of the slow mo replay
 description: 
 extract: 
 created: 2024-11-17 17:08

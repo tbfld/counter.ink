@@ -1,5 +1,5 @@
 ---
-title: 2019-05-29-choirs-were-always-virtual
+title: 2019-05-29 choirs were always virtual
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2021-07-18-potato-colors
+title: 2021-07-18 potato colors
 description: 
 extract: 
 created: 2024-11-17 17:08

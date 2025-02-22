@@ -1,5 +1,5 @@
 ---
-title: 2019-10-02-the-first-draft-of-history-needs-some-editing
+title: 2019-10-02 the first draft of history needs some editing
 description: 
 extract: 
 created: 2024-11-17 17:07

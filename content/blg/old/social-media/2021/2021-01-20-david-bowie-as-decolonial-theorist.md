@@ -1,5 +1,5 @@
 ---
-title: 2021-01-20-david-bowie-as-decolonial-theorist
+title: 2021-01-20 david bowie as decolonial theorist
 description: 
 extract: 
 created: 2024-11-17 17:08

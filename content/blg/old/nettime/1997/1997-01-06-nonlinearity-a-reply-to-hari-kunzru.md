@@ -1,5 +1,5 @@
 ---
-title: 1997-01-06-nonlinearity-a-reply-to-hari-kunzru
+title: 1997-01-06 nonlinearity a reply to hari kunzru
 description: 
 extract: 
 created: 2024-11-17 17:08

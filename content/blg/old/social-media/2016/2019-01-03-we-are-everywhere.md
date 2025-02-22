@@ -1,5 +1,5 @@
 ---
-title: 2019-01-03-we-are-everywhere
+title: 2019-01-03 we are everywhere
 description: 
 extract: 
 created: 2024-11-17 17:08

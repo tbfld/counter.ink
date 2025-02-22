@@ -1,5 +1,5 @@
 ---
-title: 2010-03-30-thanks-for-clearing-that-up
+title: 2010-03-30 thanks for clearing that up
 description: 
 extract: 
 created: 2024-11-17 17:07

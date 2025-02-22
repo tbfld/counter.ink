@@ -1,5 +1,5 @@
 ---
-title: 2016-12-12-Japanese-instruction
+title: 2016-12-12 Japanese instruction
 description: 
 extract: 
 created: 2024-11-17 17:08

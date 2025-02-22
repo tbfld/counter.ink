@@ -1,5 +1,5 @@
 ---
-title: 2020-02-02-artificial-traffic-jams
+title: 2020-02-02 artificial traffic jams
 description: 
 extract: 
 created: 2024-11-17 17:08

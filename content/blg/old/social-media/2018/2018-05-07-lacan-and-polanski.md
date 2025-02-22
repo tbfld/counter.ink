@@ -1,5 +1,5 @@
 ---
-title: 2018-05-07-lacan-and-polanski
+title: 2018-05-07 lacan and polanski
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2013-04-03-late-capitalism
+title: 2013-04-03 late capitalism
 description: 
 extract: 
 created: 2024-11-17 17:07

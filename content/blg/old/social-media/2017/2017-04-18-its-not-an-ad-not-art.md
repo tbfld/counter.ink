@@ -1,5 +1,5 @@
 ---
-title: 2017-04-18-its-not-an-ad-not-art
+title: 2017-04-18 its not an ad not art
 description: 
 extract: 
 created: 2024-11-17 17:07

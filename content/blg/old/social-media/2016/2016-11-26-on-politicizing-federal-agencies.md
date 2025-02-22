@@ -1,5 +1,5 @@
 ---
-title: 2016-11-26-on-politicizing-federal-agencies
+title: 2016-11-26 on politicizing federal agencies
 description: 
 extract: 
 created: 2024-11-17 17:08

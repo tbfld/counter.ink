@@ -1,5 +1,5 @@
 ---
-title: 2019-08-28-sba-2-mayor-u-r-not-us
+title: 2019-08-28 sba 2 mayor u r not us
 description: 
 extract: 
 created: 2024-11-17 17:07

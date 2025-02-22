@@ -1,5 +1,5 @@
 ---
-title: 2017-11-08-on-us-masculinity-and-brands
+title: 2017-11-08 on us masculinity and brands
 description: 
 extract: 
 created: 2024-11-17 17:07

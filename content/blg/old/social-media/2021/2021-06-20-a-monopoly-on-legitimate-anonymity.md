@@ -1,5 +1,5 @@
 ---
-title: 2021-06-20-a-monopoly-on-legitimate-anonymity
+title: 2021-06-20 a monopoly on legitimate anonymity
 description: 
 extract: 
 created: 2024-11-17 17:08

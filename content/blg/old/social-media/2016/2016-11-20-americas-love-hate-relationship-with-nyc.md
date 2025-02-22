@@ -1,5 +1,5 @@
 ---
-title: 2016-11-20-americas-love-hate-relationship-with-nyc
+title: 2016-11-20 americas love hate relationship with nyc
 description: 
 extract: 
 created: 2024-11-17 17:08

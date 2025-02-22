@@ -1,5 +1,5 @@
 ---
-title: 2019-02-08-chaos-and-corporate-management
+title: 2019-02-08 chaos and corporate management
 description: 
 extract: 
 created: 2024-11-17 17:07

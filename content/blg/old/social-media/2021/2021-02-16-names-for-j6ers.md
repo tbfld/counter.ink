@@ -1,5 +1,5 @@
 ---
-title: 2021-02-16-names-for-j6ers
+title: 2021-02-16 names for j6ers
 description: 
 extract: 
 created: 2024-11-17 17:08

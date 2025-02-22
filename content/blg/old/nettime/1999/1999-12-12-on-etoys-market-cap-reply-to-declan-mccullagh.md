@@ -1,5 +1,5 @@
 ---
-title: 1999-12-12-on-etoys-market-cap-reply-to-declan-mccullagh
+title: 1999-12-12 on etoys market cap reply to declan mccullagh
 description: 
 extract: 
 created: 2024-11-17 17:08

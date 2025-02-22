@@ -1,5 +1,5 @@
 ---
-title: 2019-12-17-us-politics-through-the-lens-of-structuralism
+title: 2019-12-17 us politics through the lens of structuralism
 description: 
 extract: 
 created: 2024-11-17 17:07

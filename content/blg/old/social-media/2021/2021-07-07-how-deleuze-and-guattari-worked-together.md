@@ -1,5 +1,5 @@
 ---
-title: 2021-07-07-how-deleuze-and-guattari-worked-together
+title: 2021-07-07 how deleuze and guattari worked together
 description: 
 extract: 
 created: 2024-11-17 17:08

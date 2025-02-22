@@ -1,5 +1,5 @@
 ---
-title: 2016-08-27-never-leave-a-fallen-comrade
+title: 2016-08-27 never leave a fallen comrade
 description: 
 extract: 
 created: 2024-11-17 17:08

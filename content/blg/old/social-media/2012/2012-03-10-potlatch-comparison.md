@@ -1,5 +1,5 @@
 ---
-title: 2012-03-10-potlatch-comparison
+title: 2012-03-10 potlatch comparison
 description: 
 extract: 
 created: 2024-11-17 17:07

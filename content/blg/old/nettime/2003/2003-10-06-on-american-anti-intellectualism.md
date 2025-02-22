@@ -1,5 +1,5 @@
 ---
-title: 2003-10-06-on-american-anti-intellectualism
+title: 2003-10-06 on american anti intellectualism
 description: 
 extract: 
 created: 2024-11-17 17:08

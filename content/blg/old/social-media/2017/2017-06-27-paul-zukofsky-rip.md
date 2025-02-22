@@ -1,5 +1,5 @@
 ---
-title: 2017-06-27-paul-zukofsky-rip
+title: 2017-06-27 paul zukofsky rip
 description: 
 extract: 
 created: 2024-11-17 17:07

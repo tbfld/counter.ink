@@ -1,5 +1,5 @@
 ---
-title: 2016-12-07-keep-your-citizens-close-and-your-traitors-closer
+title: 2016-12-07 keep your citizens close and your traitors closer
 description: 
 extract: 
 created: 2024-11-17 17:08

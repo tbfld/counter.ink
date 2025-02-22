@@ -1,5 +1,5 @@
 ---
-title: 2017-11-26-foreigners-united
+title: 2017-11-26 foreigners united
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2017-03-17-on-the-origins-of-the-phrase-deep-state
+title: 2017-03-17 on the origins of the phrase deep state
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2012-10-31-Hurricane-Sandy-and-art-criticism
+title: 2012-10-31 Hurricane Sandy and art criticism
 description: 
 extract: 
 created: 2024-11-17 17:07

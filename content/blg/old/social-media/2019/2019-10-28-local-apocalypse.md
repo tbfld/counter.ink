@@ -1,5 +1,5 @@
 ---
-title: 2019-10-28-local-apocalypse
+title: 2019-10-28 local apocalypse
 description: 
 extract: 
 created: 2024-11-17 17:07

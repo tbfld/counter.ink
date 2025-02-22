@@ -1,5 +1,5 @@
 ---
-title: 2020-05-04-covid-and-the-disunited-states
+title: 2020-05-04 covid and the disunited states
 description:
 extract:
 created: 2024-11-17 17:08

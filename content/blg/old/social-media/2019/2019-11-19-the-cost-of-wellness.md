@@ -1,5 +1,5 @@
 ---
-title: 2019-11-19-the-cost-of-wellness
+title: 2019-11-19 the cost of wellness
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2019-12-01-student-debt-as-indentured-servitude
+title: 2019-12-01 student debt as indentured servitude
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2001-06-27-dark-fiber-under-and-over-supply-a-reply-to-michael-gurstein
+title: 2001-06-27 dark fiber under and over supply a reply to michael gurstein
 description: 
 extract: 
 created: 2024-11-17 17:08

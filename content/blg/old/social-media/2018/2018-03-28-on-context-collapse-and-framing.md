@@ -1,5 +1,5 @@
 ---
-title: 2018-03-28-on-context-collapse-and-framing
+title: 2018-03-28 on context collapse and framing
 description: 
 extract: 
 created: 2024-11-17 17:08

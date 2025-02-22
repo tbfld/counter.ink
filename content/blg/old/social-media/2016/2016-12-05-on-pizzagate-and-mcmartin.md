@@ -1,5 +1,5 @@
 ---
-title: 2016-12-05-on-pizzagate-and-mcmartin
+title: 2016-12-05 on pizzagate and mcmartin
 description: 
 extract: 
 created: 2024-11-17 17:08

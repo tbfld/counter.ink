@@ -1,5 +1,5 @@
 ---
-title: 2019-03-30-voice-activated-foucault
+title: 2019-03-30 voice activated foucault
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2020-12-19-on-the-turkish-pseudo-coup-and-zeynep-tufekci
+title: 2020-12-19 on the turkish pseudo coup and zeynep tufekci
 description: 
 extract: 
 created: 2024-11-17 17:08

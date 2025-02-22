@@ -1,5 +1,5 @@
 ---
-title: 2020-04-01-covid-and-magic-numbers
+title: 2020-04-01 covid and magic numbers
 description: 
 extract: 
 created: 2024-11-17 17:08

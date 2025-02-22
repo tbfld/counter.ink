@@ -1,5 +1,5 @@
 ---
-title: 25-02-05 the prompt
+title: 25 02 05 the prompt
 description: 
 extract: 
 created: 2025-02-05 06:55

@@ -1,5 +1,5 @@
 ---
-title: 2019-07-17-stellar-new-journalism
+title: 2019-07-17 stellar new journalism
 description: 
 extract: 
 created: 2024-11-17 17:07

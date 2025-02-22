@@ -1,5 +1,5 @@
 ---
-title: 2021-01-12-the-jk-defense
+title: 2021-01-12 the jk defense
 description: 
 extract: 
 created: 2024-11-17 17:08

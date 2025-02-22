@@ -1,5 +1,5 @@
 ---
-title: 2019-02-03-now-add-something-about-legitimacy
+title: 2019-02-03 now add something about legitimacy
 description: 
 extract: 
 created: 2024-11-17 17:07

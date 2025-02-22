@@ -1,5 +1,5 @@
 ---
-title: 2019-07-12-not-everywhere-is-queens
+title: 2019-07-12 not everywhere is queens
 description: 
 extract: 
 created: 2024-11-17 17:07

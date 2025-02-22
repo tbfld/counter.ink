@@ -1,5 +1,5 @@
 ---
-title: 2020-09-11-choose-your-own-reality-tv-timeline
+title: 2020-09-11 choose your own reality tv timeline
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: "2025-01-12 Trump and Greenland: a timeline"
+title: 2025-01-12 Trump and Greenland: a timeline
 description: 
 extract: 
 created: 2025-01-11 23:16

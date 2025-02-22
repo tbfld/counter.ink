@@ -1,5 +1,5 @@
 ---
-title: 2016-05-09-vaping-aesthetics
+title: 2016-05-09 vaping aesthetics
 description: 
 extract: 
 created: 2024-11-17 17:08

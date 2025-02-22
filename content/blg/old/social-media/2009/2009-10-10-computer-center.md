@@ -1,5 +1,5 @@
 ---
-title: 2009-10-10-computer-center
+title: 2009-10-10 computer center
 description: 
 extract: 
 created: 2024-11-17 17:07

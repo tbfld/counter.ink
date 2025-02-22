@@ -1,5 +1,5 @@
 ---
-title: 2020-01-02-absence-as-authenticity
+title: 2020-01-02 absence as authenticity
 description: 
 extract: 
 created: 2024-11-17 17:08

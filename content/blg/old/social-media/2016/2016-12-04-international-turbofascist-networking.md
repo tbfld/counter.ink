@@ -1,5 +1,5 @@
 ---
-title: 2016-12-04-international-turbofascist-networking
+title: 2016-12-04 international turbofascist networking
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2016-04-10-nyt-photo-of-ackman
+title: 2016-04-10 nyt photo of ackman
 description: 
 extract: 
 created: 2024-11-17 17:08

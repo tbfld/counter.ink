@@ -1,5 +1,5 @@
 ---
-title: 2016-11-07-nice-shirt
+title: 2016-11-07 nice shirt
 description: 
 extract: 
 created: 2024-11-17 17:08

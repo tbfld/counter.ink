@@ -1,5 +1,5 @@
 ---
-title: 2019-07-07-who-or-what-is-to-blame
+title: 2019-07-07 who or what is to blame
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2019-11-27-cultural-values-vs-progressive-economics
+title: 2019-11-27 cultural values vs progressive economics
 description: 
 extract: 
 created: 2024-11-17 17:07

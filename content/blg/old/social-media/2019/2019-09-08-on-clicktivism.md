@@ -1,5 +1,5 @@
 ---
-title: 2019-09-08-on-clicktivism
+title: 2019-09-08 on clicktivism
 description: 
 extract: 
 created: 2024-11-17 17:07

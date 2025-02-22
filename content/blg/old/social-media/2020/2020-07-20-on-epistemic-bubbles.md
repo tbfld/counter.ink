@@ -1,5 +1,5 @@
 ---
-title: 2020-07-20-on-epistemic-bubbles
+title: 2020-07-20 on epistemic bubbles
 description: 
 extract: 
 created: 2024-11-17 17:08

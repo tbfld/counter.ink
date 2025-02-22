@@ -1,5 +1,5 @@
 ---
-title: 2017-10-28-on-value-btc-and-the-blockchain
+title: 2017-10-28 on value btc and the blockchain
 description: 
 extract: 
 created: 2024-11-17 17:07

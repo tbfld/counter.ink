@@ -1,5 +1,5 @@
 ---
-title: 2018-07-13-shadow-libraries-in-the-washington-post
+title: 2018-07-13 shadow libraries in the washington post
 description: 
 extract: 
 created: 2024-11-17 17:08

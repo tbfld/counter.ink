@@ -1,5 +1,5 @@
 ---
-title: 2016-04-26-theweleit-and-trump
+title: 2016-04-26 theweleit and trump
 description: 
 extract: 
 created: 2024-11-17 17:08

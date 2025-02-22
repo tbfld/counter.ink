@@ -1,5 +1,5 @@
 ---
-title: 2020-07-09-what-data-cant-predict
+title: 2020-07-09 what data cant predict
 description: 
 extract: 
 created: 2024-11-17 17:08

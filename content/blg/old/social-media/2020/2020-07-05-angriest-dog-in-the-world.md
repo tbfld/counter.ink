@@ -1,5 +1,5 @@
 ---
-title: 2020-07-05-angriest-dog-in-the-world
+title: 2020-07-05 angriest dog in the world
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2002-07-24-on-wtc-redevelopment
+title: 2002-07-24 on wtc redevelopment
 description: 
 extract: 
 created: 2024-11-17 17:08

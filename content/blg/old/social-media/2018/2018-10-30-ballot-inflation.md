@@ -1,5 +1,5 @@
 ---
-title: 2018-10-30-ballot-inflation
+title: 2018-10-30 ballot inflation
 description: 
 extract: 
 created: 2024-11-17 17:08

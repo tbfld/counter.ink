@@ -1,5 +1,5 @@
 ---
-title: 1996-03-22-three-questions-about-nettime
+title: 1996-03-22 three questions about nettime
 description: 
 extract: 
 created: 2024-11-17 17:08

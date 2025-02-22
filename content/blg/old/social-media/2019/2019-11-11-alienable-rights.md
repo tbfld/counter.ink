@@ -1,5 +1,5 @@
 ---
-title: 2019-11-11-alienable-rights
+title: 2019-11-11 alienable rights
 description: 
 extract: 
 created: 2024-11-17 17:07

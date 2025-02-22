@@ -1,5 +1,5 @@
 ---
-title: 2024-08-23-illustration-and-computation
+title: 2024-08-23 illustration and computation
 description: 
 extract: 
 created: 2024-11-24 09:11

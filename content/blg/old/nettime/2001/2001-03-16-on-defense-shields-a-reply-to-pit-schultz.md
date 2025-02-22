@@ -1,5 +1,5 @@
 ---
-title: 2001-03-16-on-defense-shields-a-reply-to-pit-schultz
+title: 2001-03-16 on defense shields a reply to pit schultz
 description: 
 extract: 
 created: 2024-11-17 17:08

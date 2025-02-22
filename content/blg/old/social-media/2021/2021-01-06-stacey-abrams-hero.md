@@ -1,5 +1,5 @@
 ---
-title: 2021-01-06-stacey-abrams-hero
+title: 2021-01-06 stacey abrams hero
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 1999-09-22-yucca-as-investor
+title: 1999-09-22 yucca as investor
 description: 
 extract: 
 created: 2024-11-17 17:08

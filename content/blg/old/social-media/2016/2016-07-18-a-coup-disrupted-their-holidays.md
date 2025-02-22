@@ -1,5 +1,5 @@
 ---
-title: 2016-07-18-a-coup-disrupted-their-holidays
+title: 2016-07-18 a coup disrupted their holidays
 description: 
 extract: 
 created: 2024-11-17 17:08

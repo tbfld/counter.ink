@@ -1,5 +1,5 @@
 ---
-title: 2019-07-19-math-equation-predicts-end-of-humanity
+title: 2019-07-19 math equation predicts end of humanity
 description: 
 extract: 
 created: 2024-11-17 17:08

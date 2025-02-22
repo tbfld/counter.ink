@@ -1,5 +1,5 @@
 ---
-title: 2019-08-02-mr-dilbert-apologizes-sort-of
+title: 2019-08-02 mr dilbert apologizes sort of
 description: 
 extract: 
 created: 2024-11-17 17:07

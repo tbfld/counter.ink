@@ -1,5 +1,5 @@
 ---
-title: 1999-12-23-on-various-leonardos
+title: 1999-12-23 on various leonardos
 description: 
 extract: 
 created: 2024-11-17 17:08

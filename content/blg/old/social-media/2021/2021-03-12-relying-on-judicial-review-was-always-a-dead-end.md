@@ -1,5 +1,5 @@
 ---
-title: 2021-03-12-relying-on-judicial-review-was-always-a-dead-end
+title: 2021-03-12 relying on judicial review was always a dead end
 description:
 extract:
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2018-01-01-dual-use-tech
+title: 2018-01-01 dual use tech
 description: 
 extract: 
 created: 2024-11-17 17:08

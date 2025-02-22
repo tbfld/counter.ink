@@ -1,5 +1,5 @@
 ---
-title: 2000-09-28-on-bablefish-and-machine-translation
+title: 2000-09-28 on bablefish and machine translation
 description: 
 extract: 
 created: 2024-11-17 17:08

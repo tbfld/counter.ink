@@ -1,5 +1,5 @@
 ---
-title: 2020-05-04-a-libertarian-is-a-socialist-who-hasnt-been-infected-yet
+title: 2020-05-04 a libertarian is a socialist who hasnt been infected yet
 description:
 extract:
 created: 2024-11-17 17:08

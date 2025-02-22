@@ -1,5 +1,5 @@
 ---
-title: 2018-07-14-on-manhattanhenge
+title: 2018-07-14 on manhattanhenge
 description: 
 extract: 
 created: 2024-11-17 17:08

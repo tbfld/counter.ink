@@ -1,5 +1,5 @@
 ---
-title: 2020-08-26-covid-outbreaks-in-schools
+title: 2020-08-26 covid outbreaks in schools
 description: 
 extract: 
 created: 2024-11-17 17:07

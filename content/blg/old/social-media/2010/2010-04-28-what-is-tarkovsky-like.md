@@ -1,5 +1,5 @@
 ---
-title: 2010-04-28-what-is-tarkovsky-like
+title: 2010-04-28 what is tarkovsky like
 description: 
 extract: 
 created: 2024-11-17 17:07

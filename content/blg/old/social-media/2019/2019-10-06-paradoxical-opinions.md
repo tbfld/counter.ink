@@ -1,5 +1,5 @@
 ---
-title: 2019-10-06-paradoxical-opinions
+title: 2019-10-06 paradoxical opinions
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2016-09-26-instrumental-causality
+title: 2016-09-26 instrumental causality
 description: 
 extract: 
 created: 2024-11-17 17:08

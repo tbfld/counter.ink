@@ -1,5 +1,5 @@
 ---
-title: 2017-12-12-on-the-shape-of-things-to-come-maybe
+title: 2017-12-12 on the shape of things to come maybe
 description:
 extract:
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2021-06-26-third-world-country-in-a-gucci-belt
+title: 2021-06-26 third world country in a gucci belt
 description: 
 extract: 
 created: 2024-11-17 17:08

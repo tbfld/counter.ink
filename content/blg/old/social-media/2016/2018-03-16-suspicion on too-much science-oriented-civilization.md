@@ -1,5 +1,5 @@
 ---
-title: 2018-03-16-suspicion on too-much science-oriented-civilization
+title: 2018-03-16 suspicion on too much science oriented civilization
 description: 
 extract: 
 created: 2024-11-17 17:08

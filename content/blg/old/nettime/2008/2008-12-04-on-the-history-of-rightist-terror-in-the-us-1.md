@@ -1,5 +1,5 @@
 ---
-title: 2008-12-04-on-the-history-of-rightist-terror-in-the-us-1
+title: 2008-12-04 on the history of rightist terror in the us 1
 description: 
 extract: 
 created: 2024-11-17 17:08

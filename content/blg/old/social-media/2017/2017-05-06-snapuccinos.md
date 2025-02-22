@@ -1,5 +1,5 @@
 ---
-title: 2017-05-06-snapuccinos
+title: 2017-05-06 snapuccinos
 description: 
 extract: 
 created: 2024-11-17 17:07

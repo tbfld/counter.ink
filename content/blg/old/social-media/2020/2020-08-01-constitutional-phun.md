@@ -1,5 +1,5 @@
 ---
-title: 2020-08-01-constitutional-phun
+title: 2020-08-01 constitutional phun
 description: 
 extract: 
 created: 2024-11-17 17:08

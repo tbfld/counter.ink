@@ -1,5 +1,5 @@
 ---
-title: 2010-02-22-do-the-f-what-you-want-license
+title: 2010-02-22 do the f what you want license
 description: 
 extract: 
 created: 2024-11-17 17:08

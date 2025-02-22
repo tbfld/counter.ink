@@ -1,5 +1,5 @@
 ---
-title: 2024-08-24-the-left-is-not-prepared-for-this
+title: 2024-08-24 the left is not prepared for this
 description: 
 extract: 
 created: 2024-11-17 17:07

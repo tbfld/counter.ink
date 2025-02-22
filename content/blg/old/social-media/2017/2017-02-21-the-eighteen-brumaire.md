@@ -1,5 +1,5 @@
 ---
-title: 2017-02-21-the-eighteen-brumaire
+title: 2017-02-21 the eighteen brumaire
 description: 
 extract: 
 created: 2024-11-17 17:07

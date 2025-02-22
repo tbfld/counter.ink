@@ -1,5 +1,5 @@
 ---
-title: 2019-09-22-american-chopper-poli-sci
+title: 2019-09-22 american chopper poli sci
 description: 
 extract: 
 created: 2024-11-17 17:07

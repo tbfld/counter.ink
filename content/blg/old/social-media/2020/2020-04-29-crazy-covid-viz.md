@@ -1,5 +1,5 @@
 ---
-title: 2020-04-29-crazy-covid-viz
+title: 2020-04-29 crazy covid viz
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2019-03-27-a-certain-british-encyclopedia
+title: 2019-03-27 a certain british encyclopedia
 description: 
 extract: 
 created: 2024-11-17 17:07

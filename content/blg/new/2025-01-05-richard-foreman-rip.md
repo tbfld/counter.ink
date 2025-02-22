@@ -1,5 +1,5 @@
 ---
-title: 2025-01-05Richard Foreman RIP
+title: 2025-01-05 Richard Foreman RIP
 description: 
 extract: 
 created: 2025-01-05 09:46

@@ -1,5 +1,5 @@
 ---
-title: 2017-06-18-can-the-left-meme
+title: 2017-06-18 can the left meme
 description:
 extract:
 created: 2024-11-17 17:08

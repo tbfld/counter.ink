@@ -1,5 +1,5 @@
 ---
-title: 2024-08-28-artificial-holzer
+title: 2024-08-28 artificial holzer
 description: 
 extract: 
 created: 2024-11-17 17:07

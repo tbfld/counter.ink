@@ -1,5 +1,5 @@
 ---
-title: 2020-04-08-we-can-do-better-than-herd-immunity
+title: 2020-04-08 we can do better than herd immunity
 description: 
 extract: 
 created: 2024-11-17 17:08

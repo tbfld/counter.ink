@@ -1,5 +1,5 @@
 ---
-title: 2011-08-06-scabby-vs-the-arts
+title: 2011-08-06 scabby vs the arts
 description: 
 extract: 
 created: 2024-11-17 17:08

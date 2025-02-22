@@ -1,5 +1,5 @@
 ---
-title: 2019-08-19-belt-and-suspenders
+title: 2019-08-19 belt and suspenders
 description: 
 extract: 
 created: 2024-11-17 17:07

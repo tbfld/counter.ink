@@ -1,5 +1,5 @@
 ---
-title: 2001-02-14-on-dejanews-and-usenet-archives-a-reply-to-geert-lovink
+title: 2001-02-14 on dejanews and usenet archives a reply to geert lovink
 description: 
 extract: 
 created: 2024-11-17 17:08

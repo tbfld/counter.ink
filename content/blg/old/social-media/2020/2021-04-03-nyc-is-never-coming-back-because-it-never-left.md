@@ -1,5 +1,5 @@
 ---
-title: 2021-04-03-nyc-is-never-coming-back-because-it-never-left
+title: 2021-04-03 nyc is never coming back because it never left
 description: 
 extract: 
 created: 2024-11-17 17:08

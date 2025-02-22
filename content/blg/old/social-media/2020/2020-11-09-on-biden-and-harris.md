@@ -1,5 +1,5 @@
 ---
-title: 2020-11-09-on-biden-and-harris
+title: 2020-11-09 on biden and harris
 description:
 extract:
 created: 2024-11-17 17:08

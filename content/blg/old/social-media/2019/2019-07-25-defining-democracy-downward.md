@@ -1,5 +1,5 @@
 ---
-title: 2019-07-25-defining-democracy-downward
+title: 2019-07-25 defining democracy downward
 description: 
 extract: 
 created: 2024-11-17 17:07

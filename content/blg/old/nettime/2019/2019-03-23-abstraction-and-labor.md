@@ -1,5 +1,5 @@
 ---
-title: 2019-03-23-abstraction-and-labor
+title: 2019-03-23 abstraction and labor
 description: 
 extract: 
 created: 2024-11-17 17:08

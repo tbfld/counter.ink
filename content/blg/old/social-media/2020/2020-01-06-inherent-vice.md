@@ -1,5 +1,5 @@
 ---
-title: 2020-01-06-inherent-vice
+title: 2020-01-06 inherent vice
 description: 
 extract: 
 created: 2024-11-17 17:08

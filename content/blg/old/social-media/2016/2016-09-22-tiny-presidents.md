@@ -1,5 +1,5 @@
 ---
-title: 2016-09-22-tiny-presidents
+title: 2016-09-22 tiny presidents
 description: 
 extract: 
 created: 2024-11-17 17:08

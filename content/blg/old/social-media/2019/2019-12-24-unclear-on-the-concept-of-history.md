@@ -1,5 +1,5 @@
 ---
-title: 2019-12-24-unclear-on-the-concept-of-history
+title: 2019-12-24 unclear on the concept of history
 description: 
 extract: 
 created: 2024-11-17 17:07

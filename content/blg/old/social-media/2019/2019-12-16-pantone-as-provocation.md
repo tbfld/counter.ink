@@ -1,5 +1,5 @@
 ---
-title: 2019-12-16-pantone-as-provocation
+title: 2019-12-16 pantone as provocation
 description: 
 extract: 
 created: 2024-11-17 17:07

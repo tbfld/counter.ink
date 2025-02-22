@@ -1,5 +1,5 @@
 ---
-title: 2019-03-27-what-did-we-do-for-fun
+title: 2019-03-27 what did we do for fun
 description: 
 extract: 
 created: 2024-11-17 17:07

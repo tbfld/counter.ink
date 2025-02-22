@@ -1,5 +1,5 @@
 ---
-title: 1999-12-28-dvd-css-analysis-and-comments
+title: 1999-12-28 dvd css analysis and comments
 description: 
 extract: 
 created: 2024-11-17 17:08

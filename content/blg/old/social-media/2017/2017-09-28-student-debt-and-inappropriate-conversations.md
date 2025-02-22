@@ -1,5 +1,5 @@
 ---
-title: 2017-09-28-student-debt-and-inappropriate-conversations
+title: 2017-09-28 student debt and inappropriate conversations
 description: 
 extract: 
 created: 2024-11-17 17:07

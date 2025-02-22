@@ -1,5 +1,5 @@
 ---
-title: 2021-05-17-too-crude-for-culture
+title: 2021-05-17 too crude for culture
 description:
 extract:
 created: 2024-11-17 17:08

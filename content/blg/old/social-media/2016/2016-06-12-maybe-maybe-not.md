@@ -1,5 +1,5 @@
 ---
-title: 2016-06-12-maybe-maybe-not
+title: 2016-06-12 maybe maybe not
 description: 
 extract: 
 created: 2024-11-17 17:08

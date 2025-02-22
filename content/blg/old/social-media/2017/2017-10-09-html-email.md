@@ -1,5 +1,5 @@
 ---
-title: 2017-10-09-html-email
+title: 2017-10-09 html email
 description: 
 extract: 
 created: 2024-11-17 17:07

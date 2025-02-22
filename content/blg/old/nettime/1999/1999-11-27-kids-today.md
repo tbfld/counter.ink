@@ -1,5 +1,5 @@
 ---
-title: 1999-11-27-kids-today
+title: 1999-11-27 kids today
 description: 
 extract: 
 created: 2024-11-17 17:08

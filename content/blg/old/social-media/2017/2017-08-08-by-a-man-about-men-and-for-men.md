@@ -1,5 +1,5 @@
 ---
-title: 2017-08-08-by-a-man-about-men-and-for-men
+title: 2017-08-08 by a man about men and for men
 description: 
 extract: 
 created: 2024-11-17 17:07

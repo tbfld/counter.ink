@@ -1,5 +1,5 @@
 ---
-title: 2020-07-25-the-solution-to-outrage-is-more-outrage
+title: 2020-07-25 the solution to outrage is more outrage
 description: 
 extract: 
 created: 2024-11-17 17:08

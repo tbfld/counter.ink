@@ -1,5 +1,5 @@
 ---
-title: 1997-06-02-on-revolution-a-reply-to-richard-barbrook
+title: 1997-06-02 on revolution a reply to richard barbrook
 description: 
 extract: 
 created: 2024-11-17 17:08

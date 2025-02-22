@@ -1,5 +1,5 @@
 ---
-title: 1999-09-18-schneier-cryptogram-and-comments
+title: 1999-09-18 schneier cryptogram and comments
 description: 
 extract: 
 created: 2024-11-17 17:08

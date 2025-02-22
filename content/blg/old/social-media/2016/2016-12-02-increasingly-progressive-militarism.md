@@ -1,5 +1,5 @@
 ---
-title: 2016-12-02-increasingly-progressive-militarism
+title: 2016-12-02 increasingly progressive militarism
 description: 
 extract: 
 created: 2024-11-17 17:08

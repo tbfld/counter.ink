@@ -1,5 +1,5 @@
 ---
-title: 2019-07-05-on-mocking-trump
+title: 2019-07-05 on mocking trump
 description: 
 extract: 
 created: 2024-11-17 17:08

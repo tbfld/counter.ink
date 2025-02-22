@@ -1,5 +1,5 @@
 ---
-title: 2017-12-31-btc-and-austrian-theory
+title: 2017-12-31 btc and austrian theory
 description:
 extract:
 created: 2024-11-17 17:08

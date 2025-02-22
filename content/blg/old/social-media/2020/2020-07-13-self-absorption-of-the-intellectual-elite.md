@@ -1,5 +1,5 @@
 ---
-title: 2020-07-13-self-absorption-of-the-intellectual-elite
+title: 2020-07-13 self absorption of the intellectual elite
 description: 
 extract: 
 created: 2024-11-17 17:08

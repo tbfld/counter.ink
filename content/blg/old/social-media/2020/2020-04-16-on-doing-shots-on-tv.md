@@ -1,5 +1,5 @@
 ---
-title: 2020-04-16-on-doing-shots-on-tv
+title: 2020-04-16 on doing shots on tv
 description: 
 extract: 
 created: 2024-11-17 17:08

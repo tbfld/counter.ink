@@ -1,5 +1,5 @@
 ---
-title: 2003-03-29-on-geert-lovink-dark-fibre
+title: 2003-03-29 on geert lovink dark fibre
 description: 
 extract: 
 created: 2024-11-17 17:08

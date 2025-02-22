@@ -1,5 +1,5 @@
 ---
-title: 2024-09-19-on-gigantic-golden-scisssors
+title: 2024-09-19 on gigantic golden scisssors
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2019-08-05-deterring-politicians
+title: 2019-08-05 deterring politicians
 description: 
 extract: 
 created: 2024-11-17 17:07

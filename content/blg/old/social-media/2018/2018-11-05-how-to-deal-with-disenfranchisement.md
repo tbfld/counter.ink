@@ -1,5 +1,5 @@
 ---
-title: 2018-11-05-how-to-deal-with-disenfranchisement
+title: 2018-11-05 how to deal with disenfranchisement
 description: 
 extract: 
 created: 2024-11-17 17:08

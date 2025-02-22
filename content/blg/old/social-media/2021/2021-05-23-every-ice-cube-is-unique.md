@@ -1,5 +1,5 @@
 ---
-title: 2021-05-23-every-ice-cube-is-unique
+title: 2021-05-23 every ice cube is unique
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2020-01-22-both-sides-now
+title: 2020-01-22 both sides now
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2016-05-17-college-shedding-programs
+title: 2016-05-17 college shedding programs
 description: 
 extract: 
 created: 2024-11-17 17:08

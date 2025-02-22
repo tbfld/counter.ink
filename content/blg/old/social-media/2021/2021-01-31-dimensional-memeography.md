@@ -1,5 +1,5 @@
 ---
-title: 2021-01-31-dimensional-memeography
+title: 2021-01-31 dimensional memeography
 description: 
 extract: 
 created: 2024-11-17 17:08

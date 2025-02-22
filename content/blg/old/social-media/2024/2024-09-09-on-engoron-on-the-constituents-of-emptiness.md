@@ -1,5 +1,5 @@
 ---
-title: 2024-09-09-on-engoron-on-the-constituents-of-emptiness
+title: 2024-09-09 on engoron on the constituents of emptiness
 description: 
 extract: 
 created: 2024-11-17 17:07

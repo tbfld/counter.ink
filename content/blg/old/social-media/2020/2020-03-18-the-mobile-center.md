@@ -1,5 +1,5 @@
 ---
-title: 2020-03-18-the-mobile-center
+title: 2020-03-18 the mobile center
 description: 
 extract: 
 created: 2024-11-17 17:08

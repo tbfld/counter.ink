@@ -1,7 +1,7 @@
 ---
 enableToc:
 permalink:
-title: yaml_headers-image-notes
+title: yaml_headers image notes
 description:
 extract:
 created: Invalid date

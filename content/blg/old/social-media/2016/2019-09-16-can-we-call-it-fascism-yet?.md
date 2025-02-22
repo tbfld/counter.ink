@@ -1,5 +1,5 @@
 ---
-title: 2019-09-16-can-we-call-it-fascism-yet?
+title: 2019-09-16 can we call it fascism yet?
 description: 
 extract: 
 created: 2024-11-17 17:08

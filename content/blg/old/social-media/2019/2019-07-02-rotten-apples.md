@@ -1,5 +1,5 @@
 ---
-title: 2019-07-02-rotten-apples
+title: 2019-07-02 rotten apples
 description: 
 extract: 
 created: 2024-11-17 17:07

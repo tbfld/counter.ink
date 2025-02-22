@@ -1,5 +1,5 @@
 ---
-title: 2018-04-26-gordon-pasks-machine
+title: 2018-04-26 gordon pasks machine
 description: 
 extract: 
 created: 2024-11-17 17:08

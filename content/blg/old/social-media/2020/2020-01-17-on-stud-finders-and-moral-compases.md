@@ -1,5 +1,5 @@
 ---
-title: 2020-01-17-on-stud-finders-and-moral-compases
+title: 2020-01-17 on stud finders and moral compases
 description: 
 extract: 
 created: 2024-11-17 17:08

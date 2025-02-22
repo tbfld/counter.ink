@@ -1,5 +1,5 @@
 ---
-title: 1997-03-02-on-world-wealth-a-reply-jesse-hirsh
+title: 1997-03-02 on world wealth a reply jesse hirsh
 description: 
 extract: 
 created: 2024-11-17 17:08

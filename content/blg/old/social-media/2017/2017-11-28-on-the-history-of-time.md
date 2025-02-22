@@ -1,5 +1,5 @@
 ---
-title: 2017-11-28-on-the-history-of-time
+title: 2017-11-28 on the history of time
 description: 
 extract: 
 created: 2024-11-17 17:07

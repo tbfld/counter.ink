@@ -1,5 +1,5 @@
 ---
-title: 2021-05-11-misogyny-and-local-coverage
+title: 2021-05-11 misogyny and local coverage
 description:
 extract:
 created: 2024-11-17 17:08

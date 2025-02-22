@@ -1,5 +1,5 @@
 ---
-title: 2017-06-18-new-directions-in-memery
+title: 2017-06-18 new directions in memery
 description: 
 extract: 
 created: 2024-11-17 17:07

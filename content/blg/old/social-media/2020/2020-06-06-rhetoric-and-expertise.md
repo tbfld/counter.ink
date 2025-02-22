@@ -1,5 +1,5 @@
 ---
-title: 2020-06-06-rhetoric-and-expertise
+title: 2020-06-06 rhetoric and expertise
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2016-08-02-premature-antifascism
+title: 2016-08-02 premature antifascism
 description: 
 extract: 
 created: 2024-11-17 17:08

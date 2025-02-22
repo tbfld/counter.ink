@@ -1,5 +1,5 @@
 ---
-title: 2019-06-18-on-makerism
+title: 2019-06-18 on makerism
 description: 
 extract: 
 created: 2024-11-17 17:07

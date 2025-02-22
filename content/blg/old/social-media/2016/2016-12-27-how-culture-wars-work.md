@@ -1,5 +1,5 @@
 ---
-title: 2016-12-27-how-culture-wars-work
+title: 2016-12-27 how culture wars work
 description: 
 extract: 
 created: 2024-11-17 17:08

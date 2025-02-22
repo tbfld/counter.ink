@@ -1,5 +1,5 @@
 ---
-title: 2013-07-03-on-the-need-to-rethink-privacy-and-surveillance
+title: 2013-07-03 on the need to rethink privacy and surveillance
 description: 
 extract: 
 created: 2024-11-17 17:08

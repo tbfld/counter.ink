@@ -1,5 +1,5 @@
 ---
-title: 2016-07-23-here-comes-everybody-quoting-somebody
+title: 2016-07-23 here comes everybody quoting somebody
 description: 
 extract: 
 created: 2024-11-17 17:08

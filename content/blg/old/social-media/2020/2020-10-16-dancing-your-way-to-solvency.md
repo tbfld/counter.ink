@@ -1,5 +1,5 @@
 ---
-title: 2020-10-16-dancing-your-way-to-solvency
+title: 2020-10-16 dancing your way to solvency
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2020-08-05-waiving-accreditation-and-covid
+title: 2020-08-05 waiving accreditation and covid
 description: 
 extract: 
 created: 2024-11-17 17:08

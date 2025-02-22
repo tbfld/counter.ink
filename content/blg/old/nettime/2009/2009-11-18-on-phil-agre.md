@@ -1,5 +1,5 @@
 ---
-title: 2009-11-18-on-phil-agre
+title: 2009-11-18 on phil agre
 description: 
 extract: 
 created: 2024-11-17 17:08

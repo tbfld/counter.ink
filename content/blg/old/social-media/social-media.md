@@ -1,5 +1,5 @@
 ---
-title: social-media
+title: social media
 description:
 extract:
 created: 2024-11-20 23:04

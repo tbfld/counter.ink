@@ -1,5 +1,5 @@
 ---
-title: 2017-01-17-on-astronaut-portraits
+title: 2017-01-17 on astronaut portraits
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2020-02-04-parent-typology
+title: 2020-02-04 parent typology
 description: 
 extract: 
 created: 2024-11-17 17:08

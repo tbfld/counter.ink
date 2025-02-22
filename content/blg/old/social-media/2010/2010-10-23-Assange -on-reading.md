@@ -1,5 +1,5 @@
 ---
-title: 2010-10-23-Assange -on-reading
+title: 2010-10-23 Assange  on reading
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 20191031-110421-twitter-typing-bug
+title: 20191031 110421 twitter typing bug
 description: 
 extract: 
 created: 2024-11-17 17:08

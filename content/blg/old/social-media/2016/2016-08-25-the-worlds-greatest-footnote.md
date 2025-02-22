@@ -1,5 +1,5 @@
 ---
-title: 2016-08-25-the-worlds-greatest-footnote
+title: 2016-08-25 the worlds greatest footnote
 description: 
 extract: 
 created: 2024-11-17 17:08

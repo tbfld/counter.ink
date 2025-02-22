@@ -1,5 +1,5 @@
 ---
-title: 2017-11-30-bestriding-the-world
+title: 2017-11-30 bestriding the world
 description: 
 extract: 
 created: 2024-11-17 17:07

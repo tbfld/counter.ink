@@ -1,5 +1,5 @@
 ---
-title: 2019-02-25-on-corporate-social-responsibility
+title: 2019-02-25 on corporate social responsibility
 description: 
 extract: 
 created: 2024-11-17 17:07

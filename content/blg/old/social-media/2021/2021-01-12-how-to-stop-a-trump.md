@@ -1,5 +1,5 @@
 ---
-title: 2021-01-12-how-to-stop-a-trump
+title: 2021-01-12 how to stop a trump
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2016-09-06-text-rendering
+title: 2016-09-06 text rendering
 description: 
 extract: 
 created: 2024-11-17 17:08

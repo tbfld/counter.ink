@@ -1,5 +1,5 @@
 ---
-title: 2021-05-21-were-designed-for-fascism
+title: 2021-05-21 were designed for fascism
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2016-12-02-potus-jcs-and-nukes
+title: 2016-12-02 potus jcs and nukes
 description: 
 extract: 
 created: 2024-11-17 17:08

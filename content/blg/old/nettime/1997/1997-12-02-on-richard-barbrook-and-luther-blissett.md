@@ -1,5 +1,5 @@
 ---
-title: 1997-12-02-on-richard-barbrook-and-luther-blissett
+title: 1997-12-02 on richard barbrook and luther blissett
 description: 
 extract: 
 created: 2024-11-17 17:08

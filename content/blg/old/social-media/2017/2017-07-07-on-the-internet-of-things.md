@@ -1,5 +1,5 @@
 ---
-title: 2017-07-07-on-the-internet-of-things
+title: 2017-07-07 on the internet of things
 description:
 extract:
 created: 2024-11-17 17:07

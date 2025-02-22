@@ -1,5 +1,5 @@
 ---
-title: 2020-05-24-models-of-community
+title: 2020-05-24 models of community
 description:
 extract:
 created: 2024-11-17 17:08

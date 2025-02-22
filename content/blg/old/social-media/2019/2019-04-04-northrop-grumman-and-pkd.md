@@ -1,5 +1,5 @@
 ---
-title: 2019-04-04-northrop-grumman-and-pkd
+title: 2019-04-04 northrop grumman and pkd
 description: 
 extract: 
 created: 2024-11-17 17:07

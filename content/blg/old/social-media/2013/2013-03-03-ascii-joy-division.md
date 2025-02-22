@@ -1,5 +1,5 @@
 ---
-title: 2013-03-03-ascii-joy-division
+title: 2013-03-03 ascii joy division
 description: 
 extract: 
 created: 2024-11-17 17:07

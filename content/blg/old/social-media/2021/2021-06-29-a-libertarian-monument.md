@@ -1,5 +1,5 @@
 ---
-title: 2021-06-29-a-libertarian-monument
+title: 2021-06-29 a libertarian monument
 description: 
 extract: 
 created: 2024-11-17 17:08

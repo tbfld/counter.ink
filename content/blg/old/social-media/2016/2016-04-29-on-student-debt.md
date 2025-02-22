@@ -1,5 +1,5 @@
 ---
-title: 2016-04-29-on-student-debt
+title: 2016-04-29 on student debt
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2024-08-20-gramsci-stats-overflow
+title: 2024-08-20 gramsci stats overflow
 description: 
 extract: 
 created: 2024-11-24 10:01

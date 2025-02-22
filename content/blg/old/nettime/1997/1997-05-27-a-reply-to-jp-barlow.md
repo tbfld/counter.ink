@@ -1,5 +1,5 @@
 ---
-title: 1997-05-27-a-reply-to-jp-barlow
+title: 1997-05-27 a reply to jp barlow
 description: 
 extract: 
 created: 2024-11-17 17:08

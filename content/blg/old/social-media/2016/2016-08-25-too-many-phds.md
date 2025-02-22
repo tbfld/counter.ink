@@ -1,5 +1,5 @@
 ---
-title: 2016-08-25-too-many-phds
+title: 2016-08-25 too many phds
 description: 
 extract: 
 created: 2024-11-17 17:08

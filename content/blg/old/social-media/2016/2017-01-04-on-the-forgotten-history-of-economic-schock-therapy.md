@@ -1,5 +1,5 @@
 ---
-title: 2017-01-04-on-the-forgotten-history-of-economic-schock-therapy
+title: 2017-01-04 on the forgotten history of economic schock therapy
 description: 
 extract: 
 created: 2024-11-17 17:08

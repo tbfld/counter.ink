@@ -1,5 +1,5 @@
 ---
-title: 2016-10-17-nyt-and-nyc-real-estate
+title: 2016-10-17 nyt and nyc real estate
 description: 
 extract: 
 created: 2024-11-17 17:08

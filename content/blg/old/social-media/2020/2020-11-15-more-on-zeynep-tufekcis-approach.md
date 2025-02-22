@@ -1,5 +1,5 @@
 ---
-title: 2020-11-15-more-on-zeynep-tufekcis-approach
+title: 2020-11-15 more on zeynep tufekcis approach
 description: 
 extract: 
 created: 2024-11-17 17:08

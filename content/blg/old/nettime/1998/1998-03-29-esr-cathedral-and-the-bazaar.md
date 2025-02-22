@@ -1,5 +1,5 @@
 ---
-title: 1998-03-29-esr-cathedral-and-the-bazaar
+title: 1998-03-29 esr cathedral and the bazaar
 description: 
 extract: 
 created: 2024-11-17 17:08

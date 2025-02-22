@@ -1,5 +1,5 @@
 ---
-title: 2016-06-10-photoshop
+title: 2016-06-10 photoshop
 description: 
 extract: 
 created: 2024-11-17 17:08

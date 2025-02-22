@@ -1,5 +1,5 @@
 ---
-title: 2017-06-06-verizon-pole-repairs-not
+title: 2017-06-06 verizon pole repairs not
 description: 
 extract: 
 created: 2024-11-17 17:07

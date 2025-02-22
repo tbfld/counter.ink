@@ -1,5 +1,5 @@
 ---
-title: 2020-07-23-covid-and-architecture
+title: 2020-07-23 covid and architecture
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2001-02-07-on-spam-and-scaling
+title: 2001-02-07 on spam and scaling
 description: 
 extract: 
 created: 2024-11-17 17:08

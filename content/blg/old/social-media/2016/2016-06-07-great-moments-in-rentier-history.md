@@ -1,5 +1,5 @@
 ---
-title: 2016-06-07-great-moments-in-rentier-history
+title: 2016-06-07 great moments in rentier history
 description: 
 extract: 
 created: 2024-11-17 17:08

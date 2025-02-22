@@ -1,5 +1,5 @@
 ---
-title: 2019-10-19-intersectionality-sorta
+title: 2019-10-19 intersectionality sorta
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2011-05-30-on-the-rapture
+title: 2011-05-30 on the rapture
 description: 
 extract: 
 created: 2024-11-17 17:08

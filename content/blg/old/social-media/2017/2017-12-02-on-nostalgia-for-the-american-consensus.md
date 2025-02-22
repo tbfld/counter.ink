@@ -1,5 +1,5 @@
 ---
-title: 2017-12-02-on-nostalgia-for-the-american-consensus
+title: 2017-12-02 on nostalgia for the american consensus
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2021-01-29-critical-qualitative-detail
+title: 2021-01-29 critical qualitative detail
 description: 
 extract: 
 created: 2024-11-17 17:08

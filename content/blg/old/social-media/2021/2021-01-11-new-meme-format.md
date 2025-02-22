@@ -1,5 +1,5 @@
 ---
-title: 2021-01-11-new-meme-format
+title: 2021-01-11 new meme format
 description: 
 extract: 
 created: 2024-11-17 17:08

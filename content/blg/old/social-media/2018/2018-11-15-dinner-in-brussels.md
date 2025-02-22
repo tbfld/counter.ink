@@ -1,5 +1,5 @@
 ---
-title: 2018-11-15-dinner-in-brussels
+title: 2018-11-15 dinner in brussels
 description: 
 extract: 
 created: 2024-11-17 17:08

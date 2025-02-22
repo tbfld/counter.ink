@@ -1,5 +1,5 @@
 ---
-title: 2018-08-08-somewhere-ive-forgotten
+title: 2018-08-08 somewhere ive forgotten
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2016-04-06-on-the-panama-papers-a-reply-to-patrice-riemens
+title: 2016-04-06 on the panama papers a reply to patrice riemens
 description: 
 extract: 
 created: 2024-11-17 17:08

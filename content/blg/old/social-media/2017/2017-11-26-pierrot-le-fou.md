@@ -1,5 +1,5 @@
 ---
-title: 2017-11-26-pierrot-le-fou
+title: 2017-11-26 pierrot le fou
 description: 
 extract: 
 created: 2024-11-17 17:07

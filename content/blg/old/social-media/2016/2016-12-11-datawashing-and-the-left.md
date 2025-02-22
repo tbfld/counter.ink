@@ -1,5 +1,5 @@
 ---
-title: 2016-12-11-datawashing-and-the-left
+title: 2016-12-11 datawashing and the left
 description: 
 extract: 
 created: 2024-11-17 17:08

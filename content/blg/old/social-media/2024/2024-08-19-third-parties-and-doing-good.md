@@ -1,5 +1,5 @@
 ---
-title: 2024-08-19-third-parties-and-doing-good
+title: 2024-08-19 third parties and doing good
 description: 
 extract: 
 created: 2024-11-24 10:09

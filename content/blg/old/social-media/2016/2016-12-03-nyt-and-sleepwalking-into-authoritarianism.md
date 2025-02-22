@@ -1,5 +1,5 @@
 ---
-title: 2016-12-03-nyt-and-sleepwalking-into-authoritarianism
+title: 2016-12-03 nyt and sleepwalking into authoritarianism
 description: 
 extract: 
 created: 2024-11-17 17:08

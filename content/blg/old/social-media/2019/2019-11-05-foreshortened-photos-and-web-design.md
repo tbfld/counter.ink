@@ -1,5 +1,5 @@
 ---
-title: 2019-11-05-foreshortened-photos-and-web-design
+title: 2019-11-05 foreshortened photos and web design
 description: 
 extract: 
 created: 2024-11-17 17:07

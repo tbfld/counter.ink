@@ -1,5 +1,5 @@
 ---
-title: 2000-06-12-on-photocopying-a-reply-to-wark-1
+title: 2000-06-12 on photocopying a reply to wark 1
 description: 
 extract: 
 created: 2024-11-17 17:08

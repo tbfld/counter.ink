@@ -1,5 +1,5 @@
 ---
-title: 2018-03-17-on-david-bowie-is
+title: 2018-03-17 on david bowie is
 description: 
 extract: 
 created: 2024-11-17 17:08

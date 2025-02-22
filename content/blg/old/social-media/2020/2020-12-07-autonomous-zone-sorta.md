@@ -1,5 +1,5 @@
 ---
-title: 2020-12-07-autonomous-zone-sorta
+title: 2020-12-07 autonomous zone sorta
 description: 
 extract: 
 created: 2024-11-17 17:08

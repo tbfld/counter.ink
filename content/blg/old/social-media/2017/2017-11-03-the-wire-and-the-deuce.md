@@ -1,5 +1,5 @@
 ---
-title: 2017-11-03-the-wire-and-the-deuce
+title: 2017-11-03 the wire and the deuce
 description: 
 extract: 
 created: 2024-11-17 17:07

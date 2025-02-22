@@ -1,5 +1,5 @@
 ---
-title: 2002-03-27-on-intellectual-property-and-indigenous-sovereignty
+title: 2002-03-27 on intellectual property and indigenous sovereignty
 description: 
 extract: 
 created: 2024-11-17 17:08

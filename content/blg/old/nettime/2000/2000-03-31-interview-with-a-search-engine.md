@@ -1,5 +1,5 @@
 ---
-title: 2000-03-31-interview-with-a-search-engine
+title: 2000-03-31 interview with a search engine
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2019-12-19-magas-here-to-stay
+title: 2019-12-19 magas here to stay
 description: 
 extract: 
 created: 2024-11-17 17:07

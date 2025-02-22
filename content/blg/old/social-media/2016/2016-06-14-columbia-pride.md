@@ -1,5 +1,5 @@
 ---
-title: 2016-06-14-columbia-pride
+title: 2016-06-14 columbia pride
 description: 
 extract: 
 created: 2024-11-17 17:08

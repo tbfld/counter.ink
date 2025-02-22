@@ -1,5 +1,5 @@
 ---
-title: 2018-06-02-rich-kids-of
+title: 2018-06-02 rich kids of
 description: 
 extract: 
 created: 2024-11-17 17:08

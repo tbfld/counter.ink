@@ -1,5 +1,5 @@
 ---
-title: 1999-11-10-on-the-cybersquatting-bill
+title: 1999-11-10 on the cybersquatting bill
 description: 
 extract: 
 created: 2024-11-17 17:08

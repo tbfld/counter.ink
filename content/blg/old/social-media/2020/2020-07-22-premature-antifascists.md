@@ -1,5 +1,5 @@
 ---
-title: 2020-07-22-premature-antifascists
+title: 2020-07-22 premature antifascists
 description:
 extract:
 created: 2024-11-17 17:08

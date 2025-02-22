@@ -1,5 +1,5 @@
 ---
-title: 2019-08-21-on-internationally-coordinated-lying
+title: 2019-08-21 on internationally coordinated lying
 description: 
 extract: 
 created: 2024-11-17 17:07

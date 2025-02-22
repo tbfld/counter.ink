@@ -1,5 +1,5 @@
 ---
-title: 2019-07-22-sclerotic-dems
+title: 2019-07-22 sclerotic dems
 description: 
 extract: 
 created: 2024-11-17 17:07

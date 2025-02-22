@@ -1,5 +1,5 @@
 ---
-title: 2021-03-24-geoengineering-is-incompatible-with-democracies
+title: 2021-03-24 geoengineering is incompatible with democracies
 description:
 extract:
 created: 2024-11-17 17:08

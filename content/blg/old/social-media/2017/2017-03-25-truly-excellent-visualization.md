@@ -1,5 +1,5 @@
 ---
-title: 2017-03-25-truly-excellent-visualization
+title: 2017-03-25 truly excellent visualization
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2018-06-07-on-wedding-cakes-and-the-law
+title: 2018-06-07 on wedding cakes and the law
 description: 
 extract: 
 created: 2024-11-17 17:08

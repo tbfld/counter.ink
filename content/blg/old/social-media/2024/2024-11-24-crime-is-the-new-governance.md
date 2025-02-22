@@ -1,5 +1,5 @@
 ---
-title: 2024-11-24-crime-is-the-new-governance
+title: 2024-11-24 crime is the new governance
 description: 
 extract: 
 created: 2024-11-24 10:52

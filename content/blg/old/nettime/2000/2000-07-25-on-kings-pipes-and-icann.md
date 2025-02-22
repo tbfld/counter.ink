@@ -1,5 +1,5 @@
 ---
-title: 2000-07-25-on-kings-pipes-and-icann
+title: 2000-07-25 on kings pipes and icann
 description: 
 extract: 
 created: 2024-11-17 17:08

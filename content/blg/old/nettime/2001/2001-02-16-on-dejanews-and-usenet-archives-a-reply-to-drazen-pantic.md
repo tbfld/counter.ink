@@ -1,5 +1,5 @@
 ---
-title: 2001-02-16-on-dejanews-and-usenet-archives-a-reply-to-drazen-pantic
+title: 2001-02-16 on dejanews and usenet archives a reply to drazen pantic
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2017-08-16-no-privacy-for-authoritarians
+title: 2017-08-16 no privacy for authoritarians
 description: 
 extract: 
 created: 2024-11-17 17:07

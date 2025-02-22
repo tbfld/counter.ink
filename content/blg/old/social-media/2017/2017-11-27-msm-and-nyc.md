@@ -1,5 +1,5 @@
 ---
-title: 2017-11-27-msm-and-nyc
+title: 2017-11-27 msm and nyc
 description: 
 extract: 
 created: 2024-11-17 17:07

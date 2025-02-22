@@ -1,5 +1,5 @@
 ---
-title: 2019-02-23-on-gift-giving
+title: 2019-02-23 on gift giving
 description: 
 extract: 
 created: 2024-11-17 17:07

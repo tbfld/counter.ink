@@ -1,5 +1,5 @@
 ---
-title: 2017-05-18-erdogans-thugs-in-dc
+title: 2017-05-18 erdogans thugs in dc
 description: 
 extract: 
 created: 2024-11-17 17:07

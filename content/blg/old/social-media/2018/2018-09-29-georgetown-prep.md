@@ -1,5 +1,5 @@
 ---
-title: 2018-09-29-georgetown-prep
+title: 2018-09-29 georgetown prep
 description: 
 extract: 
 created: 2024-11-17 17:08

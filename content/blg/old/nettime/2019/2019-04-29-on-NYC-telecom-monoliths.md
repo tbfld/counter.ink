@@ -1,5 +1,5 @@
 ---
-title: 2019-04-29-on-NYC-telecom-monoliths
+title: 2019-04-29 on NYC telecom monoliths
 description: 
 extract: 
 created: 2024-11-17 17:08

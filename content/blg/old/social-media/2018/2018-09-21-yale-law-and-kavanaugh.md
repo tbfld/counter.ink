@@ -1,5 +1,5 @@
 ---
-title: 2018-09-21-yale-law-and-kavanaugh
+title: 2018-09-21 yale law and kavanaugh
 description: 
 extract: 
 created: 2024-11-17 17:08

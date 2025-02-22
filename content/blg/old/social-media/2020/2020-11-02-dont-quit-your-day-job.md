@@ -1,5 +1,5 @@
 ---
-title: 2020-11-02-dont-quit-your-day-job
+title: 2020-11-02 dont quit your day job
 description: 
 extract: 
 created: 2024-11-17 17:08

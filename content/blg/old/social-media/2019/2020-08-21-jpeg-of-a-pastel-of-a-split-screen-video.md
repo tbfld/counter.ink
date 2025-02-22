@@ -1,5 +1,5 @@
 ---
-title: 2020-08-21-jpeg-of-a-pastel-of-a-split-screen-video
+title: 2020-08-21 jpeg of a pastel of a split screen video
 description: 
 extract: 
 created: 2024-11-17 17:07

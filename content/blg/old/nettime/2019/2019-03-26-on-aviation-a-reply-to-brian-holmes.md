@@ -1,5 +1,5 @@
 ---
-title: 2019-03-26-on-aviation-a-reply-to-brian-holmes
+title: 2019-03-26 on aviation a reply to brian holmes
 description: 
 extract: 
 created: 2024-11-17 17:08

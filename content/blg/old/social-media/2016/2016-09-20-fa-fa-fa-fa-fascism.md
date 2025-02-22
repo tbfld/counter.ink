@@ -1,5 +1,5 @@
 ---
-title: 2016-09-20-fa-fa-fa-fa-fascism
+title: 2016-09-20 fa fa fa fa fascism
 description: 
 extract: 
 created: 2024-11-17 17:08

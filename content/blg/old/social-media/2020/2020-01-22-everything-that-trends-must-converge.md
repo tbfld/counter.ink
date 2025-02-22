@@ -1,5 +1,5 @@
 ---
-title: 2020-01-22-everything-that-trends-must-converge
+title: 2020-01-22 everything that trends must converge
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2019-04-27-on-hariris-sapiens
+title: 2019-04-27 on hariris sapiens
 description: 
 extract: 
 created: 2024-11-17 17:07

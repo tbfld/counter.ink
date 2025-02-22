@@ -1,5 +1,5 @@
 ---
-title: 2020-04-13-eugenics-by-another-name
+title: 2020-04-13 eugenics by another name
 description: 
 extract: 
 created: 2024-11-17 17:08

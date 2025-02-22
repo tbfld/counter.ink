@@ -1,5 +1,5 @@
 ---
-title: 2018-07-28-biting-criticism-of-tufte
+title: 2018-07-28 biting criticism of tufte
 description: 
 extract: 
 created: 2024-11-17 17:08

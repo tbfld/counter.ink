@@ -1,5 +1,5 @@
 ---
-title: 2019-12-08-og-joke-notebooks
+title: 2019-12-08 og joke notebooks
 description: 
 extract: 
 created: 2024-11-17 17:08

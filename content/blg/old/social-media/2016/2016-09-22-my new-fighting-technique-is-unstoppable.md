@@ -1,5 +1,5 @@
 ---
-title: 2016-09-22-my new-fighting-technique-is-unstoppable
+title: 2016-09-22 my new fighting technique is unstoppable
 description: 
 extract: 
 created: 2024-11-17 17:08

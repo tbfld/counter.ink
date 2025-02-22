@@ -1,5 +1,5 @@
 ---
-title: 2016-07-25-assange-courting-destruction
+title: 2016-07-25 assange courting destruction
 description: 
 extract: 
 created: 2024-11-17 17:08

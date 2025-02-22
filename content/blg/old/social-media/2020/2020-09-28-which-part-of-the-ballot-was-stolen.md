@@ -1,5 +1,5 @@
 ---
-title: 2020-09-28-which-part-of-the-ballot-was-stolen
+title: 2020-09-28 which part of the ballot was stolen
 description: 
 extract: 
 created: 2024-11-17 17:08

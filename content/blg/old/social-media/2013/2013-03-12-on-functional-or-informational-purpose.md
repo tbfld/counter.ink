@@ -1,5 +1,5 @@
 ---
-title: 2013-03-12-on-functional-or-informational-purpose
+title: 2013-03-12 on functional or informational purpose
 description: 
 extract: 
 created: 2024-11-17 17:07

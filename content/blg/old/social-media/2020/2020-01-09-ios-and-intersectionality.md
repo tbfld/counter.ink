@@ -1,5 +1,5 @@
 ---
-title: 2020-01-09-ios-and-intersectionality
+title: 2020-01-09 ios and intersectionality
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2021-02-20-geomagnetic-disruption
+title: 2021-02-20 geomagnetic disruption
 description:
 extract:
 created: 2024-11-17 17:08

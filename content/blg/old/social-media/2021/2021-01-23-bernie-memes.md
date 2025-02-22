@@ -1,5 +1,5 @@
 ---
-title: 2021-01-23-bernie-memes
+title: 2021-01-23 bernie memes
 description: 
 extract: 
 created: 2024-11-17 17:08

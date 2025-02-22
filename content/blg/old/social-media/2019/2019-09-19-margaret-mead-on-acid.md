@@ -1,5 +1,5 @@
 ---
-title: 2019-09-19-margaret-mead-on-acid
+title: 2019-09-19 margaret mead on acid
 description: 
 extract: 
 created: 2024-11-17 17:07

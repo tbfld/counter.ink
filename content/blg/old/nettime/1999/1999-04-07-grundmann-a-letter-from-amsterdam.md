@@ -1,5 +1,5 @@
 ---
-title: 1999-04-07-grundmann-a-letter-from-amsterdam
+title: 1999-04-07 grundmann a letter from amsterdam
 description: 
 extract: 
 created: 2024-11-17 17:08

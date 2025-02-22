@@ -1,5 +1,5 @@
 ---
-title: 2017-02-06-trump-and-nukes
+title: 2017-02-06 trump and nukes
 description: 
 extract: 
 created: 2024-11-17 17:07

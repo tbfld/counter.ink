@@ -1,5 +1,5 @@
 ---
-title: 2018-08-18-an-airport-wall
+title: 2018-08-18 an airport wall
 description: 
 extract: 
 created: 2024-11-17 17:08

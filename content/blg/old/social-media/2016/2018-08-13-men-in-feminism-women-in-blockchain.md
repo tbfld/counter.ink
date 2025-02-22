@@ -1,5 +1,5 @@
 ---
-title: 2018-08-13-men-in-feminism-women-in-blockchain
+title: 2018-08-13 men in feminism women in blockchain
 description: 
 extract: 
 created: 2024-11-17 17:08

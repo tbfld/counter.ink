@@ -1,5 +1,5 @@
 ---
-title: 2013-01-24-syllabus-boilerplate
+title: 2013-01-24 syllabus boilerplate
 description: 
 extract: 
 created: 2024-11-17 17:07

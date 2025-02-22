@@ -1,5 +1,5 @@
 ---
-title: 1997-03-20-Europanto
+title: 1997-03-20 Europanto
 description: 
 extract: 
 created: 2024-11-17 17:08

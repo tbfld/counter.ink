@@ -1,5 +1,5 @@
 ---
-title: 2016-12-30-church-committee-on-snowden
+title: 2016-12-30 church committee on snowden
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2017-06-17-mussel-of-the-day
+title: 2017-06-17 mussel of the day
 description: 
 extract: 
 created: 2024-11-17 17:07

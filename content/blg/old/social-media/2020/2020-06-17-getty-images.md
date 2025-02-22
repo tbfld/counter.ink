@@ -1,5 +1,5 @@
 ---
-title: 2020-06-17-getty-images
+title: 2020-06-17 getty images
 description: 
 extract: 
 created: 2024-11-17 17:08

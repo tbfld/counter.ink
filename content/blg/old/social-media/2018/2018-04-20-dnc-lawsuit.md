@@ -1,5 +1,5 @@
 ---
-title: 2018-04-20-dnc-lawsuit
+title: 2018-04-20 dnc lawsuit
 description: 
 extract: 
 created: 2024-11-17 17:08

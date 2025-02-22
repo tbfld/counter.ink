@@ -1,5 +1,5 @@
 ---
-title: 2014-05-13-on-delanda-war-in-the-age-of-intelligent-machines-a-reply-to-brian-holmes
+title: 2014-05-13 on delanda war in the age of intelligent machines a reply to brian holmes
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2019-01-29-i-didnt-do-anything-wrong
+title: 2019-01-29 i didnt do anything wrong
 description: 
 extract: 
 created: 2024-11-17 17:07

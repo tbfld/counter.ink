@@ -1,5 +1,5 @@
 ---
-title: 2017-08-11-from-the-garden
+title: 2017-08-11 from the garden
 description: 
 extract: 
 created: 2024-11-17 17:07

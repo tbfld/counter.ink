@@ -1,5 +1,5 @@
 ---
-title: 2017-03-17-someone-has-to-do-it
+title: 2017-03-17 someone has to do it
 description: 
 extract: 
 created: 2024-11-17 17:07

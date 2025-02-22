@@ -1,5 +1,5 @@
 ---
-title: 2020-06-20-seven-levels-of-negation
+title: 2020-06-20 seven levels of negation
 description: 
 extract: 
 created: 2024-11-17 17:08

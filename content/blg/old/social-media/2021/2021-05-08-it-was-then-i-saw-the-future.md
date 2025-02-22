@@ -1,5 +1,5 @@
 ---
-title: 2021-05-08-it-was-then-i-saw-the-future
+title: 2021-05-08 it was then i saw the future
 description:
 extract:
 created: 2024-11-17 17:08

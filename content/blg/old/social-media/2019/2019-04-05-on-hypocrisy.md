@@ -1,5 +1,5 @@
 ---
-title: 2019-04-05-on-hypocrisy
+title: 2019-04-05 on hypocrisy
 description: 
 extract: 
 created: 2024-11-17 17:07

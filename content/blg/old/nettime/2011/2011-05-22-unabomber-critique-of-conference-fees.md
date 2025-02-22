@@ -1,5 +1,5 @@
 ---
-title: 2011-05-22-unabomber-critique-of-conference-fees
+title: 2011-05-22 unabomber critique of conference fees
 description: 
 extract: 
 created: 2024-11-17 17:08

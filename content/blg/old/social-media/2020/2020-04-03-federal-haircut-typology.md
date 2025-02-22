@@ -1,5 +1,5 @@
 ---
-title: 2020-04-03-federal-haircut-typology
+title: 2020-04-03 federal haircut typology
 description: 
 extract: 
 created: 2024-11-17 17:08

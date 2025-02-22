@@ -1,5 +1,5 @@
 ---
-title: 2024-09-21-on-our-changing-sense-of-color
+title: 2024-09-21 on our changing sense of color
 description: 
 extract: 
 created: 2024-11-17 17:07

@@ -1,5 +1,5 @@
 ---
-title: 2016-04-23-brecht-quote
+title: 2016-04-23 brecht quote
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 2018-04-05-memes-mushrooms-and-walter-benjamin
+title: 2018-04-05 memes mushrooms and walter benjamin
 description: 
 extract: 
 created: 2024-11-17 17:08

@@ -1,5 +1,5 @@
 ---
-title: 1999-04-17-some-thoughts-on-war-and-language
+title: 1999-04-17 some thoughts on war and language
 description: 
 extract: 
 created: 2024-11-17 17:08

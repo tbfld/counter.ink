@@ -1,5 +1,5 @@
 ---
-title: 2016-11-17-the-internet-as-a-forgetting-machine
+title: 2016-11-17 the internet as a forgetting machine
 description: 
 extract: 
 created: 2024-11-17 17:08

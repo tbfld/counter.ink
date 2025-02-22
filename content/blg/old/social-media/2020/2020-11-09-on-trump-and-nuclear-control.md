@@ -1,5 +1,5 @@
 ---
-title: 2020-11-09-on-trump-and-nuclear-control
+title: 2020-11-09 on trump and nuclear control
 description: 
 extract: 
 created: 2024-11-17 17:08

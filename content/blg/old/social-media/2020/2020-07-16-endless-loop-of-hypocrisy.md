@@ -1,5 +1,5 @@
 ---
-title: 2020-07-16-endless-loop-of-hypocrisy
+title: 2020-07-16 endless loop of hypocrisy
 description: 
 extract: 
 created: 2024-11-17 17:08

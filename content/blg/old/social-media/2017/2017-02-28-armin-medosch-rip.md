@@ -1,5 +1,5 @@
 ---
-title: 2017-02-28-armin-medosch-rip
+title: 2017-02-28 armin medosch rip
 description: 
 extract: 
 created: 2024-11-17 17:07

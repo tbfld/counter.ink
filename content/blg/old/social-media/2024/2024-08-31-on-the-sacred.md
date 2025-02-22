@@ -1,5 +1,5 @@
 ---
-title: 2024-08-31-on-the-sacred
+title: 2024-08-31 on the sacred
 description: 
 extract: 
 created: 2024-11-17 17:07
