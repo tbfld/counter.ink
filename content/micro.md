@@ -22,6 +22,15 @@ notitle: "true"
 
 ##### 2025-02-22
 
+
+***2025-02-22:*** CPAC as [gonzo politics](https://www.facebook.com/100079779344617/posts/618133597522613/?mibextid=rS40aB7S9Ucbxw6v)
+
+***2025-02-22:*** Paul Prudence [has a really sharp aesthetic](https://bsky.app/profile/mrprudence.bsky.social)
+
+***2025-02-22:*** Kagi, the privacy-oriented subscription search engine, [is doing some  interesting things](https://blog.kagi.com/kagi-privacy-pass)
+
+***2025-02-22:*** ABC: [“US cyber agency puts election security staffers who worked with the states on leave”](https://abcnews.go.com/Politics/wireStory/us-cyber-agency-puts-election-security-staffers-worked-118671767) — I don’t understand why this get so little attention
+
 ***2025-02-22:*** I wrote [a Bsky thread about Trump’s attacks on higher ed](https://bsky.app/profile/tbfld.bsky.social/post/3lirrqbtzis2p)
 ***
 ##### 2025-02-21
