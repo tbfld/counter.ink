@@ -17,7 +17,6 @@ tags:
   - "#politics"
   - "#political-critique"
   - "#public-policy"
-  - "#trump-era-analysis"
   - "#political-ambition"
 ---
 

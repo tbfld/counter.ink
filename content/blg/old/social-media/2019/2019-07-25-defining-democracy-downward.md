@@ -16,9 +16,8 @@ date: 2019-07-25
 tags:
   - "#politics"
   - "#education"
-  - "#corporation"
-  - "#school-funding-issues"
-  - "#state-power-abuse"
+  - "#food"
+  - "#debt"
 ---
 
 School board president threatens to take kids away from families behind on lunch payments; businessman offers to cover it, president says no; bad press ensues, school board changes its tune; school board president says, [“IT WASN’T THE INTENTION OF THE DISTRICT TO HARM OR INCONVENIENCE ANY OF THE FAMILIES OF OUR SCHOOL DISTRICT.”](https://www.npr.org/2019/07/24/745046246/pa-school-district-reverses-course-and-will-now-accept-donations-to-cover-lunch-

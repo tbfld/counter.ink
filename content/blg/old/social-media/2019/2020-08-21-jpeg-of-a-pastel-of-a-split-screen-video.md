@@ -14,11 +14,9 @@ draft:
 publish: 
 date: 2020-08-21
 tags:
-  - "#visual-culture"
   - "#art"
-  - "#design"
-  - "#split-screen-video"
-  - "#pastel-aesthetics"
+  - "#technology"
+  - "#media"
 ---
 
 ![[jpeg-of-a-pastel-of-a-split-screen-video.jpg]]

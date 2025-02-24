@@ -17,7 +17,6 @@ tags:
   - "#history"
   - "#politics"
   - "#media"
-  - "#shock-therapy"
   - "#russia"
 ---
 

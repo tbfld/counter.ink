@@ -15,11 +15,10 @@ publish:
 date: 2018-08-13
 tags:
   - media
-  - "#politics"
-  - "#media"
-  - "#cultural-commentary"
-  - "#social-media-impact"
-  - "#publisher-challenges"
+  - "#social-media"
+  - "#publishing"
+  - "#technology"
+  - "#oligarchism"
 ---
 
 The latest from Zuck, whose engineered flesh of simpering earnesty is constantly melting, revealing the same old psychopath within:

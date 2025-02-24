@@ -15,10 +15,9 @@ publish:
 date: 2010-04-02
 tags:
   - "#theory"
-  - "#culture"
-  - "#digital-communication"
   - "#hermeneutics"
-  - "#social-media-critique"
+  - "#social-media"
+  - "#information"
 ---
 
 Google: “No results found for ‘Shannonian hermeneutics’.” “No results found for ‘Shannon’s hermeneutics’.” “No results found for ‘hermeneutics of Claude Shannon’.” Facebook, meet Foucault; Foucault, meet Facebook.

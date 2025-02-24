@@ -15,10 +15,8 @@ publish:
 date: 2017-01-02
 tags:
   - "#internet-culture"
-  - "#digital-memes"
-  - "#media-analysis"
-  - "#social-media-control"
-  - "#user-engagement"
+  - "#social-media"
+  - "#facebook"
 ---
 
 My dream for 2017: TO CONTROL WHO LIKES WHAT I SAY

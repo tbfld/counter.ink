@@ -17,7 +17,6 @@ tags:
   - academia
   - institution
   - "#education"
-  - "#university-financial-issues"
   - "#political-discourse"
   - "#outrage-cycles"
   - "#academia"

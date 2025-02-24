@@ -22,7 +22,7 @@ tags:
   - "#society"
   - "#national"
   - "#kleptocracy"
-  - "#transparency-advocacy"
+  - "#transparency"
   - "#money-laundering"
 ---
 

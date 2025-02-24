@@ -15,10 +15,9 @@ publish:
 date: 2018-07-09
 tags:
   - "#film"
-  - "#media"
-  - "#cultural-commentary"
-  - "#streaming-culture"
-  - "#visual-commentary"
+  - "#streaming"
+  - "#cinema"
+  - "#visual-culture"
 ---
 
 For me, the essence of cinema today is waiting for Apple’s gigantic volume icon to linger in the center of the screen for as long as possible.

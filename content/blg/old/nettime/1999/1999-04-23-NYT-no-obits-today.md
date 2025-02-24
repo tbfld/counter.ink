@@ -17,8 +17,8 @@ tags:
   - "#news"
   - "#national"
   - "#media"
-  - "#guns"
-  - "#school-safety"
+  - "#nyt"
+  - "#genre"
 ---
 
 To: nettime-l

@@ -17,11 +17,10 @@ tags:
   - education
   - academia
   - finance
-  - "#education"
   - "#academia"
-  - "#political-discourse"
-  - "#student-debt-issues"
+  - "#students"
   - "#education"
+  - "#debt"
 ---
 
 [Here’s another must-read for today.](https://www.profgalloway.com/uss-university/) This spells out what I’ve been saying for the last decade+: US higher ed is going off a cliff. But it’s by someone who does his homework and is less feral and ragey than me. In his analysis, C-19 will cause widespread catastrophe, but as in all other fires, it’s not the fuel, it’s just one spark.

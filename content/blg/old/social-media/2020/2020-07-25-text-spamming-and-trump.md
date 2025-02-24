@@ -14,12 +14,13 @@ draft:
 publish: 
 date: 2020-07-25
 tags:
-  - left
   - "#politics"
   - "#media"
   - "#communication"
   - "#elections"
-  - "#social-media-influence"
+  - "#social-media"
+  - "#spam"
+  - "#regulation"
 ---
 
 [This story is framed as being about the election,](https://gizmodo.com/jared-kushner-in-fight-with-telecom-ceos-over-trump-cam-1844486620) about big telcos and wonky FCC policies, about Kushner, etc, but it’s also about something else. Twitter has put Trump on notice that when he or his campaign go too far, they’ll clamp down. So far, that’s only taken the form of after-the-fact warnings attached to his tweets, but the clear implication is that they can shut his account down — and have the internal structures needed to to do so on a moment’s notice. This fight over text spamming is a sign that Trump’s people recognize that. They’re focusing on building an alternative way to broadcast to their followers, and on defeating any mechanisms that could prevent them from spamming without limit. With that in mind, try reading this passage in a way that *isn’t* about wonky telecom policy:

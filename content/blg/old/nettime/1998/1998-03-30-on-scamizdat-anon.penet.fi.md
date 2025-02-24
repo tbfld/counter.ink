@@ -15,15 +15,9 @@ publish:
 date: 1998-03-30
 tags:
   - email
-  - information
-  - internet
-  - religion
-  - theology
-  - "#digital-culture"
-  - "#media"
   - "#law"
   - "#anonymity"
-  - "#scientology-case"
+  - "#scientology"
 ---
 To:  nettime-l
 Subject: <nettime> anon.penet.fi: case closed

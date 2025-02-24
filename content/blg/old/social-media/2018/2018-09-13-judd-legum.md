@@ -16,10 +16,8 @@ date: 2018-09-13
 tags:
   - media
   - news
-  - "#media"
-  - "#social-media-impact"
+  - "#social-media"
   - "#policy"
-  - "#newsletter-critique"
   - "#fact-checking"
 ---
 

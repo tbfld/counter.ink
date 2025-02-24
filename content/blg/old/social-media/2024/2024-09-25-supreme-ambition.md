@@ -17,8 +17,6 @@ tags:
   - "#politics"
   - "#law"
   - "#media"
-  - "#social-commentary"
-  - "#supreme-court-critique"
   - "#judiciary"
 ---
 

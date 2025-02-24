@@ -15,14 +15,12 @@ publish:
 date: 2025-02-14
 tags:
   - 1980s
-  - culture
   - history
-  - media
   - "#media-critique"
   - "#social-commentary"
   - "#cultural-commentary"
   - "#lgbtq"
-  - "#talk-show-evolution"
+  - "#genre"
 status: draft
 ---
 

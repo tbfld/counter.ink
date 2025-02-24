@@ -14,15 +14,12 @@ draft:
 publish: 
 date: 2024-09-13
 tags:
-  - asia
-  - culture
-  - history
   - national
-  - "#society"
   - "#cultural-critique"
-  - "#political-critique"
-  - "#simulation-theory"
-  - "#national"
+  - "#simulation"
+  - "#right"
+  - "#language"
+  - "#bug"
 ---
 
 ![[national-simulations.jpg]]

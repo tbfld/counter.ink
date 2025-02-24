@@ -16,12 +16,10 @@ date: 2016-05-25
 tags:
   - data
   - email
-  - information
   - language
   - "#privacy"
   - "#cryptography"
   - "#information"
-  - "#stylometry-issues"
   - "#anonymity"
 ---
 

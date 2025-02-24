@@ -17,8 +17,8 @@ tags:
   - "#politics"
   - "#history"
   - "#cultural-commentary"
-  - "#political-symmetry"
-  - "#us-russia-relations"
+  - symmetry
+  - "#russia"
 ---
 
 Hmmm, just twigged the weird symmetry between Reagan telling Gorbachev to “tear down this wall” and Trump wanting to build another one.

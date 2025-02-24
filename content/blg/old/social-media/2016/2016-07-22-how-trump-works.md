@@ -17,7 +17,6 @@ tags:
   - "#politics"
   - "#media"
   - "#social-commentary"
-  - "#trump-spectacle"
   - "#fascism"
 ---
 

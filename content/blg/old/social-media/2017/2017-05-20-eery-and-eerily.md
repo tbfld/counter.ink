@@ -14,7 +14,6 @@ draft:
 publish: 
 date: 2017-05-20
 tags:
-  - "#writing-clarity"
   - "#social-commentary"
   - "#cultural-commentary"
   - "#racial-justice"

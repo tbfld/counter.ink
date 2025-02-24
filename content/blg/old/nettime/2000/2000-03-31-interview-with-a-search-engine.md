@@ -15,13 +15,10 @@ publish:
 date: 2000-03-31
 tags:
   - art
-  - data
   - internet
-  - "#internet-regulation"
-  - "#online-culture"
-  - "#digital-nostalgia"
-  - "#search-engine-satire"
+  - "#search"
   - "#ai"
+  - "#genre"
 ---
 
 To: Nettime

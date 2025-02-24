@@ -17,7 +17,6 @@ tags:
   - academia
   - international
   - "#education"
-  - "#university-financial-issues"
   - "#international"
   - "#academia"
 ---

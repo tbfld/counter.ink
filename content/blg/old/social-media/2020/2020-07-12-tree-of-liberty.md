@@ -16,9 +16,11 @@ date: 2020-07-12
 tags:
   - "#art"
   - "#politics"
-  - "#society"
-  - "#symbolism-in-art"
-  - "#liberty-representation"
+  - "#flag"
+  - "#education"
+  - "#violence"
+  - "#right"
+  - "#guns"
 ---
 
 ![[tree-of-liberty.jpg]]

@@ -15,13 +15,11 @@ publish:
 date: 2000-10-08
 tags:
   - design
-  - economics
   - media
-  - theory
   - "#internet"
   - "#media"
   - "#online-culture"
-  - "#streaming-media-analysis"
+  - "#streaming"
   - "#technoculture"
 ---
 
