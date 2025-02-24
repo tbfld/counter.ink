@@ -18,6 +18,8 @@ notitle: "true"
 
 > [!tip]+ For nimbler things, see [[micro]]
 
+> [!error]+ Or if you’re more of a visual type, see [[images]]
+
 ***
 
 > [!note]+ [[2025-02-12-maybe-too-prophetic]]

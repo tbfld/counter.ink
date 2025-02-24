@@ -21,6 +21,8 @@ notitle: "true"
 
 > [!tip]+ For chunkier things, see [[recent]]
 
+> [!error]+ Or if you’re more of a visual type, see [[images]]
+
 
 ##### 2025-02-24
 
