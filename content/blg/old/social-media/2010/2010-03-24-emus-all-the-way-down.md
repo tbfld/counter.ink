@@ -15,10 +15,9 @@ publish:
 date: 2010-03-24
 tags:
   - "#technology"
-  - "#digital-communication"
   - "#computation"
   - "#emulation"
-  - "#software-compatibility"
+  - "#software"
 ---
 
 ![[emulators-within-emulators.jpg]]

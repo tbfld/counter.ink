@@ -16,8 +16,8 @@ tags:
   - "#digital-culture"
   - "#internet"
   - "#technology"
-  - "#open-source-movement"
-  - "#software-revolution"
+  - "#open-source"
+  - "#software"
 date: 1998-03-29
 ---
 

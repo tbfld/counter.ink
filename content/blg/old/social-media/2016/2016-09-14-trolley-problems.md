@@ -19,7 +19,6 @@ tags:
   - "#internet-culture"
   - "#cultural-commentary"
   - "#trolley-problem"
-  - "#historical-context-in-memes"
 ---
 
 ![[win95-trolley.jpg]]

@@ -17,11 +17,12 @@ tags:
   - academia
   - education
   - finance
-  - "#student-loan-debt"
+  - "#students"
   - "#education"
   - "#politics"
   - "#finance"
   - "#academia"
+  - "#debt"
 ---
 
 To: Nettime-l

@@ -20,7 +20,6 @@ tags:
   - "#war"
   - "#history"
   - "#nato"
-  - "#symbolic-destruction"
 ---
 
 To: nettime-l

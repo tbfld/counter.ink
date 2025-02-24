@@ -18,7 +18,6 @@ tags:
   - "#politics"
   - "#corruption"
   - "#society"
-  - "#systemic-corruption"
   - "#political-theory"
 ---
 

@@ -17,7 +17,7 @@ tags:
   - "#history"
   - "#politics"
   - "#media-analysis"
-  - "#surveillance-ethics"
+  - "#surveillance"
   - "#whistleblowing"
 ---
 

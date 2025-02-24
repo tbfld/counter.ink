@@ -16,9 +16,8 @@ date: 2016-12-16
 tags:
   - "#internet-culture"
   - "#media-analysis"
-  - "#digital-memes"
-  - "#search-engine-culture"
-  - "#user-generated-content"
+  - "#search"
+  - "#user-generated"
 ---
 
 <3 Google autocomplete

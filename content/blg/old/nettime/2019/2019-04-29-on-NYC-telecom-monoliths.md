@@ -17,13 +17,10 @@ tags:
   - advertising
   - design
   - internet
-  - news
   - "#technology"
   - "#urbanism"
-  - "#society"
   - "#smart-cities"
-  - "#infrastructure-history"
-  - "#surveillance-systems"
+  - "#infrastructure"
 ---
 
 To: nettime-l

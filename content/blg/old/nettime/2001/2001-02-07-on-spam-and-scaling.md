@@ -14,12 +14,11 @@ draft:
 publish: 
 date: 2001-02-07
 tags:
-  - device
-  - "#online-discourse"
-  - "#media"
-  - "#communication"
-  - "#spam-culture"
-  - "#netizenship"
+  - "#spam"
+  - "#internet"
+  - "#online-culture"
+  - "#technology"
+  - "#libertarianism"
 ---
 
 To: nettime-l

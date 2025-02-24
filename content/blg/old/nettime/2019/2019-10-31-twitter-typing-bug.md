@@ -13,11 +13,9 @@ aliases:
 draft: 
 publish: 
 tags:
-  - "#technology"
   - "#internet"
-  - "#communication"
-  - "#software-bugs"
-  - "#social-media-issues"
+  - "#software"
+  - "#social-media"
 ---
 
 To: Nettime-l

@@ -18,7 +18,8 @@ tags:
   - "#politics"
   - "#international"
   - "#education"
-  - "#tuition-dependency"
+  - finance
+  - institution
 ---
 
 Another thing I’ve been saying for years, bleh. US higher ed’s predatory reliance on the tuition dollars of students from a parade of countries was a road to catastrophe. When the gravy train starts to slow down faculty will be in an *excellent* position to, um, well...

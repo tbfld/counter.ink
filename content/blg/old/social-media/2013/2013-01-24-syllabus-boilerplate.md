@@ -15,10 +15,10 @@ publish:
 date: 2013-01-24
 tags:
   - "#education"
-  - "#cultural-commentary"
-  - "#social-commentary"
   - "#education"
-  - "#student-experience"
+  - "#students"
+  - "#sound"
+  - "#audio"
 ---
 
 Fave part of the syllabus: “Apparently, I have misophonia. Crinkling and crackling sounds are especially unpleasant. I don’t care if you have a five-course meal during class, *so long as you don’t make noise eating it*.”

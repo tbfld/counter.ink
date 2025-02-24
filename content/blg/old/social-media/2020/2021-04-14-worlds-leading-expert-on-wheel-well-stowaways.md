@@ -14,11 +14,11 @@ draft:
 publish: 
 date: 2021-04-14
 tags:
-  - "#technology"
   - "#society"
   - "#crime"
   - "#aviation"
-  - "#stowaway-issues"
+  - "#immigration"
+  - "#regulation"
 ---
 
 Stephen Veronneau, [the world’s leading expert on wheel well stowaways](https://www.theguardian.com/world/2021/apr/15/man-who-fell-from-the-sky-airplane-stowaway-kenya-london/// ), outlined this theory in a 1996 paper for the Federal Aviation Administration. 

@@ -16,10 +16,9 @@ date: 2016-11-17
 tags:
   - information
   - internet
-  - "#internet-culture"
   - "#national"
   - "#security"
-  - "#surveillance-critique"
+  - "#surveillance"
   - "#privacy"
 ---
 

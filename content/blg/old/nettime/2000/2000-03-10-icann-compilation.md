@@ -17,12 +17,10 @@ tags:
   - europe
   - internet
   - law
-  - technology
   - "#internet-regulation"
   - "#digital-rights"
   - "#governance"
   - "#dns"
-  - "#stakeholder-representation"
 ---
 
 To: nettime-l

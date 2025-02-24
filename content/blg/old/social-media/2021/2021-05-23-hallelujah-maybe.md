@@ -15,13 +15,8 @@ publish:
 date: 2021-05-23
 tags:
   - "#music"
-  - "#cultural-critique"
-  - "#political-satire"
-  - "#song-analysis"
   - "#fascism"
-  - "#cultural-commentary"
-  - "#political-art"
-  - "#identity"
+  - "#religion"
 ---
 
 [This essay is much stranger than I expected,](https://forward.com/culture/music/469890/leonard-cohen-hallelujah-shrek-jewish-jeff-buckley-alan-light-kabbalah/) and much more interesting too. Which isn’t hard, because the song has become a soundtrack fascist lite culture uses to feel good about itself, and the question “how Jewish is it?” maybe isn’t the best way of rehabilitating something like that. It’s funny that Buckley, who did so much to make it unlistenable, “discovered” the song on a tribute album — but I guess the lesson of it all is that everyone gets to feel profound, or something like that.

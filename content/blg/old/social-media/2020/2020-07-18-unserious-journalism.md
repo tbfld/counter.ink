@@ -15,11 +15,11 @@ publish:
 date: 2020-07-18
 tags:
   - economics
-  - "#politics"
   - "#education"
-  - "#public-health-policy"
-  - "#school-reopening-issues"
-  - "#media"
+  - "#healthcare"
+  - "#schools"
+  - "#covid"
+  - "#policy"
 ---
 
 ![[unserious-journalism.jpg]]

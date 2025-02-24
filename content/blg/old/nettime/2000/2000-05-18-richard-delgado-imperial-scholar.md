@@ -15,9 +15,7 @@ publish:
 date: 2000-05-18
 tags:
   - law
-  - literature
   - right
-  - "#technology"
   - "#gender"
   - "#society"
   - "#software-studies"

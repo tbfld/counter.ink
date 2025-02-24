@@ -14,11 +14,9 @@ draft:
 publish: 
 date: 2011-11-12
 tags:
-  - "#media"
-  - "#news"
-  - "#culture"
-  - "#student-protests"
+  - "#student"
   - "#journalism"
+  - "#protest"
 ---
 
 ![[erasure.jpg]]

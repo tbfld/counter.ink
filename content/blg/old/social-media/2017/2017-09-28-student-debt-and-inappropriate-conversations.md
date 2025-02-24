@@ -17,10 +17,7 @@ tags:
   - academia
   - finance
   - "#education"
-  - "#society"
-  - "#politics"
-  - "#academia"
-  - "#student-voices"
+  - "#students"
 ---
 
 Growing numbers of students were doing this in NYC. When I brought this up with the C-suite admins at TNS they were like “HOW DO YOU KNOW?!” Because the students told me. “THAT’S AN INAPPROPRIATE CONVERSATION.” Bingo: the conversation we should have is about how your inflated salary and skewed budgets relate to how students pay the bills...

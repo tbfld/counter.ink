@@ -14,10 +14,9 @@ draft:
 publish: 
 date: 2013-03-12
 tags:
-  - "#art"
-  - "#visual-culture"
-  - "#sticker-art"
-  - "#digital-art"
+  - "#graffiti"
+  - "#theory"
+  - "#trope"
 ---
 
 ![[useless-stickers.jpg]]

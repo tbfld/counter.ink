@@ -17,12 +17,8 @@ tags:
   - left
   - right
   - "#politics"
-  - "#social-commentary"
-  - "#cultural-commentary"
-  - "#state-violence"
-  - "#gop"
-  - "#left"
-timelines: 
+  - "#violence"
+timelines:
 ---
 
 A few days ago I mumbled something about dire predictions that the GOP would mount procedural challenges to Harris (esp re her candidacy and fund-raising), and how those predictions prompted a wave of splaining about how there are no real legal issues — as if the GOP needs “real” ones? Please. But the larger point was deeper, a divide between an event-driven view (which lurches from one arbitrary, inconclusive circumstance to another, imo) vs a more ‘continuist’ view (mine, which emphasizes the right’s wider strategic, integrative approach — rightist media noise + legal prep + judicial corruption, etc). Some thoughts:

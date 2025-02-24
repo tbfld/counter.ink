@@ -14,11 +14,9 @@ draft:
 publish: 
 date: 2010-10-23
 tags:
-  - "#media"
-  - "#news"
-  - "#culture"
-  - "#prison-literature"
-  - "#stress-reflection"
+  - "#prison"
+  - "#literature"
+  - "#wikileaks"
 ---
 
 “When it comes to the point where you occasionally look forward to being in prison on the basis that you might be able to spend a day reading a book, the realization dawns that perhaps the situation has become a little more stressful than you would like.”

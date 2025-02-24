@@ -18,7 +18,7 @@ tags:
   - "#international"
   - "#national"
   - "#authoritarianism"
-  - "#transnational-networks"
+  - "#transnational"
   - "#democrats"
 ---
 

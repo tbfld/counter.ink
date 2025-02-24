@@ -14,25 +14,12 @@ draft:
 publish: 
 date: 2018-07-13
 tags:
-  - academia
-  - communism
-  - culture
-  - data
-  - education
   - europe
   - information
   - international
-  - language
-  - law
-  - left
   - literature
-  - news
-  - "#technology"
-  - "#publishing"
   - "#information"
-  - "#shadow-libraries"
-  - "#open-access-advocacy"
-  - "#academia"
+  - "#piracy"
 ---
 
 To:  Nettime-l

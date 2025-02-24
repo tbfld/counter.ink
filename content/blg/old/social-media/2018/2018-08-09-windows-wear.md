@@ -16,8 +16,8 @@ date: 2018-08-09
 tags:
   - "#design"
   - "#fashion"
-  - "#visual-culture"
-  - "#style-expression"
+  - "#technology"
+  - "#microsoft"
 ---
 
 A+ outfit

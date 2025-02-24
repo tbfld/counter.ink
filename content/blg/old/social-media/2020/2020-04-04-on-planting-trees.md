@@ -18,7 +18,7 @@ tags:
   - "#design"
   - "#cultural-commentary"
   - "#gardening"
-  - "#sustainable-practices"
+  - "#sustainability"
   - "#horticulture"
 ---
 

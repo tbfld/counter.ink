@@ -18,9 +18,9 @@ tags:
   - finance
   - academia
   - "#economics"
-  - "#society"
-  - "#student-loan-debt"
+  - "#students"
   - "#education"
+  - "#debt"
 ---
 
 To: nettime-l

@@ -14,20 +14,11 @@ draft:
 publish: 
 date: 2020-06-04
 tags:
-  - africa
-  - culture
-  - image
-  - institution
   - international
   - language
   - media
-  - meme
   - politics
-  - right
   - "#society"
-  - "#cultural-critique"
-  - "#systemic-analysis"
-  - "#political-disorder"
 ---
 
 To: nettime-l

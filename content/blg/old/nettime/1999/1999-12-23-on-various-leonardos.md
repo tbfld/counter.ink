@@ -15,14 +15,13 @@ publish:
 date: 1999-12-23
 tags:
   - art
-  - finance
   - international
   - language
   - "#internet"
   - "#governance"
   - "#law"
-  - "#trademark-dispute"
   - "#digital-rights"
+  - intellectual-property
 ---
 
 To: Nettime
