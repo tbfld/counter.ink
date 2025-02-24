@@ -21,6 +21,14 @@ notitle: "true"
 
 > [!tip]+ For chunkier things, see [[recent]]
 
+
+##### 2025-02-24
+
+***2025-02-24:*** Peter Sellers’s 1975 ads for TWA are brilliant ([this one](https://youtu.be/Wy26PYeP4aY&t=60) especially), but [the *meta-ad* he made](https://youtu.be/Wy26PYeP4aY?&t=179) is next-*next*-**next**-***next*** level
+
+***2025-02-24:*** Wankpanzer vs Pinto [according to a hobbyist stats blog that looks great](https://www.someweekendreading.blog/cybertruck-vs-pinto/)
+
+***
 ##### 2025-02-22
 
 ***2025-02-22:*** CPAC as [gonzo politics](https://www.facebook.com/100079779344617/posts/618133597522613/?mibextid=rS40aB7S9Ucbxw6v)
