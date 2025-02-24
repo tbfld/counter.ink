@@ -13,7 +13,8 @@ aliases:
 draft: "false"
 publish: "true"
 date: 2025-02-18
-tags: 
+tags:
+  - misc
 status: 
 notitle: "true"
 ---
@@ -21,7 +22,6 @@ notitle: "true"
 > [!tip]+ For chunkier things, see [[recent]]
 
 ##### 2025-02-22
-
 
 ***2025-02-22:*** CPAC as [gonzo politics](https://www.facebook.com/100079779344617/posts/618133597522613/?mibextid=rS40aB7S9Ucbxw6v)
 
