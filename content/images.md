@@ -7,11 +7,11 @@ updated: 2025-02-23 10:04
 author: tb
 images: "true"
 order: 
-enableToc: "true"
+enableToc: "false"
 permalink: 
 aliases: 
-draft: "true"
-publish: "false"
+draft: "false"
+publish: "true"
 date: 2025-02-23
 tags:
   - image
