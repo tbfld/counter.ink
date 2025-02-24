@@ -1,6 +1,6 @@
 ---
-title: image stream
-description: images that pique my interest
+title: img strm
+description: pix that pique me
 extract: 
 created: 2025-02-23 10:04
 updated: 2025-02-23 10:04
@@ -18,6 +18,60 @@ tags:
   - media
 status:
 ---
+
+![[2025-02-24-hanna-schygulla-third-generation.jpg|wmed relative|center]]
+
+![[2025-02-24-tod-papageorge-untitled-NYC-1966.jpg|wmed relative|center]]
+
+![[2025-02-24-fuck-yo-statue.jpg|wmed relative|center]]
+
+![[2025-02-24-eruo-rads-details-escape-me.jpg|wmed relative|center]]
+
+![[2025-02-24-keep-your-city-clean.jpg|wmed relative|center]]
+
+![[2025-02-24-resistance-china-style.jpg|wmed relative|center]]
+
+![[2025-02-24-lennox-mercury.jpg|wmed relative|center]]
+
+![[2025-02-24-bernini-ai-by-tbyfield.jpg|wmed relative|center]]
+
+![[2025-02-24-nyan-gogh.jpg|wmed relative|center]]
+
+![[2025-02-24-nepal-coup-hat.jpg|wmed relative|center]]
+
+![[2025-02-24-koko-from-the-groove-tube.jpg|wmed relative|center]]
+
+![[2025-02-24-275288127_10160052034538054_8104877534677708336_n.jpg|wmed relative|center]]
+
+![[2025-02-24-fire-me-elmo-photog-unknown.jpg|wmed relative|center]]
+
+![[2025-02-24-tabqueruia-cat.jpg|wmed relative|center]]
+
+![[2025-02-24-meme-format.jpg|wmed relative|center]]
+
+![[2025-02-24-tesselation-2024-12-artist-unknown.jpg|wmed relative|center]]
+
+![[2025-02-24-shoulder-types.jpg|wmed relative|center]]
+
+![[2025-02-24-palm-moss-fern.jpg|wmed relative|center]]
+
+![[2025-02-24-past-is-dead.jpg|wmed relative|center]]
+
+![[2025-02-24-afford-think-black-white.jpg|wmed relative|center]]
+
+![[2025-02-24-sci-hub-and-libgen.jpg|wmed relative|center]]
+
+![[2025-02-24-lynchian-hair-paintings.jpg|wmed relative|center]]
+
+![[2025-02-24-distracted-evangelical-meme.jpg|wmed relative|center]]
+
+![[2025-02-24-r-crumb-mr-natural-nd.jpg|wmed relative|center]]
+
+![[2025-02-24-nomi-photog-unknown.jpg|wmed relative|center]]
+
+![[2025-02-24-larson-far-side-1991-0702.jpg|wmed relative|center]]
+
+![[2025-02-24-looking-glass-war.jpg|wmed relative|center]]
 
 ![[2025-02-24-elisa-rae-shupe.jpg|wmed relative|center]]
 
