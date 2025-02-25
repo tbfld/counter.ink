@@ -19,6 +19,48 @@ tags:
 status:
 ---
 
+![[2025-02-25-men-of-always-children-of-never.jpg|wmed relative|center]]
+
+![[2025-02-25-russ-how-to-suppress-womens-writing.jpg|wmed relative|center]]
+
+![[2025-02-25-mnftiu-scotch-tape.jpg|wmed relative|center]]
+
+![[2025-02-25-holey-space.jpg|wmed relative|center]]
+
+![[2025-02-25-nose-cone-factory.jpg|wmed relative|center]]
+
+![[2025-02-25-non-orientable-shapes.jpg|wmed relative|center]]
+
+![[2025-02-25-dog-plastic-car-window.jpg|wmed relative|center]]
+
+![[2025-02-25-elevator-ceiling.jpg|wmed relative|center]]
+
+![[2025-02-25-the-fair.jpg|wmed relative|center]]
+
+![[2025-02-25-micro-mini-mart.jpg|wmed relative|center]]
+
+![[2025-02-25-melted-cheese.jpg|wmed relative|center]]
+
+![[2025-02-25-green-giant.jpg|wmed relative|center]]
+
+![[2025-02-25-bob-in-a-field.jpg|wmed relative|center]]
+
+![[2025-02-25-inflatable-burger.jpg|wmed relative|center]]
+
+![[2025-02-25-road-banana.jpg|wmed relative|center]]
+
+![[2025-02-25-law.jpg|wmed relative|center]]
+
+![[2025-02-25-walgreens-parking.jpg|wmed relative|center]]
+
+![[2025-02-25-antifelix.jpg|wmed relative|center]]
+
+![[2025-02-25-berlin.jpg|wmed relative|center]]
+
+![[2025-02-25-eye-dress.jpg|wmed relative|center]]
+
+![[2025-02-25-perspectival-typewriter.jpg|wmed relative|center]]
+
 ![[2025-02-24-hanna-schygulla-third-generation.jpg|wmed relative|center]]
 
 ![[2025-02-24-tod-papageorge-untitled-NYC-1966.jpg|wmed relative|center]]

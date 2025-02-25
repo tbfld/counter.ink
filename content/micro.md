@@ -23,8 +23,9 @@ notitle: "true"
 
 > [!error]+ Or if you’re more of a visual type, see [[images]]
 
-
 ##### 2025-02-24
+
+***2025-02-24:*** 40% of the glaciers in Central Europe [melted between 2000 and 2023](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Glacier_melt_intensifying_freshwater_loss_and_accelerating_sea-level_rise)
 
 ***2025-02-24:*** Peter Sellers’s 1975 ads for TWA are brilliant ([this one](https://youtu.be/Wy26PYeP4aY&t=60) especially), but [the *meta-ad* he made](https://youtu.be/Wy26PYeP4aY?&t=179) is next-*next*-**next**-***next*** level
 
