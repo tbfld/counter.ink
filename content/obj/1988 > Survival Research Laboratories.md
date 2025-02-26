@@ -23,7 +23,6 @@ tags:
 status: 
 RSS: "false"
 ---
-
 ![[srl-poster-sm.jpeg|relative wtiny|left]]
 
 Back when dinosaurs roamed the earth, or at least in the Spring of 1988, I took a month off from life to work on SRL’s installation/performance — [“Misfortunes of Desire:  Acted Out an at Imaginary Location Symbolizing Everything Worth Having”](https://srl.org/shows/archive/misfortunes/misfortune.html) — which took place in the parking lot of what was then called [Shea Stadium](https://en.wikipedia.org/wiki/Shea_Stadium). That involved scouring NYC’s derelict areas for interesting detritus (ranging from old windows to \<*shudder*>half-tanned cowhides\</*shudder*>, welding ridiculously toxic things together, and other ill-advised things. 

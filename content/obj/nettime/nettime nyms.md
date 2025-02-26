@@ -20,7 +20,6 @@ tags:
 status: 
 RSS: "false"
 ---
-
 Early on \<nettime> mailing list was “collaborative text filtering” — what, in the age of social media, we’d call *sharing*. That kind of function was normal on mailing lists, but \<nettime>  was unusual because it didn’t have a clearly defined focus (Bruce Sterling once called it “the world’s most world list”). The wide-ranging material put odd pressures on the list — prolific posters committed to particular subjects, say, or the rising tide of announcements related to pretty much any and every aspect of “new media” and its effects around the world. The list’s first semi-regular digest, the “announcer,” initially maintained by [Sandra “fokky” Fauconnier](https://monoskop.org/Sandra_Fauconnier), helped to alleviate traffic issues and provided a model for a more intensive effort to use “nyms”
 for digests. Over the 25 years that Felix Stalder and I moderated the list (sometimes with the help of others), we came up with over *seven hundred* subject-specific nyms. Some, “nettime's spam kritik,” were used extensively (the “roving_reporter” [became an occasional column on tbtf.com](1999–2001 > the roving_reporter)), but many only appeared just once. I compiled this list on January 2015 and [sent it to the list](https://www.nettime.org/Lists-Archives/nettime-l-1501/msg00041.html):
 

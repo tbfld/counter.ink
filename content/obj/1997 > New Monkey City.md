@@ -22,7 +22,6 @@ tags:
 status: 
 RSS: "false"
 ---
-
 “New Monkey City” is a one-of-a-kind phonebook for an imaginary city. 
 
 The project had three main sources.
