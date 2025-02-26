@@ -23,14 +23,14 @@ Early online resources — dialup BBSes, discussion-oriented mailing lists, and 
 When social media came along, it more or less put an end to blogging. It’s got lots of problems, some of them *really* serious, but its weirdness and intensity reflect new stages in how we think about different ideas of community. This jawlog reflects these changing styles, and not the everyone’s-got-their-own-soapbox tone of blogs.
 
 %% Begin Waypoint %%
-- [[blg]]
+- [[blg|blg]]
 - **[[new]]**
 	- [[2024-11-26-second-greatest-footnote-ever]]
 	- [[2024-11-27-all-creatures-terrible-and-fabulous]]
 	- [[2024-11-27-escaping-criticism]]
-	- [[2024-11-27-just-say-no-to-santayana]]
+	- [[2024-11-27-just-say-no-to-santayana|2024-11-27 just say no to Santayana]]
 	- [[2024-12-04-desantis-and-the-dod]]
-	- [[2024-12-04-genocide-vs-ethnic-cleansing]]
+	- [[2024-12-04-genocide-vs-ethnic-cleansing|2024-12-04 genocide vs ethnic cleansing]]
 	- [[2024-12-05-preemptive-pardons]]
 	- [[2024-12-13-don-martin-jazz-covers]]
 	- [[2024-12-13-recorded-poetry-then-and-now]]
@@ -130,7 +130,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[taas.jpeg]]
 		- [[tesla-community.jpg]]
 		- [[three-p-opera.jpeg]]
-	- [[new]]
+	- [[new|new]]
 - **[[old]]**
 	- **[[nettime]]**
 		- **[[1995]]**
@@ -313,8 +313,8 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-03-14-recent-visual-mutations|2021-03-14 recent visual mutations]]
 			- [[2021-03-18-on-NFTs|2021-03-18 on NFTs]]
 			- [[2021|2021]]
-		- [[nettime]]
-	- [[old]]
+		- [[nettime|nettime]]
+	- [[old|old]]
 	- **[[social-media]]**
 		- **[[2009]]**
 			- [[2009-10-07-use-no-hooks|2009-10-07 use no hooks]]
