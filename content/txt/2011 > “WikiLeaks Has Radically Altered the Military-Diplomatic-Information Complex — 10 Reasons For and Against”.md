@@ -1,18 +1,25 @@
 ---
-title: 2011 > “WikiLeaks Has Radically Altered the Military Diplomatic Information Complex — 10 Reasons For and Against”
-description:
-extract:
+title: 2011 > "WikiLeaks Has Radically Altered the Military Diplomatic Information Complex — 10 Reasons For and Against"
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: crime, law, media, national, security, war
+author: "tb"
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+tags:
+- crime
+- law
+- media
+- national
+- security
+- war
+RSS: "false"
 ---
 
 *This “conversation” between [Florian Cramer](http://floriancramer.nl/) and myself was commissioned by the London-based* Mute *magazine, and it [appeared](https://www.metamute.org/editorial/articles/wikileaks-has-radically-altered-military-diplomatic-information-complex-%E2%80%93-10-reasons-and-against) on 16 March 2011. In the original version, Florian’s comments appeared first and mine second, but because the piece here is framed in terms of my writing, I’ve reversed the order. Special thanks go to [Josephine Berry](https://www.gold.ac.uk/media-communications/staff/berry-josephine/), editrix supreme.

@@ -1,26 +1,25 @@
 ---
 title: 1992 > “Television”
-description:
-extract:
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: tb
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
 tags:
-  - culture
   - device
   - information
   - language
   - media
   - politics
   - technology
-timelines: [test]
+RSS: "false"
 ---
 
 *This essay appeared in* Stanford Humanities Review*in the Spring of 1992 (Vol. 2, No. 2–3, pp. 90–108), right when the National Science Foundation (NSF) was amending the internet’s Acceptable Use Policy (AUP) to permit commercial traffic. Although it was ostensibly about television, some of its main themes — telecom infrastructures and their metaphors, the porous relationship between screen and life, political economies of technology, mashup culture as a source of chaos — had **much** more in common with discussions of “new media” like the internet than “old media” like TV. My artistic collaborator at the time, Lincoln Tobier, wasn’t involved in any aspect of writing it, but our working agreement then was to co-sign our work. The essay was deliberately aggressive in its counter-academic style, structure, and design: lowbrow sources like Time–Life books, ambiguous or even cryptic images, footnotes longer than the text, and so on.*

@@ -1,18 +1,23 @@
 ---
 title: 2015 > Open Education — A Study in Disruption
-description:
-extract:
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: education
+author: tb
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+tags:
+  - education
+  - publishing
+  - books
+  - accessibility
+RSS: "false"
 ---
 
 ![[open-ed-cover.jpg|150]]

@@ -1,18 +1,24 @@
 ---
-title: 2000 > “Ushering in Banality”
-description:
-extract:
+title: 2000 > "Ushering in Banality"
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: corporation
+author: tb
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+tags:
+  - internet
+  - governance
+  - language
+  - politics
+  - technology
+RSS: "false"
 ---
 
 *This piece appeared in Heise’s online journal* Telepolis, *edited by my late friend [Armin Medosch](https://en.wikipedia.org/wiki/Armin_Medosch), on 28 November 2001 ([link](https://www.telepolis.de/features/Ushering-in-Banality-3442619.html)). I’ve preserved the original links but haven’t validated them. The essay also appeared in German as *[[2000 > “Die Einführung der Banalität”|Die Einführung der Banalität]].* 

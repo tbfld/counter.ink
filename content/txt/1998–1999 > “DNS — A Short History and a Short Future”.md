@@ -1,26 +1,26 @@
 ---
 title: 1998–1999 > “DNS — A Short History and a Short Future”
-description:
-extract:
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: "tb"
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
 tags:
-  - design
-  - history
-  - information
-  - interface
-  - international
-  - internet
-  - language
-timelines: [test]
+- design
+- history
+- information
+- interface
+- international
+- internet
+- language
+RSS: "false"
 ---
 
 *This essay was first published in* Rewired *(Berlin) September 1998 under the title “A Higher Level of Abstraction.” It was reprinted in* First Monday *4.3 (March 1999, [archived here](https://web.archive.org/web/20050216094129/http://www.firstmonday.dk/issues/issue4_3/byfield/index.html)), then in Nettime’s* README! *(Brooklyn: Autonomedia, 1999, [electronic version here](https://nettime.org/nettime/DOCS/zkp5/intro1.html)).*

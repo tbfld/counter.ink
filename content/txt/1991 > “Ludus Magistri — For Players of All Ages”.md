@@ -1,27 +1,28 @@
 ---
-title: 1991 > “Ludus Magistri — For Players of All Ages”
-description:
-extract:
+title: 1991 - “Ludus Magistri — For Players of All Ages”
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: tb
+images: "true"
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
 tags:
   - art
-  - culture
   - design
   - history
   - information
-  - security
   - society
   - theory
-timelines: [test]
+  - 1960s
+  - 1970s
+  - 1980s
+RSS: "false"
 ---
 
 *A few of these  essays need a longer-than-usual introduction, and this one one of them.*

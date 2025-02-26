@@ -4,7 +4,7 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
+author: "tb"
 images: 
 order: 
 enableToc: 
@@ -13,6 +13,7 @@ aliases:
 draft: "true"
 publish: "false"
 tags:
+RSS: "false"
 ---
 
 http://www.malmoe.org/artikel/alltag/543

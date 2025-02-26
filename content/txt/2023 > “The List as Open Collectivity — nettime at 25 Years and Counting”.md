@@ -1,18 +1,23 @@
 ---
-title: 2027(?) > “The List as Open Collectivity — nettime at 25 Years and Counting”
-description:
-extract:
+title: 2027(?) > "The List as Open Collectivity — nettime at 25 Years and Counting"
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: art
+author: 
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+tags:
+  - email
+  - archives
+  - theory
+  - history
+RSS: "false"
 ---
 
 *by Ted Byfield, Felix Stalder, and nettime*[^1]
