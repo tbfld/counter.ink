@@ -20,7 +20,11 @@ status: final
 
 #### Recent posts
 <!-- RECENT_POSTS_START -->
-> [!note]+ [[2025-02-12-maybe-too-prophetic]]
+
+> [!warning]+ [[2025-02-26-Niemöller-for-today|2025-02-26-Niemöller for today]]
+> Maybe a GOP bill raising endowment taxes by 1500% will wake academics up?
+
+> [!warning]+ [[2025-02-12-maybe-too-prophetic]]
 > I wrote this on Facebook on 7 Nov 2024, barely a day after the election, and it seems a little *too* prescient.
 
 > [!note]+ [[2025-02-12-notes|2025 02 12 notes]]
