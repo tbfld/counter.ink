@@ -1,28 +1,25 @@
 ---
-title: 2000 > “Exporting the Apocalypse”
-description:
-extract:
+title: 2000 > "Exporting the Apocalypse"
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: tb
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
 tags:
   - culture
   - governance
   - information
-  - internet
   - law
   - media
-  - politics
-  - society
   - technology
-timelines: test
+RSS: "false"
 ---
 
 *[This piece](https://www.metamute.org/editorial/articles/exporting-apocalypse), a review of Lawrence Lessig’s then-newish book* Code and Other Laws of Cyberspace, *appeared in the London-based* [Mute *magazine](https://www.metamute.org/) (Vol. 1, No. 16 – [Art Wars](https://www.metamute.org/shop/magazine/mute-vol-1-no.-16-%E2%80%93-art-wars)).

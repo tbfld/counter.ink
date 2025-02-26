@@ -1,18 +1,23 @@
 ---
-title: 2007 > “What We Have Here is a Failure to Communicate — Architecture and Situated Technologies”
-description:
-extract:
+title: 2007 > "What We Have Here is a Failure to Communicate — Architecture and Situated Technologies"
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: architecture
+author: tb
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+tags:
+  - architecture
+  - theory
+  - media-critique
+  - aesthetic-critique
+RSS: "false"
 ---
 
 *This is a writeup of the three-day [Architecture and Situated Technologies](https://situatedtechnologies.net/index.html%3Fq=node%252F1.html) symposium held in New York on Oct. 19–21 2006. The piece [appeared](https://www.metamute.org/editorial/articles/what-we-have-here-failure-to-communicate-architecture-and-situated-technologies) in the London-based* [Mute *magazine](https://www.metamute.org/) (9 Jan. 2007).*

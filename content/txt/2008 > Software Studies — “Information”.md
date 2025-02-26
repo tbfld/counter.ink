@@ -1,18 +1,24 @@
 ---
-title: 2008 > Software Studies — “Information”
-description:
-extract:
+title: 2008 > Software Studies — "Information"
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: culture
+author: tb
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+tags:
+  - information
+  - data
+  - theory
+  - language
+  - history
+RSS: "false"
 ---
 
 This essay, a sort of encyclopedish entry on the evolution of the idea of *information*, appeared in [Matthew Fuller](https://www.gold.ac.uk/media-communications/staff/m-fuller/), ed., *Software Studies: A Lexicon* (Cambridge MA: MIT Press, 2008). The book grew out of the *brilliant* [Software Studies Workshop](http://web.archive.org/web/20100327185154/http://pzwart.wdka.hro.nl/mdr/Seminars2/softstudworkshop) held at Rotterdam’s [Piet Zwart Institute](https://monoskop.org/Piet_Zwart_Institute "Piet Zwart Institute") on 25–26 Feb 2006. That event crystallized a lot of scattered thinking that had been in the air for several years, to say the least. But, more than that, it had an unusual impact: it sparked the creation of [an academic study program at UC San Diego](https://web.archive.org/web/20080516004439/http://workshop.softwarestudies.com/), an excellent academic journal ([Computational Culture: A Journal of Software Studies](http://computationalculture.net/)), and — thanks to Doug Sery, the editor who spearheaded it — the *Lexicon* itself inaugurated [a new MIT Press series](https://mitpress.mit.edu/series/software-studies/) dedicated to software studies.

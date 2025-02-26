@@ -1,18 +1,24 @@
 ---
-title: 2010 > “Safe•Connect — A Report”
-description:
-extract:
+title: 2010 > "Safe•Connect — A Report"
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: design
+author: tb
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+tags:
+  - academia
+  - institution
+  - technology
+  - security
+  - intellectual-property
+RSS: "false"
 ---
 
 *Like [my essay on telecenters](obsidian://open?vault=siteprep&file=txt%2F2004%20%3E%20%E2%80%9CThoughts%20on%20the%20Telecenter%20as%20a%20Model%20for%20ICT%20Deployment%20in%20the%20Rural%20%E2%80%98South%E2%80%99%E2%80%9D), this document needs some deep background....*

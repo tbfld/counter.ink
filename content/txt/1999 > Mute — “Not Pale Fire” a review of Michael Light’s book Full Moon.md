@@ -1,18 +1,24 @@
 ---
-title: 1999 > Mute — “Not Pale Fire” a review of Michael Light’s book Full Moon
-description:
-extract:
+title: 1999 - Mute — "Not Pale Fire" a review of Michael Light's book Full Moon
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: art
+author: tb
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+tags:
+  - art
+  - books
+  - space
+  - photography
+  - visual-narrative
+RSS: "false"
 ---
 
 Michael Light

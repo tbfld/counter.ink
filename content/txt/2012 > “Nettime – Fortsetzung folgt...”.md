@@ -1,18 +1,24 @@
 ---
-title: 2012 > “Nettime – Fortsetzung folgt...”
-description:
-extract:
+title: 2012 > "Nettime – Fortsetzung folgt..."
+description: 
+extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
-tags: art
+author: tb
+images: 
+order: 
+enableToc: 
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+tags:
+  - email
+  - archives
+  - internet
+  - theory
+  - history
+RSS: "false"
 ---
 
 This essay appeared in Clemens Apprich and Felix Stalder, eds.,*[Vergessene Zukunft: Radikale Netzkulturen in Europa](https://monoskop.org/images/f/fe/Apprich_Clemens_Stalder_Felix_Hg_Vergessene_Zukunft_Radikale_Netzkulturen_in_Europa_2012.pdf#page=35

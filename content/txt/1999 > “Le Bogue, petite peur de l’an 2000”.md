@@ -4,24 +4,23 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
+author: "tb"
 images: 
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false"
+publish: "true"
 tags:
-  - design
-  - history
-  - information
-  - media
-  - society
-  - technology
-  - apocalypticism
-timelines:
-  - "[test]"
+- design
+- history
+- information
+- media
+- society
+- technology
+- apocalypticism
+RSS: "false"
 ---
 
 *This essay appeared in as* “Le Bogue, petite peur de l’an 2000” *in* Le Monde diplomatique *545 ([August 1999](https://www.monde-diplomatique.fr/1999/08/BYFIELD/3182)), p. 11. LMD syndicated some pieces, so it was also translated into several other languages — Greek, Italian, Spanish, Serbian, and maybe more.*  This text is the English draft as submitted.
