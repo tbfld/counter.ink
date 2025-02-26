@@ -1,9 +1,26 @@
 ---
+title: nettime
+description: about nettime — the mailing list, the project
+extract: ...but such a bland description fails to capture what a phenonemon it was
+created: 2024-12-01 00:01
+updated: 2024-12-01 00:01
+author: tb
+images: "false"
+order: 
+enableToc: "true"
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+date: 2025-01-01
 tags:
-- art
-- culture
-- europe
-timelines:
+  - art
+  - culture
+  - europe
+  - email
+  - internet
+status: 
+RSS: '"false"'
 ---
 
 Technically speaking, [nettime](https://www.nettime.org) was (and remains) a *mailing list* — one of the oldest on the net — but such a bland description fails to capture what a *phenonemon* it was: an online salon featuring [[nettime alumni and alumnae|people who’ve gone on to become big in this and that]], [[nettime nyms|several hundred bespoke pseudonyms]], a series of large meetings in European cities across most of a decade, published books of proceedings, and even the occasional writeup about internal dramas in publications like [*Salon*](https://www.salon.com/1999/03/03/feature_221/). With the exception of the Cypherpunks mailing list and its depoliticized offspring Cryptography — which spawned Bitcoin, Bit Torrent, Wikileaks, among many other things — few other mailing lists have had such widespread impact. There’s no shortage of histories to elaborate that claim: [Wikipedia’s](https://en.wikipedia.org/wiki/Nettime), of course, and [Monoskop](https://monoskop.org/Nettime)’s as well, but also...
