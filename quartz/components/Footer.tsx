@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-© {year} Ted Byfield. If you want something, just ask nicely. 👍🏼
+<a href="https://counter.ink/index.xml">RSS here<a>. © {year} Ted Byfield. If you want something, ask nice. 👍🏼
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
