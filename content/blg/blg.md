@@ -69,6 +69,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[18C-erotic-dice-2.jpg]]
 		- [[18C-erotic-dice-3.jpg]]
 		- [[18C-erotic-dice-4.jpg]]
+		- [[2025-02-26-endowment-tax-google-news.jpeg]]
 		- [[alphabetized-opt.jpeg]]
 		- [[alphabetized.jpg]]
 		- [[and-and-and-grid-sm.jpeg]]
