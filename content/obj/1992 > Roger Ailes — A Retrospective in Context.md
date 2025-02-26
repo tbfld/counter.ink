@@ -1,14 +1,29 @@
 ---
+title: 1992 > Roger Ailes — A Retrospective in Context
+description: an essay for a retrospective of AilesÆs work years before Fox News
+extract: "I wrote this essay in 1991/1992, which might seem a lifetime away, but it remains all too relevant. It first appeared in a pamphlet distributed at an exhibition called “Roger Ailes: A Retrospective in Context,” staged in 1992. At the time, Ailes was just a freelance political media consultant; four years later, he went on to found Fox News."
+created: 2024-12-01 00:01
+updated: 2024-12-01 00:01
+author: tb
+images: "false"
+order: 
+enableToc: "true"
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+date: 1992-01-01
 tags:
-- art
-- culture
-- image
-- media
-- national
-- politics
-timelines:
+  - art
+  - culture
+  - image
+  - media
+  - national
+  - politics
+  - collaboration
+status: 
+RSS: "false"
 ---
-
 *I wrote this essay in 1991/1992, which might seem a lifetime away, but it remains all too relevant. It first appeared in a pamphlet distributed at an exhibition called “Roger Ailes: A Retrospective in Context,” staged in 1992. At the time, [Ailes](https://en.wikipedia.org/wiki/Roger_Ailes) was just a freelance political media consultant; four years later, he went on to found Fox News.*
 
 *In one sense the essay was an integral part of an artwork by Lincoln Tobier and myself. But in its voice and its disposable quality, it also stood outside of the work — with Lincoln as the artist and myself as some sort of critic. That ambiguity was central to how he and I worked together, and it was central to the artworks we made, which gestured at others’ creativity rather than our own.*

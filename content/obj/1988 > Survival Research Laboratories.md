@@ -1,10 +1,27 @@
 ---
+title: 1988 > Survival Research Laboratories
+description: a brief account with my run-in with killer robots
+extract: As a reward for my efforts, in the performance I got to run the smoke machine (a WW2-era monster made for hiding entire *ships*) and, with Eric Werner (RIP), the flame thrower — which could burn through about two 55-gallon drums of *diesel* in about 3 minutes, as I recall.
+created: 2024-12-01 00:01
+updated: 2024-12-01 00:01
+author: tb
+images: "true"
+order: 
+enableToc: "true"
+permalink: 
+aliases: 
+draft: "true"
+publish: "false"
 date: 1988-05-17
 tags:
-- art
-- technology
-status: "draft"
-timelines:
+  - art
+  - technology
+  - 1980s
+  - nyc
+  - collaboration
+  - urbanism
+status: 
+RSS: "false"
 ---
 
 ![[srl-poster-sm.jpeg|relative wtiny|left]]

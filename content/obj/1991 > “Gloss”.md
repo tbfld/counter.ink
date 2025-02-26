@@ -1,6 +1,27 @@
 ---
+title: 1991 > “Gloss”
+description: the first exhibition I made with my then-collaborator, Lincoln Tobier
+extract: “Gloss” was the first exhibition I made with my then-collaborator, Lincoln Tobier
+created: 2024-12-01 00:01
+updated: 2024-12-01 00:01
+author: tb
+images: "true"
+order: 
+enableToc: "true"
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+date: 1991-09-06
 tags:
-timelines:
+  - art
+  - 1990s
+  - urbanism
+  - theory
+  - media-critique
+  - collaboration
+status: 
+RSS: "false"
 ---
 
 ![[gloss.jpeg|relative wmed|left]]

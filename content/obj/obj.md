@@ -1,9 +1,23 @@
 ---
+title: obj
+description: objects, loosely understood, that I made or was involved in making
+extract: every so often I’ve made things that appear in galleries or museums, that art critics write about, that collectors buy, and that even appear in art histories
+created: 2024-12-01 00:01
+updated: 2024-12-01 00:01
+author: tb
+images: "false"
+order: 
+enableToc: "true"
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+date: 2025-01-01
 tags:
-- art
-timelines:
+  - index
+status: 
+RSS: "false"
 ---
-
 I’ve avoided calling myself an *artist* because I know lots of them and I’m not one — but every so often I *have* made things that appear in galleries or museums, that art critics write about, that collectors buy, and that even appear in art histories. In short, they pass the [“duck test”](https://en.wikipedia.org/wiki/Duck_test): if they walk, swim, and quack like art, they’re probably art. 
 
 [[1991 > “Gloss”]]

@@ -1,6 +1,24 @@
 ---
+title: nettime nyms
+description: a looooong list of nyms we cooked up for the netttime-l mailing list
+extract: Over the 25 years that Felix Stalder and I moderated the list (sometimes with the help of others), we came up with over *seven hundred* subject-specific nyms.
+created: 2024-12-01 00:01
+updated: 2024-12-01 00:01
+author: tb
+images: "false"
+order: 
+enableToc: "true"
+permalink: 
+aliases: 
+draft: "false"
+publish: "true"
+date: 2025-01-01
 tags:
-timelines:
+  - email
+  - internet-culture
+  - language
+status: 
+RSS: "false"
 ---
 
 Early on \<nettime> mailing list was “collaborative text filtering” — what, in the age of social media, we’d call *sharing*. That kind of function was normal on mailing lists, but \<nettime>  was unusual because it didn’t have a clearly defined focus (Bruce Sterling once called it “the world’s most world list”). The wide-ranging material put odd pressures on the list — prolific posters committed to particular subjects, say, or the rising tide of announcements related to pretty much any and every aspect of “new media” and its effects around the world. The list’s first semi-regular digest, the “announcer,” initially maintained by [Sandra “fokky” Fauconnier](https://monoskop.org/Sandra_Fauconnier), helped to alleviate traffic issues and provided a model for a more intensive effort to use “nyms”
