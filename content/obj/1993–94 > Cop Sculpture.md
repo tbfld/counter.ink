@@ -25,7 +25,6 @@ tags:
 status: 
 RSS: "false"
 ---
-
 “Cop Sculpture” was an exhibition I mounted with Lincoln Tobier in 1993 — or, as the poster said, “one project, two installations,” at two galleries across the street from each other.
 
 For several years I had haphazardly clipped newspaper and magazine images of police presenting contraband they’d confiscated — weapons, drugs, currency, art, forgeries, animal or cultural artifacts, smuggled plants and food, and so on. I was fascinated by the ritual of law enforcement agencies staging temporary displays of what amount to fetish objects because, by most measures, they were indistinguishable from contemporary art. The materials (or, if you like, *media*) were *found objects*. They involved an *improvisational collaboration* between the cops and criminals, gangs, or terrorists who’d *collected* these things and the police who *arranged* them. They were presented as *arbitrary assemblages*, and in that sense were *installations*; but the photos almost always featured actual policemen (yes, *men*) standing by — so in that sense they were also a kind of *performance*. Who “curated” them? What aesthetic principles did they apply to arranging them? And, ultimately, what did these strange assemblage-performance-installation “cop sculptures” *mean*?
