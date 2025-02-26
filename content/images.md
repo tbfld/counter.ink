@@ -1,9 +1,9 @@
 ---
-title: img strm
-description: pix that pique me
+title: image stream
+description: a stream of pix that pique my interest
 extract: 
 created: 2025-02-23 10:04
-updated: 2025-02-23 10:04
+updated: 2025-02-26 11:57
 author: tb
 images: "true"
 order: 
@@ -17,6 +17,7 @@ tags:
   - image
   - media
 status:
+RSS: "true"
 ---
 
 ![[2025-02-26-canguilhem-of-course-thats-what-i-meant.jpg|wmed relative|center]]

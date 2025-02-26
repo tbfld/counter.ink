@@ -1,6 +1,6 @@
 ---
 title: about this site
-description: about this site
+description: one of those about-this-site pages
 extract: a page about this site and myself
 created: 2025-02-16 23:53
 updated: 2025-02-16 23:53
@@ -15,8 +15,9 @@ draft: "false"
 publish: "true"
 date: 
 tags: 
+- index
 status: 
-notitle: "true"
+RSS: "false"
 ---
 
 > [!NOTE]- So...tell me about yourself.
