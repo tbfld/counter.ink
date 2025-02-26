@@ -83,21 +83,7 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
         rssLimit: 100,
-        rssFullHtml: true,
-        filterFn: (node) => {
-          // List of specific files to include
-          const includeFiles = ['images.md', 'micro.md', 'recent.md'];
-          
-          // List of Folder Notes to exclude
-          const excludeFolderNotes = ['blg.md', 'blg/new.md', 'blg/old.md'];
-          
-          return (
-            // Include specific files
-            includeFiles.includes(node.file.name) ||
-            // Include files in blg/ but not the Folder Notes
-            (node.file.path.startsWith('blg/') && !excludeFolderNotes.includes(node.file.path))
-          )
-        }
+        rssFullHtml: true
       }),
       Plugin.Assets(),
       Plugin.Static(),
