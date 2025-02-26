@@ -82,7 +82,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
-        rssLimit: 100,
+        rssLimit: 50,
         rssFullHtml: true,
         filterFn: (node) => {
           // List of specific files to include

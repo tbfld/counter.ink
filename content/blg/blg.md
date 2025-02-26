@@ -23,14 +23,14 @@ Early online resources — dialup BBSes, discussion-oriented mailing lists, and 
 When social media came along, it more or less put an end to blogging. It’s got lots of problems, some of them *really* serious, but its weirdness and intensity reflect new stages in how we think about different ideas of community. This jawlog reflects these changing styles, and not the everyone’s-got-their-own-soapbox tone of blogs.
 
 %% Begin Waypoint %%
-- [[blg|blg]]
+- [[blg]]
 - **[[new]]**
 	- [[2024-11-26-second-greatest-footnote-ever]]
 	- [[2024-11-27-all-creatures-terrible-and-fabulous]]
 	- [[2024-11-27-escaping-criticism]]
-	- [[2024-11-27-just-say-no-to-santayana|2024-11-27 just say no to Santayana]]
+	- [[2024-11-27-just-say-no-to-santayana]]
 	- [[2024-12-04-desantis-and-the-dod]]
-	- [[2024-12-04-genocide-vs-ethnic-cleansing|2024-12-04 genocide vs ethnic cleansing]]
+	- [[2024-12-04-genocide-vs-ethnic-cleansing]]
 	- [[2024-12-05-preemptive-pardons]]
 	- [[2024-12-13-don-martin-jazz-covers]]
 	- [[2024-12-13-recorded-poetry-then-and-now]]
@@ -130,7 +130,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[taas.jpeg]]
 		- [[tesla-community.jpg]]
 		- [[three-p-opera.jpeg]]
-	- [[new|new]]
+	- [[new]]
 - **[[old]]**
 	- **[[nettime]]**
 		- **[[1995]]**
@@ -313,8 +313,8 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-03-14-recent-visual-mutations|2021-03-14 recent visual mutations]]
 			- [[2021-03-18-on-NFTs|2021-03-18 on NFTs]]
 			- [[2021|2021]]
-		- [[nettime|nettime]]
-	- [[old|old]]
+		- [[nettime]]
+	- [[old]]
 	- **[[social-media]]**
 		- **[[2009]]**
 			- [[2009-10-07-use-no-hooks|2009-10-07 use no hooks]]
@@ -366,7 +366,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2013|2013]]
 		- **[[2016]]**
 			- [[2016-03-31-more-than-four-years-more|2016-03-31 more than four years more]]
-			- [[2016-04-10-nyt-photo-of-ackman|2016-04-10 nyt photo of ackman]]
+			- [[2016-04-10-nyt-photo-of-ackman]]
 			- [[2016-04-10-on-the-need-for-apocalypse|2016-04-10 on the need for apocalypse]]
 			- [[2016-04-12-circumcision-creates-killers|2016-04-12 circumcision creates killers]]
 			- [[2016-04-12-save-the-clitorises|2016-04-12 save the clitorises]]
@@ -387,7 +387,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2016-05-09-vaping-aesthetics|2016-05-09 vaping aesthetics]]
 			- [[2016-05-10-hyperdemocracy|2016-05-10 hyperdemocracy]]
 			- [[2016-05-11-WiReD-cover|2016-05-11 WiReD cover]]
-			- [[2016-05-17-college-shedding-programs|2016-05-17 college shedding programs]]
+			- [[2016-05-17-college-shedding-programs]]
 			- [[2016-05-17-stolen-pieces-of-a-petrified-forest|2016-05-17 stolen pieces of a petrified forest]]
 			- [[2016-05-17-the-breadth-of-human-knowledge|2016-05-17 the breadth of human knowledge]]
 			- [[2016-05-18-critical-mapping|2016-05-18 critical mapping]]
@@ -518,7 +518,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2022-09-11-scalar-model|2022-09-11 scalar model]]
 			- [[2024-09-02-hopkins-on-krakatoa|2024-09-02 hopkins on krakatoa]]
 			- [[20112-03-04-busload-of-lamers|20112 03 04 busload of lamers]]
-			- [[20116-04-18-nixonian-piety-clintonian-indignation|20116 04 18 nixonian piety clintonian indignation]]
+			- [[20116-04-18-nixonian-piety-clintonian-indignation]]
 			- [[20240-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
 			- [[201605-08-on-the-two-party-system|201605 08 on the two party system]]
 		- **[[2017]]**
