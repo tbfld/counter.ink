@@ -23,6 +23,14 @@ notitle: "true"
 
 > [!error]+ Or if you’re more of a visual type, see [[images]]
 
+
+***2025-02-26:*** a super obit for [a fascinating guy](https://provincetownindependent.org/obituaries/2025/02/19/christopher-jencks-celebrated-scholar-and-teacher-dies-at-88/), Chistopher “Sandy” Jencks (🎩 [LF](https://en.wikipedia.org/wiki/Liza_Featherstone))
+
+***2025-02-26:*** an awful squib about [N5N1 killing sand hill cranes in southern Indiana](https://www.facebook.com/marc.haggerty.3/posts/pfbid02iuYy6Ki5mWpR7ZjARTt149t5N3v3TqdGi6NCn86ieayQvNHyE6ASQgX85j7EskFRl)
+
+***2025-02-26:*** on [Christian support for Trump and liberal denialism](https://www.liberalcurrents.com/trump-the-redeemer/) (🎩 Mike McG)
+
+***
 ##### 2025-02-24
 
 ***2025-02-24:*** 40% of the glaciers in Central Europe [melted between 2000 and 2023](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Glacier_melt_intensifying_freshwater_loss_and_accelerating_sea-level_rise)

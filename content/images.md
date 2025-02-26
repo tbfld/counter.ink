@@ -19,6 +19,10 @@ tags:
 status:
 ---
 
+![[2025-02-26-canguilhem-of-course-thats-what-i-meant.jpg|wmed relative|center]]
+
+![[2025-02-26-christopherchiappa-SKULL-fries-via-Anonymous-Works-FB.jpg|wmed relative|center]]
+
 ![[2025-02-25-men-of-always-children-of-never.jpg|wmed relative|center]]
 
 ![[2025-02-25-russ-how-to-suppress-womens-writing.jpg|wmed relative|center]]
