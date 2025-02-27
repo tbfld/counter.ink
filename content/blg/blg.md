@@ -23,7 +23,7 @@ Early online resources — dialup BBSes, discussion-oriented mailing lists, and 
 When social media came along, it more or less put an end to blogging. It’s got lots of problems, some of them *really* serious, but its weirdness and intensity reflect new stages in how we think about different ideas of community. This jawlog reflects these changing styles, and not the everyone’s-got-their-own-soapbox tone of blogs.
 
 %% Begin Waypoint %%
-- [[blg]]
+- [[blg|blg]]
 - **[[new]]**
 	- [[2024-11-26-second-greatest-footnote-ever]]
 	- [[2024-11-27-all-creatures-terrible-and-fabulous]]
@@ -137,12 +137,12 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[1995-12-27-art-r-us|1995-12-27 art r us]]
 			- [[1995|1995]]
 		- **[[1996]]**
-			- [[1996-01-06-forward-stolen-poetry|1996-01-06 forward stolen poetry]]
-			- [[1996-02-19-a-reply-to-jp-barlow|1996-02-19 a reply to jp barlow]]
-			- [[1996-03-22-three-questions-about-nettime|1996-03-22 three questions about nettime]]
-			- [[1996-07-29-net-commercialization|1996-07-29 net commercialization]]
-			- [[1996-09-25-on-pkd-and-gnosticism-a-reply-to-erik-davis|1996-09-25 on pkd and gnosticism a reply to erik davis]]
-			- [[1996|1996]]
+			- [[1996-01-06-forward-stolen-poetry]]
+			- [[1996-02-19-a-reply-to-jp-barlow]]
+			- [[1996-03-22-three-questions-about-nettime]]
+			- [[1996-07-29-net-commercialization]]
+			- [[1996-09-25-on-pkd-and-gnosticism-a-reply-to-erik-davis]]
+			- [[1996]]
 		- **[[1997]]**
 			- [[1997-01-06-nonlinearity-a-reply-to-hari-kunzru|1997-01-06 nonlinearity a reply to hari kunzru]]
 			- [[1997-02-12-a-reply-to-cook-and-gonggrijp|1997-02-12 a reply to cook and gonggrijp]]
@@ -160,13 +160,13 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[1997-12-02-on-richard-barbrook-and-luther-blissett|1997-12-02 on richard barbrook and luther blissett]]
 			- [[1997|1997]]
 		- **[[1998]]**
-			- [[1998-02-05-on-barbrook-and-dery|1998-02-05 on barbrook and dery]]
-			- [[1998-03-02-europanto-five-year-plan|1998-03-02 europanto five year plan]]
-			- [[1998-03-07-reply-to-keith-sanborn|1998-03-07 reply to keith sanborn]]
-			- [[1998-03-08-on-adaweb-demise|1998-03-08 on adaweb demise]]
-			- [[1998-03-14-four-allegories|1998-03-14 four allegories]]
+			- [[1998-02-05-on-barbrook-and-dery]]
+			- [[1998-03-02-europanto-five-year-plan]]
+			- [[1998-03-07-reply-to-keith-sanborn]]
+			- [[1998-03-08-on-adaweb-demise]]
+			- [[1998-03-14-four-allegories]]
 			- [[1998-03-29-esr-cathedral-and-the-bazaar|1998-03-29 esr cathedral and the bazaar]]
-			- [[1998-03-30-on-scamizdat-anon.penet.fi|1998-03-30 on scamizdat anon.penet.fi]]
+			- [[1998-03-30-on-scamizdat-anon.penet.fi]]
 			- [[1998|1998]]
 		- **[[1999]]**
 			- [[1999-02-24-MIT-hostnames|1999-02-24 MIT hostnames]]
@@ -219,9 +219,9 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2002-09-28-patrice-riemens-and-gaston-roberge|2002-09-28 patrice riemens and gaston roberge]]
 			- [[2002|2002]]
 		- **[[2003]]**
-			- [[2003-01-19-on-the-prehistory-of-rhizome|2003-01-19 on the prehistory of rhizome]]
-			- [[2003-03-29-on-geert-lovink-dark-fibre|2003-03-29 on geert lovink dark fibre]]
-			- [[2003-05-18-sars-the-economy-and-hiv|2003-05-18 sars the economy and hiv]]
+			- [[2003-01-19-on-the-prehistory-of-rhizome]]
+			- [[2003-03-29-on-geert-lovink-dark-fibre]]
+			- [[2003-05-18-sars-the-economy-and-hiv]]
 			- [[2003-10-06-on-american-anti-intellectualism|2003-10-06 on american anti intellectualism]]
 			- [[2003-12-27-semantic-web-for-beginners|2003-12-27 semantic web for beginners]]
 			- [[2003|2003]]
@@ -366,7 +366,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2013|2013]]
 		- **[[2016]]**
 			- [[2016-03-31-more-than-four-years-more|2016-03-31 more than four years more]]
-			- [[2016-04-10-nyt-photo-of-ackman]]
+			- [[2016-04-10-nyt-photo-of-ackman|2016-04-10 nyt photo of ackman]]
 			- [[2016-04-10-on-the-need-for-apocalypse|2016-04-10 on the need for apocalypse]]
 			- [[2016-04-12-circumcision-creates-killers|2016-04-12 circumcision creates killers]]
 			- [[2016-04-12-save-the-clitorises|2016-04-12 save the clitorises]]
@@ -387,7 +387,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2016-05-09-vaping-aesthetics|2016-05-09 vaping aesthetics]]
 			- [[2016-05-10-hyperdemocracy|2016-05-10 hyperdemocracy]]
 			- [[2016-05-11-WiReD-cover|2016-05-11 WiReD cover]]
-			- [[2016-05-17-college-shedding-programs]]
+			- [[2016-05-17-college-shedding-programs|2016-05-17 college shedding programs]]
 			- [[2016-05-17-stolen-pieces-of-a-petrified-forest|2016-05-17 stolen pieces of a petrified forest]]
 			- [[2016-05-17-the-breadth-of-human-knowledge|2016-05-17 the breadth of human knowledge]]
 			- [[2016-05-18-critical-mapping|2016-05-18 critical mapping]]
