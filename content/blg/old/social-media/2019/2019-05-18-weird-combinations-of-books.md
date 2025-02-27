@@ -14,11 +14,10 @@ draft:
 publish: 
 date: 2019-05-18
 tags:
-  - "#art"
   - "#media"
-  - "#visual-culture"
-  - "#music-history"
-  - "#band-biography"
+  - music
+  - culture
+  - literature
 ---
 
 \[from Jon Savage’s book *This Searing Light, the Sun and Everything Else: Joy Division*]

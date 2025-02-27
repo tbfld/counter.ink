@@ -15,10 +15,9 @@ publish:
 date: 2020-04-01
 tags:
   - "#art"
-  - "#digital-art"
   - "#image"
-  - "#creative-process"
   - "#visual-culture"
+  - covid
 ---
 
 This took waaaaaay too long

@@ -14,12 +14,9 @@ draft:
 publish: 
 date: 2001-06-27
 tags:
-  - information
   - "#internet"
   - "#technology"
   - "#communication"
-  - "#broadband-access"
-  - "#fiber-optics"
 ---
 
 To: nettime-l

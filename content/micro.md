@@ -1,5 +1,5 @@
 ---
-title: micro notes
+title: micros
 description: interesting snippets
 extract: One of those micro-blog-type things
 created: 2025-02-17 23:20

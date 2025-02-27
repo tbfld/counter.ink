@@ -17,12 +17,10 @@ tags:
   - aviation
   - design
   - history
-  - philosophy
   - science
   - "#corporation"
-  - "#politics"
   - "#cybernetics"
-  - "#corporate-criminality"
+  - crime
 ---
 
 To: Nettime-l

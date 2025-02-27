@@ -18,7 +18,6 @@ tags:
   - "#media"
   - "#cultural-commentary"
   - "#politics"
-  - "#cancel-culture"
   - "#intellectualism"
 ---
 

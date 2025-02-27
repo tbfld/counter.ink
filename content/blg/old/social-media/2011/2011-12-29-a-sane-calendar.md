@@ -16,8 +16,6 @@ date: 2011-12-29
 tags:
   - "#technology"
   - "#society"
-  - "#cultural-commentary"
-  - "#calendar-reform"
   - "#ideology"
 ---
 

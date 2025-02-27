@@ -1,5 +1,5 @@
 ---
-title: recent additions
+title: recents
 description: 
 extract: 
 created: 2024-11-27 20:20
@@ -12,7 +12,9 @@ permalink:
 draft: 
 publish: 
 tags: 
-aliases: index, home
+aliases:
+  - index
+  - home
 notitle: "true"
 ---
 

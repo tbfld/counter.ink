@@ -17,8 +17,6 @@ tags:
   - "#art"
   - "#technology"
   - "#media"
-  - "#interactive-art"
-  - "#biomimicry-in-investing"
 ---
 
 To: Nettime

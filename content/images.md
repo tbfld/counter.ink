@@ -1,5 +1,5 @@
 ---
-title: image stream
+title: img stream
 description: a stream of pix that pique my interest
 extract: 
 created: 2025-02-23 10:04
@@ -16,7 +16,7 @@ date: 2025-02-23
 tags:
   - image
   - media
-status:
+status: 
 RSS: "true"
 ---
 
