@@ -19,7 +19,7 @@ tags:
   - "#politics"
   - "#technology"
   - "#military"
-  - "#national-security-discourse"
+  - "#national-security"
 ---
 
 To: Nettime

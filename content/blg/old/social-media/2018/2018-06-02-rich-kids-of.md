@@ -19,7 +19,7 @@ tags:
   - "#media"
   - "#society"
   - "#elites"
-  - "#national-security-dynamics"
+  - "#national-security"
 ---
 
 [That story about Niall Ferguson just got better:](https://www.vox.com/policy-and-politics/2018/6/1/17417042/niall-ferguson-stanford-emails) the kid who wrote “Slowly, we will continue to crush the Left’s will to resist, as they will crack under pressure” is the son of Susan Rice, Obama’s Nat Sec Advisor. If you thought Rich Kids of Instagram were bad, just wait for the Rich Kids of Natsec...

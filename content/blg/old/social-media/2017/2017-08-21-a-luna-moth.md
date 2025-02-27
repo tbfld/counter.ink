@@ -15,8 +15,8 @@ publish:
 date: 2017-08-21
 tags:
   - "#nature"
-  - "#moth-photography"
-  - "#entomology"
+  - photography
+  - insects
 ---
 
 Yesterday’s moth of the day \#motd — separated by 26 minutes
