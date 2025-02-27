@@ -14,11 +14,7 @@ draft:
 publish: 
 date: 2021-04-26
 tags:
-  - "#art"
-  - "#media"
-  - "#social-commentary"
-  - "#nft-discourse"
-  - "#cultural-critique"
+  - "#nfts"
 ---
 
 ![[nfts-anyone.jpeg|550]]

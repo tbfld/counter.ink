@@ -15,12 +15,9 @@ publish:
 date: 2001-02-16
 tags:
   - data
-  - email
   - "#online-discourse"
-  - "#media"
   - "#digital-rights"
   - "#email"
-  - "#moderation-practices"
 ---
 
 To: nettime-l

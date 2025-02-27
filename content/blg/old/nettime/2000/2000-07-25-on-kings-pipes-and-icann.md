@@ -17,11 +17,9 @@ tags:
   - governance
   - institution
   - internet
-  - "#internet-regulation"
   - "#intellectual-property"
-  - "#online-culture"
   - "#digital-rights"
-  - "#network-governance"
+  - regulation
 ---
 
 To: Nettime

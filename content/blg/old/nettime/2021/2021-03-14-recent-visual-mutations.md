@@ -15,19 +15,14 @@ publish:
 date: 2021-03-14
 tags:
   - art
-  - data
   - design
   - economics
   - image
-  - information
-  - media
   - meme
   - news
   - "#cryptography"
   - "#technology"
-  - "#cultural-critique"
-  - "#digital-art"
-  - "#nft-discourse"
+  - nfts
 ---
 
 To:  Felix Stalder
