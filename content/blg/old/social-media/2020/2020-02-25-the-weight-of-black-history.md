@@ -16,9 +16,8 @@ date: 2020-02-25
 tags:
   - "#sports"
   - "#media"
-  - "#cultural-commentary"
-  - "#black-history-month"
-  - "#boxing-culture"
+  - race
+  - culture
 ---
 
 WUT “Wilder said the outfit, worn to represent Black History Month, weighed him down so much that he didn’t have the legs to withstand Fury’s early assault in their Las Vegas heavyweight title fight on Saturday.”

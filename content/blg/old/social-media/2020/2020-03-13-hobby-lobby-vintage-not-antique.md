@@ -17,7 +17,6 @@ tags:
   - "#culture"
   - "#media"
   - "#history"
-  - "#artifact-repatriation"
   - "#museum"
 ---
 

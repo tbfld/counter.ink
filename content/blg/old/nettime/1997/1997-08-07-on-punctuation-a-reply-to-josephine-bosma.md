@@ -16,10 +16,9 @@ date: 1997-08-07
 tags:
   - history
   - "#digital-culture"
-  - "#digital-discourse"
   - "#language"
-  - "#punctuation-history"
-  - "#ascii-innovation"
+  - "#ascii"
+  - print-media
 ---
 
 *(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. I’ve set this email in a monospaced font to make that clear.)*

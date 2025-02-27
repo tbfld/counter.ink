@@ -14,11 +14,7 @@ draft:
 publish: 
 date: 2017-03-16
 tags:
-  - "#design"
-  - "#digital-art"
   - "#image"
-  - "#photoshop-tips"
-  - "#business-insider"
 ---
 
 P’shop genius courtesy of *Business Insider*
