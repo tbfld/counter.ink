@@ -17,7 +17,6 @@ aliases:
   - home
 notitle: "true"
 ---
-
 > [!tip]+ For nimbler things, see [[micro]]
 
 > [!error]+ Or if you’re more of a visual type, see [[images]]
