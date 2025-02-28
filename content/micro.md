@@ -23,6 +23,9 @@ notitle: "true"
 
 > [!error]+ Or if you’re more of a visual type, see [[images]]
 
+***2025-02-27:*** Steve Vladeck notes Big Law partners worry [“they could jeopardize their economic future by protecting the rule of law”](https://www.stevevladeck.com/p/bonus-126-chill-all-the-lawyers) 🎻 🔬 😭 🌊
+
+***
 
 ***2025-02-26:*** a super obit for [a fascinating guy](https://provincetownindependent.org/obituaries/2025/02/19/christopher-jencks-celebrated-scholar-and-teacher-dies-at-88/), Chistopher “Sandy” Jencks (🎩 [LF](https://en.wikipedia.org/wiki/Liza_Featherstone))
 
