@@ -18,7 +18,6 @@ tags:
 status: 
 notitle: "true"
 ---
-
 > [!tip]+ For chunkier things, see [[recent]]
 
 > [!error]+ Or if you’re more of a visual type, see [[images]]
