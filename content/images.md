@@ -30,8 +30,6 @@ RSS: "true"
 
 ![[2025-02-27-the-deep-dream-of-the-leviathan.jpg|wmed relative|center]]
 
-![[2025-02-27-isotype-for-strikes.jpg|wmed relative|center]]
-
 ![[2025-02-27-riot-cop-selfie.jpg|wmed relative|center]]
 
 ![[2025-02-27-link-trainer-and-mallet.jpg|wmed relative|center]]
