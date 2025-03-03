@@ -10,8 +10,8 @@ order:
 enableToc: "true"
 permalink: 
 aliases: 
-draft: "true"
-publish: "false"
+draft: "false"
+publish: "true"
 date: 1988-05-17
 tags:
   - art

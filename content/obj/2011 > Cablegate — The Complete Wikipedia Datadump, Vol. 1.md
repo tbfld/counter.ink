@@ -9,7 +9,8 @@ images: "false"
 order: 
 enableToc: "true"
 permalink: 
-aliases: 
+aliases:
+  - cablegate
 draft: "false"
 publish: "true"
 date: 2011-11-02

@@ -9,7 +9,8 @@ images: "false"
 order: 
 enableToc: "true"
 permalink: 
-aliases: 
+aliases:
+  - newmonkeycity
 draft: "false"
 publish: "true"
 date: 1997-01-01
