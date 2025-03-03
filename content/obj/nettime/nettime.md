@@ -9,7 +9,8 @@ images: "false"
 order: 
 enableToc: "true"
 permalink: 
-aliases: 
+aliases:
+  - nettime
 draft: "false"
 publish: "true"
 date: 2025-01-01

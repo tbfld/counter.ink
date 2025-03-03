@@ -8,7 +8,7 @@ author: tb
 images: "false"
 order: 
 enableToc: "true"
-permalink: 
+permalink: ailes
 aliases: 
 draft: "false"
 publish: "true"
