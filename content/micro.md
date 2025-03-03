@@ -20,7 +20,14 @@ notitle: "true"
 ---
 > [!tip]+ For chunkier things, see [[recent]]
 
-> [!error]+ Or if you’re more of a visual type, see [[images]]
+> [!error]+ Or if you’re more of a visual type, see [[images (2025-02-23 – 2025-03-03)]]
+
+***2025-03-03:*** not enough people understand that [*Musk’s goal is to exterminate multitudes*](https://medium.com/age-of-awareness/a-unifying-theory-of-elon-musk-66b841ee0f71) — and Trump is cool with that because that’d make him a Great Man
+
+***2025-03-03:*** Association of Collegiate Schools of Architecture’s *Journal of Architectural Education* [pulls its call for an issue about Palestine](https://www.archpaper.com/2025/02/acsa-cancels-fall-2025-journal-of-architectural-education-issue-on-palestine-and-fires-its-interim-executive-editor/)
+
+***2025-03-03:*** Gregg Gonsalves gets warmer than most — [the Trump admin wants to destroy universties](https://www.thenation.com/article/society/trump-universities-research-cuts-reaction/) — but his analysis still focuses on science, which is a mistake.
+***
 
 ***2025-02-27:*** Steve Vladeck notes Big Law partners worry [“they could jeopardize their economic future by protecting the rule of law”](https://www.stevevladeck.com/p/bonus-126-chill-all-the-lawyers) 🎻 🔬 😭 🌊
 
