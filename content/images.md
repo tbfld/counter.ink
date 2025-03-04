@@ -20,6 +20,59 @@ status:
 RSS: "true"
 ---
 
+![[2025-03-03-nypd-carl-shurtz-byfield.jpg|wmed relative|center]]
+
+![[2025-03-03-south-georgia-instagram-collapse.jpg|wmed relative|center]]
+
+![[2025-03-03-clouds.jpg|wmed relative|center]]
+
+![[2025-03-03-abandoned-diner-location-unknown-byfield.jpg|wmed relative|center]]
+
+![[2025-03-03-911-beaded-purse.jpg|wmed relative|center]]
+
+![[2025-03-03-antler-tower-delta-co.jpg|wmed relative|center]]
+
+![[2025-03-03-polar-solar-photo.jpg|wmed relative|center]]
+
+![[2025-03-03-problem-solving-flowchart.jpg|wmed relative|center]]
+
+![[2025-03-03-spider-web-with-dewdrops.jpg|wmed relative|center]]
+
+![[2025-03-03-lonely-lade-crazy-scene.jpg|wmed relative|center]]
+
+![[2025-03-03-parmigianino-self-portrait-mirrored.jpg|wmed relative|center]]
+
+![[2025-03-03-red-shanked-douc-langur-monkey.jpg|wmed relative|center]]
+
+![[2025-03-03-salo-pig-mask.jpg|wmed relative|center]]
+
+![[2025-03-03-scabby-nyc.jpg|wmed relative|center]]
+
+![[2025-03-03-times-square-crazy-eddie.jpg|wmed relative|center]]
+
+![[2025-03-03-world-on-wire-phone.jpg|wmed relative|center]]
+
+![[2025-03-03-architects-protest.jpg|wmed relative|center]]
+
+
+![[2025-03-03-jacques-tati-perspective-machine.jpg|wmed relative|center]]
+
+![[2025-03-03-brussels-broodthaers-homage-byfield.jpg|wmed relative|center]]
+
+![[2025-03-03-rothko-schwitters-book-spread.jpg|wmed relative|center]]
+
+![[2025-03-03-vacuuming-europe-byfield.jpg|wmed relative|center]]
+
+![[2025-03-03-ww2-contrails.jpg|wmed relative|center]]
+
+![[2025-03-03-floating-saturn.jpg|wmed relative|center]]
+
+![[2025-03-03-bbc-pask-what-he-thinks-i-believe.jpg|wmed relative|center]]
+
+![[2025-03-03-pacific-beach-fence.jpg|wmed relative|center]]
+
+![[2025-03-03-lax-tile-tunnel-charles-kratka-1961.jpg|wmed relative|center]]
+
 ![[2025-03-03-tyouki-bouki-still-masks.jpg|wmed relative|center]]
 
 ![[2025-03-03-wally-wood-realist-disney-scape.jpg|wmed relative|center]]
