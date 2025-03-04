@@ -17,7 +17,6 @@ tags:
   - "#politics"
   - "#international"
   - "#government"
-  - "#hegemonic-theory"
   - "#us-foreign-policy"
 ---
 

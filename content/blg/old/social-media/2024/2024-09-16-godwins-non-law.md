@@ -20,10 +20,8 @@ tags:
   - language
   - right
   - "#politics"
-  - "#social-commentary"
-  - "#cultural-critique"
-  - "#online-radicalization"
   - "#fascism"
+  - extremism
 ---
 
 I’ve said for a decade at least, maybe closer to two by now, that the main effect of Godwin’s “Law” was to enable online radicalization by providing a prefab pseudo-authoritative (because math) zinger for waving away signs of incipient fascism. And lo and behold, everyone’s like OMG NAZIS R SUDDENLY EVERYWHEREZ!!! Uh, yeah, no — not sudden. But whenever I said it, a peanut gallery of apologists would erupt from the nets like zombies to announce WELL ACTUALLY HE LATER SAID bla bla bla. Take note, Godwinsplainers: here he is, writing in the Wash Post, “The steady increase in Hitler comparisons during the Trump era is not a sign that my law has been repealed. Quite the opposite. Godwin’s Law is more like a law of thermodynamics than an act of Congress — so, not really repealable.” Last I checked, there were a few steps between those two extremes — papal bull would be a better comparison for a human utterance that can’t be repealed. Godwin explains that he “designed [it] to be viral,” but the armies of mopes who routinely invoked it for decades didn’t grok the depth of his dialectical thinking or something or other — so now we’ve become “less vigilant about the possible reemergence of actual fascism.” Hmm, I wonder how *that* happened.  🤔 🧐 When fascism’s on the agenda, maybe your personal drama shouldn’t be? Just a thought. De-paywalled link in comments, broken so our neighbors in Canada can see it.

@@ -14,7 +14,6 @@ draft: "false"
 publish: "true"
 date: 2024-09-02
 tags:
-  - "#literary-execution"
   - "#visual-culture"
   - "#science"
   - "#aesthetic-critique"

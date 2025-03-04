@@ -17,7 +17,6 @@ tags:
   - "#healthcare"
   - "#society"
   - "#communication"
-  - "#patient-experience"
   - "#medicine"
 ---
 

@@ -17,12 +17,11 @@ tags:
   - "#technology"
   - "#theory"
   - "#digital-discourse"
-  - "#nonlinear-systems"
+  - "#nonlinearity"
   - "#economics"
   - "#digital-culture"
   - "#politics"
   - "#economics"
-  - "#technoculture-critique"
 ---
 
 To:  nettime-l

@@ -22,7 +22,6 @@ tags:
   - "#surveillance"
   - "#culture"
   - "#politics"
-  - "#digital-sovereignty"
   - "#information-theory"
 ---
 

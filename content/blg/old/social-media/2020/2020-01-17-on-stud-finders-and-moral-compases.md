@@ -18,7 +18,6 @@ tags:
   - "#email"
   - "#media"
   - "#metaphor"
-  - "#moral-commentary"
 ---
 
 I wrote this in something to a private mailing list and thought I’d share:

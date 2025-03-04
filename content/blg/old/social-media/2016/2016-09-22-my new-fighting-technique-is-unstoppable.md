@@ -15,10 +15,9 @@ publish:
 date: 2016-09-22
 tags:
   - "#image"
-  - "#visual-culture"
   - "#digital-art"
   - "#nostalgia"
-  - "#office-decor"
+  - comic
 ---
 
 ![[mnftiu.jpg]]

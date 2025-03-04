@@ -16,8 +16,8 @@ date: 2016-05-19
 tags:
   - "#politics"
   - "#war"
-  - "#nuclear-regime-shift"
-  - "#us-foreign-policy"
+  - "#nuclear"
+  - "#foreign-policy"
   - "#iran"
 ---
 

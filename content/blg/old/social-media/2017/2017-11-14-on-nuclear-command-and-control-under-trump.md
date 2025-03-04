@@ -18,8 +18,7 @@ tags:
   - security
   - "#politics"
   - "#media"
-  - "#public-discourse"
-  - "#nuclear-command"
+  - "#nuclear"
   - "#military"
 ---
 

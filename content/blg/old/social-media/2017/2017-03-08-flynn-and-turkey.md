@@ -17,7 +17,7 @@ tags:
   - "#politics"
   - "#society"
   - "#international"
-  - "#lobbying-ethics"
+  - "#ethics"
   - "#turkey"
 ---
 

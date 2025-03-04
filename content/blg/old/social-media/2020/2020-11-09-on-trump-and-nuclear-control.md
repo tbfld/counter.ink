@@ -17,7 +17,7 @@ tags:
   - "#national"
   - "#security"
   - "#politics"
-  - "#nuclear-command"
+  - "#nuclear"
   - "#civilian"
 ---
 

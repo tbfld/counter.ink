@@ -17,7 +17,7 @@ tags:
   - "#art"
   - "#culture"
   - "#society"
-  - "#local-apocalypse"
+  - "#apocalypse"
   - "#conceptualism"
 ---
 

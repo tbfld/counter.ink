@@ -14,18 +14,13 @@ draft:
 publish: 
 date: 2016-11-18
 tags:
-  - africa
-  - asia
-  - culture
   - europe
   - language
-  - left
   - media
   - "#politics"
   - "#society"
-  - "#history"
-  - "#racial-property"
-  - "#federalism-debate"
+  - "#race"
+  - right
 ---
 
 To: nettime-l

@@ -19,12 +19,10 @@ tags:
   - information
   - language
   - news
-  - philosophy
   - "#internet"
   - "#technology"
   - "#culture"
-  - "#semantic-web"
-  - "#ontological-discourse"
+  - "#ontology"
 ---
 
 To: Nettime-l

@@ -21,10 +21,7 @@ tags:
   - internet
   - security
   - technology
-  - "#internet"
-  - "#online-culture"
-  - "#open-source-security"
-  - "#trust-and-security"
+  - "#open-source"
 ---
 
 To: nettime-l

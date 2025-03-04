@@ -19,10 +19,6 @@ tags:
   - data
   - europe
   - history
-  - information
-  - institution
-  - language
-  - law
   - media
   - national
   - news
@@ -31,9 +27,7 @@ tags:
   - right
   - "#internet"
   - "#media"
-  - "#online-culture"
-  - "#new-media-activism"
-  - "#digital-commons"
+  - "#activism"
   - "#information"
 ---
 

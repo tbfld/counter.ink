@@ -18,7 +18,6 @@ tags:
   - "#politics"
   - "#society"
   - "#cultural-commentary"
-  - "#information-technology-impact"
   - "#masculinity"
 ---
 

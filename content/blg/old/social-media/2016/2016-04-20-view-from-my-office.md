@@ -14,11 +14,7 @@ draft:
 publish: 
 date: 2016-04-20
 tags:
-  - "#art"
-  - "#design"
-  - "#visual-culture"
-  - "#office-view"
-  - "#personal-space"
+  - photography
 ---
 
 ![[view-from-my-office.jpg]]

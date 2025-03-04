@@ -18,7 +18,6 @@ tags:
   - news
   - "#social-media"
   - "#policy"
-  - "#fact-checking"
 ---
 
 Judd Legum’s daily newsletter Popular Info is turning out to be surprisingly good. Today’s lead story, on “How a right-wing magazine became Facebook’s fact checker,” is an excellent example. And his larger project is admirable: to build a reliable source of news that doesn’t depend on the vagaries of social media for promotion. So do yourself a favor and go sign up — one mail a day with moderately deep coverage of a few issue-stories.

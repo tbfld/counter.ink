@@ -1,6 +1,6 @@
 ---
-title: about this site
-description: one of those about-this-site pages
+title: about
+description: you know, one of those about-this-site pages
 extract: a page about this site and myself
 created: 2025-02-16 23:53
 updated: 2025-02-16 23:53
@@ -13,9 +13,9 @@ aliases:
   - about
 draft: "false"
 publish: "true"
-date: 
-tags: 
-- index
+date: 2025-01-01
+tags:
+  - index
 status: 
 RSS: "false"
 ---

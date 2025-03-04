@@ -18,8 +18,6 @@ tags:
   - education
   - "#politics"
   - "#social-commentary"
-  - "#public-policy"
-  - "#participatory-democracy"
   - "#policy"
 ---
 

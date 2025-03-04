@@ -17,7 +17,6 @@ tags:
   - "#politics"
   - "#media"
   - "#society"
-  - "#political-art"
   - "#visual-commentary"
 ---
 
