@@ -22,7 +22,7 @@ status:
 RSS:
 ---
 
-![[2021-08-06-nyt-eerily.jpg]]
+![[content/img/2021-08-06-nyt-eerily.jpg]]
 
 The words “eery” and “eerily” used to mean strange and mysterious; now they mean the writing process has failed. For example, here “eerily” means “management is nervous about this statement.”
 
