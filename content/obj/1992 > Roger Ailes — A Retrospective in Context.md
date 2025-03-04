@@ -5,7 +5,7 @@ extract: "I wrote this essay in 1991/1992, which might seem a lifetime away, but
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
 author: tb
-images: "false"
+images: "true"
 order: 
 enableToc: "true"
 permalink: ailes
@@ -29,6 +29,10 @@ RSS: "false"
 *In one sense the essay was an integral part of an artwork by Lincoln Tobier and myself. But in its voice and its disposable quality, it also stood outside of the work — with Lincoln as the artist and myself as some sort of critic. That ambiguity was central to how he and I worked together, and it was central to the artworks we made, which gestured at others’ creativity rather than our own.*
 
 *The exhibition appeared at [Real Art Ways](https://www.realartways.org/) (Hartford CT), the [Eye Gallery](https://www.sfgate.com/entertainment/article/eye-gallery-s-holiday-closing-is-permanent-3049493.php) (San Francisco CA), and the [Randolph Street Gallery](https://en.wikipedia.org/wiki/Randolph_Street_Gallery) (Chicago IL) during the 1992 US presidential election. This slightly expanded version of the essay appeared in a spread in an early issue of* Frieze, *back when it was still obscure (#7, Nov–Dec 1992). The essay also appeared in German; both were among the very first texts to appear on [[obj/nettime/nettime]] ([EN](https://nettime.org/Lists-Archives/nettime-l-9512/msg00001.html), [DE](https://nettime.org/Lists-Archives/nettime-l-9512/msg00000.html)).*
+***
+
+![[ailes-frieze-spread.jpg]]
+
 ***
 
 > *The poetry which is no longer within us and which we no longer succeed in finding in things suddenly appears on the wrong side. — Antonin Artaud*
@@ -62,4 +66,3 @@ Politics and the politician are, as I’ve implied, the medium of the consultant
 That in this day anyone but a hopeless naif could accuse another or boast of “politicizing art” or “aestheticizing politics” is laughable — as though the two spheres had miraculously remained distinct, cryogenically frozen like Walt Disney’s corpse, through the fifty-six years since Benjamin wrote the overly quoted essay I quoted above. It is to these auteurs — and *not* to the legions of self-styled artists whose strident oppositional posturings only affirm the values and institutions they claim to criticize, by insisting that they are perfectible — that historians will turn in their search for the exemplary art of the late twentieth century: for, ultimately, they are the descendants of the avant-garde whose unorthodox work in diverse media and methods is condemned by the traditionalist commodity-producers in every field of art, even as it decisively articulates the terms that the latter debate and the sociopolitical context in which they do so.
 
 > *The government of the city is in your hands, and that is just, for you are the force. But you must also be capable of feeling beauty; for as not one of you today can do without power, so not one of you has the right to do without poetry. You can live three days with- out bread — without poetry, never; and those of you who can say the contrary are mistaken; they are out of their minds. — Charles Baudelaire*
-
