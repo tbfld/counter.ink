@@ -22,6 +22,7 @@ notitle: "true"
 
 > [!error]+ Or if you’re more of a visual type, see [[images (2025-02-23 – 2025-03-03)]]
 
+***2025-03-04:*** Columbia U (my alma mater and neighbor for deacdes) [keeps on screwing up its handling of the pro-Palestinian protests](https://www.dropsitenews.com/p/columbia-university-gaza-student-disclinary-office)
 
 ***2025-03-04:*** Dictionary.com doesn’t know how to pronounce [the singular word *interstice*](https://www.dictionary.com/browse/interstice)
 
