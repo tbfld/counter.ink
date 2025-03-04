@@ -17,7 +17,6 @@ tags:
   - "#media"
   - "#politics"
   - "#journalism"
-  - "#editorial-critique"
   - "#authoritarianism"
 ---
 

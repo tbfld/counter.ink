@@ -18,7 +18,7 @@ tags:
   - "#media"
   - "#politics"
   - "#internet-culture"
-  - "#fake-news-strategy"
+  - "#fake-news"
   - "#transnational"
 ---
 

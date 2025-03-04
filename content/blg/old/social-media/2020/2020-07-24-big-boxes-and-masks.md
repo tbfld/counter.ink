@@ -17,7 +17,7 @@ tags:
   - "#media"
   - "#national"
   - "#society"
-  - "#hygienic-norms"
+  - "#hygiene"
   - "#corporation"
 ---
 

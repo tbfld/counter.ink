@@ -17,7 +17,7 @@ tags:
   - "#technology"
   - "#law"
   - "#communication"
-  - "#open-source-licensing"
+  - "#open-source"
 ---
 
 To: Nettime-l

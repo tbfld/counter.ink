@@ -18,7 +18,6 @@ tags:
   - "#media"
   - "#cultural-critique"
   - "#visual-culture"
-  - "#political-art"
 status: draft
 ---
 

@@ -19,8 +19,6 @@ tags:
   - history
   - "#media"
   - "#publishing"
-  - "#online-culture"
-  - "#digital-collectivism"
   - "#internet"
 ---
 

@@ -17,8 +17,9 @@ tags:
   - "#technology"
   - "#internet"
   - "#media"
-  - "#makerism-debate"
+  - "#maker"
   - "#digital-culture"
+  - "#diplomacy"
 ---
 
 There’s a [really interesting thread](https://nettime.org/Lists-Archives/nettime-l-1906/threads.html#00019) on [[blg/old/nettime/nettime]] about the death of makerism

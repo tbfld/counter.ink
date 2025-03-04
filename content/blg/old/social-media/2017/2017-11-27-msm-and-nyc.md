@@ -17,8 +17,8 @@ tags:
   - "#media"
   - "#politics"
   - "#public-discourse"
-  - "#mainstream-media-critique"
   - "#nyc"
+  - language
 ---
 
 Seem like “MSM” is mostly a code word for NYC. Or did everyone already know that and I’m just catching on?

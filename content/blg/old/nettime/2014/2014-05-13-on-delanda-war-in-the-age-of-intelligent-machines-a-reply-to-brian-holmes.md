@@ -21,8 +21,6 @@ tags:
   - "#corporation"
   - "#society"
   - "#philosophy"
-  - "#ontological-transformation"
-  - "#human-machine-relations"
 ---
 
 To: nettime-l

@@ -17,7 +17,6 @@ tags:
   - "#policy"
   - "#media"
   - "#cultural-commentary"
-  - "#political-skepticism"
   - "#rural-dynamics"
 ---
 

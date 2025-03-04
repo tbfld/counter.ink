@@ -16,7 +16,7 @@ date: 2019-06-29
 tags:
   - "#politics"
   - "#government"
-  - "#nepotism-reform"
+  - "#nepotism"
   - "#political-ethics"
 ---
 

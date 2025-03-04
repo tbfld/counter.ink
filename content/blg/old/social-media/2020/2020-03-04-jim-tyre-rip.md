@@ -17,7 +17,7 @@ tags:
   - "#internet"
   - "#technology"
   - "#culture"
-  - "#memorial-tribute"
+  - "#memorial"
   - "#dns"
 ---
 

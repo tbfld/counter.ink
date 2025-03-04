@@ -25,7 +25,6 @@ tags:
   - "#media"
   - "#theory"
   - "#politics"
-  - "#memetics-analysis"
   - "#cultural-critique"
 ---
 

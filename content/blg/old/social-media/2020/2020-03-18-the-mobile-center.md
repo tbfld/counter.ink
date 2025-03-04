@@ -16,8 +16,6 @@ date: 2020-03-18
 tags:
   - "#politics"
   - "#policy"
-  - "#political-skepticism"
-  - "#political-hypocrisy"
   - "#government"
 ---
 

@@ -18,7 +18,6 @@ tags:
   - "#digital-culture"
   - "#media"
   - "#publishing"
-  - "#online-arts-funding"
   - "#corporation"
 ---
 

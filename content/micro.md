@@ -22,6 +22,11 @@ notitle: "true"
 
 > [!error]+ Or if you’re more of a visual type, see [[images (2025-02-23 – 2025-03-03)]]
 
+
+***2025-03-04:*** Dictionary.com doesn’t know how to pronounce [the singular word *interstice*](https://www.dictionary.com/browse/interstice)
+
+***
+
 ***2025-03-03:*** not enough people understand that [*Musk’s goal is to exterminate multitudes*](https://medium.com/age-of-awareness/a-unifying-theory-of-elon-musk-66b841ee0f71) — and Trump is cool with that because that’d make him a Great Man
 
 ***2025-03-03:*** Association of Collegiate Schools of Architecture’s *Journal of Architectural Education* [pulls its call for an issue about Palestine](https://www.archpaper.com/2025/02/acsa-cancels-fall-2025-journal-of-architectural-education-issue-on-palestine-and-fires-its-interim-executive-editor/)

@@ -14,9 +14,10 @@ draft:
 publish: 
 date: 2019-03-03
 tags:
-  - "#visual-culture"
-  - "#fecal-implants"
   - "#healthcare"
+  - media
+  - nyt
+  - language
 ---
 
 Pretty much sums it all up

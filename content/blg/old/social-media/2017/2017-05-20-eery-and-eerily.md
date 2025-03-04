@@ -14,10 +14,10 @@ draft:
 publish: 
 date: 2017-05-20
 tags:
-  - "#social-commentary"
   - "#cultural-commentary"
-  - "#racial-justice"
   - "#media"
+  - language
+  - race
 ---
 
 When a writer uses ‘eery’ or ‘eerily,’ it means s/he didn’t think it through. This is a brilliant example: lawyers for a white cop who shot a black man argue the black judge should recuse himself because he was stopped by the cops in a way that was ‘eerily similar.’ Right, cue the Twilight Zone music, woooooooo, it’s a *mystery* how that could happen — I mean, what are the chances?!
