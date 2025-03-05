@@ -20,6 +20,7 @@ tags:
 status: 
 RSS: "true"
 ---
-![[2025-03-05-swasticar-flyer.jpg|wmed relative|center]]
+This image has been making the rounds on social media, so I thought I’d help it do the same IRL [[swasticar.pdf|by making a convenient PDF]]. Just download it, print out a dozen copies, toss them in your bag, and leave them under the windshield wipers on Teslas. *You too can be antifa!*
 
-This image has been going around on social media, so I thought I’d help it go around IRL by making [[swasticar.pdf|a convenient PDF]]. Just download it, print out a dozen or two, and leave them under the windshield wipers on Teslas.
+![[2025-03-05-swasticar-flyer.jpg|relative ws-med|center]]
+
