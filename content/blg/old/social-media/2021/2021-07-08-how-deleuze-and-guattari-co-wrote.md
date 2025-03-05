@@ -17,6 +17,7 @@ tags:
   - philosophy
   - writing
   - collaboration
+  - france
 status: 
 RSS: "true"
 ---

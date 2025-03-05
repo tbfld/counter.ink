@@ -84,6 +84,21 @@ const config: QuartzConfig = {
         enableRSS: true,
         rssLimit: 50,
         rssFullHtml: true,
+        rssOptions: {
+          channelData: {
+            link: "https://counter.ink"
+          }
+        },
+        rssItemDataModifier: (cfg, data) => {
+          // Fix double https:// in URLs
+          if (data.link) {
+            data.link = data.link.replace('https://https://', 'https://')
+          }
+          if (data.guid) {
+            data.guid = data.guid.replace('https://https://', 'https://')
+          }
+          return data
+        },
         filterFn: (node) => {
           // List of specific files to include
           const includeFiles = ['images.md', 'micro.md', 'recent.md'];
