@@ -24,7 +24,7 @@ notitle: "true"
 ***
 
   > [!note]+ [[2025-03-05-swasticar-flyer|25-03-05 swasticar flyer]]
- > A helpful PDF you can print out and leave on every Tesla you see!
+ > A helpful PDF that you can print out and leave on every Tesla you see!
  
 > [!warning]+ [[2025-02-12-maybe-too-prophetic]]
 > I wrote this on Facebook on 7 Nov 2024, barely a day after the election, and it seems a little *too* prescient.
