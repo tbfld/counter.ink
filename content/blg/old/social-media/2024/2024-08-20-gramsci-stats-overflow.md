@@ -21,4 +21,4 @@ tags:
 status: draft
 ---
 
-![[clown-gramsci-overflow.jpg|relative wmed|left]]
+![[content/blg/old/social-media/FB_images/clown-gramsci-overflow.jpg|relative wmed|left]]

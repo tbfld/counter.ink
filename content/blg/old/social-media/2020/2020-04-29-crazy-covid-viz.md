@@ -19,4 +19,4 @@ tags:
   - "#visual-narrative"
 ---
 
-![[crazy-covid-viz.jpg]]
+![[content/blg/old/social-media/FB_images/crazy-covid-viz.jpg]]

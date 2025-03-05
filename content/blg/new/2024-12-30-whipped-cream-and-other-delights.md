@@ -31,5 +31,5 @@ status: final
 >Record collectors are weird.
 
 
-![[christopher-bickel-does-herb-alpert.jpeg|relative wmed|left]]
+![[content/blg/new/new_images/christopher-bickel-does-herb-alpert.jpeg|relative wmed|left]]
 

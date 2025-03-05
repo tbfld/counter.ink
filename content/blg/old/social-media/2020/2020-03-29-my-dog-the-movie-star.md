@@ -22,4 +22,4 @@ tags:
 
 Actual screenshot of my dog upstaging Diane Keaton and Morgan Freeman TRUE FACT
 
-![[my-dog-the-movie-star.jpg]]
+![[content/blg/old/social-media/FB_images/my-dog-the-movie-star.jpg]]

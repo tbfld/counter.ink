@@ -21,4 +21,4 @@ tags:
   - internet
 ---
 
-![[im-a-utilitarian.jpg]]
+![[content/blg/old/social-media/FB_images/im-a-utilitarian.jpg]]

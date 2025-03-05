@@ -21,6 +21,6 @@ tags:
   - "#visual-commentary"
 ---
 
-![[costco-cash.jpg]]
+![[content/blg/old/social-media/FB_images/costco-cash.jpg]]
 
 Late capitalism in a nutshell

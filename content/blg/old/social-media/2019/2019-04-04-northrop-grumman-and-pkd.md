@@ -22,4 +22,4 @@ tags:
   - sci-fi
 ---
 
-![[northrop-grumman-and-pkd.jpg]]
+![[content/blg/old/social-media/FB_images/northrop-grumman-and-pkd.jpg]]

@@ -21,4 +21,4 @@ tags:
   - "#covid"
 ---
 
-![[macbeth-covid.jpg]]
+![[content/blg/old/social-media/FB_images/macbeth-covid.jpg]]

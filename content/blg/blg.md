@@ -25,7 +25,6 @@ When social media came along, it more or less put an end to blogging. It’s got
 %% Begin Waypoint %%
 - [[blg|blg]]
 - **[[new]]**
-	- [[25-03-05-swasticar-flyer|250305 swasticar flyer]]
 	- [[2024-11-26-second-greatest-footnote-ever|2024-11-26 the second greatest footnote ever]]
 	- [[2024-11-27-all-creatures-terrible-and-fabulous|2024-11-27 all creatures terrible and fabulous]]
 	- [[2024-11-27-escaping-criticism|2024-11-27 escaping criticism]]
@@ -65,6 +64,8 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-02-12-maybe-too-prophetic|2025-02-12 maybe too prophetic]]
 	- [[2025-02-20-so-many-nazis-so-little-time|2025-02-20 so many nazis so little time]]
 	- [[2025-02-26-Niemöller-for-today|2025-02-26 Niemöller for today]]
+	- [[2025-03-05-swasticar-flyer|250305 swasticar flyer]]
+	- [[250305-swasticar-flyer]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]

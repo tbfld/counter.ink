@@ -33,4 +33,4 @@ A few years ago when I listened to a few ‘unofficial’ Mark Fisher audiobooks
 >>
 >>― Mark Fisher, *Capitalist Realism: Is There No Alternative?*
 
-![[gd-mf.jpg]]
+![[content/blg/old/social-media/FB_images/gd-mf.jpg]]

@@ -20,4 +20,4 @@ tags:
   - "#art"
 ---
 
-![[evil-exists.jpg]]
+![[content/blg/old/social-media/FB_images/evil-exists.jpg]]

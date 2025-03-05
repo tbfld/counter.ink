@@ -21,4 +21,4 @@ tags:
 
 I laugh at your ten-year challenge. This mail just appeared in my inbox — it’s like a twenty-six-year challenge.
 
-![[26-year-challenge.jpg]]
+![[content/blg/old/social-media/FB_images/26-year-challenge.jpg]]

@@ -20,4 +20,4 @@ tags:
   - urbanism
 ---
 
-![[airport-wall.jpg]]
+![[content/blg/old/social-media/FB_images/airport-wall.jpg]]

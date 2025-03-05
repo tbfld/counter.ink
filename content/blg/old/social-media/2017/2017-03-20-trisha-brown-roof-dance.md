@@ -20,6 +20,6 @@ tags:
   - urbanism
 ---
 
-![[trisha-brown-roof-dance.jpg|relative wmed|left]]
+![[content/blg/old/social-media/FB_images/trisha-brown-roof-dance.jpg|relative wmed|left]]
 
 RIP Trisha Brown 😞

@@ -18,6 +18,6 @@ tags:
   - signage
 ---
 
-![[easter-technology.jpg]]
+![[content/blg/old/social-media/FB_images/easter-technology.jpg]]
 
 Easter Sunday, Harlem

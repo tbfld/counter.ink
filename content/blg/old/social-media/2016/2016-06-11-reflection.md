@@ -18,4 +18,4 @@ tags:
   - photography
 ---
 
-![[reflection.jpg]]
+![[content/blg/old/social-media/FB_images/reflection.jpg]]

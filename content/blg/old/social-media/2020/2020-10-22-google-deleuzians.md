@@ -19,4 +19,4 @@ tags:
   - theory
 ---
 
-![[google-deleuzians.jpg]]
+![[content/blg/old/social-media/FB_images/google-deleuzians.jpg]]

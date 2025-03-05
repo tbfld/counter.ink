@@ -22,4 +22,4 @@ tags:
 
 “In 2009, \[Chris] Marker commissioned an Avatar of \[his cat] Guillaume-en-Egypte to represent him in machinima works. The avatar was created by Exosius Woolley and first appeared in the short film / machinima, Ouvroir the Movie by Chris Marker.” Voila:
 
-![[chris-markers-cat.jpg]]
+![[content/blg/old/social-media/FB_images/chris-markers-cat.jpg]]

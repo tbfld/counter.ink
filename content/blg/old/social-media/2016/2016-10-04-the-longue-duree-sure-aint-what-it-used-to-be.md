@@ -20,4 +20,4 @@ tags:
   - theory
 ---
 
-![[longue-duree.jpg]]
+![[content/blg/old/social-media/FB_images/longue-duree.jpg]]

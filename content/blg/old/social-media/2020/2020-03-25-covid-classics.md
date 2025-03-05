@@ -19,12 +19,12 @@ tags:
   - covid
 ---
 
-![[latest-last-supper.jpg]]
+![[content/blg/old/social-media/FB_images/latest-last-supper.jpg]]
 
-![[las-meninas.jpg]]
+![[content/blg/old/social-media/FB_images/las-meninas.jpg]]
 
-![[guernica.jpg]]
+![[content/blg/old/social-media/FB_images/guernica.jpg]]
 
 ### 2020-03-24
 
-![[anatomy-lesson-of-dr.tulp.jpg]]
+![[content/blg/old/social-media/FB_images/anatomy-lesson-of-dr.tulp.jpg]]

@@ -20,4 +20,4 @@ tags:
   - cars
 ---
 
-![[circumcision-creates-killers.jpg]]
+![[content/blg/old/social-media/FB_images/circumcision-creates-killers.jpg]]

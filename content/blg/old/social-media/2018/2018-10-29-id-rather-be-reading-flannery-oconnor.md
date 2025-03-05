@@ -18,4 +18,4 @@ tags:
   - cars
 ---
 
-![[id-rather-be-reading-flannery-oconnor.jpg]]
+![[content/blg/old/social-media/FB_images/id-rather-be-reading-flannery-oconnor.jpg]]

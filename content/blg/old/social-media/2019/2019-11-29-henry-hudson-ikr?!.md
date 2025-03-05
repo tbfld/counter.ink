@@ -19,4 +19,4 @@ tags:
 
 Here’s a Thanksgiving-y gem from the kid’s archives
 
-![[henry-hudson-ikr.jpg]]
+![[content/blg/old/social-media/FB_images/henry-hudson-ikr.jpg]]

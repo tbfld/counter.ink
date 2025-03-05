@@ -21,6 +21,6 @@ tags:
   - "#toys"
 ---
 
-![[gever-tully-warnings.jpg]]
+![[content/blg/old/social-media/FB_images/gever-tully-warnings.jpg]]
 
 Rummaging around in the archives and found this gem: Gever Tully’s safety labels for toys.

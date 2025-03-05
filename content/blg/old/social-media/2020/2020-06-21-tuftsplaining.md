@@ -23,4 +23,4 @@ tags:
 
 Edward tuftesplains a tuftesplainer
 
-![[tuftsplaining.jpg]]
+![[content/blg/old/social-media/FB_images/tuftsplaining.jpg]]

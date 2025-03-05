@@ -21,6 +21,6 @@ tags:
 
 Yesterday’s moth of the day \#motd — separated by 26 minutes
 
-![[a-luna-moth-1.jpg]]
+![[content/blg/old/social-media/FB_images/a-luna-moth-1.jpg]]
 
-![[a-luna-moth-2.jpg]]
+![[content/blg/old/social-media/FB_images/a-luna-moth-2.jpg]]

@@ -22,4 +22,4 @@ tags:
 
 Help me I just realized Ebay is awash in Letraset
 
-![[letraset.jpg]]
+![[content/blg/old/social-media/FB_images/letraset.jpg]]

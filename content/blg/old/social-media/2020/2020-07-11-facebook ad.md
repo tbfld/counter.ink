@@ -20,4 +20,4 @@ tags:
   - crisis
 ---
 
-![[college-campus-4-sale.jpg]]
+![[content/blg/old/social-media/FB_images/college-campus-4-sale.jpg]]

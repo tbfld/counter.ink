@@ -21,6 +21,6 @@ tags:
   - publishing
 ---
 
-![[companies-prep-for-deepfake-future.jpg]]
+![[content/blg/old/social-media/FB_images/companies-prep-for-deepfake-future.jpg]]
 
 By prototyping radical new forms of clickbait

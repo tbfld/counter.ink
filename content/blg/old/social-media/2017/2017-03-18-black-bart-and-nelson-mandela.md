@@ -23,4 +23,4 @@ tags:
 
 Maybe some of you geezers remember the Black Bart t-shirt mashup madness? I guess this one must date to 1990, when Mandela visited NYC.
 
-![[black-bart-and-nelson-mandela.jpg]]
+![[content/blg/old/social-media/FB_images/black-bart-and-nelson-mandela.jpg]]

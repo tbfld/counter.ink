@@ -19,4 +19,4 @@ tags:
   - "#media-representation"
 ---
 
-![[israeli-chopper.jpg]]
+![[content/blg/old/social-media/FB_images/israeli-chopper.jpg]]

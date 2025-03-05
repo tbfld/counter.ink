@@ -20,4 +20,4 @@ tags:
   - ai
 ---
 
-![[new-directions-in-memery.jpg]]
+![[content/blg/old/social-media/FB_images/new-directions-in-memery.jpg]]

@@ -20,4 +20,4 @@ tags:
 
 Best bar name ever
 
-![[local-bar-scene-klubb.jpg]]
+![[content/blg/old/social-media/FB_images/local-bar-scene-klubb.jpg]]

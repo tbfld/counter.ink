@@ -22,4 +22,4 @@ tags:
 
 If you feel like you’re having a hard time making sense of things these days, this is good example of one reason why. There are, by my count, SEVEN levels of negation in this one sentence. Not seven acts, seven *levels* — like, ‘Alice criticized Bob for denying that Carlos had rejected Dana’s criticism of Erin’s disavowal...’ Everything is like this now.
 
-![[seven-levels-of-negation.jpg]]
+![[content/blg/old/social-media/FB_images/seven-levels-of-negation.jpg]]

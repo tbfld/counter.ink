@@ -21,4 +21,4 @@ tags:
   - "#digital"
 ---
 
-![[cruel-technologies.jpg]]
+![[content/blg/old/social-media/FB_images/cruel-technologies.jpg]]

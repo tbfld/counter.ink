@@ -19,6 +19,6 @@ tags:
   - satire
 ---
 
-![[icloud-is-full.jpg]]
+![[content/blg/old/social-media/FB_images/icloud-is-full.jpg]]
 
 This should be the last word on this subject

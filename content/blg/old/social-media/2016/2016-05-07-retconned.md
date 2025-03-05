@@ -20,4 +20,4 @@ tags:
   - "#retcon-concept"
 ---
 
-![[retcon.jpg]]
+![[content/blg/old/social-media/FB_images/retcon.jpg]]

@@ -20,4 +20,4 @@ tags:
   - "#botanical"
 ---
 
-![[american-beautyberry.jpg]]
+![[content/blg/old/social-media/FB_images/american-beautyberry.jpg]]

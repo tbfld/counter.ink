@@ -17,4 +17,4 @@ tags:
   - consumerism
 ---
 
-![[commodity.jpg]]
+![[content/blg/old/social-media/FB_images/commodity.jpg]]

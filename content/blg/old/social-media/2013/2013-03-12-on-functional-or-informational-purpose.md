@@ -19,4 +19,4 @@ tags:
   - "#trope"
 ---
 
-![[useless-stickers.jpg]]
+![[content/blg/old/social-media/FB_images/useless-stickers.jpg]]

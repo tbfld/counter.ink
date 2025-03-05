@@ -20,4 +20,4 @@ tags:
   - "#visual-culture"
 ---
 
-![[busload-of-lamers.jpg]]
+![[content/blg/old/social-media/FB_images/busload-of-lamers.jpg]]

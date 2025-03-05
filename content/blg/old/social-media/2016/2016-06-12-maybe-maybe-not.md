@@ -22,4 +22,4 @@ tags:
 
 Stumbled onto this a few days ago. Not convinced.
 
-![[maybe-toynbee-maybe-not.jpg]]
+![[content/blg/old/social-media/FB_images/maybe-toynbee-maybe-not.jpg]]

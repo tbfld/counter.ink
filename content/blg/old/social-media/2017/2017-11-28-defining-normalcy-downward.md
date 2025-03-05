@@ -22,4 +22,4 @@ tags:
 
 WTF. Three results?
 
-![[defining-normalcy-downward.jpg]]
+![[content/blg/old/social-media/FB_images/defining-normalcy-downward.jpg]]

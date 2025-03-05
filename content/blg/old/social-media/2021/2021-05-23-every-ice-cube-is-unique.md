@@ -20,4 +20,4 @@ tags:
 
 YESSSSSSSSS
 
-![[every-ice-cube-is-unique.jpg]]
+![[content/blg/old/social-media/FB_images/every-ice-cube-is-unique.jpg]]

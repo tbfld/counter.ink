@@ -20,4 +20,4 @@ tags:
   - history
 ---
 
-![[new-ubu.jpg]]
+![[content/blg/old/social-media/FB_images/new-ubu.jpg]]

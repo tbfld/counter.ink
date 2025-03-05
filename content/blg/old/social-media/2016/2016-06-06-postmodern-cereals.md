@@ -21,6 +21,6 @@ tags:
   - "#image"
 ---
 
-![[breakfast-theory.jpg]]
+![[content/blg/old/social-media/FB_images/breakfast-theory.jpg]]
 
 Still great

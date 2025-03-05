@@ -18,4 +18,4 @@ tags:
   - insects
 ---
 
-![[from-the-garden.jpg]]
+![[content/blg/old/social-media/FB_images/from-the-garden.jpg]]

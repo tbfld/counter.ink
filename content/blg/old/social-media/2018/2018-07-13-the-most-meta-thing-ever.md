@@ -22,4 +22,4 @@ tags:
   - literature
 ---
 
-![[braille-prince.jpg]]
+![[content/blg/old/social-media/FB_images/braille-prince.jpg]]

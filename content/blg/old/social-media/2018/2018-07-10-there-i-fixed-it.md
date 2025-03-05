@@ -19,4 +19,4 @@ tags:
   - law
 ---
 
-![[there-i-fixed-it.jpg]]
+![[content/blg/old/social-media/FB_images/there-i-fixed-it.jpg]]

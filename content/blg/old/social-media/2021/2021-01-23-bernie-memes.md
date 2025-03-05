@@ -20,4 +20,4 @@ tags:
   - meme
 ---
 
-![[bernie-memes.jpg]]
+![[content/blg/old/social-media/FB_images/bernie-memes.jpg]]

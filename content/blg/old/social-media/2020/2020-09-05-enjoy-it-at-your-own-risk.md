@@ -18,4 +18,4 @@ tags:
   - signage
 ---
 
-![[enjoy-it-at-your-own-risk.jpg]]
+![[content/blg/old/social-media/FB_images/enjoy-it-at-your-own-risk.jpg]]

@@ -23,4 +23,4 @@ tags:
 
 O&BTW
 
-![[london-calling.jpg]]
+![[content/blg/old/social-media/FB_images/london-calling.jpg]]

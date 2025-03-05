@@ -21,7 +21,7 @@ tags:
   - "#ai"
 ---
 
-![[nyt-fact-check.jpg]]
+![[content/blg/old/social-media/FB_images/nyt-fact-check.jpg]]
 
 I spent a bit of time with this NYT “fact-check,” and it’s worth sharing.  
   

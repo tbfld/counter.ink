@@ -23,4 +23,4 @@ tags:
 
 When Trump is making Hakim Bey references, that means we’re winning.
 
-![[no-taz-4-u.jpg]]
+![[content/blg/old/social-media/FB_images/no-taz-4-u.jpg]]

@@ -20,4 +20,4 @@ tags:
 
 All the feelz
 
-![[we-care-about-your-memories.jpg]]
+![[content/blg/old/social-media/FB_images/we-care-about-your-memories.jpg]]

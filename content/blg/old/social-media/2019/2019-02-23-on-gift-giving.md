@@ -19,4 +19,4 @@ tags:
 
 Just stumbled on this Xmas gift–buying advice for the 13YO
 
-![[on-gift-giving.jpg]]
+![[content/blg/old/social-media/FB_images/on-gift-giving.jpg]]

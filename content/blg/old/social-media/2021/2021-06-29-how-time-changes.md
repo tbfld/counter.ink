@@ -28,4 +28,4 @@ tags:
 
 Maybe the US should just go back to manufacturing objects
 
-![[time-mag-k-pop.jpg]]
+![[content/blg/old/social-media/FB_images/time-mag-k-pop.jpg]]

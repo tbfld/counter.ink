@@ -21,6 +21,6 @@ tags:
   - genre
 ---
 
-![[video-games-can-food.jpg]]
+![[content/blg/old/social-media/FB_images/video-games-can-food.jpg]]
 
 TURN YOUR OLD VIDEO GAMES IN2 CAN FOOD!!!

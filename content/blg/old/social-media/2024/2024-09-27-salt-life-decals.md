@@ -21,4 +21,4 @@ tags:
   - "#graphics"
 ---
 
-![[salt-life-decals.jpg]]
+![[content/blg/old/social-media/FB_images/salt-life-decals.jpg]]

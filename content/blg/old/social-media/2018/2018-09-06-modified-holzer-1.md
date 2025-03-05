@@ -20,4 +20,4 @@ tags:
   - modification
 ---
 
-![[modified-holzer.jpg]]
+![[content/blg/old/social-media/FB_images/modified-holzer.jpg]]

@@ -16,7 +16,7 @@ date: 2020-05-31
 tags:
 ---
 
-![[sample-graffiti.jpg]]
+![[content/blg/old/social-media/FB_images/sample-graffiti.jpg]]
 
 Someone vandalized the Armenian genocide monument in Denver and spray-painted “SAMPLE TEXT” on it. So, either (a) there’s an incredibly small sliver of deeply ironic radical leftists who by some crypto-byzantine logic fall on the Kemalist > Erdogan supporter spectrum, or (b) the foreign elements mixing it up in the protests include some really stupid Turkish fascists.
 

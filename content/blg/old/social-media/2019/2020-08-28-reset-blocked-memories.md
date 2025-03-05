@@ -19,4 +19,4 @@ tags:
   - technology
 ---
 
-![[reset-blocked-memories.jpg]]
+![[content/blg/old/social-media/FB_images/reset-blocked-memories.jpg]]

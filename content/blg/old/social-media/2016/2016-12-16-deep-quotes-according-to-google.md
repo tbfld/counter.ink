@@ -22,4 +22,4 @@ tags:
 
 <3 Google autocomplete
 
-![[google-autocomplete.jpg]]
+![[content/blg/old/social-media/FB_images/google-autocomplete.jpg]]

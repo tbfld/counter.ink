@@ -24,4 +24,4 @@ tags:
   - apple
 ---
 
-![[pierrot-le-people-you-know.jpg]]
+![[content/blg/old/social-media/FB_images/pierrot-le-people-you-know.jpg]]

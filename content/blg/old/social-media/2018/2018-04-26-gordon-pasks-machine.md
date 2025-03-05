@@ -21,4 +21,4 @@ tags:
   - "#cybernetics"
 ---
 
-![[gordon-pasks-machine.jpg]]
+![[content/blg/old/social-media/FB_images/gordon-pasks-machine.jpg]]

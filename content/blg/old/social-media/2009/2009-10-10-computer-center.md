@@ -21,7 +21,7 @@ tags:
   - "#education"
 ---
 
-![[computer-center.jpg]]
+![[content/blg/old/social-media/FB_images/computer-center.jpg]]
 
 old-school
 

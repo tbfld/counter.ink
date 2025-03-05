@@ -21,4 +21,4 @@ tags:
   - "#image"
 ---
 
-![[truly-excellent-visualization.jpg]]
+![[content/blg/old/social-media/FB_images/truly-excellent-visualization.jpg]]

@@ -17,6 +17,6 @@ tags:
   - photography
 ---
 
-![[view-from-my-office.jpg]]
+![[content/blg/old/social-media/FB_images/view-from-my-office.jpg]]
 
 The view from my office

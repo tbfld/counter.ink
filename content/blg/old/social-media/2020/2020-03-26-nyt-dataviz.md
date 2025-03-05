@@ -23,4 +23,4 @@ tags:
 
 This is pretty dazzling
 
-![[2020-03-26-nyt-dataviz.jpg]]
+![[content/blg/old/social-media/FB_images/2020-03-26-nyt-dataviz.jpg]]

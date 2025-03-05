@@ -23,4 +23,4 @@ tags:
 
 *Washington Post*, I fixed your headline
 
-![[now-add-something-about-legitimacy.jpg]]
+![[content/blg/old/social-media/FB_images/now-add-something-about-legitimacy.jpg]]

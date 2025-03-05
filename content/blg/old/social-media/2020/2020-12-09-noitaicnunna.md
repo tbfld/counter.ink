@@ -30,4 +30,4 @@ This painting never stops giving, but the detail I love most: Mary’s response 
 > 
 > Jan van Eyck (Netherlands, 1390-1441) - The Annunciation, detail \[oil on canvas], circa 1434-1436, National Gallery of Art, Washington.
 
-![[annunciation.jpg]]
+![[content/blg/old/social-media/FB_images/annunciation.jpg]]

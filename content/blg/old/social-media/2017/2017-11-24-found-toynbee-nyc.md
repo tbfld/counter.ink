@@ -20,4 +20,4 @@ tags:
   - "#urbanism"
 ---
 
-![[found-toynbee-nyc.jpg]]
+![[content/blg/old/social-media/FB_images/found-toynbee-nyc.jpg]]

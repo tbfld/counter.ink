@@ -22,6 +22,6 @@ tags:
 
 Two Toynbee things from this summer
 
-![[toynbee-1.jpg]]
+![[content/blg/old/social-media/FB_images/toynbee-1.jpg]]
 
-![[toynbee-2.jpg]]
+![[content/blg/old/social-media/FB_images/toynbee-2.jpg]]

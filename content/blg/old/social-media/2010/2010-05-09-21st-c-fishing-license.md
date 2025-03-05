@@ -21,6 +21,6 @@ tags:
   - "#cultural-commentary"
 ---
 
-![[fish-license.jpg]]
+![[content/blg/old/social-media/FB_images/fish-license.jpg]]
 
 ALL YOUR DNA ARE BELONG TO US (EXCEPT IN CALIFORNIA).

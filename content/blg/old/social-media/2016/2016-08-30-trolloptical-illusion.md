@@ -20,4 +20,4 @@ tags:
   - "#troll-art"
 ---
 
-![[trolloptical-illusion.jpg]]
+![[content/blg/old/social-media/FB_images/trolloptical-illusion.jpg]]

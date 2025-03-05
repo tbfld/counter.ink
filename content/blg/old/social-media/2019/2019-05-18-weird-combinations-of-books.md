@@ -22,4 +22,4 @@ tags:
 
 \[from Jon Savage’s book *This Searing Light, the Sun and Everything Else: Joy Division*]
 
-![[weird-combinations-of-books.jpg]]
+![[content/blg/old/social-media/FB_images/weird-combinations-of-books.jpg]]

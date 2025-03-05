@@ -21,4 +21,4 @@ tags:
   - "#internet"
 ---
 
-![[morris-worm.jpg]]
+![[content/blg/old/social-media/FB_images/morris-worm.jpg]]

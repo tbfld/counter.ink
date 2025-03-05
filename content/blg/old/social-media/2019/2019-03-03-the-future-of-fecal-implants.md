@@ -22,4 +22,4 @@ tags:
 
 Pretty much sums it all up
 
-![[the-future-of-fecal-implants.jpg]]
+![[content/blg/old/social-media/FB_images/the-future-of-fecal-implants.jpg]]

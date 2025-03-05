@@ -20,4 +20,4 @@ tags:
 
 What did people do for fun before they could exchange text messages with their kids?
 
-![[what-did-we-do-for-fun.jpg]]
+![[content/blg/old/social-media/FB_images/what-did-we-do-for-fun.jpg]]

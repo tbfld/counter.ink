@@ -21,4 +21,4 @@ tags:
 
 There was a MERCIFULLY BRIEF time when I dabbled with generating AI images to get a better sense of what that was about. I did several artists (e.g., Robert Smithson, Claude Lanzmann), but it never occurred to me to do Holzer. Until now.
 
-![[artificial-holzer.jpg]]
+![[content/blg/old/social-media/FB_images/artificial-holzer.jpg]]

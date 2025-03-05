@@ -20,4 +20,4 @@ tags:
   - education
 ---
 
-![[scabby-at-columbia.jpg]]
+![[content/blg/old/social-media/FB_images/scabby-at-columbia.jpg]]

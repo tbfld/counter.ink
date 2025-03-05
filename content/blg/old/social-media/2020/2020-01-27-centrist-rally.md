@@ -23,4 +23,4 @@ tags:
 
 5 years ago
 
-![[centrist-rally.jpg]]
+![[content/blg/old/social-media/FB_images/centrist-rally.jpg]]

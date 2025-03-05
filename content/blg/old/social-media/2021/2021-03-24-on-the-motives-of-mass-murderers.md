@@ -22,4 +22,4 @@ Actually (surprise!), I do see why they’re fascinated. It’s a way of deflect
 
 The bitter inequalities of the US — social, political, and most of all economic — are held up by a scaffold made, literally, of guns. If we got rid of them, it would be much, MUCH harder to maintain the reigns and fields of terror that keep people down. So, first and foremost, this fixation on murderers’ motives compensates for that poverty: it’s a magical space where delusions outweigh material facts.
 
-![[on-the-motives-of-mass-murderers.jpg]]
+![[content/blg/old/social-media/FB_images/on-the-motives-of-mass-murderers.jpg]]

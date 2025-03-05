@@ -23,4 +23,4 @@ tags:
 
 Hardt and Negri should reissue *Empire* with different covers so readers can collect ’em all.
 
-![[alt-empire-cover.jpg]]
+![[content/blg/old/social-media/FB_images/alt-empire-cover.jpg]]

@@ -22,4 +22,4 @@ tags:
   - gui
 ---
 
-![[clippy-for-billionaires.jpg]]
+![[content/blg/old/social-media/FB_images/clippy-for-billionaires.jpg]]

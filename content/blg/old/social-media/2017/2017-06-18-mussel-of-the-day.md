@@ -19,4 +19,4 @@ tags:
   - animals
 ---
 
-![[2017-06-18-mussel-of-the-day.jpg]]
+![[content/blg/old/social-media/FB_images/2017-06-18-mussel-of-the-day.jpg]]

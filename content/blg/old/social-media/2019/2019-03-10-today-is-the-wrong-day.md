@@ -19,4 +19,4 @@ tags:
   - "#digital"
 ---
 
-![[today-is-the-wrong-day.jpg]]
+![[content/blg/old/social-media/FB_images/today-is-the-wrong-day.jpg]]
