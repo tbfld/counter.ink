@@ -8,9 +8,11 @@ author: tb
 images: "true"
 order: 
 enableToc: "true"
-permalink: 
+permalink: swasticar
 aliases:
-  - swasticar, wankpanzer, incelcamino
+  - swasticar
+  - wankpanzer
+  - incelcamino
 draft: "false"
 publish: "true"
 date: 2024-03-05
