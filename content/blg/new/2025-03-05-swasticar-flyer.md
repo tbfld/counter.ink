@@ -9,7 +9,8 @@ images: "true"
 order: 
 enableToc: "true"
 permalink: 
-aliases: 
+aliases:
+  - swasticar, wankpanzer, incelcamino
 draft: "false"
 publish: "true"
 date: 2024-03-05
