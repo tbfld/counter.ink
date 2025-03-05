@@ -18,8 +18,12 @@ tags:
 status: final
 ---
 
+
 #### Recent posts
-<!-- RECENT_POSTS_START -->
+<!-- RECENT_POSTS_START -->]]
+
+ > [!note]+ [[25-03-05-swasticar-flyer|25-03-05 swasticar flyer]]
+ > A helpful PDF you can print out and leave on every Tesla you see!
 
 > [!warning]+ [[2025-02-26-Niemöller-for-today|2025-02-26-Niemöller for today]]
 > Maybe a GOP bill raising endowment taxes by 1500% will wake academics up?
