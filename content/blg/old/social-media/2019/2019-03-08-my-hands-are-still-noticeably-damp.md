@@ -18,4 +18,4 @@ tags:
   - technology
 ---
 
-![[my-hands-are-still-noticeably-damp.jpg]]
+![[content/blg/old/social-media/FB_images/my-hands-are-still-noticeably-damp.jpg]]

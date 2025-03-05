@@ -18,6 +18,6 @@ tags:
   - "#media"
 ---
 
-![[getty-images.jpg]]
+![[content/blg/old/social-media/FB_images/getty-images.jpg]]
 
 \[[Danielle Baskin on Xitter](https://x.com/djbaskin/status/1271965100727865344)]

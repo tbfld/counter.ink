@@ -21,4 +21,4 @@ tags:
   - "#contemporary-visuals"
 ---
 
-![[kis-davidoviich.jpg]]
+![[content/blg/old/social-media/FB_images/kis-davidoviich.jpg]]

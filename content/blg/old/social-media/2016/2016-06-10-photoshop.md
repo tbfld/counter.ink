@@ -19,4 +19,4 @@ tags:
   - art
 ---
 
-![[photoshop.jpg]]
+![[content/blg/old/social-media/FB_images/photoshop.jpg]]

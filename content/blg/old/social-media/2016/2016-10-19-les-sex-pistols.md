@@ -21,4 +21,4 @@ tags:
   - "#digital-artwork"
 ---
 
-![[pistolets-de-sexe.jpg]]
+![[content/blg/old/social-media/FB_images/pistolets-de-sexe.jpg]]

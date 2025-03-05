@@ -21,6 +21,6 @@ tags:
   - "#social-commentary"
 ---
 
-![[doonesburys-energy-czar-situation-not-crisis.jpg]]
+![[content/blg/old/social-media/FB_images/doonesburys-energy-czar-situation-not-crisis.jpg]]
 
 Just filing this in ~public

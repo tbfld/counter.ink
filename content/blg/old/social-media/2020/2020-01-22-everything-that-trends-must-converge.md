@@ -23,4 +23,4 @@ tags:
 
 Everything that trends must converge
 
-![[everything-that-trends-must-converge-jpg.jpg]]
+![[content/blg/old/social-media/FB_images/everything-that-trends-must-converge-jpg.jpg]]

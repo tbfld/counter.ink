@@ -19,4 +19,4 @@ tags:
   - visuality
 ---
 
-![[potato-colors.jpg]]
+![[content/blg/old/social-media/FB_images/potato-colors.jpg]]

@@ -23,4 +23,4 @@ tags:
 
 \[a favorite from way back]
 
-![[i-hate-you-deeply.jpg]]
+![[content/blg/old/social-media/FB_images/i-hate-you-deeply.jpg]]

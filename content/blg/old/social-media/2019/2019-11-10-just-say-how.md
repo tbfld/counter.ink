@@ -19,4 +19,4 @@ tags:
   - academia
 ---
 
-![[just-say-how.jpg]]
+![[content/blg/old/social-media/FB_images/just-say-how.jpg]]

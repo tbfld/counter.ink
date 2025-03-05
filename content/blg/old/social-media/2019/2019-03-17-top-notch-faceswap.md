@@ -20,4 +20,4 @@ tags:
   - photography
 ---
 
-![[top-notch-faceswap.jpg]]
+![[content/blg/old/social-media/FB_images/top-notch-faceswap.jpg]]

@@ -25,4 +25,4 @@ tags:
 
 I try and try and try and try to finish but it’s dumbfounding how much history of dataviz is completely off-base. Yesterday’s find: Frank Gilbreth’s 1917 publicity stunt of clocking baseball pitches. The Gilbreths have been a cottage industry in academia for DECADES and this event has rated...a few cryptic footnotes. Here I present to you the ur-moment of sports broadcasting’s distinctive genre, the slow-mo replay.
 
-![[baseball-time-and-motion.jpg]]
+![[content/blg/old/social-media/FB_images/baseball-time-and-motion.jpg]]

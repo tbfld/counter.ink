@@ -22,4 +22,4 @@ tags:
 
 Beijing is ~500 miles from Pyongyang, so China is probably pretty interested in this “fire and fury like the world has never seen” stuff. For perspective, here’s a 500-mile radius from Washington DC.
 
-![[fire-and-fury-like-the-world-has-never-seen.jpg]]
+![[content/blg/old/social-media/FB_images/fire-and-fury-like-the-world-has-never-seen.jpg]]

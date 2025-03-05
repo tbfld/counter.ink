@@ -17,4 +17,4 @@ tags:
   - food
 ---
 
-![[dinner-in-brussels.jpg]]
+![[content/blg/old/social-media/FB_images/dinner-in-brussels.jpg]]

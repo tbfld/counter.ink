@@ -23,4 +23,4 @@ tags:
 
 Criterion’s UI is giving me flashbacks to when I used to bike around the city at night to change art-house marquees 😳
 
-![[criterion-ui.jpg]]
+![[content/blg/old/social-media/FB_images/criterion-ui.jpg]]

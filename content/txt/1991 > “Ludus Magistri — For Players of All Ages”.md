@@ -33,11 +33,11 @@ Cornelia and Susan also commissioned [Rirkrit Tiravanit](https://en.wikipedia.or
 
 One of the “toys” was a small self-inking stamp that said **“!!great!!”** — an arbitrary object but one that chimed nicely Fluxus artists’ impulse to take the p\*ss out of institutional art culture, so it was included. Someone at the opening used it to stamp all over a piece (by Malevich, as aI recall) that MoMA had loaned for the show, causing a minor crisis.
 
-![[great-stamp-opt.jpeg|relative wmed|left]]
+![[content/txt/FA_images/great-stamp-opt.jpeg|relative wmed|left]]
 
 The artist [Nancy Dwyer](http://www.nancydwyer.com/) designed the exhibition catalog, [FluxAttitudes](https://specificobject.com/objects/info.cfm?inventory_id=3667&object_id=3669&page=0&options=) (Gent, Belgium: [Imschoot Uitgevers](https://specificobject.com/objects/index.cfm?search_type=advanced&ppub=Imschoot%20Uitgevers), [1991](https://specificobject.com/objects/index.cfm?search_type=advanced&Ppubdate1=1991)) to “heckle” the essays, with large [Franky Goes to Hollywood](https://en.wikipedia.org/wiki/Frankie_Goes_to_Hollywood)–style text “burned” into the background — in the case of my essay, “BLAH BLAH BLAH.”
 
-![[fluxattitudes-cover-sm.jpeg|relative wmed|left]]
+![[content/txt/FA_images/fluxattitudes-cover-sm.jpeg|relative wmed|left]]
 ***
 *When the schoolmistress instructs her students...she is not informing them, any more than she is informing herself when she questions a student. She does not so much instruct as “insign,” give orders or commands (which] are not external or additional to what...she teaches us... [A]n order always and already concerns prior orders.[^1]*
 

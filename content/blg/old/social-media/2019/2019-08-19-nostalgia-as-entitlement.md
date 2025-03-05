@@ -20,4 +20,4 @@ tags:
   - politics
 ---
 
-![[nostalgia-as-entitlement.jpg]]
+![[content/blg/old/social-media/FB_images/nostalgia-as-entitlement.jpg]]

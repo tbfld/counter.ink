@@ -21,4 +21,4 @@ tags:
   - "#visual-communication"
 ---
 
-![[critical-qualitative-detail.jpg]]
+![[content/blg/old/social-media/FB_images/critical-qualitative-detail.jpg]]

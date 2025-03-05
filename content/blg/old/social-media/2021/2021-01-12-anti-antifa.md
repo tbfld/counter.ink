@@ -20,4 +20,4 @@ tags:
   - neologism
 ---
 
-![[anti-antifa.jpg]]
+![[content/blg/old/social-media/FB_images/anti-antifa.jpg]]

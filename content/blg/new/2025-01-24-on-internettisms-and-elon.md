@@ -21,7 +21,7 @@ tags:
 status: final
 ---
 
-![[tesla-community.jpg|wmed relative|left]]
+![[content/blg/new/new_images/tesla-community.jpg|wmed relative|left]]
 
 If I hadn’t sworn off internettisms, I’d say “there’s a lot going on here” — which would be the “tell me you studied semiotics without telling me you studied semiotics” equivalent of those tiktok-type videos that say “I had to watch this twenty times to see it…” There’s a slew of those pseudo-savvyisms: “if you know you know” (or its gnosticky version “IYKYK”), “I’ll just leave this right here,” etc. We‘ve grown so inured to this kind of telegraphic nonsense that we no longer see what it is: brazen manipulation, a kind of *personal clickbait*. If you translate [from emic to etic forms](https://en.wikipedia.org/wiki/Emic_and_etic), as an anthropologist might say, the result would be nakedly aggressive: “I know everything about this but won’t tell you, so you need to guess.” Now that Silly Valley is making its long-promised move to actually destroy nation-states, it’s time to stop flashing their gang signs and pay much closer attention to those aspects of “online culture” we actually have the power to change. The inane phrases that serve as the building blocks of *so much* online kulcha, for example.
 

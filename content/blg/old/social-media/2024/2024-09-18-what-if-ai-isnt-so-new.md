@@ -26,7 +26,7 @@ tags:
   - "#ai"
 ---
 
-![[what-if-ai-isnt-so-new.jpg]]
+![[content/blg/old/social-media/FB_images/what-if-ai-isnt-so-new.jpg]]
 2
 This may be a cheap laugh, but it points to a problem that (imo) is deeper than the headline-grabbing pseudo-debates about “AI.” The category alone, “AI,” implies that it's discrete, something new. But what if we don't assume that? What if we assume instead that it's a minor, incremental change — less like the invention of personal computing, say, than like some goofy experimental design coming out of Apple? Questions like that are often channeled into technocratic debates about the history and philosophies behind AI and AGI; they’re important, sure, but even that shift in focus tacitly reinforces the idea that debate is the province of experts, IOW that those most likely to be affected by these technologies — workers — have no part in any of this beyond serving as cannon fodder. I think (FWIW) that whole worldview is wrong-headed.  
   

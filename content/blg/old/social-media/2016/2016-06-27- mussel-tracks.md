@@ -21,4 +21,4 @@ tags:
   - "#nature"
 ---
 
-![[mussel-tracks.jpg]]
+![[content/blg/old/social-media/FB_images/mussel-tracks.jpg]]

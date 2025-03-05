@@ -21,4 +21,4 @@ tags:
   - "#visual-culture"
 ---
 
-![[google-reader.jpg]]
+![[content/blg/old/social-media/FB_images/google-reader.jpg]]

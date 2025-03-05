@@ -21,6 +21,6 @@ tags:
   - "#avant-garde"
 ---
 
-![[pere-ubu-a-l’aviation.jpg]]
+![[content/blg/old/social-media/FB_images/pere-ubu-a-l’aviation.jpg]]
 
 My life is now complete

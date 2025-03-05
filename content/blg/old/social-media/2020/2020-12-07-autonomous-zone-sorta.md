@@ -23,4 +23,4 @@ tags:
 
 Autonomous zones just ain’t what they used to be
 
-![[autonomous-zone-sorta.jpg]]
+![[content/blg/old/social-media/FB_images/autonomous-zone-sorta.jpg]]

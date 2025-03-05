@@ -22,4 +22,4 @@ tags:
 
 Always nice to see some current dataviz go wrong and return to its forgotten ’70s splendor
 
-![[accidental-retro-dataviz.jpg]]
+![[content/blg/old/social-media/FB_images/accidental-retro-dataviz.jpg]]

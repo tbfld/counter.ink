@@ -21,4 +21,4 @@ tags:
   - history
 ---
 
-![[the-literal-end-of-critical-theory.jpg]]
+![[content/blg/old/social-media/FB_images/the-literal-end-of-critical-theory.jpg]]

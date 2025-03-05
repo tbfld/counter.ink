@@ -20,4 +20,4 @@ tags:
   - politics
 ---
 
-![[fat-freddys-cat.jpg]]
+![[content/blg/old/social-media/FB_images/fat-freddys-cat.jpg]]

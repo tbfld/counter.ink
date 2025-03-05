@@ -16,4 +16,4 @@ date: 2021-04-09
 tags:
 ---
 
-![[seen-one-ross-seen-em-all.jpg]]
+![[content/blg/old/social-media/FB_images/seen-one-ross-seen-em-all.jpg]]

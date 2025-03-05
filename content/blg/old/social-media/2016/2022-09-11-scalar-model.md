@@ -23,4 +23,4 @@ tags:
 
 \[found image]
 
-![[scalar-model.jpg]]
+![[content/blg/old/social-media/FB_images/scalar-model.jpg]]

@@ -20,6 +20,6 @@ tags:
   - "#contemporary-art"
 ---
 
-![[homage-a-broodthaers.jpg]]
+![[content/blg/old/social-media/FB_images/homage-a-broodthaers.jpg]]
 
 Since I’m in Belgium, here’s my homage to Broodthaers

@@ -20,4 +20,4 @@ tags:
   - science
 ---
 
-![[saturn-would-float.jpg]]
+![[content/blg/old/social-media/FB_images/saturn-would-float.jpg]]

@@ -21,4 +21,4 @@ tags:
   - "#contemporary-critique"
 ---
 
-![[nyt-on-nyt-nyt-on-nyt-nyt-on-nyt-nyt-on-nyt.jpg]]
+![[content/blg/old/social-media/FB_images/nyt-on-nyt-nyt-on-nyt-nyt-on-nyt-nyt-on-nyt.jpg]]

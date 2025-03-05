@@ -21,4 +21,4 @@ tags:
 
 New format (to me): breaking even worse.
 
-![[breaking-theory.jpg]]
+![[content/blg/old/social-media/FB_images/breaking-theory.jpg]]

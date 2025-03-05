@@ -19,4 +19,4 @@ tags:
   - culture
 ---
 
-![[astro-boy.jpg]]
+![[content/blg/old/social-media/FB_images/astro-boy.jpg]]

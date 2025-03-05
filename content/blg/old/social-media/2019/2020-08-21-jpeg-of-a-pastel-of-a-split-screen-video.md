@@ -19,4 +19,4 @@ tags:
   - "#media"
 ---
 
-![[jpeg-of-a-pastel-of-a-split-screen-video.jpg]]
+![[content/blg/old/social-media/FB_images/jpeg-of-a-pastel-of-a-split-screen-video.jpg]]

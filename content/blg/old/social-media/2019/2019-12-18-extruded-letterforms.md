@@ -27,4 +27,4 @@ THIS. THIS IS IT. THIS — the extrusion of letterforms into layered dimensions,
 > 
 > Philip Lemme, *American Streamline: A Handbook of Neon Advertising Design*, Van Nostrand Reinhold, NY, 1984.
 
-![[extruded-letterforms.jpeg|550]]
+![[content/blg/old/social-media/FB_images/extruded-letterforms.jpeg|550]]

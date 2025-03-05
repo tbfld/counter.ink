@@ -20,6 +20,6 @@ tags:
 status: draft
 ---
 
-![[borrell_escaping_criticism-1874.jpeg|relative wmed|center]]
+![[content/blg/new/new_images/borrell_escaping_criticism-1874.jpeg|relative wmed|center]]
 
 *[Pere Borrell del Caso](https://en.wikipedia.org/wiki/Pere_Borrell_del_Caso)*, “Escaping Criticism” (1874).

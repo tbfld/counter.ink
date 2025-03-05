@@ -22,7 +22,7 @@ RSS: "true"
 
 ![[2025-03-03-nypd-carl-shurtz-byfield.jpg|wmed relative|center]]
 
-![[2025-03-03-south-georgia-instagram-collapse.jpg|wmed relative|center]]
+![[content/img/2025-03-03-south-georgia-instagram-collapse.jpg|wmed relative|center]]
 
 ![[2025-03-03-clouds.jpg|wmed relative|center]]
 
@@ -34,23 +34,23 @@ RSS: "true"
 
 ![[2025-03-03-polar-solar-photo.jpg|wmed relative|center]]
 
-![[2025-03-03-problem-solving-flowchart.jpg|wmed relative|center]]
+![[content/img/2025-03-03-problem-solving-flowchart.jpg|wmed relative|center]]
 
-![[2025-03-03-spider-web-with-dewdrops.jpg|wmed relative|center]]
+![[content/img/2025-03-03-spider-web-with-dewdrops.jpg|wmed relative|center]]
 
 ![[2025-03-03-lonely-lade-crazy-scene.jpg|wmed relative|center]]
 
 ![[2025-03-03-parmigianino-self-portrait-mirrored.jpg|wmed relative|center]]
 
-![[2025-03-03-red-shanked-douc-langur-monkey.jpg|wmed relative|center]]
+![[content/img/2025-03-03-red-shanked-douc-langur-monkey.jpg|wmed relative|center]]
 
-![[2025-03-03-salo-pig-mask.jpg|wmed relative|center]]
+![[content/img/2025-03-03-salo-pig-mask.jpg|wmed relative|center]]
 
-![[2025-03-03-scabby-nyc.jpg|wmed relative|center]]
+![[content/img/2025-03-03-scabby-nyc.jpg|wmed relative|center]]
 
-![[2025-03-03-times-square-crazy-eddie.jpg|wmed relative|center]]
+![[content/img/2025-03-03-times-square-crazy-eddie.jpg|wmed relative|center]]
 
-![[2025-03-03-world-on-wire-phone.jpg|wmed relative|center]]
+![[content/img/2025-03-03-world-on-wire-phone.jpg|wmed relative|center]]
 
 ![[2025-03-03-architects-protest.jpg|wmed relative|center]]
 
@@ -59,11 +59,11 @@ RSS: "true"
 
 ![[2025-03-03-brussels-broodthaers-homage-byfield.jpg|wmed relative|center]]
 
-![[2025-03-03-rothko-schwitters-book-spread.jpg|wmed relative|center]]
+![[content/img/2025-03-03-rothko-schwitters-book-spread.jpg|wmed relative|center]]
 
-![[2025-03-03-vacuuming-europe-byfield.jpg|wmed relative|center]]
+![[content/img/2025-03-03-vacuuming-europe-byfield.jpg|wmed relative|center]]
 
-![[2025-03-03-ww2-contrails.jpg|wmed relative|center]]
+![[content/img/2025-03-03-ww2-contrails.jpg|wmed relative|center]]
 
 ![[2025-03-03-floating-saturn.jpg|wmed relative|center]]
 
@@ -73,23 +73,23 @@ RSS: "true"
 
 ![[2025-03-03-lax-tile-tunnel-charles-kratka-1961.jpg|wmed relative|center]]
 
-![[2025-03-03-tyouki-bouki-still-masks.jpg|wmed relative|center]]
+![[content/img/2025-03-03-tyouki-bouki-still-masks.jpg|wmed relative|center]]
 
-![[2025-03-03-wally-wood-realist-disney-scape.jpg|wmed relative|center]]
+![[content/img/2025-03-03-wally-wood-realist-disney-scape.jpg|wmed relative|center]]
 
-![[2025-03-03-wilson-bryan-key-clam-plate-orgy-spread.jpg|wmed relative|center]]
+![[content/img/2025-03-03-wilson-bryan-key-clam-plate-orgy-spread.jpg|wmed relative|center]]
 
-![[2025-03-03-rapture-puppets-album-cover.jpg|wmed relative|center]]
+![[content/img/2025-03-03-rapture-puppets-album-cover.jpg|wmed relative|center]]
 
-![[2025-03-03-skeleton-costume.jpg|wmed relative|center]]
+![[content/img/2025-03-03-skeleton-costume.jpg|wmed relative|center]]
 
-![[2025-03-03-tinklers-diagram-chemical-imbalance.jpg|wmed relative|center]]
+![[content/img/2025-03-03-tinklers-diagram-chemical-imbalance.jpg|wmed relative|center]]
 
-![[2025-03-03-tlh-head-float.jpg|wmed relative|center]]
+![[content/img/2025-03-03-tlh-head-float.jpg|wmed relative|center]]
 
-![[2025-03-03-wolfram-akpah-cow-sphere-squence.jpg|wmed relative|center]]
+![[content/img/2025-03-03-wolfram-akpah-cow-sphere-squence.jpg|wmed relative|center]]
 
-![[2025-03-03-you-seem-to-be-made-of-porcelain.jpg|wmed relative|center]]
+![[content/img/2025-03-03-you-seem-to-be-made-of-porcelain.jpg|wmed relative|center]]
 
 ![[2025-03-03-loyalty-to-trump-is-not-patriotism.jpg|wmed relative|center]]
 
@@ -101,7 +101,7 @@ RSS: "true"
 
 ![[2025-03-03-chat-gtp-outrageous-pronunciation.jpg|wmed relative|center]]
 
-![[2025-03-03-solzhenitsyn-gulag.jpg|wmed relative|center]]
+![[content/img/2025-03-03-solzhenitsyn-gulag.jpg|wmed relative|center]]
 
 ![[2025-03-03-agony-of-defeat.jpg|wmed relative|center]]
 
@@ -127,15 +127,15 @@ RSS: "true"
 
 ![[2025-03-03-hype-pouch.jpg|wmed relative|center]]
 
-![[2025-03-03-stickers-with-no-purpose.jpg|wmed relative|center]]
+![[content/img/2025-03-03-stickers-with-no-purpose.jpg|wmed relative|center]]
 
-![[2025-03-03-so-much-for-so-little.jpg|wmed relative|center]]
+![[content/img/2025-03-03-so-much-for-so-little.jpg|wmed relative|center]]
 
 ![[2025-03-03-corvid-testing-via-BM.jpg|wmed relative|center]]
 
-![[2025-03-03-zelda-ehance-your-rubber-tights.jpg|wmed relative|center]]
+![[content/img/2025-03-03-zelda-ehance-your-rubber-tights.jpg|wmed relative|center]]
 
-![[2025-03-03-wario-this-is-what-defeat-looks-like.jpg|wmed relative|center]]
+![[content/img/2025-03-03-wario-this-is-what-defeat-looks-like.jpg|wmed relative|center]]
 
 ![[2025-03-03-chris-burden-shoot-artwork-1971-via-rimanelli.jpg|wmed relative|center]]
 

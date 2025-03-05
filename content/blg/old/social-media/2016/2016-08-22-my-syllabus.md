@@ -21,4 +21,4 @@ tags:
 
 Someone asked me to dig up some of my old syllabi and I found this. Brown!!! CAT FACE WITH TEARS OF JOY
 
-![[my-syllabus.jpg]]
+![[content/blg/old/social-media/FB_images/my-syllabus.jpg]]

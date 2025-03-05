@@ -21,6 +21,6 @@ tags:
   - "#apparel-art"
 ---
 
-![[im-outta-here-shirt.jpg]]
+![[content/blg/old/social-media/FB_images/im-outta-here-shirt.jpg]]
 
 want

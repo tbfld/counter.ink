@@ -22,4 +22,4 @@ tags:
 
 I loved these old-fashioned English ‘catsup’ dispensers when I was a kid, so it was fun to spot one in *Quadrophenia*. You can tell the art director was really chuffed to have it there — the red is way too bright.
 
-![[english-catsup.jpg]]
+![[content/blg/old/social-media/FB_images/english-catsup.jpg]]

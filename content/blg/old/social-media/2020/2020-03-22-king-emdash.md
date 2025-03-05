@@ -19,4 +19,4 @@ tags:
   - typography
 ---
 
-![[king-emdash.jpg]]
+![[content/blg/old/social-media/FB_images/king-emdash.jpg]]

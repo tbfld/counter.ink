@@ -21,6 +21,6 @@ tags:
   - "#digital-communication"
 ---
 
-![[what-does-it-do.jpg]]
+![[content/blg/old/social-media/FB_images/what-does-it-do.jpg]]
 
 Good question.

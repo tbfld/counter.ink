@@ -23,4 +23,4 @@ tags:
 
 \[from Jon Savage’s book *This Searing Light, the Sun and Everything Else: Joy Division*]
 
-![[joy-dvision-is-really-joyful.jpg]]
+![[content/blg/old/social-media/FB_images/joy-dvision-is-really-joyful.jpg]]

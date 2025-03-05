@@ -16,4 +16,4 @@ date: 2021-05-16
 tags:
 ---
 
-![[explicar-deleuze-ahora-mismo.jpg]]
+![[content/blg/old/social-media/FB_images/explicar-deleuze-ahora-mismo.jpg]]

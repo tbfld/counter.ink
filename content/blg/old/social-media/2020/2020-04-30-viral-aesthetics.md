@@ -18,4 +18,4 @@ tags:
 
 I’m thinking something soothing, maybe a warmish greige with earth-tone detailing. 
 
-![[viral-aesthetics.jpg]]
+![[content/blg/old/social-media/FB_images/viral-aesthetics.jpg]]

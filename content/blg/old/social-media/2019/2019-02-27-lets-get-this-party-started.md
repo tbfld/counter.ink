@@ -19,4 +19,4 @@ tags:
   - found
 ---
 
-![[lets-get-this-party-started.jpg]]
+![[content/blg/old/social-media/FB_images/lets-get-this-party-started.jpg]]

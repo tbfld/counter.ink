@@ -19,4 +19,4 @@ tags:
   - philosophy
 ---
 
-![[d-and-g.jpg]]
+![[content/blg/old/social-media/FB_images/d-and-g.jpg]]

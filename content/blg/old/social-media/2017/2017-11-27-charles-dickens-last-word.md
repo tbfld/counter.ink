@@ -18,4 +18,4 @@ tags:
   - history
 ---
 
-![[charles-dickens-last-word.jpg]]
+![[content/blg/old/social-media/FB_images/charles-dickens-last-word.jpg]]

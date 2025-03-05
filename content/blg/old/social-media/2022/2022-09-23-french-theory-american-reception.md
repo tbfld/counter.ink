@@ -20,4 +20,4 @@ tags:
   - usa
 ---
 
-![[french-theory-american-reception.jpg]]
+![[content/blg/old/social-media/FB_images/french-theory-american-reception.jpg]]

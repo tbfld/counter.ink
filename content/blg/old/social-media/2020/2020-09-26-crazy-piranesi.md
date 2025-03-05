@@ -23,4 +23,4 @@ tags:
 
 Crazy Piranesi scene right at the end of the block
 
-![[crazy-covid-viz.jpg]]
+![[content/blg/old/social-media/FB_images/crazy-covid-viz.jpg]]

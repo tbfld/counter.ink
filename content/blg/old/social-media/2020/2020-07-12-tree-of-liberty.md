@@ -23,4 +23,4 @@ tags:
   - "#guns"
 ---
 
-![[tree-of-liberty.jpg]]
+![[content/blg/old/social-media/FB_images/tree-of-liberty.jpg]]

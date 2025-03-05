@@ -19,6 +19,6 @@ tags:
   - photography
 ---
 
-![[2017-07-02-mussel-of-the-day.jpg]]
+![[content/blg/old/social-media/FB_images/2017-07-02-mussel-of-the-day.jpg]]
 
 Mussel of the day

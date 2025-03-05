@@ -21,4 +21,4 @@ tags:
   - "#bodies"
 ---
 
-![[save-the-clitorises.jpg]]
+![[content/blg/old/social-media/FB_images/save-the-clitorises.jpg]]

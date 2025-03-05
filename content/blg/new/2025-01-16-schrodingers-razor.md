@@ -20,4 +20,4 @@ tags:
 status: final
 ---
 
-![[blg/new/new_images/schrodingers-razor.jpg|wmed relative|center]]
+![[content/blg/new/new_images/schrodingers-razor.jpg|wmed relative|center]]

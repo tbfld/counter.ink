@@ -18,4 +18,4 @@ tags:
 
 Hard to argue with a camellia
 
-![[hard-to-argue-with-a-camellia.jpg]]
+![[content/blg/old/social-media/FB_images/hard-to-argue-with-a-camellia.jpg]]

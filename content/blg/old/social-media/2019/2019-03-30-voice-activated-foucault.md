@@ -23,4 +23,4 @@ tags:
 
 My favorite [[nettime alumni and alumnae|nettimer]], Morlock Elloi, noticed the book on top
 
-![[voice-activated-foucault.jpg]]
+![[content/blg/old/social-media/FB_images/voice-activated-foucault.jpg]]

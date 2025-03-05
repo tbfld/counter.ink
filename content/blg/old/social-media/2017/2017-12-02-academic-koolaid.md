@@ -22,4 +22,4 @@ tags:
 
 edu admin kool-aid: just add water
 
-![[academic-banter.jpg]]
+![[content/blg/old/social-media/FB_images/academic-banter.jpg]]

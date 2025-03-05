@@ -21,6 +21,6 @@ tags:
   - wealth
 ---
 
-![[ackman-sex-use.jpg]]
+![[content/blg/old/social-media/FB_images/ackman-sex-use.jpg]]
 
 NYT photo editor picks the one photo from the shoot that frames the ESSEX HOUSE sign so it says SEX USE. In a story about a hedge fund, pharma pricing, and the ‘female viagra.’

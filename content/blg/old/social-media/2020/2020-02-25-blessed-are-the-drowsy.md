@@ -22,4 +22,4 @@ tags:
 
 “Blessed are the drowsy for they shall soon drop off.” — Nietzsche
 
-![[blessed-are-the-drowsy.jpg]]
+![[content/blg/old/social-media/FB_images/blessed-are-the-drowsy.jpg]]

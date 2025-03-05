@@ -21,4 +21,4 @@ tags:
   - "#memory"
 ---
 
-![[somewhere-ive-forgotten.jpg]]
+![[content/blg/old/social-media/FB_images/somewhere-ive-forgotten.jpg]]

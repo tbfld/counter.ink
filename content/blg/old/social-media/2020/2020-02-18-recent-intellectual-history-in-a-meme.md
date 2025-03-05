@@ -21,4 +21,4 @@ tags:
   - "#visual-culture"
 ---
 
-![[recent-intellectual-history-in-a-meme.jpg]]
+![[content/blg/old/social-media/FB_images/recent-intellectual-history-in-a-meme.jpg]]

@@ -16,4 +16,4 @@ date: 2017-07-07
 tags:
 ---
 
-![[the-internet-of-things.jpg]]
+![[content/blg/old/social-media/FB_images/the-internet-of-things.jpg]]

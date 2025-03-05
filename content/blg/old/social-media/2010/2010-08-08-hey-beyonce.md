@@ -17,4 +17,4 @@ tags:
   - graffiti
 ---
 
-![[beyonce.jpg]]
+![[content/blg/old/social-media/FB_images/beyonce.jpg]]

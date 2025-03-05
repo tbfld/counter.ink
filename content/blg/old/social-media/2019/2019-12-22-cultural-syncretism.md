@@ -21,4 +21,4 @@ tags:
 
 Still great. And I still miss Rene calling everyone Cookie, Frenchie, or Blondie
 
-![[cultural-syncretism.jpg]]
+![[content/blg/old/social-media/FB_images/cultural-syncretism.jpg]]

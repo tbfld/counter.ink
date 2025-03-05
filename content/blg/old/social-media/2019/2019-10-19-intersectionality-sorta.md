@@ -21,4 +21,4 @@ tags:
   - "#social-justice"
 ---
 
-![[intersectionality.jpg]]
+![[content/blg/old/social-media/FB_images/intersectionality.jpg]]

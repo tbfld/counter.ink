@@ -21,6 +21,6 @@ tags:
   - "#potlatch-comparison"
 ---
 
-![[potlatch-comparison-guide.jpg]]
+![[content/blg/old/social-media/FB_images/potlatch-comparison-guide.jpg]]
 
 \[*this was a found object*]

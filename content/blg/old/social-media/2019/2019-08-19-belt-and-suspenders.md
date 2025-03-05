@@ -22,4 +22,4 @@ tags:
 
 This is some serious next-level belt-and-suspenders action: the suspenders end in a belt loop AND THAT LOOP HAS A LOOP FOR THE BELT LOOP.
 
-![[belt-and-suspenders.jpg]]
+![[content/blg/old/social-media/FB_images/belt-and-suspenders.jpg]]

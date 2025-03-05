@@ -19,4 +19,4 @@ tags:
   - theater
 ---
 
-![[brecht-quote.jpg||center| relative wtiny]]
+![[content/blg/old/social-media/FB_images/brecht-quote.jpg||center| relative wtiny]]

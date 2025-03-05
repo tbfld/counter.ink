@@ -21,4 +21,4 @@ tags:
   - "#illustration"
 ---
 
-![[ai-gen-wikihow-illustrations.jpg]]
+![[content/blg/old/social-media/FB_images/ai-gen-wikihow-illustrations.jpg]]

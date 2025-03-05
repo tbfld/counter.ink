@@ -19,4 +19,4 @@ tags:
 
 P’shop genius courtesy of *Business Insider*
 
-![[thanks-for-the-photoshop.jpg]]
+![[content/blg/old/social-media/FB_images/thanks-for-the-photoshop.jpg]]

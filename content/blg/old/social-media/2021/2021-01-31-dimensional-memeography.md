@@ -23,4 +23,4 @@ tags:
 
 Dimensional memeography seems not just innovative but inevitable.
 
-![[dimensional-memeography.jpg]]
+![[content/blg/old/social-media/FB_images/dimensional-memeography.jpg]]

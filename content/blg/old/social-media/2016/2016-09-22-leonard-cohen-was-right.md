@@ -18,6 +18,6 @@ tags:
   - fashion
 ---
 
-![[leonard-cohen-was-right.jpg]]
+![[content/blg/old/social-media/FB_images/leonard-cohen-was-right.jpg]]
 
 That’s Peter ‘Sleazy’ Christopherson of Throbbing Gristle / Coil / etc in the jacket. (From http://thequietus.com/articles/16445-leonard-cohen-lyrics-was-right via Philip Shelley.)

@@ -20,6 +20,6 @@ tags:
   - rhetoric
 ---
 
-![[tufte-crit.jpg]]
+![[content/blg/old/social-media/FB_images/tufte-crit.jpg]]
 
 Biting criticism 😹

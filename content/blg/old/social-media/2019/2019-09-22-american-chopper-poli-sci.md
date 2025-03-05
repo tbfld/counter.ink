@@ -20,4 +20,4 @@ tags:
   - "#visual-commentary"
 ---
 
-![[american-chopper-poli-sci.jpg]]
+![[content/blg/old/social-media/FB_images/american-chopper-poli-sci.jpg]]

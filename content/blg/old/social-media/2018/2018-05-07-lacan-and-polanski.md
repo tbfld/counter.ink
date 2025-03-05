@@ -18,4 +18,4 @@ tags:
   - "#film"
 ---
 
-![[lacan-and-polanski.jpg]]
+![[content/blg/old/social-media/FB_images/lacan-and-polanski.jpg]]

@@ -26,6 +26,6 @@ tags:
   - "#graffiti"
 ---
 
-![[my-fave-graffito.jpg]]
+![[content/blg/old/social-media/FB_images/my-fave-graffito.jpg]]
 
 Still my fave graffito in NYC

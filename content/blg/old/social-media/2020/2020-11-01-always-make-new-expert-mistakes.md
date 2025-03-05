@@ -24,4 +24,4 @@ tags:
 
 I love this gambit: “I was an expert but I was completely out to lunch, so I’ll treat my sustained cluelessness as an opportunity to reassert my expertise.” It’s very common these days.
 
-![[expert-gambit.jpg]]2
+![[content/blg/old/social-media/FB_images/expert-gambit.jpg]]2

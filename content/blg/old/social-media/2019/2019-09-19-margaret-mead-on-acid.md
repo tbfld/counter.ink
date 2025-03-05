@@ -21,4 +21,4 @@ tags:
   - "#psychedelic-culture"
 ---
 
-![[mead-on-acid.jpg]]
+![[content/blg/old/social-media/FB_images/mead-on-acid.jpg]]

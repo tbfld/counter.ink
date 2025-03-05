@@ -20,7 +20,7 @@ tags:
 status: final
 ---
 
-![[foreman-manifesto.jpg|relative wmed|left]]
+![[content/blg/new/new_images/foreman-manifesto.jpg|relative wmed|left]]
 
 I only worked on one of [Richard Foreman](https://en.wikipedia.org/wiki/Richard_Foreman)’s plays, the original staging of *Symphony of Rats*, and didn’t do much; but some close friends worked on other plays in those years, so I was fortunate to be around a few other productions. The vibe — and there really isn’t a better way to describe the feel of a theater *around* a play — was the best: warm, open, enticing, and something else I could never quite put my finger on. It wasn’t absurd, or ridiculous, or even comical really, but it was something in that neighborhood. Like someone a few doors down was cooking something delicious and those were the main spices, but there was one more…
 

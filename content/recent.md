@@ -23,7 +23,7 @@ notitle: "true"
 
 ***
 
-  > [!note]+ [[25-03-05-swasticar-flyer|25-03-05 swasticar flyer]]
+  > [!note]+ [[2025-03-05-swasticar-flyer|25-03-05 swasticar flyer]]
  > A helpful PDF you can print out and leave on every Tesla you see!
  
 > [!warning]+ [[2025-02-12-maybe-too-prophetic]]
