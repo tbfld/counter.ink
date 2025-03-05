@@ -64,6 +64,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-02-12-maybe-too-prophetic|2025-02-12 maybe too prophetic]]
 	- [[2025-02-20-so-many-nazis-so-little-time|2025-02-20 so many nazis so little time]]
 	- [[2025-02-26-Niemöller-for-today|2025-02-26 Niemöller for today]]
+	- [[250305-swasticar-flyer]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
