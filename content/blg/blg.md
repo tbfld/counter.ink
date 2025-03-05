@@ -25,6 +25,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 %% Begin Waypoint %%
 - [[blg|blg]]
 - **[[new]]**
+	- [[25-03-05-swasticar-flyer|250305 swasticar flyer]]
 	- [[2024-11-26-second-greatest-footnote-ever|2024-11-26 the second greatest footnote ever]]
 	- [[2024-11-27-all-creatures-terrible-and-fabulous|2024-11-27 all creatures terrible and fabulous]]
 	- [[2024-11-27-escaping-criticism|2024-11-27 escaping criticism]]
@@ -64,7 +65,6 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-02-12-maybe-too-prophetic|2025-02-12 maybe too prophetic]]
 	- [[2025-02-20-so-many-nazis-so-little-time|2025-02-20 so many nazis so little time]]
 	- [[2025-02-26-Niemöller-for-today|2025-02-26 Niemöller for today]]
-	- [[250305-swasticar-flyer]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
@@ -1016,6 +1016,10 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-03-24-on-the-motives-of-mass-murderers|2021-03-24 on the motives of mass murderers]]
 			- [[2021-03-29-passing-randalorian-litmus-tests|2021-03-29 passing randalorian litmus tests]]
 			- [[2021-04-09-seen-one-ross-seen-em-all|2021-04-09 seen one ross seen em all]]
+			- [[2021-04-18-obit-for-a-real-life-le-carre-character|2021-04-18 obit for a real-life Le Carre character]]
+			- [[2021-04-23-interview-with-nabil-ahmed|2021-04-23 Interview with Nabil Ahmed]]
+			- [[2021-04-23-on-green-new-dealism|2021-04-23 on green new dealism]]
+			- [[2021-04-27-the-end-of-the-op-ed|2021-04-27 the end of the op ed]]
 			- [[2021-05-08-it-was-then-i-saw-the-future|2021-05-08 it was then i saw the future]]
 			- [[2021-05-09-wysiwyg|2021-05-09 wysiwyg]]
 			- [[2021-05-10-popping-filter-bubbles|2021-05-10 popping filter bubbles]]
@@ -1045,6 +1049,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-07-02-nice-to-be-acknowledged|2021-07-02 nice to be acknowledged]]
 			- [[2021-07-06-everything|2021-07-06 everything]]
 			- [[2021-07-07-how-deleuze-and-guattari-worked-together|2021-07-07 how deleuze and guattari worked together]]
+			- [[2021-07-08-bonesaw-mcguffin|2021-07-08 bonesaw mcguffin]]
 			- [[2021-07-08-how-deleuze-and-guattari-co-wrote|2021-07-08 how Deleuze and Guattari co-wrote]]
 			- [[2021-07-08-mfx-for-metaphysical-fx|2021-07-08 mfx for metaphysical fx]]
 			- [[2021-07-20-economics-as-ur-discipline-not|2021-07-20 economics as ur-discipline NOT]]
