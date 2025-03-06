@@ -4,14 +4,14 @@ description: thoughts on why cops obsess over motives
 extract: It’s a way of deflecting from the plain facts of large-scale death
 created: 2025-03-06 13:21
 updated: 2025-03-06 13:21
-author: "tb" tb
+author: "tb"
 images: "true"
 order: 
-enableToc: "true" "true"
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" "false"
-publish: "true" "true"
+draft: "false"
+publish: "true"
 date: 2021-03-04
 tags:
   - crime
