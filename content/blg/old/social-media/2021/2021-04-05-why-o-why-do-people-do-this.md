@@ -4,7 +4,7 @@ description: the road to hell is paved with people “improving” memes
 extract: “That’s hilarious, but it’ll be so. much. better when I redo it artlessly!”
 created: 2025-03-06 12:06
 updated: 2025-03-06 12:06
-author: "tb" tb
+author: "tb"
 images: "true"
 order: 
 enableToc: "true" "true"

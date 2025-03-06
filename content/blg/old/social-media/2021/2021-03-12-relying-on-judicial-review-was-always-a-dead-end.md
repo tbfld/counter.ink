@@ -4,14 +4,14 @@ description: relying on judicial review was always a dead end
 extract: "just like it says on the tin: relying on judicial review was always a dead end"
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true" 
 permalink: 
 aliases: 
 draft: "false" "false"
-publish: "true" "true"
+publish: "true"
 date: 2021-03-12
 tags:
   - corporation
