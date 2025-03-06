@@ -10,7 +10,7 @@ order:
 enableToc: "true" 
 permalink: 
 aliases: 
-draft: "false" "false"
+draft: "false"
 publish: "true"
 date: 2021-03-12
 tags:
