@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "false"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2017-11-30
 tags:
   - "#politics"
@@ -19,6 +19,8 @@ tags:
   - "#cultural-commentary"
   - "#rhetorical-analysis"
   - "#imperialism"
+status:
+RSS: "false"
 ---
 
 I can’t unread this: “From the perspective of the Republican leadership’s duty to their country, and indeed to the world that our imperium bestrides...” Seriously, of all the ways you can combine words to do strange and marvelous things, how do you arrive at this — the image of the American imperium bestriding the world?

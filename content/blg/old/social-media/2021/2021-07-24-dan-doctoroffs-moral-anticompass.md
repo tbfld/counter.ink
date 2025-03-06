@@ -4,14 +4,14 @@ description: Doctoroff on NYC’s dining sheds
 extract: if he’s for it you should be agin it
 created: 2025-03-04 15:24
 updated: 2025-03-04 15:24
-author: tb
+author: "tb" tb
 images: "false"
 order: 
-enableToc: "true"
+enableToc: "true" "true"
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+draft: "false" "false"
+publish: "true" "true"
 date: 2021-07-24
 tags: 
 status: 

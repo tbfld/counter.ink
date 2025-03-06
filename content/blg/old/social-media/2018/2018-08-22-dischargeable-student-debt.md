@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2018-08-22
 tags:
   - academia
@@ -19,6 +19,8 @@ tags:
   - "#politics"
   - "#economics"
   - debt
+status:
+RSS: "false"
 ---
 
 Yes. This guy displays the usual GMU gangs signs (ritual hippy-punching, free markets hard-on, delusional tendency to ignore the impact of industry lobbying), but bottom line he’s right: making student debt dischargeable would fix a lot of what’s wrong with the US.

@@ -4,14 +4,14 @@ description: the success and failure of Paul Krugman
 extract: am I tired of economism, i.e., the ideological belief that the field of economics is a magical baseline, foundational discipline
 created: 2025-03-04 15:28
 updated: 2025-03-04 15:28
-author: tb
+author: "tb" tb
 images: "false"
 order: 
-enableToc: "true"
+enableToc: "true" "true"
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+draft: "false" "false"
+publish: "true" "true"
 date: 2021-07-20
 tags:
   - nyt

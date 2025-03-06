@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2018-11-10
 tags:
   - law
@@ -19,6 +19,8 @@ tags:
   - "#metadata"
   - constitution
   - forensics
+status:
+RSS: "false"
 ---
 
 Totally amazing. The most interesting thing here is the bit about the metadata on the document limiting consent decrees: the document was issued under Sessions’s authority, but it was finalized up after (as they say) he’d left the building. I don’t buy it, because it seems likely that he’d remain secretary until 11:59:59, not until he walked out the door. But it’s ridiculous that the fate of the USG could hang on a technocratic update of how many angels can dance on the head of pin. The real issue is the asymmetrical conflict between the simplicity of Trump’s neo-monarchism and the complexity of the rule of law.

@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2010-04-28
 tags:
   - "#art"
@@ -19,6 +19,8 @@ tags:
   - "#visual-culture"
   - "#tarkovsky"
   - "#film"
+status:
+RSS: “true”
 ---
 
 ![[what-is-tarkovsky-like.jpg]]

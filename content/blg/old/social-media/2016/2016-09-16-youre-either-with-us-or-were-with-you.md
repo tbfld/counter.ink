@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-09-16
 tags:
   - left
@@ -20,6 +20,8 @@ tags:
   - "#presidential-critique"
   - "#democrats"
   - "#left"
+status:
+RSS: “false”
 ---
 
 [This \[by Jeffrey Feldman] is sharp.](https://www.facebook.com/jeffreyfeldman/posts/pfbid033GiqQAXPdZEq7AHs1sWmqRFtvrNoAQpL6SURbKot7jspoBVFWNWy2KshPQeFjzB3l?__cft__[0]=AZWJ6kLaofY1mR2ObR1VMuJyeFSfYGNzcMC0sqvyXMY1Ka_7JzUwYJTxHLtJ-Z_1sLwA2hHz6yGw4HuIenFR9VaOfrkfeHDcpkAIvOxOqcwgVg72wop5MiWDZLl6XwjDlAJhwZmNVKwhUtC4r53GDDvN75wGqrxphasb3iLEcL4ykbZeM3NRyJp7Dkrnh0a-rYw&__tn__=%2CO%2CP-y-R)

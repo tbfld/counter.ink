@@ -4,14 +4,14 @@ description: misleading details
 extract: 
 created: 2025-03-04 16:30
 updated: 2025-03-04 16:30
-author: tb
+author: "tb" tb
 images: "false"
 order: 
-enableToc: "true"
+enableToc: "true" "true"
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+draft: "false" "false"
+publish: "true" "true"
 date: 2021-07-08
 tags:
   - media-analysis

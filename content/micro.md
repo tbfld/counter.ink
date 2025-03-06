@@ -22,6 +22,14 @@ notitle: "true"
 
 > [!error]+ Or if you’re more of a visual type, see [[images (2025-02-23 – 2025-03-03)]]
 
+***2025-03-06:*** “We think it perspicacious to note” that if CRMEP’s philosophy students want to [win this fight](https://www.e-flux.com/notes/658933/open-letter-from-crmep-students-researchers-on-kingston-university-s-proposed-closure-of-the-department-of-humanities) — and they should — they’ll need to find better copy-writers.
+
+***2025-03-06:*** “life-size chocolate *Guernica*” should be a mid-’90s punk band, not [an actual life-size chocolate *Guernica*](https://www.smithsonianmag.com/smart-news/artists-recreate-picassos-guernica-entirely-out-chocolate-180977636/)
+
+***2025-03-06:*** “# [“Space focused on technology, new media and artistic research”](https://escuderoandaluz.com/ "Home")
+
+***
+
 ***2025-03-04:*** Columbia U (my alma mater and neighbor for deacdes) [keeps on screwing up its handling of the pro-Palestinian protests](https://www.dropsitenews.com/p/columbia-university-gaza-student-disclinary-office)
 
 ***2025-03-04:*** Dictionary.com doesn’t know how to pronounce [the singular word *interstice*](https://www.dictionary.com/browse/interstice)

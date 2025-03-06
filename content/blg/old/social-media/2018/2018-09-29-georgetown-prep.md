@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2018-09-29
 tags:
   - "#education"
@@ -19,6 +19,8 @@ tags:
   - gender
   - violence
   - institution
+status:
+RSS: "false"
 ---
 
 Georgetown Prep is central to the Kavanaugh explosion, yet it’s almost entirely escaped scrutiny. That’s partly because it sits awkwardly between other kinds of entities that haven’t: boarding schools, Yale and its law school, even the Catholic Church. And also because it’s a high school, so the teachers are much less visible or known than university professors. But you can also feel the presence of omerta, can’t you? A brotherhood composed of men who, for various reasons — allegiance, clannishness, guilt, fear — are clamming up. I think we need to become more sensitive in recognizing that kind of omerta wherever it is, and finding ways to loosen and untangle it. But that’ll also require finding more forgiving approaches that allow people to own up to what they’ve known, seen, even done. This really is becoming a truth-and-reconciliation issue, as if gender issues in the US were a form of apartheid.

@@ -4,14 +4,14 @@ description: nonviolence maybe ain’t all it’s cracked up to be
 extract: "eschewing violence is like relying on fossil fuels: it only works for so long"
 created: 2025-03-04 18:36
 updated: 2025-03-04 18:36
-author: tb
+author: "tb" tb
 images: "false"
 order: 
-enableToc: "true"
+enableToc: "true" "true"
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+draft: "false" "false"
+publish: "true" "true"
 date: 2021-06-06
 tags:
   - violence

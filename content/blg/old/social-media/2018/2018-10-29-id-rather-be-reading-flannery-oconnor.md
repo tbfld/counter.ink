@@ -4,18 +4,20 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "true"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2018-10-29
 tags:
   - "#literature"
   - cars
+status:
+RSS: "false"
 ---
 
 ![[content/blg/old/social-media/FB_images/id-rather-be-reading-flannery-oconnor.jpg]]

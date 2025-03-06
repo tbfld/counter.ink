@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2013-01-24
 tags:
   - "#education"
@@ -19,6 +19,8 @@ tags:
   - "#students"
   - "#sound"
   - "#audio"
+status:
+RSS: “false”
 ---
 
 Fave part of the syllabus: “Apparently, I have misophonia. Crinkling and crackling sounds are especially unpleasant. I don’t care if you have a five-course meal during class, *so long as you don’t make noise eating it*.”

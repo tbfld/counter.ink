@@ -4,19 +4,21 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2011-12-29
 tags:
   - "#technology"
   - "#society"
   - "#ideology"
+status:
+RSS: “true”
 ---
 
 Best idea EVAR: a sane calendrical system. Epic cost, but the fight would expose *every* hidden ideology.

@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "false"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2017-04-18
 tags:
   - "#art"
@@ -19,6 +19,8 @@ tags:
   - "#social-commentary"
   - "#art"
   - "#art"
+status:
+RSS: "false"
 ---
 
 Seriously. “If you are to accept the idea that putting another artwork near an original piece of artwork can never be allowed, even in a public place, and even if the latter piece incorporates the original to comment on it... well, you’re going to run into a lot of problems pretty quickly.” I disagree with Masnick about everything being an ad, but it doesn’t matter: after 50+ years of Warhol, the “but it’s an ad not art!” argument is ridiculous.

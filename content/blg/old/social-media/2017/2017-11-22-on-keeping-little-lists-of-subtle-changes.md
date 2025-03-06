@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "false"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2017-11-22
 tags:
   - "#politics"
@@ -19,6 +19,8 @@ tags:
   - "#cultural-commentary"
   - "#authoritarianism"
   - "#activism"
+status:
+RSS: "false"
 ---
 
 Imma up this from comments (w/ mods) — on that ~meme about keeping a list so you remember whatever pre-Trump:

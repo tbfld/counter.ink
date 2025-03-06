@@ -4,14 +4,14 @@ description: Ecocide as an international crime
 extract: 
 created: 2025-03-04 22:04
 updated: 2025-03-04 22:04
-author: tb
+author: "tb" tb
 images: "false"
 order: 
-enableToc: "true"
+enableToc: "true" "true"
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+draft: "false" "false"
+publish: "true" "true"
 date: 2021-04-23
 tags:
   - ecocide

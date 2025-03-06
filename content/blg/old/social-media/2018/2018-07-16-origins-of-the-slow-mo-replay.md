@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "true"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2018-07-16
 tags:
   - data
@@ -21,6 +21,8 @@ tags:
   - visualization
   - sports
   - photography
+status:
+RSS: "false"
 ---
 
 I try and try and try and try to finish but it’s dumbfounding how much history of dataviz is completely off-base. Yesterday’s find: Frank Gilbreth’s 1917 publicity stunt of clocking baseball pitches. The Gilbreths have been a cottage industry in academia for DECADES and this event has rated...a few cryptic footnotes. Here I present to you the ur-moment of sports broadcasting’s distinctive genre, the slow-mo replay.

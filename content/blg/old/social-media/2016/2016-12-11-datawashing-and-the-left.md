@@ -4,20 +4,22 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-12-11
 tags:
   - data
   - "#economics"
   - "#politics"
   - wealth
+status:
+RSS: “false”
 ---
 
 LOLZ 538 reports new research revealing that “decades of rising income inequality and slowing economic growth” are “killing the American Dream.” It’s such a pity dataweenies use “datawashing” to mean cleaning data — it should mean “using stats to claim you discovered what the left has been saying for decades.” Seriously, where do these people come from? “A novel methodology”? \#facepalmedor

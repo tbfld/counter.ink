@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-07-17
 tags:
   - "#news"
@@ -19,6 +19,8 @@ tags:
   - "#politics"
   - "#coup"
   - "#media"
+status:
+RSS: “false”
 ---
 
 I was more than a little surprised that CNN Turkey was broadcasting the real-time precise location of Erdogan’s jet in the first hours of the coup (see my Twitter TL about that). And now that Reuters is breathlessly reporting the thinly sourced backstory — the hotel where he’d been staying in Marmaris was bombed by 25 soldiers rapelling from copters and he “evaded death by minutes,” so he hopped on his Gulfstream, which was then targeted by rebel F-16s — it seems even more surprising. CNN would show real-time footage of flightradar.com tracking the jet of an embattled head of state in the middle of a coup of unknown proportions? URLs in the comments.

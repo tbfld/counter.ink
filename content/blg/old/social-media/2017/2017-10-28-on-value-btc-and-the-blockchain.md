@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "false"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2017-10-28
 tags:
   - aviation
@@ -19,6 +19,8 @@ tags:
   - "#data"
   - "#finance"
   - "#blockchain"
+status:
+RSS: "false"
 ---
 
 Imma up this from comments. To be clear, I could GAF about blockchain, Bitcoin, etc:

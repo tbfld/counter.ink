@@ -1,20 +1,22 @@
 ---
 title: 2021-03-09 your computer is on fire
-description:
-extract:
+description: about a new book
+extract: looks good
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author:
-images:
-order:
-enableToc:
-permalink:
-aliases:
-draft:
-publish:
+author: "tb" tb
+images: "true"
+order: 
+enableToc: "true" 
+permalink: 
+aliases: 
+draft: "false" "false"
+publish: "true" "true"
 date: 2021-03-09
 tags:
   - publishing
+  - books
+RSS: "true"
 ---
 
 ![[your computer-is-on-fire.jpeg|550]]

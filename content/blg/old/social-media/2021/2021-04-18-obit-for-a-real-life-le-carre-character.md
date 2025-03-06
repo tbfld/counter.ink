@@ -4,14 +4,14 @@ description: obit for a walking encyclopedia of Sovietica
 extract: basically Connie Sachs but working for the Cousins across the Pond
 created: 2025-03-04 22:09
 updated: 2025-03-04 22:09
-author: tb
+author: "tb" tb
 images: "false"
 order: 
-enableToc: "true"
+enableToc: "true" "true"
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+draft: "false" "false"
+publish: "true" "true"
 date: 2021-04-18
 tags:
   - russia

@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-11-16
 tags:
   - europe
@@ -20,6 +20,8 @@ tags:
   - "#cultural-critique"
   - "#holocaust"
   - "#moral-responsibility"
+status:
+RSS: “false”
 ---
 
 Seriously, it’s time for people to go back and read Arendt’s *Eichmann in Jerusalem*, *in particular* Chapter 10, “Deportations from Western Europe — France, Belgium, Holland, Denmark, Italy”:

@@ -4,17 +4,19 @@ description:
 extract:
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author:
+author: "tb"
 images:
 order:
-enableToc:
+enableToc: "true"
 permalink:
 aliases:
-draft:
-publish:
+draft: "false"
+publish: "true"
 date: 2018-07-06
 tags:
 - art
+status:
+RSS: "false"
 ---
 
 [The UI for this article is brilliant](https://www.newyorker.com/magazine/2018/07/09/the-addams-family-secret) — smartly subtle then very direct. I can’t think of any other time I’ve seen a UI that could spawn a mini-genre of writing. It’d be super to see it released as a writer-oriented toolkit for discussing images.

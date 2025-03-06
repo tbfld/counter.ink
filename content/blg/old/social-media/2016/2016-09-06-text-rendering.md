@@ -4,20 +4,22 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-09-06
 tags:
   - typography
   - signage
   - technology
   - error
+status:
+RSS: “false”
 ---
 
 ![[illegal emojis.jpg]]

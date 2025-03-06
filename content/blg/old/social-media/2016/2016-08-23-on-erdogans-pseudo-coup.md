@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-08-23
 tags:
   - education
@@ -19,6 +19,8 @@ tags:
   - "#journalism"
   - "#media"
   - "#turkey"
+status:
+RSS: “false”
 ---
 
 WTF. I hope that in due time someone documents how badly the NYT got punked by Erdogan — it’ll prove to be on par with Judith Miller’s role in backing the Iraq War. The “coup” was a tiny little Truman Show affair mounted by a handful of idiots in a few neighborhoods, with some serious signal-sending SFX. The countercoup, in contrast, was a systematic purge of political alternatives — with a brutal focus on educational institutions and judicial review. Ambitious NYT reporters and commentators eager for barely sourced scoops based mainly on social media (BOOM BOOM! TANK MAN!) played a decisive role in promoting the narrative. And once it was written in stone, why bother following up with questions like you know, who, what, where, when, etc. But *this* story is completely beyond the pale. Shame.

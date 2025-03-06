@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-11-15
 tags:
   - "#politics"
@@ -19,6 +19,8 @@ tags:
   - "#international"
   - "#trade-agreements"
   - "#elections"
+status:
+RSS: “false”
 ---
 
 The WSJ says TPP is dead. If HRC had won, huge swaths of US regulatory frameworks we depend on to an unimaginable degree — environment, finance, consumer protection, IPR — might have been moved to supranational forums beyond the reach of electoral accountability. Now, it seems, they won’t. The corporate sovereignty zombie will be back next season, but for now it’s dead. It’s time to move past the election and see some of the *good* things that are happening as a result.

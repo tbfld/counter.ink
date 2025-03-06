@@ -4,20 +4,22 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 tags:
   - "#meme"
   - "#digital-art"
   - "#visual-culture"
   - "#image"
   - ai
+status:
+RSS: "false"
 ---
 
 ![[content/blg/old/social-media/FB_images/new-directions-in-memery.jpg]]

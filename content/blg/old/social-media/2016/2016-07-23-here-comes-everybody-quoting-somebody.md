@@ -4,19 +4,21 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-07-23
 tags:
   - "#literature"
   - "#cultural-commentary"
   - trope
+status:
+RSS: “false”
 ---
 
 Bracing myself for the coming wave of people quoting Yeats’s “Second Coming” and Benjamin’s thing about the Angel of History

@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "false"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2017-02-28
 tags:
   - art
@@ -26,6 +26,8 @@ tags:
   - "#journalism"
   - "#netzpolitik"
   - "#digital"
+status:
+RSS: "false"
 ---
 
 I logged in to FB to say exactly what Wolfie \[Christl] said and was delighted to find that he’d already said it much better. Along with *Mute*’s Josephine Berry, Pauline Van Mourik Broekman, Simon Worthington (and many more) and *Neural*’s Alessandro Ludovico, Armin Medosch’s *Telepolis* made a new kind of thinking and writing possible. \[There are many contributions in [[blg/old/nettime/nettime]]’s archive, under the thread [“Armin Medosch (1962–2017).”](https://nettime.org/Lists-Archives/nettime-l-1702/threads.html#00070)]

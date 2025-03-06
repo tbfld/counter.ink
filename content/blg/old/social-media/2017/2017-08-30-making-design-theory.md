@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "false"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2017-08-30
 tags:
   - art
@@ -19,6 +19,8 @@ tags:
   - "#theory"
   - "#media"
   - "#design"
+status:
+RSS: "false"
 ---
 
 This book does look really good. Although the assumption that ‘theory’ was ever in any way monolithic, a thing, was always idiotic (and mostly American, an artifact of translation, IMO). But, like many idiotic things, it had diverse constituents whose careers relied on it in different ways: ‘theorists’ so they could embrace it, ‘makers’ so they could reject it, etc.
