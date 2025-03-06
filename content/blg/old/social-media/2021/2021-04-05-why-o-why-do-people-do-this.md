@@ -7,7 +7,7 @@ updated: 2025-03-06 12:06
 author: "tb"
 images: "true"
 order: 
-enableToc: "true" "true"
+enableToc: "true"
 permalink: 
 aliases: 
 draft: "false"
