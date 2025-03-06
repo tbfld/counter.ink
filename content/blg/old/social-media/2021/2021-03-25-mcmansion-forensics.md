@@ -10,8 +10,8 @@ order:
 enableToc: "true" "true"
 permalink: 
 aliases: 
-draft: "false" "true"
-publish: "true" "false"
+draft: "false"
+publish: "true"
 date: 2021-03-25
 tags:
   - architecture
@@ -21,7 +21,7 @@ tags:
   - climate
   - visual-culture
 status: 
-RSS: "true"
+RSS: "false"
 ---
 The lead picture for the *NYT*'s tornado story is a real study in McMansion forensics.
 
