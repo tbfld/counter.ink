@@ -1003,7 +1003,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-03-02-the-south-african-dream|2021-03-02 the south african dream]]
 			- [[2021-03-04-mass-murderer-motives|2021-03-04 mass murderer motives]]
 			- [[2021-03-05-freak-power-graphics|2021-03-05 freak power graphics]]
-			- [[2021-03-08-6666]]
+			- [[2021-03-08-6666|2021-03-08 6666]]
 			- [[2021-03-09-your computer-is-on-fire]]
 			- [[2021-03-10-the-moruroa-files]]
 			- [[2021-03-12-relying-on-judicial-review-was-always-a-dead-end]]

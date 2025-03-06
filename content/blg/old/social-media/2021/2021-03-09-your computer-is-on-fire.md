@@ -4,14 +4,14 @@ description: about a new book
 extract: looks good
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" tb
+author: "tb"
 images: "true"
 order: 
 enableToc: "true" 
 permalink: 
 aliases: 
-draft: "false" "false"
-publish: "true" "true"
+draft: "false"
+publish: "true"
 date: 2021-03-09
 tags:
   - publishing
