@@ -1012,7 +1012,6 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-03-22-krispy-kreme-vakzines|2021-03-22 krispy kreme vakzines]]
 			- [[2021-03-23-hard-to-argue-with-a-camellia|2021-03-23 hard to argue with a camellia]]
 			- [[2021-03-24-geoengineering-is-incompatible-with-democracies|2021-03-24 geoengineering is incompatible with democracies]]
-			- [[2021-03-24-on-the-motives-of-mass-murderers|2021-03-24 on the motives of mass murderers]]
 			- [[2021-03-25-mcmansion-forensics]]
 			- [[2021-03-29-passing-randalorian-litmus-tests|2021-03-29 passing randalorian litmus tests]]
 			- [[2021-04-03-structural-aholes]]
