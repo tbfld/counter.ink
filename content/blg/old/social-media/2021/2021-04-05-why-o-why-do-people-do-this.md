@@ -10,8 +10,8 @@ order:
 enableToc: "true" "true"
 permalink: 
 aliases: 
-draft: "false" "true"
-publish: "true" "false"
+draft: "false"
+publish: "true" 
 date: 2021-04-05
 tags:
   - comic
@@ -20,7 +20,7 @@ tags:
   - taste
   - media
 status: 
-RSS:
+RSS: "false"
 ---
 
 ![[2021-04-05-breakfast-theory-before-and-after.jpg]]
