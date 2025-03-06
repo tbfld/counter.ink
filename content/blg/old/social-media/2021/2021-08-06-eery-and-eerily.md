@@ -4,14 +4,14 @@ description:
 extract: “eerily” means “management is nervous about this statement”
 created: 2025-03-04 13:23
 updated: 2025-03-04 13:23
-author: "tb" tb
+author: "tb"
 images: "true"
 order: 
-enableToc: "true" "true"
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" "false"
-publish: "true" "true"
+draft: "false"
+publish: "true"
 date: 2021-08-06
 tags:
   - media
@@ -19,7 +19,7 @@ tags:
   - language
   - anonymity
 status: 
-RSS:
+RSS: "false"
 ---
 
 ![[content/img/2021-08-06-nyt-eerily.jpg]]

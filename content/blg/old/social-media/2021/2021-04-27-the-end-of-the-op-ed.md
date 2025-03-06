@@ -4,14 +4,14 @@ description: “op-ed” disappeared ages ago
 extract: 
 created: 2025-03-04 21:59
 updated: 2025-03-04 21:59
-author: "tb" tb
+author: "tb"
 images: "false"
 order: 
-enableToc: "true" "true"
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" "false"
-publish: "true" "true"
+draft: "false"
+publish: "true"
 date: 2021-04-27
 tags:
   - nyt

@@ -4,14 +4,14 @@ description: just one of those sentences that jumps out at you
 extract: sometimes a sentence jumps out that’s right on, like this one
 created: 2025-03-04 21:53
 updated: 2025-03-04 21:53
-author: "tb" tb
+author: "tb"
 images: "false"
 order: 
-enableToc: "true" "true"
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" "false"
-publish: "true" "true"
+draft: "false"
+publish: "true"
 date: 2021-05-10
 tags:
   - parenting
@@ -20,7 +20,7 @@ tags:
   - police
   - law
 status: 
-RSS: "true"
+RSS: "false"
 ---
 I don’t like sharing things like this by public intellectuals for a few reason, like: so many other people do, which gives it a ‘performative’ edge, and that in turn creates a kind of veil of piety. Basically, if we take the ‘filter bubble’ metaphor seriously, even bubbles are dynamic systems, right? But sometimes a sentence jumps out that’s right on, like this one: “A mother may be treated like a criminal for leaving her child alone for five minutes, even if *that child’s father has left it alone for several years.”*
 

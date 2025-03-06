@@ -4,14 +4,14 @@ description: how Deleuze and Guattari co-wote
 extract: Deleuze said that Félix was the diamond miner and he was the polisher
 created: 2025-03-04 16:19
 updated: 2025-03-04 16:19
-author: "tb" tb
+author: "tb"
 images: "false"
 order: 
-enableToc: "true" "true"
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" "false"
-publish: "true" "true"
+draft: "false"
+publish: "true"
 date: 0021-07-08
 tags:
   - philosophy

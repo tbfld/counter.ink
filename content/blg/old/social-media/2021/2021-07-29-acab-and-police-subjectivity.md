@@ -4,14 +4,14 @@ description: a few thoughts on J6 police testimony
 extract: take a moment to sit with the wrenching testimony of the Capitol cops
 created: 2025-03-04 14:44
 updated: 2025-03-04 14:44
-author: "tb" tb
+author: "tb"
 images: "false"
 order: 
-enableToc: "true" "true"
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" "false"
-publish: "true" "true"
+draft: "false"
+publish: "true"
 date: 2021-07-29
 tags:
   - police
