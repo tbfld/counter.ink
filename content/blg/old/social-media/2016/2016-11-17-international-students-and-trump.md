@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-11-17
 tags:
   - "#education"
@@ -20,6 +20,8 @@ tags:
   - "#education"
   - finance
   - institution
+status:
+RSS: “false”
 ---
 
 Another thing I’ve been saying for years, bleh. US higher ed’s predatory reliance on the tuition dollars of students from a parade of countries was a road to catastrophe. When the gravy train starts to slow down faculty will be in an *excellent* position to, um, well...

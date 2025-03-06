@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "true"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2018-07-13
 tags:
   - "#visual-culture"
@@ -20,6 +20,8 @@ tags:
   - accessibility
   - design
   - literature
+status:
+RSS: "false"
 ---
 
 ![[content/blg/old/social-media/FB_images/braille-prince.jpg]]

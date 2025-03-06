@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "false"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2017-08-18
 tags:
   - "#media-analysis"
@@ -19,6 +19,8 @@ tags:
   - "#political-ideology"
   - "#satire"
   - "#optics-in-politics"
+status:
+RSS: "false"
 ---
 
 Secondary and tertiary opportunist rats making a big show of getting off the ship: “Look at me, I’m getting *off* the ship now. I never actually got *on* the ship, but in retrospect I understand how the optics of the situation might have made it seem like I was preparing to get on it. I apologize. I should have made it clear that my position on the rope was one of constructive engagement with the rope itself, which I remain deeply committed to.”

@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-06-07
 tags:
   - history
@@ -20,6 +20,8 @@ tags:
   - "#news"
   - "#rentier-economics"
   - "#absurdism"
+status:
+RSS: “false”
 ---
 
 Great moments in rentier history: renter gets hit by meteorite, landlord sues, arguing that it’s her property so it’s her rock.

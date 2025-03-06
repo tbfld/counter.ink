@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-07-17
 tags:
   - "#politics"
@@ -19,6 +19,8 @@ tags:
   - "#turkey"
   - "#government"
   - "#coup"
+status:
+RSS: “false”
 ---
 
 Does Erdogan’s government have its equivalent of Iran’s Basiji? Not quite the same, the two nations have a dramatically different histories — but an org of volunteers who are more than party loyalists, almost para/irregulars. The more I look at the pix of crowds of demonstrators in the coup in Turkey, the more I see a certain demographically homogeneous type and, beyond that, a certain brutal style. Couldn’t be more different from the faces of the Turkish spring. So what accounts for that difference?

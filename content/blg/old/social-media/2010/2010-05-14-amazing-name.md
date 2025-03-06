@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2010-05-14
 tags:
   - "#history"
@@ -20,6 +20,8 @@ tags:
   - europe
   - communism
   - germany
+status:
+RSS: “true”
 ---
 
 New to me: the fantastically named Anton von Padua Alfred Emil Hubert Georg Graf von Arco auf Valley, assassin of Kurt Eisner, first republican premier of Bavaria, paving the way for the Bavarian Soviet Republic.

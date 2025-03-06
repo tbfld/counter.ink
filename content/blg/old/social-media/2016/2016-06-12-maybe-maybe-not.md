@@ -4,20 +4,22 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-06-12
 tags:
   - "#cultural-commentary"
   - "#social-commentary"
   - "#visual-culture"
   - "#digital-art"
+status:
+RSS: “false”
 ---
 
 Stumbled onto this a few days ago. Not convinced.

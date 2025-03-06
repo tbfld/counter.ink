@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2018-06-07
 tags:
   - art
@@ -23,6 +23,8 @@ tags:
   - "#cultural-commentary"
   - "#labor"
   - "#art"
+status:
+RSS: "false"
 ---
 
 WOW. One of the best kinds of essay: it neatly lays out some short, sharp tools for disassembling and dissecting a wide range of problems. Really, [take a few minutes to read it](https://bostonreview.net/law-justice/lawrence-glickman-masterpiece-cakeshop).

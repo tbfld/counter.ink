@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-05-19
 tags:
   - education
@@ -20,6 +20,8 @@ tags:
   - "#economics"
   - debt
   - wealth
+status:
+RSS: “false”
 ---
 
 If faculty and student governance groups want to get this ‘leadership’ pay bubble under control — and they can — they should focus on one thing: executive compensation consultants. Expose them, oppose them, and find smart trustees who get why ballooning pay is so dangerous. There are plenty of brilliant and talented leaders out there who’d work for much less. And as lower pay expectations for administrators trickle down from the top, good things will happen.

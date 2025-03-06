@@ -4,20 +4,22 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "false"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2017-09-28
 tags:
   - academia
   - finance
   - "#education"
   - "#students"
+status:
+RSS: "false"
 ---
 
 Growing numbers of students were doing this in NYC. When I brought this up with the C-suite admins at TNS they were like “HOW DO YOU KNOW?!” Because the students told me. “THAT’S AN INAPPROPRIATE CONVERSATION.” Bingo: the conversation we should have is about how your inflated salary and skewed budgets relate to how students pay the bills...

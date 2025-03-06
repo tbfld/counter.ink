@@ -4,14 +4,14 @@ description: just one of those sentences that jumps out at you
 extract: sometimes a sentence jumps out that’s right on, like this one
 created: 2025-03-04 21:53
 updated: 2025-03-04 21:53
-author: tb
+author: "tb" tb
 images: "false"
 order: 
-enableToc: "true"
+enableToc: "true" "true"
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+draft: "false" "false"
+publish: "true" "true"
 date: 2021-05-10
 tags:
   - parenting

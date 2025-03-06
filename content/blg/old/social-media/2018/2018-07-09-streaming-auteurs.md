@@ -4,20 +4,22 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: "tb" 
+images: "true"
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2018-07-09
 tags:
   - "#film"
   - "#streaming"
   - "#cinema"
   - "#visual-culture"
+status:
+RSS: "false"
 ---
 
 For me, the essence of cinema today is waiting for Apple’s gigantic volume icon to linger in the center of the screen for as long as possible.

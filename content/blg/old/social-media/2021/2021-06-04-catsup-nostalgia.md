@@ -4,14 +4,14 @@ description: a photo of an OG British catsup dispenser
 extract: you can tell the art director was really chuffed to have it there
 created: 2025-03-04 19:07
 updated: 2025-03-04 19:07
-author: tb
+author: "tb" tb
 images: "true"
 order: 
-enableToc: "true"
+enableToc: "true" "true"
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+draft: "false" "false"
+publish: "true" "true"
 date: 2021-06-04
 tags:
   - film

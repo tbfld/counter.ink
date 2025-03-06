@@ -4,19 +4,21 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2018-10-03
 tags:
   - "#politics"
   - "#technology"
   - crisis
+status:
+RSS: "false"
 ---
 
 Ian Bogost has written a great story about emergency notification systems, complete with a detailed history and a subtle analysis of the current hubbub. There’s just one problem: he assumes that Trump’s presidency will end normally. If you believe that Trump will willingly step down when he’s defeated in 2020 or reaches his term limit in 2024, no problem. But if you don’t, it’s worth thinking about what Twitter would do in a crisis – and what Trump would do if he’s cut off from Twitter.

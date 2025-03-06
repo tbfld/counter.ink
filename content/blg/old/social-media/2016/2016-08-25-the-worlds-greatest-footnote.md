@@ -4,14 +4,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
+author: "tb" 
 images: 
 order: 
-enableToc: 
+enableToc: "true" 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false" 
+publish: "true" 
 date: 2016-08-25
 tags:
   - "#gender"
@@ -19,6 +19,8 @@ tags:
   - literature
   - theory
   - feminism
+status:
+RSS: “false”
 ---
 
 And on the subject of machine learning “discovering” gender bias etc, there’s one of the greatest footnotes ever, from Klaus Theweleit’s *Male Fantasies*, vol. 1:
