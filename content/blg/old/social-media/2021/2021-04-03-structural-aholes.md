@@ -4,14 +4,14 @@ description: two great landlords imply the existence of hundreds of thousands of
 extract: the overwhelming majority of landlords are structural *ssholes
 created: 2025-03-06 12:12
 updated: 2025-03-06 12:12
-author: "tb" tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true" "true"
 permalink: 
 aliases: 
 draft: "false" "false"
-publish: "true" "true"
+publish: "true"
 date: 2021-04-03
 tags:
   - nyt

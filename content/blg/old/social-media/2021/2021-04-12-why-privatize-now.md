@@ -4,14 +4,14 @@ description: a few thoughts on privatization
 extract: privatize away, as long as the top 6 levels of execs understand the state can renationalize it on equivalent terms
 created: 2025-03-06 12:01
 updated: 2025-03-06 12:01
-author: "tb" tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true" "true"
 permalink: 
 aliases: 
 draft: "false" "false"
-publish: "true" "true"
+publish: "true"
 date: 2021-04-12
 tags:
   - governance
