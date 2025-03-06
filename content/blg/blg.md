@@ -1001,7 +1001,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-03-02-on-visual-thinking|2021-03-02 on visual thinking]]
 			- [[2021-03-02-the-avalanches|2021-03-02 the avalanches]]
 			- [[2021-03-02-the-south-african-dream|2021-03-02 the south african dream]]
-			- [[2021-03-04-mass-murderer-motives]]
+			- [[2021-03-04-mass-murderer-motives|2021-03-04 mass murderer motives]]
 			- [[2021-03-05-freak-power-graphics|2021-03-05 freak power graphics]]
 			- [[2021-03-08-6666]]
 			- [[2021-03-09-your computer-is-on-fire]]
