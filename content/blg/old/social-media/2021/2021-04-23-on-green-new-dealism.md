@@ -4,14 +4,14 @@ description: what the US needs to do first
 extract: “Does the White House want to helm a spaceship or a lifeboat?”
 created: 2025-03-04 22:45
 updated: 2025-03-04 22:45
-author: "tb" tb
+author: "tb"
 images: "false"
 order: 
-enableToc: "true" "true"
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" "false"
-publish: "true" "true"
+draft: "false"
+publish: "true"
 date: 2021-04-23
 tags:
   - nyt

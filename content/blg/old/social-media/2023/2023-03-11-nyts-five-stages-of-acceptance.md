@@ -4,14 +4,14 @@ description: The NYT
 extract: We need a Kübler-Rossian scheme to describe the *NYT*’s gradual realization that [the “idea” of converting Manhattan office buildings to residential space is dead
 created: 2025-03-04 14:30
 updated: 2025-03-04 14:30
-author: "tb" tb
+author: "tb"
 images: "false"
 order: 
-enableToc: "true" "true"
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" "false"
-publish: "true" "true"
+draft: "false"
+publish: "true"
 date: 2023-03-11
 tags:
   - urbanism

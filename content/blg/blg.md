@@ -4,14 +4,14 @@ description: things I’ve written for other context, reconstituted here as a ju
 extract: This is sort of a blog. *Ceci n’est pas un blog*, maybe — it *is* and *isn’t*. It’s an archive of  things I’ve written over the last ~35 years years for mailing lists (only [[blg/old/nettime/nettime|nettime]] so far) and social media (only [[social-media|Facebook]] so far), reconstituted in a bloggish way — call it a *jawlog*, a just-add-water-log. I have several reasons for doing that (like not relying on increasingly unreliable “platforms”), but where things come from is less interesting than what they are now.
 created: 2024-11-09 14:44
 updated: 2025-02-14 22:04
-author: 
+author: "tb"
 images: 
 order: "030"
-enableToc: true
+enableToc: "true"
 permalink: 
 aliases: 
-draft: true
-publish: false
+draft: "true"
+publish: "false"
 tags:
   - index
 ---
@@ -372,7 +372,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2016-04-10-nyt-photo-of-ackman|2016-04-10 nyt photo of ackman]]
 			- [[2016-04-10-on-the-need-for-apocalypse|2016-04-10 on the need for apocalypse]]
 			- [[2016-04-12-circumcision-creates-killers|2016-04-12 circumcision creates killers]]
-			- [[2016-04-12-save-the-clitorises]]
+			- [[2016-04-12-save-the-clitorises|2016-04-12 save the clitorises]]
 			- [[2016-04-18-nixonian-piety-clintonian-indignation|20116 04 18 nixonian piety clintonian indignation]]
 			- [[2016-04-20-view-from-my-office|2016-04-20 view from my office]]
 			- [[2016-04-22-on-sahds|2016-04-22 on sahds]]
@@ -604,7 +604,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2017-11-30-browser-extensions|2017-11-30 browser extensions]]
 			- [[2017-12-02-academic-koolaid|2017-12-02 academic koolaid]]
 			- [[2017-12-02-on-nostalgia-for-the-american-consensus|2017-12-02 on nostalgia for the american consensus]]
-			- [[2017-12-03-chainmail-runways]]
+			- [[2017-12-03-chainmail-runways|2017-12-03 chainmail runways]]
 			- [[2017-12-03-on-noisy-pickups|2017-12-03 on noisy pickups]]
 			- [[2017-12-03-on-progress|2017-12-03 on progress]]
 			- [[2017-12-03-the-new-ubu|2017-12-03 the new ubu]]
@@ -913,7 +913,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2020-07-18-on-the-carnivalesque-and-its-abuses|2020-07-18 on the carnivalesque and its abuses]]
 			- [[2020-07-18-unserious-journalism|2020-07-18 unserious journalism]]
 			- [[2020-07-19-design-ethics|2020-07-19 design ethics]]
-			- [[2020-07-19-i-have-to-see]]
+			- [[2020-07-19-i-have-to-see|2020-07-19 I have to see]]
 			- [[2020-07-19-karen-as-kategory|2020-07-19 karen as kategory]]
 			- [[2020-07-20-on-epistemic-bubbles|2020-07-20 on epistemic bubbles]]
 			- [[2020-07-20-on-southern-crackers|2020-07-20 on southern crackers]]
@@ -1021,17 +1021,17 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-04-12-why-privatize-now]]
 			- [[2021-04-18-obit-for-a-real-life-le-carre-character]]
 			- [[2021-04-23-interview-with-nabil-ahmed]]
-			- [[2021-04-23-on-green-new-dealism]]
-			- [[2021-04-27-the-end-of-the-op-ed]]
+			- [[2021-04-23-on-green-new-dealism|2021-04-23 on green new dealism]]
+			- [[2021-04-27-the-end-of-the-op-ed|2021-04-27 the end of the op ed]]
 			- [[2021-05-08-it-was-then-i-saw-the-future|2021-05-08 it was then i saw the future]]
 			- [[2021-05-09-wysiwyg|2021-05-09 wysiwyg]]
 			- [[2021-05-10-popping-filter-bubbles|2021-05-10 popping filter bubbles]]
 			- [[2021-05-11-misogyny-and-local-coverage|2021-05-11 misogyny and local coverage]]
-			- [[2021-05-12-multilevel-negation]]
+			- [[2021-05-12-multilevel-negation|2021-05-12 multilevel negation]]
 			- [[2021-05-12-sextuple-negation|2021-05-12 sextuple negation]]
 			- [[2021-05-13-cvs-abc|2021-05-13 cvs abc]]
 			- [[2021-05-16-explicar-deleuze-ahora-mismo|2021-05-16 explicar deleuze ahora mismo]]
-			- [[2021-05-17 lots-of-lacks]]
+			- [[2021-05-17 lots-of-lacks|2021-05-17 lots of lacks]]
 			- [[2021-05-17-too-crude-for-culture|2021-05-17 too crude for culture]]
 			- [[2021-05-19-persuasion-coercion-and-the-supreme-court|2021-05-19 persuasion coercion and the supreme court]]
 			- [[2021-05-20-justice-is-cynical|2021-05-20 justice is cynical]]
@@ -1040,19 +1040,17 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-05-23-hallelujah-maybe|2021-05-23 hallelujah maybe]]
 			- [[2021-05-24-the-silence-of-the-sheepskins|2021-05-24 the silence of the sheepskins]]
 			- [[2021-05-31-low-bar|2021-05-31 low bar]]
-			- [[2021-06-04-catsup-nostalgia]]
-			- [[2021-06-05-nonviolence-is-like-relying-on-fossil-fuels]]
+			- [[2021-06-04-catsup-nostalgia|2021-06-04 catsup nostalgia]]
+			- [[2021-06-05-nonviolence-is-like-relying-on-fossil-fuels|2021-06-05 nonviolence is like relying on fossil fuels]]
 			- [[2021-06-13-please-dont-communicate-with-the-aliens|2021-06-13 please dont communicate with the aliens]]
 			- [[2021-06-20-a-monopoly-on-legitimate-anonymity|2021-06-20 a monopoly on legitimate anonymity]]
 			- [[2021-06-23-is-it-ecocide-if-you-didnt-know-it|2021-06-23 is it ecocide if you didnt know it]]
-			- [[2021-06-24-english-catsup|2021-06-24 english catsup]]
 			- [[2021-06-26-third-world-country-in-a-gucci-belt|2021-06-26 third world country in a gucci belt]]
-			- [[2021-06-29-a-libertarian-monument]]
+			- [[2021-06-29-a-libertarian-monument|2021-06-29 a libertarian monument]]
 			- [[2021-06-29-how-time-changes|2021-06-29 how time changes]]
 			- [[2021-07-02-nice-to-be-acknowledged|2021-07-02 nice to be acknowledged]]
 			- [[2021-07-06-everything|2021-07-06 everything]]
-			- [[2021-07-07-how-deleuze-and-guattari-worked-together|2021-07-07 how deleuze and guattari worked together]]
-			- [[2021-07-08-bonesaw-mcguffin]]
+			- [[2021-07-08-bonesaw-mcguffin|2021-07-08 bonesaw mcguffin]]
 			- [[2021-07-08-how-deleuze-and-guattari-co-wrote]]
 			- [[2021-07-08-mfx-for-metaphysical-fx|2021-07-08 mfx for metaphysical fx]]
 			- [[2021-07-18-potato-colors|2021-07-18 potato colors]]
