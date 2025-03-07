@@ -2,16 +2,16 @@
 title: 2024-09-02 hopkins on krakatoa
 description: 
 extract: 
-created: 2024-11-17 17:08
-updated: 2025-02-14 22:04
+created: 2024-11-17
+updated: 2025-02-14
 author: "tb" 
 images: 
 order: 
 enableToc: "true" 
 permalink: 
 aliases: 
-draft: "false" "false"
-publish: "true" "true"
+draft: "false"
+publish: "true"
 date: 2024-09-02
 tags:
   - "#visual-culture"
