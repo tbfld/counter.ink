@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-10-08 on bezroukov on esr
 description: 
 extract: 
@@ -15,9 +16,7 @@ publish:
 date: 1999-10-08
 tags:
   - economics
-  - "#technology"
-  - "#theory"
-  - "#libertarianism"
+yaml_end: true
 ---
 
 To: Nettime

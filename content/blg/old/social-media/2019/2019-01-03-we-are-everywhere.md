@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-01-03 we are everywhere
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - feminism
   - parenting
   - 1970s
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/we-are-everywhere.jpg|wmed relative|center]]

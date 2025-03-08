@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-12-22 cultural syncretism
 description: 
 extract: 
@@ -14,9 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2019-12-22
 tags:
-  - "#nostalgia"
   - food
   - nyc
+yaml_end: true
 ---
 
 Still great. And I still miss Rene calling everyone Cookie, Frenchie, or Blondie

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-08-15 deterrence
 description: 
 extract: 
@@ -16,10 +17,7 @@ date: 2020-08-15
 tags:
   - law
   - crime
-  - "#politics"
-  - "#corporation"
-  - "#oligarchism"
-  - "#corruption"
+yaml_end: true
 ---
 
 The only way to defeat the oligarchism that’s consuming the US is punishments that outweigh the potential rewards of corruption. In much the same way that the gap between C-suite and worker compensation has grown by orders of magnitude, so have the the upsides of corruption — more so, even. To deter it, the punishments need to grow accordingly. We can plod along with feel-good ideas about how tacking on a few more years in jail will do the trick, or we can be, I think, more realistic about the radical measures needed to change these people’s behavior.

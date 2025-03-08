@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-11-24 we care about your memories
 description: 
 extract: 
@@ -14,8 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-11-24
 tags:
-  - "#memory"
   - facebook
+yaml_end: true
 ---
 
 All the feelz

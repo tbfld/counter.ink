@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-09-01 is this even an election really
 description: 
 extract: 
@@ -17,11 +18,7 @@ tags:
   - fascism
   - law
   - right
-  - "#politics"
-  - "#society"
-  - "#culture"
-  - "#elections"
-  - "#authoritarianism"
+yaml_end: true
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-10-31 twitter typing bug
 description: 
 extract: 
@@ -13,9 +14,8 @@ aliases:
 draft: 
 publish: 
 tags:
-  - "#internet"
-  - "#software"
-  - "#social-media"
+  - needs_tags
+yaml_end: true
 ---
 
 To: Nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-12-02 academic koolaid
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-12-02
 tags:
-  - "#education"
-  - "#academia"
-  - "#academia"
-  - "#satire"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 edu admin kool-aid: just add water

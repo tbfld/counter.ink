@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2003-03-29 on geert lovink dark fibre
 description: 
 extract: 
@@ -15,11 +16,9 @@ publish:
 date: 2003-03-29
 tags:
   - culture
-  - "#internet"
-  - "#media"
-  - "#nettime"
   - publishing
   - theory
+yaml_end: true
 ---
 
 To: Nettime-l

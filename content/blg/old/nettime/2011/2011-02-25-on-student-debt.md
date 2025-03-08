@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-02-25 on student debt
 description: 
 extract: 
@@ -17,10 +18,7 @@ tags:
   - education
   - finance
   - academia
-  - "#economics"
-  - "#students"
-  - "#education"
-  - "#debt"
+yaml_end: true
 ---
 
 To: nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-08-19 third parties and doing good
 description: 
 extract: 
@@ -16,10 +17,9 @@ date: 2024-11-24
 tags:
   - national
   - politics
-  - "#social-commentary"
-  - "#cultural-commentary"
   - voting
 status: draft
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/third-parties-and-doing-good.jpg|relative wmed|left]]

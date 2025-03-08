@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-27 what did we do for fun
 description: 
 extract: 
@@ -16,6 +17,7 @@ date: 2019-03-27
 tags:
   - meme
   - parenting
+yaml_end: true
 ---
 
 What did people do for fun before they could exchange text messages with their kids?

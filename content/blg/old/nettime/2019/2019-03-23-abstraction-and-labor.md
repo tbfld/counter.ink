@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-23 abstraction and labor
 description: 
 extract: 
@@ -22,12 +23,7 @@ tags:
   - history
   - left
   - technology
-  - "#politics"
-  - "#culture"
-  - "#theory"
-  - "#corporation"
-  - "#aviation"
-  - "#technology-debates"
+yaml_end: true
 ---
 
 To:  Nettime-l

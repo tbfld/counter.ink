@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1998-03-02 europanto five year plan
 description: 
 extract: 
@@ -15,11 +16,7 @@ publish:
 date: 1998-03-02
 tags:
   - europe
-  - "#language"
-  - "#digital-culture"
-  - "#communication"
-  - "#europanto"
-  - "#language"
+yaml_end: true
 ---
 
 To: Nettime

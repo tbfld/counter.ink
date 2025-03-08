@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-11-27 all creatures terrible and fabulous
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - literature
   - education
 status: draft
+yaml_end: true
 ---
 
 ![[content/blg/new/new_images/heaney-railway.jpg|relative wmed|left]]

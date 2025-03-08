@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-08-08 hey beyonce
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - graffiti
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/beyonce.jpg]]

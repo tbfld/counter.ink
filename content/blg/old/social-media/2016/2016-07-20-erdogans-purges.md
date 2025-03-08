@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-07-20 erdogans purges
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-07-20
 tags:
-  - "#politics"
-  - "#society"
-  - "#journalism"
-  - "#coup"
-  - "#authoritarianism"
+  - needs_tags
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 Just five days into a coup, the speed, scale, and scope of Erdogan’s purges suggest that his forces are absolutely confident about who to keep and who to get rid of. You’d almost think they had lists ready to go. And the fact that they went after the judiciary *first* — you’d almost think they had a plan or something.

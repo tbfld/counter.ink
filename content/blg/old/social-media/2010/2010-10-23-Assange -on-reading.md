@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-10-23 Assange  on reading
 description: 
 extract: 
@@ -14,11 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2010-10-23
 tags:
-  - "#prison"
-  - "#literature"
-  - "#wikileaks"
+  - needs_tags
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 “When it comes to the point where you occasionally look forward to being in prison on the basis that you might be able to spend a day reading a book, the realization dawns that perhaps the situation has become a little more stressful than you would like.”

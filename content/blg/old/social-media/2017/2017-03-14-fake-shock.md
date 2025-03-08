@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-03-14 fake shock
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - satire
   - film
   - pr
+yaml_end: true
 ---
 
 “Using Air Quotes, Claude Rains Walks Back ‘Shocked’ Claim in Casabanca”: “When I said I was ‘shocked’ twice, clearly I meant I’d be ‘shocked’ at the idea of being ‘shocked,’ so obviously I wasn’t *actually* shocked. That’s just fake reaction. We’re tired of these fake narratives being put out there.”

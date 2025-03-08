@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-02-02 the liberal denialist complex
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - right
   - left
 status: final
+yaml_end: true
 ---
 
 [All of this was predictable](https://heathercoxrichardson.substack.com/p/february-1-2025), indeed all of it was predicted because these were Trump's campaign promises. And since he was president for four long years, we all had an unfortunately long chunk of our lives to learn that, yes, he really does *try* to follow through on his hatreds. No one gets to pretend they're surprised. Shocked at the speed and aggression *maybe*, but surprised? No. 

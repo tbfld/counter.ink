@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-02-23 on gift giving
 description: 
 extract: 
@@ -15,6 +16,7 @@ publish: "true"
 date: 2019-02-23
 tags:
   - parenting
+yaml_end: true
 ---
 
 Just stumbled on this Xmas gift–buying advice for the 13YO

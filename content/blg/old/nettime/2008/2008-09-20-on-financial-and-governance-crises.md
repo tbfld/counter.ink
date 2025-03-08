@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2008-09-20 on financial and governance crises
 description: 
 extract: 
@@ -17,10 +18,8 @@ tags:
   - economics
   - governance
   - law
-  - "#politics"
-  - "#finance"
-  - "#history"
   - crisis
+yaml_end: true
 ---
 
 To: Nettime-l

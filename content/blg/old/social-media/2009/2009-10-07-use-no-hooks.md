@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2009-10-07 use no hooks
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2009-10-07
 tags:
-  - "#design"
-  - "#visual-culture"
-  - "#urbanism"
-  - "#iconography"
-  - "#ideology"
+  - needs_tags
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/use-no-hooks.jpg]]

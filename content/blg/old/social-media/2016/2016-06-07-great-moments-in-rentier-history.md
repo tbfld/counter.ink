@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-06-07 great moments in rentier history
 description: 
 extract: 
@@ -15,13 +16,9 @@ publish: "true"
 date: 2016-06-07
 tags:
   - history
-  - "#social-commentary"
-  - "#cultural-commentary"
-  - "#news"
-  - "#rentier-economics"
-  - "#absurdism"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 Great moments in rentier history: renter gets hit by meteorite, landlord sues, arguing that it’s her property so it’s her rock.

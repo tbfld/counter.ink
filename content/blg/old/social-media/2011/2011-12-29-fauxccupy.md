@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-12-29 fauxccupy
 description: 
 extract: 
@@ -14,11 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2011-12-29
 tags:
-  - "#satire"
   - occupy
   - language
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 Been waiting for moccupy, roccupy, floccupy etc, but this is priceless: cops clear fake occupation

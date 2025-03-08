@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: blg
 description: things I’ve written for other context, reconstituted here as a just-add-waterlog
 extract: This is sort of a blog. *Ceci n’est pas un blog*, maybe — it *is* and *isn’t*. It’s an archive of  things I’ve written over the last ~35 years years for mailing lists (only [[blg/old/nettime/nettime|nettime]] so far) and social media (only [[social-media|Facebook]] so far), reconstituted in a bloggish way — call it a *jawlog*, a just-add-water-log. I have several reasons for doing that (like not relying on increasingly unreliable “platforms”), but where things come from is less interesting than what they are now.
@@ -14,6 +15,7 @@ draft: "true"
 publish: "false"
 tags:
   - index
+yaml_end: true
 ---
 
 This is sort of a blog. *Ceci n’est pas un blog*, maybe — it *is* and *isn’t*. It’s an archive of  things I’ve written over the last ~35 years years for mailing lists (only [[blg/old/nettime/nettime|nettime]] so far) and social media (only [[social-media|Facebook]] so far), reconstituted in a bloggish way — call it a *jawlog*, a just-add-water-log. I have several reasons for doing that (like not relying on increasingly unreliable “platforms”), but where things come from is less interesting than what they are now.
@@ -23,7 +25,7 @@ Early online resources — dialup BBSes, discussion-oriented mailing lists, and 
 When social media came along, it more or less put an end to blogging. It’s got lots of problems, some of them *really* serious, but its weirdness and intensity reflect new stages in how we think about different ideas of community. This jawlog reflects these changing styles, and not the everyone’s-got-their-own-soapbox tone of blogs.
 
 %% Begin Waypoint %%
-- [[blg|blg]]
+- [[blg]]
 - **[[new]]**
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
 	- [[2024-11-26-second-greatest-footnote-ever|2024-11-26 the second greatest footnote ever]]
@@ -577,7 +579,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2017-08-31-im-a-utilitarian|2017-08-31 im a utilitarian]]
 			- [[2017-09-23-historicizing-threats-to-kids|2017-09-23 historicizing threats to kids]]
 			- [[2017-09-28-student-debt-and-inappropriate-conversations|2017-09-28 student debt and inappropriate conversations]]
-			- [[2017-10-03-london0-calling]]
+			- [[2017-10-03-london-calling]]
 			- [[2017-10-05-michael-gurstein-rip|2017-10-05 michael gurstein rip]]
 			- [[2017-10-09-html-email|2017-10-09 html email]]
 			- [[2017-10-28-on-value-btc-and-the-blockchain|2017-10-28 on value btc and the blockchain]]
@@ -1012,7 +1014,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-03-10-the-moruroa-files|2021-03-10 the moruroa files]]
 			- [[2021-03-12-relying-on-judicial-review-was-always-a-dead-end|2021-03-12 relying on judicial review was always a dead end]]
 			- [[2021-03-17-may-have-been-targeted|2021-03-17 may have been targeted]]
-			- [[2021-03-21-lo-ottens-cassette-tape-inventor-rip]]
+			- [[2021-03-21-lou-ottens-cassette-tape-inventor-rip]]
 			- [[2021-03-22-krispy-kreme-vakzines|2021-03-22 krispy kreme vakzines]]
 			- [[2021-03-23-hard-to-argue-with-a-camellia|2021-03-23 hard to argue with a camellia]]
 			- [[2021-03-24-geoengineering-is-incompatible-with-democracies|2021-03-24 geoengineering is incompatible with democracies]]

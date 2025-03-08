@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-30 voice activated foucault
 description: 
 extract: 
@@ -14,10 +15,10 @@ draft: "false"
 publish: "true"
 date: 2019-03-30
 tags:
-  - "#nettime"
   - france
   - theory
   - literature
+yaml_end: true
 ---
 
 My favorite [[nettime alumni and alumnae|nettimer]], Morlock Elloi, noticed the book on top

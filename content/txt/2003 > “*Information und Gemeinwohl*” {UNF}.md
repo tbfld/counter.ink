@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2003 > “*Information und Gemeinwohl*” {UNF}
 description: 
 extract: 
@@ -13,7 +14,9 @@ aliases:
 draft: "true"
 publish: "false"
 tags:
+  - needs_tags
 RSS: "false"
+yaml_end: true
 ---
 
 http://www.malmoe.org/artikel/alltag/543

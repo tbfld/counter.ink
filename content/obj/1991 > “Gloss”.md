@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1991 > “Gloss”
 description: the first exhibition I made with my then-collaborator, Lincoln Tobier
 extract: “Gloss” was the first exhibition I made with my then-collaborator, Lincoln Tobier
@@ -22,6 +23,7 @@ tags:
   - collaboration
 status: 
 RSS: "false"
+yaml_end: true
 ---
 ![[content/obj/obj_images/gloss.jpeg|relative wmed|left]]
 

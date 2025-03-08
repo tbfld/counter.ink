@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-07-25 are mp3s theft
 description: 
 extract: 
@@ -18,11 +19,7 @@ tags:
   - music
   - national
   - right
-  - "#intellectual-property"
-  - "#music"
-  - "#online-culture"
-  - "#digital"
-  - "#music"
+yaml_end: true
 ---
 
 To: Nettime

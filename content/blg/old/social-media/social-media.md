@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: social media
 description:
 extract:
@@ -15,6 +16,7 @@ publish: "true"
 date: 2025-02-14
 tags: []
 status: "draft"
+yaml_end: true
 ---
 
 This is a compilation of things I’ve posted on social media, ranging from ephemeral snark to short essays.
@@ -223,7 +225,7 @@ This is a compilation of things I’ve posted on social media, ranging from ephe
 >> [[2021-03-22-krispy-kreme-vakzines|krispy-kreme-vakzines]]
 >
 >> [!note]+ 2021-03-21
->> [[2021-03-21-lo-ottens-cassette-tape-inventor-rip|lo-ottens-cassette-tape-inventor-rip]]
+>> [[2021-03-21-lou-ottens-cassette-tape-inventor-rip|lo-ottens-cassette-tape-inventor-rip]]
 >
 >> [!note]+ 2021-03-17
 >> [[2021-03-17-may-have-been-targeted|may-have-been-targeted]]
@@ -1480,7 +1482,7 @@ This is a compilation of things I’ve posted on social media, ranging from ephe
 >> [[2017-10-05-michael-gurstein-rip|michael-gurstein-rip]]
 >
 >> [!note]+ 2017-10-03
->> [[2017-10-03-london0-calling|london0-calling]]
+>> [[2017-10-03-london-calling|london0-calling]]
 >
 >> [!note]+ 2017-09-28
 >> [[2017-09-28-student-debt-and-inappropriate-conversations|student-debt-and-inappropriate-conversations]]

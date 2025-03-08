@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-12-18 extruded letterforms
 description: 
 extract: 
@@ -16,8 +17,8 @@ date: 2019-12-18
 tags:
   - advertising
   - design
-  - "#visual-culture"
   - typography
+yaml_end: true
 ---
 
 THIS. THIS IS IT. THIS — the extrusion of letterforms into layered dimensions, the reversal in space, the transformation of the logic of script and ligature into circuits, the superimposition of diagrammatic notation, the convergence of visual and electronic craft — IS IT. If you all could team up and get me a used copy for xmas, I’d love you forever. I mean, I do anyway, but I’d love you all the more.

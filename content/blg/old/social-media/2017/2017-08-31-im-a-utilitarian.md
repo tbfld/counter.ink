@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-08-31 im a utilitarian
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - satire
   - statistics
   - internet
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/im-a-utilitarian.jpg]]

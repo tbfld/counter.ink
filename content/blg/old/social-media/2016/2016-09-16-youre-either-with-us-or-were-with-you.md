@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-09-16 youre either with us or were with you
 description: 
 extract: 
@@ -15,13 +16,9 @@ publish: "true"
 date: 2016-09-16
 tags:
   - left
-  - "#politics"
-  - "#media-analysis"
-  - "#presidential-critique"
-  - "#democrats"
-  - "#left"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 [This \[by Jeffrey Feldman] is sharp.](https://www.facebook.com/jeffreyfeldman/posts/pfbid033GiqQAXPdZEq7AHs1sWmqRFtvrNoAQpL6SURbKot7jspoBVFWNWy2KshPQeFjzB3l?__cft__[0]=AZWJ6kLaofY1mR2ObR1VMuJyeFSfYGNzcMC0sqvyXMY1Ka_7JzUwYJTxHLtJ-Z_1sLwA2hHz6yGw4HuIenFR9VaOfrkfeHDcpkAIvOxOqcwgVg72wop5MiWDZLl6XwjDlAJhwZmNVKwhUtC4r53GDDvN75wGqrxphasb3iLEcL4ykbZeM3NRyJp7Dkrnh0a-rYw&__tn__=%2CO%2CP-y-R)

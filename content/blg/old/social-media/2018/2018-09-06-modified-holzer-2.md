@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-09-06 modified holzer 2
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - modification
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/modified-holzer-2.jpg]]

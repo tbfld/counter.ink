@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-11-24 crime is the new governance
 description: 
 extract: 
@@ -18,9 +19,8 @@ tags:
   - governance
   - history
   - society
-  - "#politics"
-  - "#social-commentary"
 status: draft
+yaml_end: true
 ---
 
 Not sure I’ve seen anyone say it so bluntly, but it’s becoming clearer that *criminality is the new governance*. I can think of several reasons that’d happen, involving media (would you rather watch C-SPAN or The Sopranos?), crises of legitimacy (*who* exactly is facing this crisis), micro-Foucauldianism (f— “seeing like a state,” how about *seeing like a society*?), and more. But no amount of fancy theory can compensate for people “seeing” criminality — at least certain kinds of it — as closer than government to their real lives and interests: more relevant, responsive, relevant, dynamic, optimistic, effective, capable, etc, etc.

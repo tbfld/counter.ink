@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-01-12 nyt discovers there isnt one history
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2020-01-12
 tags:
-  - "#history"
-  - "#education"
-  - "#cultural-commentary"
   - publishing
+yaml_end: true
 ---
 
 I’ve been ranting about this for more decades than I care to name in public, [so I guess it’s good that the NYT ‘discovered’ it,](https://www.nytimes.com/interactive/2020/01/12/us/texas-vs-california-history-textbooks.html) but... Frances Fitzgerald wrote the book on it, *America Revised*, in 1979 — a history of the US history textbook industry. Totally fascinating.

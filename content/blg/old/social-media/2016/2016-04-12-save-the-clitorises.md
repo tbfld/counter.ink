@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-04-12 save the clitorises
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-04-12
 tags:
-  - "#art"
-  - "#visual-culture"
-  - "#social-commentary"
-  - "#feminism"
-  - "#bodies"
+  - needs_tags
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/save-the-clitorises.jpg]]

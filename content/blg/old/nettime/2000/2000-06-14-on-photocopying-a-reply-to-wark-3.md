@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-06-14 on photocopying a reply to wark 3
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft:
 publish: 
 date: 2000-06-14
 tags:
-  - "#intellectual-property"
-  - "#intellectual-property"
-  - "#media"
-  - "#academia"
-  - "#economics"
+  - needs_tags
+yaml_end: true
 ---
 
 _(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. Ive set this email in a monospaced font to make that clear. For extra OG-typography fun, I “hung” the punctuation on the right margin. )_

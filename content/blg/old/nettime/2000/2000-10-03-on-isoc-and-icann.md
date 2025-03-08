@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-10-03 on isoc and icann
 description: 
 extract: 
@@ -18,11 +19,7 @@ tags:
   - internet
   - left
   - national
-  - "#internet-regulation"
-  - "#governance"
-  - "#society"
-  - "#dns"
-  - "#isoc-evolution"
+yaml_end: true
 ---
 
 To: nettime-l

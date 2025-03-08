@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-08-06 scabby vs the arts
 description: 
 extract: 
@@ -14,12 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2011-08-06
 tags:
-  - "#media"
-  - "#visual-culture"
   - labor
   - education
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/scabby-at-columbia.jpg]]

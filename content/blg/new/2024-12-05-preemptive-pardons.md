@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-12-05 preemptive pardons
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - right
   - national
 status: draft
+yaml_end: true
 ---
 
 [The WP is reporting that the White House is considering “preemptive pardons to figures who might face the hostility of the incoming Trump administration.”](https://www.washingtonpost.com/politics/2024/12/05/white-house-weighs-preemptive-pardons-for-potential-trump-targets/) I’d have to think hard — *very* hard — to imagine anything more emblematic of the Biden admin’s abject failure to grasp the threat Trump poses than blanketing themselves and their supporters with a magical blizzard of private legal exceptions. Talk about privilege...

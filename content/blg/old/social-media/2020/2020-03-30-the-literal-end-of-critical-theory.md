@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-03-30 the literal end of critical theory
 description: 
 extract: 
@@ -14,11 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2020-03-30
 tags:
-  - "#theory"
   - visuality
   - interface
   - meme
   - history
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/the-literal-end-of-critical-theory.jpg]]

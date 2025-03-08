@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-10-01 i hate you deeply
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-10-01
 tags:
-  - "#art"
-  - "#visual-culture"
-  - "#image"
-  - "#nostalgia"
-  - "#personal-expression"
+  - needs_tags
+yaml_end: true
 ---
 
 \[a favorite from way back]

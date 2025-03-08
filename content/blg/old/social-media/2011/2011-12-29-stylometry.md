@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-12-29 stylometry
 description: 
 extract: 
@@ -14,11 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2011-12-29
 tags:
-  - "#literature"
   - language
   - genre
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 Adversarial stylometry: who knew Moore’s law’d make copyeditors (Brit: subeditors) into tomorrow’s guerrillas? 

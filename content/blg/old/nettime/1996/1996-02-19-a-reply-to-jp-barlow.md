@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1996-02-19 a reply to jp barlow
 description: 
 extract: 
@@ -16,12 +17,8 @@ date: 1996-02-19
 tags:
   - europe
   - history
-  - "#politics"
-  - "#society"
-  - "#cybersecurity"
-  - "#cultural-critique"
-  - "#internet"
   - communism
+yaml_end: true
 ---
 
 To:  barlow\[at]eff\[dot]org, nettime

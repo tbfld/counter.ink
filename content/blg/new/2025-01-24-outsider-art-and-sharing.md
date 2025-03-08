@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-24 outsider art and sharing
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - language
   - technology
 status: final
+yaml_end: true
 ---
 
 ![[content/blg/new/new_images/dress/alice-eugenia-ligon-1.jpg|wmed relative|left]]

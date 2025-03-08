@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-11-15 dinner in brussels
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - food
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/dinner-in-brussels.jpg]]

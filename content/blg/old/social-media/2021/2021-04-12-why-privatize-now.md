@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-04-12 why privatize now
 description: a few thoughts on privatization
 extract: privatize away, as long as the top 6 levels of execs understand the state can renationalize it on equivalent terms
@@ -22,6 +23,7 @@ tags:
   - ideology
 status: 
 RSS: "true"
+yaml_end: true
 ---
 
 I’m all for privatizing anything, as long as the top, say, 6 levels of executives understand that if they fuck up (1) they’ll get the guillotine, and (2) the state can renationalize it on equivalent terms — basically, take all the assets and saddle privatizing investors with all the debt. And, sorry, that applies to past execs too, so no asset-stripping, quitting, and swapping in other heads. So, you want to nationalize USPS? Let’s talk.

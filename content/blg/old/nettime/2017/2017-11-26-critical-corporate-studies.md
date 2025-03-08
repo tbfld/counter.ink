@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-26 critical corporate studies
 description:
 extract:
@@ -14,16 +15,17 @@ draft:
 publish:
 date: 2017-11-26
 tags:
-- 1970s
-- 1980s
-- corporation
-- data
-- history
-- internet
-- literature
-- media
-- national
-- right
+  - 1970s
+  - 1980s
+  - corporation
+  - data
+  - history
+  - internet
+  - literature
+  - media
+  - national
+  - right
+yaml_end: true
 ---
 
 To:  nettime-l

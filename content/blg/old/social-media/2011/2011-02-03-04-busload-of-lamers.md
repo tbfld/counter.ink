@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 20112 03 04 busload of lamers
 description: 
 extract: 
@@ -13,11 +14,8 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#image"
-  - "#digital-art"
-  - "#media-analysis"
-  - "#internet"
-  - "#visual-culture"
+  - needs_tags
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/busload-of-lamers.jpg]]

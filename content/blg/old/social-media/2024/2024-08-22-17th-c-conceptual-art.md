@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-08-22 17th c conceptual art
 description: 
 extract: 
@@ -17,9 +18,9 @@ tags:
   - art
   - history
   - image
-  - "#visual-culture"
   - 17c
 status: draft
+yaml_end: true
 ---
 
 

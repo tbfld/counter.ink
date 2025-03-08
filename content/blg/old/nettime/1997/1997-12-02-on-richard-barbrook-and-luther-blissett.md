@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-12-02 on richard barbrook and luther blissett
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft:
 publish: 
 date: 1997-12-02
 tags:
-  - "#digital-discourse"
-  - "#philosophy"
-  - "#internet"
-  - "#nettime"
-  - "#historical-context"
+  - needs_tags
+yaml_end: true
 ---
 
 To:  nettime-l

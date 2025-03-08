@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-08-10 on ethics and robotics
 description: 
 extract: 
@@ -14,16 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2024-11-24
 tags:
-  - "#society"
-  - "#politics"
-  - "#communication"
   - signage
-  - "#social-commentary"
-  - "#cultural-critique"
-  - "#media-critique"
-  - "#visual-culture"
-  - "#digital-communication"
 status: draft
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/prisons-and-hitchhikers.jpg|relative wmed|left]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-03-29 my dog the movie star
 description: 
 extract: 
@@ -13,11 +14,8 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#art"
-  - "#media"
-  - "#culture"
-  - "#animals"
-  - "#animals"
+  - needs_tags
+yaml_end: true
 ---
 
 Actual screenshot of my dog upstaging Diane Keaton and Morgan Freeman TRUE FACT

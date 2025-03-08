@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-08-30 making design theory
 description: 
 extract: 
@@ -16,11 +17,9 @@ date: 2017-08-30
 tags:
   - art
   - design
-  - "#theory"
-  - "#media"
-  - "#design"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 This book does look really good. Although the assumption that ‘theory’ was ever in any way monolithic, a thing, was always idiotic (and mostly American, an artifact of translation, IMO). But, like many idiotic things, it had diverse constituents whose careers relied on it in different ways: ‘theorists’ so they could embrace it, ‘makers’ so they could reject it, etc.

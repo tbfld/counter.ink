@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-08-29 google reader
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-08-29
 tags:
-  - "#image"
-  - "#media"
-  - "#technology"
-  - "#digital-archiving"
-  - "#visual-culture"
+  - needs_tags
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/google-reader.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-11-24 companies prep for deepfake future
 description: 
 extract: 
@@ -14,11 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2019-11-24
 tags:
-  - "#media"
-  - "#technology"
   - history
   - corporation
   - publishing
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/companies-prep-for-deepfake-future.jpg]]

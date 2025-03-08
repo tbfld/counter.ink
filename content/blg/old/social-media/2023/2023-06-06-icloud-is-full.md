@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2023-06-06 icloud is full
 description: 
 extract: 
@@ -13,10 +14,9 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#visual-culture"
-  - "#media-critique"
   - technology
   - satire
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/icloud-is-full.jpg]]

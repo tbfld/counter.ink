@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1996-07-29 net commercialization
 description: 
 extract: 
@@ -16,11 +17,8 @@ date: 1996-07-29
 tags:
   - europe
   - international
-  - "#internet"
-  - "#communication"
-  - "#media"
-  - "#digital"
   - pop
+yaml_end: true
 ---
 
 To:  nettime-l

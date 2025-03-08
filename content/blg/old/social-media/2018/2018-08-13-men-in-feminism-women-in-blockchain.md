@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-08-13 men in feminism women in blockchain
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2018-08-13
 tags:
-  - "#technology"
-  - "#media"
-  - "#cultural-commentary"
   - gender
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[women-in-blockchain.jpg]]

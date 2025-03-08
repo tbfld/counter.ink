@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-13 self absorption of the intellectual elite
 description: 
 extract: 
@@ -15,10 +16,7 @@ publish: "true"
 date: 2020-07-13
 tags:
   - culture
-  - "#media"
-  - "#cultural-commentary"
-  - "#politics"
-  - "#intellectualism"
+yaml_end: true
 ---
 
 \[SH] gets it, and if you didn’t now you can too. Of all the problems we face, a bunch of people you’ve mostly heard of (a pretty good proxy for privilege) feeling oppressed because they need to say things differently isn’t serious. But the fact that, of all the things they might say now, they’d chose to make a statement about *that* does speak of a larger problem: the self-absorption of parts of the intellectual elite. It’s a big reason we’re in this mess.

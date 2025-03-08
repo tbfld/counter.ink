@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-03-16 suspicion on too much science oriented civilization
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - culture
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/astro-boy.jpg]]

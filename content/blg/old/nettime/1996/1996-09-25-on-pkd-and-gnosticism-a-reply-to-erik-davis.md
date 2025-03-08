@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1996-09-25 on pkd and gnosticism a reply to erik davis
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - theology
   - politics
   - religion
+yaml_end: true
 ---
 
 To:  nettime-l

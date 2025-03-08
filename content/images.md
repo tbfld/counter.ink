@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: images
 description: a stream of pix that pique my interest
 extract: 
@@ -18,6 +19,7 @@ tags:
   - media
 status: 
 RSS: "true"
+yaml_end: true
 ---
 
 ![[2025-03-03-nypd-carl-shurtz-byfield.jpg|wmed relative|center]]

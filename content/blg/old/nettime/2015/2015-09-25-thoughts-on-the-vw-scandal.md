@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2015-09-25 thoughts on the vw scandal
 description: 
 extract: 
@@ -20,10 +21,8 @@ tags:
   - finance
   - international
   - law
-  - "#technology"
   - governance
-  - "#cars"
-  - "#environment"
+yaml_end: true
 ---
 
 To: nettime-l

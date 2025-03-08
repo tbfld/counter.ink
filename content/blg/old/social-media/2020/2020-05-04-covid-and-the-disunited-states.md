@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-05-04 covid and the disunited states
 description:
 extract:
@@ -15,6 +16,7 @@ publish: "true"
 date: 2020-05-04
 tags:
 - institution
+yaml_end: true
 ---
 
 https://www.theatlantic.com/ideas/archive/2020/05/time-americans-are-doing-nothing/611056/Something 

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-09-05 enjoy it at your own risk
 description: 
 extract: 
@@ -16,6 +17,7 @@ tags:
   - law
   - language
   - signage
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/enjoy-it-at-your-own-risk.jpg]]

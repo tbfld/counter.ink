@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-08-25 the universal solvent for democracy
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2017-08-25
 tags:
-  - "#politics"
-  - "#media-analysis"
-  - "#cultural-critique"
   - nyt
+yaml_end: true
 ---
 
 Here’s my comment of the day:

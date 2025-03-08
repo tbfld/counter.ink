@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-06-16 hudson yards proprty taxes
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-06-16
 tags:
-  - "#politics"
-  - "#society"
-  - "#urbanism"
-  - "#real-estate-development"
-  - "#urbanism"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 I warned about this in 2002–2003 when Dan Doctoroff was using the Olympics to jam this through. Pity that the civic orgs responsible for planning all depend on real estate developers and their hangers-on for their funding.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-07 passive faculties
 description: 
 extract: 
@@ -14,9 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2020-07-07
 tags:
-  - "#education"
-  - "#faculty"
-  - "#institution"
+  - needs_tags
+yaml_end: true
 ---
 
 It’s amazing how passive university faculty have been through all of this. I don’t get it. There’s no end of excuses: “Victim-blaming! It’s the state legislatures!” “What are we supposed to do?!” “Faculty just aren’t the kind of people to organize” “We already have our hands full!” etc, etc. Those things may be true, but learned helplessness won’t protect your institutions or your jobs. Time to step up.

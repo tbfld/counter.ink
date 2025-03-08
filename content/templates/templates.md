@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 extract:
 author:
 images:
@@ -14,5 +15,6 @@ order:
 alias:
 draft: false
 publish:
+yaml_end: true
 ---
 

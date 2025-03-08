@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1992 > Roger Ailes — A Retrospective in Context
 description: an essay for a retrospective of AilesÆs work years before Fox News
 extract: "I wrote this essay in 1991/1992, which might seem a lifetime away, but it remains all too relevant. It first appeared in a pamphlet distributed at an exhibition called “Roger Ailes: A Retrospective in Context,” staged in 1992. At the time, Ailes was just a freelance political media consultant; four years later, he went on to found Fox News."
@@ -23,6 +24,7 @@ tags:
   - collaboration
 status: 
 RSS: "false"
+yaml_end: true
 ---
 *I wrote this essay in 1991/1992, which might seem a lifetime away, but it remains all too relevant. It first appeared in a pamphlet distributed at an exhibition called “Roger Ailes: A Retrospective in Context,” staged in 1992. At the time, [Ailes](https://en.wikipedia.org/wiki/Roger_Ailes) was just a freelance political media consultant; four years later, he went on to found Fox News.*
 

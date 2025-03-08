@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-02-06 ringling bothers (no, that’s not a typo)
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - institution
   - government
 status: draft
+yaml_end: true
 ---
 
 Here’s a detail that I think will actually be useful to many people, because it points toward what I’m 99% sure is a *method* the fashies are developing. If you think *meh, local news who cares?*, you’re making a mistake.

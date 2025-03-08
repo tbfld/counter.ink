@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-12-09 whither twitter
 description: 
 extract: 
@@ -15,12 +16,9 @@ publish: "true"
 date: 2016-12-09
 tags:
   - politics
-  - "#internet-culture"
-  - "#media-analysis"
-  - "#social-media"
-  - "#right"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 Really interesting story wrapped around this gem: “having a Twitter account is ‘like owning the New York Times without the losses.’ Twitter has become Trump’s cyber-magic wand....” While the ~left is more or less skimming Adorno trying to understand WTF is going on, rightists around the world will ‘innovate’ on Trump’s example. The twittrz (or whtteverz) will become a sort of Hunger Gamesy spotlight used by scalable, distributed, modular infrastructures of rightists to ‘make example’ of enemies and obstacles. That’s what gamergate etc was, of course, but that was bottom-up – the top-down reflux is already much weirder, with targets as big as Boeing. And the rightists will have more (and more committed) follwrz, so I think we’ll need a new and different strategy.

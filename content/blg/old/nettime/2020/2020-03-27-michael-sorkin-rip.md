@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-03-27 michael sorkin rip
 description: 
 extract: 
@@ -17,9 +18,7 @@ tags:
   - architecture
   - design
   - philosophy
-  - "#urbanism"
-  - "#cultural-critique"
-  - "#covid"
+yaml_end: true
 ---
 
 To: Nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-04-28 what is tarkovsky like
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2010-04-28
 tags:
-  - "#art"
-  - "#digital"
-  - "#visual-culture"
-  - "#tarkovsky"
-  - "#film"
+  - needs_tags
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[what-is-tarkovsky-like.jpg]]

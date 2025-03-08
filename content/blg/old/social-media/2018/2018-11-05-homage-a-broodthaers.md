@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-11-05 homage a broodthaers
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2018-11-05
 tags:
-  - "#art"
-  - "#visual-culture"
-  - "#homage"
-  - "#contemporary-art"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/homage-a-broodthaers.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-06-04 catsup nostalgia
 description: a photo of an OG British catsup dispenser
 extract: you can tell the art director was really chuffed to have it there
@@ -20,6 +21,7 @@ tags:
   - uk
 status: 
 RSS: "true"
+yaml_end: true
 ---
 ![[2021-06-04-catsup-dispenser.jpg|wmed relative|center]]
 

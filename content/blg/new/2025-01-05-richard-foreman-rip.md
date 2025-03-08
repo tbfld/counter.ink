@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-05 Richard Foreman RIP
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - history
   - theater
 status: final
+yaml_end: true
 ---
 
 ![[content/blg/new/new_images/foreman-manifesto.jpg|relative wmed|left]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-10-16 opinion polling
 description: 
 extract: 
@@ -24,6 +25,7 @@ tags:
   - politics
   - uk
   - brexit
+yaml_end: true
 ---
 
 To: James Wallbank, nettime

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-03-22 on robert silvers
 description: 
 extract: 
@@ -15,10 +16,10 @@ publish: "true"
 date: 2017-03-22
 tags:
   - language
-  - "#journalism"
   - publishing
   - academia
   - genre
+yaml_end: true
 ---
 
 Bingo. Words cannot express how bored I am of various clerisies (the religious first, with academics blisteringly hot on their heels) assuming that whatever goes on in their heads is ‘deep’ just because. This line about stripping away magical adjacencies is brilliant.

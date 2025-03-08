@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-07-13 the most meta thing ever
 description: 
 extract: 
@@ -14,14 +15,13 @@ draft: "false"
 publish: "true" 
 date: 2018-07-13
 tags:
-  - "#visual-culture"
-  - "#media"
   - publishing
   - accessibility
   - design
   - literature
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/braille-prince.jpg]]

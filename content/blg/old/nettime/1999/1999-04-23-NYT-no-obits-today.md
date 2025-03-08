@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-04-23 NYT no obits today
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft:
 publish: 
 date: 1999-04-23
 tags:
-  - "#news"
-  - "#national"
-  - "#media"
-  - "#nyt"
-  - "#genre"
+  - needs_tags
+yaml_end: true
 ---
 
 To: nettime-l

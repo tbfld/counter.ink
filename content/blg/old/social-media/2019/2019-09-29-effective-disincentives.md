@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-09-29 effective disincentives
 description: 
 extract: 
@@ -15,11 +16,7 @@ publish: "true"
 date: 2019-09-29
 tags:
   - law
-  - "#politics"
-  - "#journalism"
-  - "#media"
-  - "#populism"
-  - "#brexit"
+yaml_end: true
 ---
 
 Like many hacks, Bojo knows that if he does whatever it takes — in this case to take the UK out of the EU —he and his will be taken care of by their plutocratic pals. So here’s a question for all you reluctant populists, which is all of you: *What punishment would overcome an incentive like that?* Because if we don’t come up with it pretty fast, the Bojos of this world will destroy everything.

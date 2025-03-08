@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-22 premature antifascists
 description:
 extract:
@@ -14,11 +15,12 @@ draft: "false"
 publish: "true"
 date: 2020-07-22
 tags:
-- culture
-- fascism
-- history
-- left
-- right
+  - culture
+  - fascism
+  - history
+  - left
+  - right
+yaml_end: true
 ---
 
 [This is long but, hopefully, worth it.](https://eand.co/is-it-fascism-yet-402c2ec44723)

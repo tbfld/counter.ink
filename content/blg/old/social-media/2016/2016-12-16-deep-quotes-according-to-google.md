@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-12-16 deep quotes according to google
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-12-16
 tags:
-  - "#internet-culture"
-  - "#media-analysis"
-  - "#search"
-  - "#user-generated"
+  - needs_tags
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 <3 Google autocomplete

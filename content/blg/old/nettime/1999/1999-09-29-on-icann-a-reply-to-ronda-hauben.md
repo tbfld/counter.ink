@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-09-29 on icann a reply to ronda hauben
 description: 
 extract: 
@@ -17,10 +18,7 @@ tags:
   - academia
   - corporation
   - institution
-  - "#internet"
-  - "#governance"
-  - "#dns"
-  - "#internet-regulation"
+yaml_end: true
 ---
 
 To: nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2002-07-24 on wtc redevelopment
 description: 
 extract: 
@@ -15,9 +16,7 @@ publish:
 date: 2002-07-24
 tags:
   - corporation
-  - "#urbanism"
-  - "#politics"
-  - "#design"
+yaml_end: true
 ---
 
 *(Note: I’ve removed several dead links from this email.)*

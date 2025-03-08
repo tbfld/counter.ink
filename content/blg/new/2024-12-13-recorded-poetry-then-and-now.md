@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-12-13 recorded poetry then and now
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - media
   - publishing
 status: draft
+yaml_end: true
 ---
 
 [Amanda Gorman](https://en.wikipedia.org/wiki/Amanda_Gorman), who shot to fame when she recited her poem [“The Hill We Climb”](https://en.wikipedia.org/wiki/The_Hill_We_Climb "The Hill We Climb") for Biden’s inauguration in 2021, [just dropped a new poem](https://www.youtube.com/watch?v=BPOVo3_pyos) that riffs heavily on the movie *Wicked*, and *I think* it’s pretty amazing.

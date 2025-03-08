@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-03-31 interview with a search engine
 description: 
 extract: 
@@ -16,9 +17,7 @@ date: 2000-03-31
 tags:
   - art
   - internet
-  - "#search"
-  - "#ai"
-  - "#genre"
+yaml_end: true
 ---
 
 To: Nettime

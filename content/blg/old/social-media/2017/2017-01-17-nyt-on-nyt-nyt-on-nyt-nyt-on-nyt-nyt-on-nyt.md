@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-01-17 nyt on nyt nyt on nyt nyt on nyt nyt on nyt
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-01-17
 tags:
-  - "#art"
-  - "#media"
-  - "#visual-culture"
-  - "#digital-art"
-  - "#contemporary-critique"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/nyt-on-nyt-nyt-on-nyt-nyt-on-nyt-nyt-on-nyt.jpg]]

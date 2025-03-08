@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-08-14 they always say that
 description: 
 extract: 
@@ -14,14 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2020-08-14
 tags:
-  - "#politics"
-  - "#media"
-  - "#law"
-  - "#elections"
-  - "#constitution"
-  - "#protest"
+  - needs_tags
+yaml_end: true
 ---
-
 Lots of you tune this stuff out, but give me a few minutes of your time, because this doesn’t end like you expect.
 
 Ever since Trump was elected, and probably before, I’ve argued that wouldn’t step down voluntarily — and that he’ll need to be removed from the White House. It has less to do with his ambition than his fear: the moment he’s out of office, his life will become a legal nightmare. The NYS AG’s moves against him made that clear, and Cohen’s tell-all book will provide roadmaps for many, many more inquiries. Trump can pardon whomever he wants for whatever he wants while he’s president, but new investigations will create endless new opportunities for his cronies and quislings to lie to under oath, cover up, and withhold materials. That’ll be a fountain of youth for extending their legal jeopardy more or less indefinitely. And that means more legal jeopardy for Trump and — crucially — his family. Kushner first and foremost.

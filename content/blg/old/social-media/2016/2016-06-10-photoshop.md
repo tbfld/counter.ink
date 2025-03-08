@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-06-10 photoshop
 description: 
 extract: 
@@ -14,11 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-06-10
 tags:
-  - "#digital-art"
-  - "#visual-culture"
   - art
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/photoshop.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-04-21 like a ghost in the sunlight
 description: 
 extract: 
@@ -13,11 +14,8 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#culture"
-  - "#society"
-  - "#art"
-  - "#personal-narrative"
-  - "#urbanism"
+  - needs_tags
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/ghost-in-the-sunlight.jpg]]

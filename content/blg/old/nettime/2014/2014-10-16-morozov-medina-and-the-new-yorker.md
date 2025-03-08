@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2014-10-16 morozov medina and the new yorker
 description: 
 extract: 
@@ -17,12 +18,7 @@ tags:
   - academia
   - language
   - media
-  - "#technology"
-  - "#culture"
-  - "#politics"
-  - "#academia"
-  - "#scholarly-norms"
-  - "#cybernetics"
+yaml_end: true
 ---
 
 To: Nettime-l

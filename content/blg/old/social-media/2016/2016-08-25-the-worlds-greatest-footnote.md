@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-08-25 the worlds greatest footnote
 description: 
 extract: 
@@ -14,13 +15,13 @@ draft: "false"
 publish: "true" 
 date: 2016-08-25
 tags:
-  - "#gender"
   - history
   - literature
   - theory
   - feminism
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 And on the subject of machine learning “discovering” gender bias etc, there’s one of the greatest footnotes ever, from Klaus Theweleit’s *Male Fantasies*, vol. 1:

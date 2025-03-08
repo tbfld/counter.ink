@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2013-01-24 syllabus boilerplate
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2013-01-24
 tags:
-  - "#education"
-  - "#education"
-  - "#students"
-  - "#sound"
-  - "#audio"
+  - needs_tags
 status:
 RSS: “false”
+yaml_end: true
 ---
-
 Fave part of the syllabus: “Apparently, I have misophonia. Crinkling and crackling sounds are especially unpleasant. I don’t care if you have a five-course meal during class, *so long as you don’t make noise eating it*.”

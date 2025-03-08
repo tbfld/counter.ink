@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-09-22 leonard cohen was right
 description: 
 extract: 
@@ -14,10 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-09-22
 tags:
-  - "#music"
   - fashion
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/leonard-cohen-was-right.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1991 - “Ludus Magistri — For Players of All Ages”
 description: 
 extract: 
@@ -23,6 +24,7 @@ tags:
   - 1970s
   - 1980s
 RSS: "false"
+yaml_end: true
 ---
 
 *A few of these  essays need a longer-than-usual introduction, and this one one of them.*

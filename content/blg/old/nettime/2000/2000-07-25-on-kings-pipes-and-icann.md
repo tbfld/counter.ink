@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-07-25 on kings pipes and icann
 description: 
 extract: 
@@ -17,9 +18,8 @@ tags:
   - governance
   - institution
   - internet
-  - "#intellectual-property"
-  - "#digital-rights"
   - regulation
+yaml_end: true
 ---
 
 To: Nettime

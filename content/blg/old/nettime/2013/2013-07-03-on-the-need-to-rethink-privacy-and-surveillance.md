@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2013-07-03 on the need to rethink privacy and surveillance
 description: 
 extract: 
@@ -18,11 +19,7 @@ tags:
   - institution
   - internet
   - language
-  - "#privacy"
-  - "#surveillance"
-  - "#culture"
-  - "#politics"
-  - "#information-theory"
+yaml_end: true
 ---
 
 To:  Nettime-l

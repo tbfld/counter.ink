@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-10-10 on gamification
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-10-10
 tags:
-  - "#technology"
-  - "#media"
-  - "#cultural-critique"
-  - "#gamification"
+  - needs_tags
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 It was pretty obvious that ‘gamification’ would come back and bite us in the ass, and here’s an example of how that’s happening — just one. Broad lesson: Take your ‘innovation’ and strip out all the optimistic assumptions about how everyone who uses it will be virtuous.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-05-21 were designed for fascism
 description: 
 extract: 
@@ -14,11 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2021-05-21
 tags:
-  - "#politics"
-  - "#social-commentary"
   - nyt
   - evolution
   - biology
+yaml_end: true
 ---
 
 This is one for the ages: [NYT columnist blames cognitive evolution for the GOP’s fascist turn](https://www.nytimes.com/2021/05/19/opinion/jan-6-capitol-attack.html).

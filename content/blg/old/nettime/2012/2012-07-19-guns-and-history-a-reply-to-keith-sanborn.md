@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2012-07-19 guns and history a reply to keith sanborn
 description: 
 extract: 
@@ -21,11 +22,7 @@ tags:
   - information
   - news
   - technology
-  - "#philosophy"
-  - "#culture"
-  - "#politics"
-  - "#visualization"
-  - "#capitalism"
+yaml_end: true
 ---
 
 To: nettime-l

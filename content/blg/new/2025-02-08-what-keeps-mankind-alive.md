@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-02-08 what keeps mankind alive
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - left
   - music
 status: final
+yaml_end: true
 ---
 
 ![[content/blg/new/new_images/three-p-opera.jpeg|wsmall relative|center]]

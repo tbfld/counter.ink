@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-09-13 judd legum
 description: 
 extract: 
@@ -16,10 +17,9 @@ date: 2018-09-13
 tags:
   - media
   - news
-  - "#social-media"
-  - "#policy"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 Judd Legum’s daily newsletter Popular Info is turning out to be surprisingly good. Today’s lead story, on “How a right-wing magazine became Facebook’s fact checker,” is an excellent example. And his larger project is admirable: to build a reliable source of news that doesn’t depend on the vagaries of social media for promotion. So do yourself a favor and go sign up — one mail a day with moderately deep coverage of a few issue-stories.

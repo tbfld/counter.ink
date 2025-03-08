@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-11-26 the second greatest footnote ever
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - language
   - publishing
 status: draft
+yaml_end: true
 ---
 
 ![[content/blg/new/new_images/bateson-footnote.jpeg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-06-14 joy dvision is really joyful
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true"
 date: 2019-06-14
 tags:
-  - "#music"
-  - "#books"
-  - "#cultural-critique"
-  - "#postpunk"
+  - needs_tags
+yaml_end: true
 ---
 
 \[from Jon Savage’s book *This Searing Light, the Sun and Everything Else: Joy Division*]

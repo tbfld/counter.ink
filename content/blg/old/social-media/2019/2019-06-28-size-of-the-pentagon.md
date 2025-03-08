@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-06-28 size of the pentagon
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-06-28
 tags:
-  - "#government"
-  - "#military"
-  - "#politics"
-  - "#diplomacy"
-  - "#military"
+  - needs_tags
+yaml_end: true
 ---
 
 “[The Pentagon is nearly 40 times bigger than the State Department](https://medium.com/@teamwarren/revitalizing-diplomacy-a-21st-century-foreign-service-2d9d195698f) — we employ more people to work in military grocery stores than we do foreign service officers.”

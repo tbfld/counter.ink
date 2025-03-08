@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-10-06 facial recognition art projects
 description: 
 extract: 
@@ -15,8 +16,8 @@ publish: "true"
 date: 2019-10-06
 tags:
   - art
-  - "#media"
   - technology
+yaml_end: true
 ---
 
 My first reaction was *just kill me now ANOTHER woo-woo 🤬 anti–facial recognition art-school project*, but this is ones kinda great. The rest suck 💩 but by definition are *perfectly* suited to social media 🤔 WHICH IS WHY YOU PEOPLE KEEP POSTING THEM.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-04-07 on responsible data
 description: 
 extract: 
@@ -19,12 +20,7 @@ tags:
   - law
   - left
   - media
-  - "#privacy"
-  - "#surveillance"
-  - "#information"
-  - "#data"
-  - "#journalism"
-  - "#leak-management"
+yaml_end: true
 ---
 
 To: nettime-l

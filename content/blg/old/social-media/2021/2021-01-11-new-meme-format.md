@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-01-11 new meme format
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - meme
   - language
   - left
+yaml_end: true
 ---
 
 New format (to me): breaking even worse.

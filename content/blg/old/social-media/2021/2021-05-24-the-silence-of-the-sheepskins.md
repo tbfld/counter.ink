@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-05-24 the silence of the sheepskins
 description: 
 extract: 
@@ -14,8 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2021-05-24
 tags:
-  - "#education"
   - economics
+yaml_end: true
 ---
 
 > It’s very difficult to fire us for researching, teaching and professing heterodox ideas. We tenured professors have something only federal judges share with us – the confidence to speak and write our minds, knowing that society has granted us the security to do so because we have worked so hard to earn it.... It’s why free, open, bold minds thrive in them.

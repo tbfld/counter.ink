@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-04-11 assange live
 description: 
 extract: 
@@ -21,11 +22,7 @@ tags:
   - national
   - news
   - right
-  - "#security"
-  - "#politics"
-  - "#journalism"
-  - "#whistleblowing"
-  - "#digital-privacy"
+yaml_end: true
 ---
 
 To:  Nettime-l

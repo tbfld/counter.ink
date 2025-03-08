@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-05-17 stolen pieces of a petrified forest
 description: 
 extract: 
@@ -14,11 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2016-05-17
 tags:
-  - "#art"
   - nature
   - crime
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 [Really nice.](http://hyperallergic.com/178522/letters-of-woe-and-curses-returned-with-stolen-pieces-of-the-petrified-forest/) Reminds me of the Museum of Jurassic Technology’s “No One May Ever Have The Same Knowledge Again” exhibition and unreminds me of the rubberstamp authenticity of Postsecret.

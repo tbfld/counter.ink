@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: micros
 description: interesting snippets
 extract: One of those micro-blog-type things
@@ -17,6 +18,7 @@ tags:
   - misc
 status: 
 notitle: "true"
+yaml_end: true
 ---
 > [!tip]+ For chunkier things, see [[recent]]
 
