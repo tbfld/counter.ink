@@ -5,7 +5,7 @@ description: a few thoughts on the aesthetic that came after fractals etc
 extract: Has there been any serious critical writing about this kind post-chaos aesthetic?
 created: 2025-03-04 14:38
 updated: 2025-03-04 14:38
-author: "tb"
+author: tb
 images: "false"
 order: 
 enableToc: "true"
@@ -15,10 +15,10 @@ draft: "false"
 publish: "true"
 date: 2023-07-31
 tags:
-  - aesthetic-critique
+  - aesthetics
   - technology
   - criticism
-  - psychedelic-culture
+  - psychedelics
 status: 
 RSS: "true"
 yaml_end: true

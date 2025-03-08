@@ -17,7 +17,7 @@ date: 2017-05-16
 tags:
   - right
   - security
-  - government
+  - governance
   - russia
 yaml_end: true
 ---

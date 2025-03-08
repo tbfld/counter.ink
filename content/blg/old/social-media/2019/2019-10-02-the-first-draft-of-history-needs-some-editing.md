@@ -17,7 +17,7 @@ date: 2019-10-02
 tags:
   - nyt
   - journalism
-  - government
+  - governance
   - crisis
 yaml_end: true
 ---

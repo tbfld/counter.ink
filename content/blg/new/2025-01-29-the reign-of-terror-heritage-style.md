@@ -15,7 +15,7 @@ draft:
 publish: 
 date: 2025-01-29
 tags:
-  - government
+  - governance
   - history
   - institution
   - politics

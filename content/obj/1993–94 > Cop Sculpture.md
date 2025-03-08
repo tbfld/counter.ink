@@ -21,8 +21,8 @@ tags:
   - media
   - news
   - collaboration
-  - media-critique
-  - media-theory
+  - media-analysis
+  - media-analysis
 status: 
 RSS: "false"
 yaml_end: true

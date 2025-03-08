@@ -19,7 +19,7 @@ tags:
   - right
   - fascism
   - institution
-  - government
+  - governance
 status: draft
 yaml_end: true
 ---

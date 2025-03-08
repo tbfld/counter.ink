@@ -19,7 +19,7 @@ tags:
   - history
   - language
   - literature
-  - Mexico
+  - mexico
   - publishing
 status: final
 yaml_end: true

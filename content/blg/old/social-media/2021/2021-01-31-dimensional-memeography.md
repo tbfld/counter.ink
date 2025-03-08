@@ -18,7 +18,7 @@ tags:
   - television
   - cartoons
   - media
-  - media-critique
+  - media-analysis
 yaml_end: true
 ---
 

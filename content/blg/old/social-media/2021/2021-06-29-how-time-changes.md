@@ -17,7 +17,7 @@ date: 2021-06-29
 tags:
   - media-analysis
   - theory
-  - aesthetic-critique
+  - aesthetics
   - secrecy
   - history
 yaml_end: true

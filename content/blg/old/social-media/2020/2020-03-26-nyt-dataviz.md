@@ -19,7 +19,7 @@ tags:
   - covid
   - design
   - publishing
-  - aesthetic-critique
+  - aesthetics
 yaml_end: true
 ---
 This is pretty dazzling

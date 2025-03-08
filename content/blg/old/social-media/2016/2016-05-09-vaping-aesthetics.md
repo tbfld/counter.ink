@@ -16,7 +16,7 @@ publish: "true"
 date: 2016-05-09
 tags:
   - suburbanism
-  - aesthetic-critique
+  - aesthetics
   - design
 status:
 RSS: “false”

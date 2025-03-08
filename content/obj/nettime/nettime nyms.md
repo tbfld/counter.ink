@@ -16,7 +16,7 @@ publish: "true"
 date: 2025-01-01
 tags:
   - email
-  - internet-culture
+  - internet
   - language
 status: 
 RSS: "false"

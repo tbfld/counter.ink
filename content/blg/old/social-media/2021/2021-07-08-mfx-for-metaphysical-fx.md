@@ -16,7 +16,7 @@ publish: "true"
 date: 2021-07-08
 tags:
   - television
-  - specialeffects
+  - special-effects
   - philosophy
   - history
   - film
