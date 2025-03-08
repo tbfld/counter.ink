@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-07-12 not everywhere is queens
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - democrats
   - politics
   - race
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/not-everywhere-is-queens.jpg]]

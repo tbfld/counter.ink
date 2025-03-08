@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-03-18 black bart and nelson mandela
 description: 
 extract: 
@@ -14,11 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-03-18
 tags:
-  - "#1990s"
-  - "#culture"
   - nostalgia
   - fashion
   - race
+yaml_end: true
 ---
 
 Maybe some of you geezers remember the Black Bart t-shirt mashup madness? I guess this one must date to 1990, when Mandela visited NYC.

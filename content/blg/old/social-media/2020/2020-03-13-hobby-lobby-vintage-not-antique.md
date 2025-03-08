@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-03-13 hobby lobby vintage not antique
 description: 
 extract: 
@@ -14,10 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-03-13
 tags:
-  - "#culture"
-  - "#media"
-  - "#history"
-  - "#museum"
+yaml_end: true
 ---
 
 LOLOLOLO Those Hobby Lobby “Christian” fetish gangsters [can’t catch a break](https://www.nationalgeographic.com/history/2020/03/museum-of-the-bible-dead-sea-scrolls-forgeries/). First they had to return thousands of smuggled artifacts to Iraq, then they bought a bunch of papyri fragments stolen from Oxford, and and now *all their Dead Sea Scroll fragments are forgeries*! They should plan ahead and rename it the Museum of a Fool and His Money (MoFaHM).

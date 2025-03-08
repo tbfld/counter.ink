@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-09-22 american chopper poli sci
 description: 
 extract: 
@@ -14,10 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-09-22
 tags:
-  - "#politics"
-  - "#media"
-  - "#society"
-  - "#visual-commentary"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/american-chopper-poli-sci.jpg]]

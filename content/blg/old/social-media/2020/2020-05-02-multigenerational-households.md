@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-05-02 multigenerational households
 description:
 extract:
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true"
 date: 2020-05-02
 tags:
+yaml_end: true
 ---
 
 [Multigenerational households](https://www.nytimes.com/2020/05/02/business/Parents-retirement-moving-in-millennials.html) aren’t a trend in need of jargony names like “reverse boomerang effect,” they’re the overwhelming rule throughout history and around the world. The idea that breaking those bonds should be the rule, and that those who don’t are failures, is psychosis elevated to the level of ideology — or, as we call it, the American Dream.

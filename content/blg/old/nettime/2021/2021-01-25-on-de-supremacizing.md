@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-01-25 on de supremacizing
 description: 
 extract: 
@@ -14,10 +15,9 @@ draft:
 publish: 
 date: 2021-01-25
 tags:
-  - "#politics"
-  - "#epistemology"
   - democracy
   - right
+yaml_end: true
 ---
 
 To:  McCorkle T. Diamond

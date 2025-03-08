@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-09-27 salt life decals
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2024-09-27
 tags:
-  - "#art"
-  - "#design"
-  - "#digital-art"
-  - "#visual-communication"
-  - "#graphics"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/salt-life-decals.jpg]]

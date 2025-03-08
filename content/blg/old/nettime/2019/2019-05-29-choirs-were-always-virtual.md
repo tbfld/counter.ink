@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-05-29 choirs were always virtual
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - music
   - technology
   - performance
+yaml_end: true
 ---
 
 To: John Preston, nettime

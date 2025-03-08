@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2007-02-17 bird flu and intellectual property
 description: 
 extract: 
@@ -17,9 +18,7 @@ tags:
   - data
   - international
   - security
-  - "#intellectual-property"
-  - "#science"
-  - "#vaccines"
+yaml_end: true
 ---
 
 To: Nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-06-29 how time changes
 description: 
 extract: 
@@ -14,16 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2021-06-29
 tags:
-  - "#politics"
-  - "#economics"
-  - "#society"
-  - "#manufacturing"
-  - "#cultural-commentary"
-  - "#technology"
-  - "#manufacturing"
-  - "#identity"
-  - "#economics"
-  - "#manufacturing"
+yaml_end: true
 ---
 
 Maybe the US should just go back to manufacturing objects

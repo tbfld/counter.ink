@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2009-10-10 computer center
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2009-10-10
 tags:
-  - "#technology"
-  - "#history"
-  - "#design"
-  - "#computation"
-  - "#education"
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/computer-center.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-03 the future of fecal implants
 description: 
 extract: 
@@ -14,10 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2019-03-03
 tags:
-  - "#healthcare"
   - media
   - nyt
   - language
+yaml_end: true
 ---
 
 Pretty much sums it all up

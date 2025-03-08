@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-10-03 london0 calling
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-10-03
 tags:
-  - "#art"
-  - "#media"
-  - "#cultural-commentary"
-  - "#visual-culture"
-  - "#music"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 O&BTW

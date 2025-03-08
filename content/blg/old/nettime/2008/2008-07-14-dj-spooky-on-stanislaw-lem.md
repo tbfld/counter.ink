@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2008-07-14 dj spooky on stanislaw lem
 description: 
 extract: 
@@ -14,9 +15,7 @@ draft:
 publish: 
 date: 2008-07-14
 tags:
-  - "#politics"
-  - "#art"
-  - "#theory"
+yaml_end: true
 ---
 
 To: Nettime-l

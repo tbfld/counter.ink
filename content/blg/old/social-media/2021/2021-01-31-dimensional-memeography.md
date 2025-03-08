@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-01-31 dimensional memeography
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2021-01-31
 tags:
-  - "#meme-culture"
-  - "#visual-culture"
-  - "#visual-communication"
-  - "#typography"
-  - "#digital-art"
+yaml_end: true
 ---
 
 Dimensional memeography seems not just innovative but inevitable.

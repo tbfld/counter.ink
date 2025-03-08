@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: txt
 description: some things I've written
 extract: most of my writing are for a larger context — usually someone else's
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true"
 tags:
 - index
+yaml_end: true
 ---
 
 I write constantly but I never especially wanted to “be” a writer, so most of my writing are for a larger context — usually someone else’s. Publishing my writing under my own name is, as they said in *Pirates of the Caribbean*, more what you’d call an *avocation* than a *career*.

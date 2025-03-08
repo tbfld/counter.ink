@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-01-22 everything that trends must converge
 description: 
 extract: 
@@ -14,11 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2020-01-22
 tags:
-  - "#design"
   - politics
   - meme
   - fashion
   - conspiracy
+yaml_end: true
 ---
 
 Everything that trends must converge

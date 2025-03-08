@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2007-12-27 on the semantic web and taxonomies
 description: 
 extract: 
@@ -16,11 +17,7 @@ date: 2007-12-27
 tags:
   - language
   - philosophy
-  - "#semantic-web"
-  - "#theory"
-  - "#communication"
-  - "#interdisciplinarity"
-  - "#language"
+yaml_end: true
 ---
 
 To: Nettime-l

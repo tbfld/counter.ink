@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-08-30 trolloptical illusion
 description: 
 extract: 
@@ -13,13 +14,9 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#image"
-  - "#visual-culture"
-  - "#digital-art"
-  - "#optical-illusion"
-  - "#troll-art"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/trolloptical-illusion.jpg]]

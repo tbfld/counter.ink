@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-07-08 how Deleuze and Guattari co-wrote
 description: how Deleuze and Guattari co-wote
 extract: Deleuze said that Félix was the diamond miner and he was the polisher
@@ -20,6 +21,7 @@ tags:
   - france
 status: 
 RSS: "true"
+yaml_end: true
 ---
 > For the most part, the writing plan for Anti-Oedipus was that Guattari sent his texts to Deleuze, who then reworked them for the final version. “Deleuze said that Félix was the diamond miner and he was the polisher. So he needed only to send him the texts as he wrote them and he would work on them; that’s how it went.” Their common endeavor relied far more on epistolary exchange than on dialogue, although they did meet at Deleuze’s house every Tuesday afternoon, the day that Deleuze taught his morning course at Vincennes. On good days, Deleuze came to Guattari, but he avoided the unbearable madness at La Borde. “One day, Félix, Arlette Donati, Gilles, and I were eating at Dhuizon and we got a call from La Borde saying that a guy had set fire to the chateau chapel and run off into the woods. Gilles blanched, I froze, and Félix called for help to find the guy. At that point, Gilles said to me, ‘How can you stand those schizos’? He couldn’t bear the sight of crazy people.”
 

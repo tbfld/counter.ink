@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-07-02 nice to be acknowledged
 description: 
 extract: 
@@ -16,9 +17,7 @@ date: 2021-07-02
 tags:
   - art
   - history
-  - "#technology"
-  - "#media"
-  - "#digital-art"
+yaml_end: true
 ---
 
 My work isn’t done here, but it's pretty nice to see [[blg/old/nettime/nettime]] — 23 years of work there — acknowledged in a canonical-ish history.

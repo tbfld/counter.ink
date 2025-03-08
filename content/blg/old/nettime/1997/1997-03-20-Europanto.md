@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-03-20 Europanto
 description: 
 extract: 
@@ -15,8 +16,7 @@ publish:
 date: 1997-03-20
 tags:
   - europe
-  - "#language"
-  - "#communication"
+yaml_end: true
 ---
 
 

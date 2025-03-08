@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-03-24 emus all the way down
 description: 
 extract: 
@@ -14,12 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2010-03-24
 tags:
-  - "#technology"
-  - "#computation"
-  - "#emulation"
-  - "#software"
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/emulators-within-emulators.jpg]]

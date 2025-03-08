@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-02-25 the weight of black history
 description: 
 extract: 
@@ -14,10 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2020-02-25
 tags:
-  - "#sports"
-  - "#media"
   - race
   - culture
+yaml_end: true
 ---
 
 WUT “Wilder said the outfit, worn to represent Black History Month, weighed him down so much that he didn’t have the legs to withstand Fury’s early assault in their Las Vegas heavyweight title fight on Saturday.”

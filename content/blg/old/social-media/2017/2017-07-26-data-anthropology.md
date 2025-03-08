@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-07-26 data anthropology
 description: 
 extract: 
@@ -15,10 +16,8 @@ publish: "true"
 date: 2017-07-26
 tags:
   - data
-  - "#design"
-  - "#information"
-  - "#data"
   - disciplinarity
+yaml_end: true
 ---
 
 [Anthropology = tagging datasets](https://www.fastcodesign.com/90134155/the-most-crucial-design-job-of-the-future) with things like “year assembled,” “original size,” “year updated,” “current size,” “people,” “origin,” “creators.”

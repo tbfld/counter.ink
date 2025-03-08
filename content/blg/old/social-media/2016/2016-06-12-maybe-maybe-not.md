@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-06-12 maybe maybe not
 description: 
 extract: 
@@ -14,12 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2016-06-12
 tags:
-  - "#cultural-commentary"
-  - "#social-commentary"
-  - "#visual-culture"
-  - "#digital-art"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 Stumbled onto this a few days ago. Not convinced.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-12-21 ai gen wikihow illustrations
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-12-21
 tags:
-  - "#art"
-  - "#visual-culture"
-  - "#image"
-  - "#ai"
-  - "#illustration"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/ai-gen-wikihow-illustrations.jpg]]

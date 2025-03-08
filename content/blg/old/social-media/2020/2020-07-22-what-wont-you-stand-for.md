@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-22 what wont you stand for
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - fascism
   - law
   - governance
+yaml_end: true
 ---
 
 [Krasner is a star, and this is great.](https://www.bloomberg.com/news/articles/2020-07-22/philly-d-a-threatens-to-arrest-federal-agents) But this is also how things can go next-level, right? Awkward face-offs between armed forces over ‘jurisdiction,’ which is a fancy name for territory. And, if it wasn’t clear yet, yes, PDs *are* armed forces. It wouldn’t be surprising to see a few other prosecutors take the same line as Krasner, but just a few. If there are any face-offs, however ‘civil’ they may turn out, it’ll nonetheless be interesting to see how PDs present themselves — say, in ‘militarized’ gear we hear so much about, or in de-escalatory, traditional police uniforms? That, in itself, might say something about the sympathies of the police. For example, in NYC I’d expect the NYPD to all but ally itself with federal troops. Note that I haven’t anything about anyone getting hurt.

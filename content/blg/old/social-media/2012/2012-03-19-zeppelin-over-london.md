@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2012-03-19 zeppelin over london
 description: 
 extract: 
@@ -14,14 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2012-03-19
 tags:
-  - "#image"
-  - "#history"
-  - "#war"
-  - "#visual-culture"
   - aviation
   - sky
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[zeppelin.jpg]]

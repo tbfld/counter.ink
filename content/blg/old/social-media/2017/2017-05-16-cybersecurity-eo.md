@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-05-16 cybersecurity eo
 description: 
 extract: 
@@ -15,12 +16,10 @@ publish: "true"
 date: 2017-05-16
 tags:
   - right
-  - "#technology"
-  - "#politics"
-  - "#cybersecurity"
   - security
   - government
   - russia
+yaml_end: true
 ---
 
 Imma up this from a comment on a link for Trump’s new EO on “Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure” (props to Biz Mitchell for the pointer):

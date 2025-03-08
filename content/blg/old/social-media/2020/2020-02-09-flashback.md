@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-02-09 flashback
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-02-09
 tags:
-  - "#art"
-  - "#design"
-  - "#media"
-  - "#nostalgia"
-  - "#urbanism"
+yaml_end: true
 ---
 
 Criterion’s UI is giving me flashbacks to when I used to bike around the city at night to change art-house marquees 😳

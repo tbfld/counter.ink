@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-03-24 the opening of my favorite novel
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-03-24
 tags:
-  - "#art"
-  - "#image"
-  - "#visual-culture"
-  - "#digital-art"
-  - "#contemporary-visuals"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/kis-davidoviich.jpg]]

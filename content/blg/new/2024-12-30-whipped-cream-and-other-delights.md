@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-12-30 Whipped Cream and Other Delights
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - design
   - music
 status: final
+yaml_end: true
 ---
 
 [Christopher Bickel writes](https://www.facebook.com/chris.bickel/posts/pfbid0gjPAMbGu8HNra1JV6uis4jMn5y3pt53x2f8VkpSQjNRi4pEYAeAyirXaYTUyYTEel):

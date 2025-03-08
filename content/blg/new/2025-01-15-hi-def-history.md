@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-15 hi-def history
 description: 
 extract: 
@@ -21,6 +22,7 @@ tags:
   - video
   - visuality
 status: final
+yaml_end: true
 ---
 
 

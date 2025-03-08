@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-03-04 out damned virus
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-03-04
 tags:
-  - "#literature"
-  - "#cultural-critique"
-  - "#digital-communication"
-  - "#macbeth-adaptation"
-  - "#covid"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/macbeth-covid.jpg]]

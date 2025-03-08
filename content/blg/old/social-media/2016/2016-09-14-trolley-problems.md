@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-09-14 trolley problems
 description: 
 extract: 
@@ -15,12 +16,9 @@ publish: "true"
 date: 2016-09-14
 tags:
   - media
-  - "#meme"
-  - "#internet-culture"
-  - "#cultural-commentary"
-  - "#trolley-problem"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/win95-trolley.jpg]]

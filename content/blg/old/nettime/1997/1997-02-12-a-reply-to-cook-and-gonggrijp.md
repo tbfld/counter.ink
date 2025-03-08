@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-02-12 a reply to cook and gonggrijp
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft:
 publish: 
 date: 1997-02-12
 tags:
-  - "#internet"
-  - "#technology"
-  - "#digital-discourse"
-  - "#dns"
-  - "#protocols"
+yaml_end: true
 ---
 
 To: nettime-l

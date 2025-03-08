@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-11-17 the internet as a forgetting machine
 description: 
 extract: 
@@ -16,12 +17,9 @@ date: 2016-11-17
 tags:
   - information
   - internet
-  - "#national"
-  - "#security"
-  - "#surveillance"
-  - "#privacy"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 - [ ] The internet is a gigantic forgetting machine. [WE KNEW THIS TWENTY YEARS AGO.](http://www.nytimes.com/2016/11/18/nyregion/national-security-agency-said-to-use-manhattan-tower-as-listening-post.html) “Oh, but they ran this *one particular program* there.” WTF. And here we go again: AT&T says, “We do not allow any government agency to connect directly to or otherwise control our network to obtain our customers’ information.” Hint: 2006 > Mark Klein > 611 Folsom St > Rm 641A

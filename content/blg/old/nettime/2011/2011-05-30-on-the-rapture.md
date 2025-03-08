@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-05-30 on the rapture
 description: 
 extract: 
@@ -18,11 +19,8 @@ tags:
   - history
   - media
   - meme
-  - "#culture"
-  - "#politics"
-  - "#religion"
-  - "#millenarianism"
   - apocalypticism
+yaml_end: true
 ---
 
 To: Nettime-l

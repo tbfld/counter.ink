@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-12-07 autonomous zone sorta
 description: 
 extract: 
@@ -14,11 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2020-12-07
 tags:
-  - "#urbanism"
   - protest
   - politics
   - covid
   - theory
+yaml_end: true
 ---
 
 Autonomous zones just ain’t what they used to be

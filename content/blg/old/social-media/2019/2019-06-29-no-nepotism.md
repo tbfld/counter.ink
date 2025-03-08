@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-06-29 no nepotism
 description: 
 extract: 
@@ -14,10 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-06-29
 tags:
-  - "#politics"
-  - "#government"
-  - "#nepotism"
-  - "#political-ethics"
+yaml_end: true
 ---
 
 Now would be a good time for the Democrats to adopt a hard-and-fast ban on nepotism as a fundamental principle: no spouses, no children, no family members ever, for anything, under *any* circumstances. When in doubt, NO. Who would oppose it?

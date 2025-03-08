@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2008-05-20 steve cisler rip
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft:
 publish: 
 date: 2008-05-20
 tags:
-  - "#technology"
-  - "#media"
-  - "#society"
   - friends
+yaml_end: true
 ---
 
 *Soon after I sent this message, someone mentioned they’d seen it published on* WiReD’s *website, and indeed it was — [on Bruce Sterling’s blog](https://www.wired.com/2008/05/steve-cisler-ri/). Bruce was a longstanding nettime subscriber, so I asked him why he hadn’t let me know he was republishing it — and to add a link to the list’s archive. In the ensuing back and forth, he delivered a lecture on what “free” means — I had said “feel free to forward this” — and trashed the list. His churlish response on the occasion of a close friend’s death really upset me, so I pointed out that the list’s footer had always said “no commercial use without permission.” When he argued that it wasn’t “commercial” because he wasn’t paid for his blog, I noted that Condé Nast’s lawyers might see it differently, so he added the link — in visibly broken HTML. He fixed it some time later (years, I think).*

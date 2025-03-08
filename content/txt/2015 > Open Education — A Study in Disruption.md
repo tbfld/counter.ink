@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2015 > Open Education — A Study in Disruption
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - books
   - accessibility
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/txt/OE_images/open-ed-cover.jpg|150]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-12-03 the new ubu
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - meme
   - fascism
   - history
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/new-ubu.jpg]]

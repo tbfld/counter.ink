@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-12-23 on various leonardos
 description: 
 extract: 
@@ -17,11 +18,8 @@ tags:
   - art
   - international
   - language
-  - "#internet"
-  - "#governance"
-  - "#law"
-  - "#digital-rights"
   - intellectual-property
+yaml_end: true
 ---
 
 To: Nettime

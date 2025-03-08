@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: nettime
 description:
 extract:
@@ -15,6 +16,7 @@ publish:
 date: 2024-11-20
 tags: 
 status: draft
+yaml_end: true
 ---
 
 *This is a compilation of many of the message I sent to the mailing list I co-ran for twenty-five years. You can (a) read more about it [[obj/nettime/nettime|here]], (b) see [[nettime alumni and alumnae|who else was on the list]], and/or (c) see [[nettime nyms|a list of 700+ “nyms” we used to manage traffic on the list]].

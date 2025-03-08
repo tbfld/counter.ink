@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-09-28 student debt and inappropriate conversations
 description: 
 extract: 
@@ -16,10 +17,9 @@ date: 2017-09-28
 tags:
   - academia
   - finance
-  - "#education"
-  - "#students"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 Growing numbers of students were doing this in NYC. When I brought this up with the C-suite admins at TNS they were like “HOW DO YOU KNOW?!” Because the students told me. “THAT’S AN INAPPROPRIATE CONVERSATION.” Bingo: the conversation we should have is about how your inflated salary and skewed budgets relate to how students pay the bills...

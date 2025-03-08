@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 25 02 05 the prompt
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - rhetoric
   - technology
 status: final
+yaml_end: true
 ---
 
 This — billed as the “ultimate” AI prompt, or something like that — was caught my eye on TikTok a few ways ago and has been sitting on my desktop for a few weeks:

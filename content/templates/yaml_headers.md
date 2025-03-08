@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title:
 description:
 extract:
@@ -16,4 +17,5 @@ date:
 tags: []
 status:
 RSS:
+yaml_end: true
 ---

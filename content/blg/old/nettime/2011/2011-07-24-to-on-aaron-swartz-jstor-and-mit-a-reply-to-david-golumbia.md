@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-07-24 to on aaron swartz jstor and mit a reply to david golumbia
 description: 
 extract: 
@@ -19,12 +20,7 @@ tags:
   - institution
   - law
   - right
-  - "#technology"
-  - "#culture"
-  - "#politics"
-  - "#intellectual-property"
-  - "#academia"
-  - "#data"
+yaml_end: true
 ---
 
 To: Nettime-l

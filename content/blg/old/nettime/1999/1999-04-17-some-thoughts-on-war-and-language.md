@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-04-17 some thoughts on war and language
 description: 
 extract: 
@@ -19,10 +20,9 @@ tags:
   - history
   - language
   - right
-  - "#war"
-  - "#politics"
   - publishing
   - violence
+yaml_end: true
 ---
 
 To: nettime-l

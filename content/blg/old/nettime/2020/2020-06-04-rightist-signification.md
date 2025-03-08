@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-06-04 rightist signification
 description: 
 extract: 
@@ -18,7 +19,7 @@ tags:
   - language
   - media
   - politics
-  - "#society"
+yaml_end: true
 ---
 
 To: nettime-l

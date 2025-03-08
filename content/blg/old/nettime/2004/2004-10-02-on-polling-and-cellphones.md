@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2004-10-02 on polling and cellphones
 description: 
 extract: 
@@ -16,11 +17,7 @@ date: 2004-10-02
 tags:
   - journalism
   - technology
-  - "#politics"
-  - "#communication"
-  - "#media"
-  - "#polling"
-  - "#epistemology"
+yaml_end: true
 ---
 
 To: nettime-l

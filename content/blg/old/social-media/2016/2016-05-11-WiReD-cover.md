@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-05-11 WiReD cover
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2016-05-11
 tags:
-  - "#digital-art"
-  - "#visual-culture"
-  - "#social-commentary"
-  - "#internet"
-  - "#cultural-critique"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/change-is-good.jpg]]

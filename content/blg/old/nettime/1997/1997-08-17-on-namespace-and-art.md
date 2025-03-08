@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-08-17 on namespace and art
 description: 
 extract: 
@@ -18,10 +19,7 @@ tags:
   - email
   - information
   - institution
-  - "#digital-culture"
-  - "#media"
-  - "#nettime"
-  - "#corporation"
+yaml_end: true
 ---
 
 To: nettime-l

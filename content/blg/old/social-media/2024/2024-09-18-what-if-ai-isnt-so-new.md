@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-09-18 what if ai isnt so new
 description: 
 extract: 
@@ -19,11 +20,7 @@ tags:
   - history
   - image
   - language
-  - "#ai"
-  - "#cultural-commentary"
-  - "#media-critique"
-  - "#automation"
-  - "#ai"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/what-if-ai-isnt-so-new.jpg]]

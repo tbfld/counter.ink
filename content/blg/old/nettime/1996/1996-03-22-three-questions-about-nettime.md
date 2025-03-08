@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1996-03-22 three questions about nettime
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - internet
   - politics
   - theory
+yaml_end: true
 ---
 
 

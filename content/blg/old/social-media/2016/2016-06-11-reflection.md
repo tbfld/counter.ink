@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-06-11 reflection
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - photography
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/reflection.jpg]]

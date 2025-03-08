@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-05-17 lots of lacks
 description: unfortunate algo constructions of race
 extract: A lot of pop critical discussion of ML/AI/etc focuses on how crudely it reproduces constructs like race. One implication of that type of argument is that if it did so less crudely, there might be a little more wiggle room for culture in the good sense
@@ -20,6 +21,7 @@ tags:
   - algorithm
 status: 
 RSS: "true"
+yaml_end: true
 ---
 A lot of pop critical discussion of ML/AI/etc focuses on how crudely it reproduces constructs like race. One implication of that type of argument is that if it did so *less crudely*, there might be a little more wiggle room for culture in the good sense: diversity of beliefs, subjective complexity, varied associations, different landscapes of what things mean and how. Like this, I guess?
 

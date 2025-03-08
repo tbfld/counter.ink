@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-07-17 there is no rain that can set us free
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2016-07-17
 tags:
-  - "#film"
-  - "#art"
-  - "#visual-culture"
-  - "#cinema"
-  - "#film"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/straubs-rain.jpg]]

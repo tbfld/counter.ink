@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-04-04 on genocide in kosov@
 description: 
 extract: 
@@ -19,11 +20,7 @@ tags:
   - history
   - international
   - left
-  - "#politics"
-  - "#media"
-  - "#war"
-  - "#rhetoric-analysis"
-  - "#nato"
+yaml_end: true
 ---
 
 *(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. Ive set this email in a monospaced font to make that clear. For extra OG-typography fun, I “hung” the punctuation on the right margin. )*

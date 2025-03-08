@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-10-08 on streaming participation and history
 description: 
 extract: 
@@ -16,11 +17,7 @@ date: 2000-10-08
 tags:
   - design
   - media
-  - "#internet"
-  - "#media"
-  - "#online-culture"
-  - "#streaming"
-  - "#technoculture"
+yaml_end: true
 ---
 
 To: mediafest\[at]egroups\[dot]com

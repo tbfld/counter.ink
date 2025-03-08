@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-09-28 on bablefish and machine translation
 description: 
 extract: 
@@ -15,11 +16,7 @@ publish:
 date: 2000-09-28
 tags:
   - culture
-  - "#literature"
-  - "#theory"
-  - "#communication"
-  - "#cybernetics"
-  - "#cultural-critique"
+yaml_end: true
 ---
 
 To: nettime-l

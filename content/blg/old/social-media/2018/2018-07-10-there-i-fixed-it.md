@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-07-10 there i fixed it
 description: 
 extract: 
@@ -14,11 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2018-07-10
 tags:
-  - "#media"
   - journalism
   - law
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/there-i-fixed-it.jpg]]

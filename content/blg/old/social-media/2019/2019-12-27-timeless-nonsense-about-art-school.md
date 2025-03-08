@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-12-27 timeless nonsense about art school
 description: 
 extract: 
@@ -14,10 +15,10 @@ draft: "false"
 publish: "true"
 date: 2019-12-27
 tags:
-  - "#art"
   - education
   - cultural-commentary
   - technology
+yaml_end: true
 ---
 
 [Totally surreal nonsense.](https://news.artnet.com/art-world/art-school-tech-adapt-1742802) This could’ve been written twenty years ago and it would have been out of date.

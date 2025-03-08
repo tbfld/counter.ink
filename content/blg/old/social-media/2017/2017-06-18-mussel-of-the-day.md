@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-06-18 mussel of the day
 description: 
 extract: 
@@ -14,9 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-06-18
 tags:
-  - "#photography"
   - water
   - animals
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/2017-06-18-mussel-of-the-day.jpg]]

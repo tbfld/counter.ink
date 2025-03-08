@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-24 faculty need to organize
 description: 
 extract: 
@@ -17,10 +18,7 @@ tags:
   - education
   - academia
   - finance
-  - "#academia"
-  - "#students"
-  - "#education"
-  - "#debt"
+yaml_end: true
 ---
 
 [Here’s another must-read for today.](https://www.profgalloway.com/uss-university/) This spells out what I’ve been saying for the last decade+: US higher ed is going off a cliff. But it’s by someone who does his homework and is less feral and ragey than me. In his analysis, C-19 will cause widespread catastrophe, but as in all other fires, it’s not the fuel, it’s just one spark.

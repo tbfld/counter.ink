@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-11-18 europeans on americans and trump
 description: 
 extract: 
@@ -17,10 +18,8 @@ tags:
   - europe
   - language
   - media
-  - "#politics"
-  - "#society"
-  - "#race"
   - right
+yaml_end: true
 ---
 
 To: nettime-l

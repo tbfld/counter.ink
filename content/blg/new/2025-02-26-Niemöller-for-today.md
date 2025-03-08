@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-02-26 Niemöller for today
 description: updating Niemöller’s famous quote for US academia under Trump
 extract: 
@@ -19,6 +20,7 @@ tags:
   - fascism
   - denialism
 status:
+yaml_end: true
 ---
 All my academic friends have been thinking 🙄 *there he goes again* 🙄 will appreciate this: a GOP bill in Congress to raise the tax on higher ed endowments from 1.4% to 21%. *That’s a **1500%** increase.* You know the drill: “First they came for the life sciences, and I did not speak out — because, I mean, who even gets NIH funding?! Then they came for the LGBTQers, and I did not speak out — because, I mean, isn’t “queering” becoming increasingly rhetorical? Then they came for the STEM fields, and I did not speak out — because I only do showpiece interdisciplinary collaborations with them for internal funding purposes. Then they came for the endowment, and I said nothing because secretly I don’t have a fuckin’ clue how this place actually works financially speaking.” So faculty across the arts humanities, and (though to a lesser degree) social sciences are waiting until MAGA comes for them with, like, engraved invitations? 
 

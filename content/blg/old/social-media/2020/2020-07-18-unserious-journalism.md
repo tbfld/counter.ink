@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-18 unserious journalism
 description: 
 extract: 
@@ -15,11 +16,7 @@ publish: "true"
 date: 2020-07-18
 tags:
   - economics
-  - "#education"
-  - "#healthcare"
-  - "#schools"
-  - "#covid"
-  - "#policy"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/unserious-journalism.jpg]]

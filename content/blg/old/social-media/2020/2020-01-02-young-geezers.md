@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-01-02 young geezers
 description: 
 extract: 
@@ -14,11 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2020-01-02
 tags:
-  - "#culture"
-  - "#society"
-  - "#media"
   - history
   - trope
+yaml_end: true
 ---
 
 [“Today’s 35-year-olds were born closer to the 1940s than to today.” ](https://waitbutwhy.com/2020/01/its-2020-and-youre-in-the-future.html)

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-11-23 not really a crisis anymore
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-11-23
 tags:
-  - "#media-coverage"
-  - "#political-narratives"
-  - "#satire"
-  - "#political-cartoon"
-  - "#social-commentary"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/doonesburys-energy-czar-situation-not-crisis.jpg]]

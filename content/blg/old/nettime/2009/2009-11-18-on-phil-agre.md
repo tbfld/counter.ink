@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2009-11-18 on phil agre
 description: 
 extract: 
@@ -22,14 +23,7 @@ tags:
   - news
   - security
   - society
-  - "#politics"
-  - "#technology"
-  - "#war"
-  - "#communication"
-  - "#history"
-  - "#cybersecurity"
-  - "#permanent-war"
-  - "#military"
+yaml_end: true
 ---
 
 To: Nettime-l

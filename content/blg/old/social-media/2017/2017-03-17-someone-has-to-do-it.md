@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-03-17 someone has to do it
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-03-17
 tags:
-  - "#art"
-  - "#visual-culture"
-  - "#satire"
   - architecture
   - microsoft
   - gui
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/clippy-for-billionaires.jpg]]

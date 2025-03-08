@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-04-20 view from my office
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - photography
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/view-from-my-office.jpg]]

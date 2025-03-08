@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-09-18 schneier cryptogram and comments
 description: 
 extract: 
@@ -21,7 +22,7 @@ tags:
   - internet
   - security
   - technology
-  - "#open-source"
+yaml_end: true
 ---
 
 To: nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2013-01-22 weev before and after
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2013-01-22
 tags:
-  - "#social-commentary"
-  - "#politics"
-  - "#digital-communication"
-  - "#ideology"
-  - "#online-rhetoric"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 Weev, before: “I want everyone off the Internet. Bloggers are filth. They need to be destroyed. Blogging gives the illusion of participation to a bunch of retards.... We need to put these people in the oven!” Weev, after: “You know what I wish for? A world where no man may abridge the liberty of another.”

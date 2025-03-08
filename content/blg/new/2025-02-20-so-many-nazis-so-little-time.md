@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-02-20 so many nazis so little time
 description: 
 extract: 
@@ -15,6 +16,7 @@ publish: "false"
 date: 
 tags: 
 status:
+yaml_end: true
 ---
 Quite a few people in the US seem shocked to discover just how many of their fellow citizens are fascists or even full-on nazis. Not *Casablanca*-style [“shocked, shocked’](https://youtu.be/vxnpY0owPkA) — I mean genuinely disoriented and gobsmacked to realize they’re surrounded by people who reject liberal values. They shouldn’t be surprised, though: they were warned about it for decades but didn’t want to listen. We even have a convenient name for their denialism: [Godwin’s Law](https://en.wikipedia.org/wiki/Godwin%27s_law).
 

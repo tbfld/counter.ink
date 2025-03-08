@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-18 why no one can quite capture what David Lynch did
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - media
   - philosophy
 status: final
+yaml_end: true
 ---
 
 [Roy Galán](https://es.wikipedia.org/wiki/Roy_Gal%C3%A1n) just wrote this *stunning* [tribute to David Lynch](https://www.instagram.com/roygalan/p/DE5lV4SNAli/) (translation by [DeepL](https://www.deepl.com/)):

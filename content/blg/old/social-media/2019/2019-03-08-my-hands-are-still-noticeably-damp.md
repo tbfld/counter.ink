@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-08 my hands are still noticeably damp
 description: 
 extract: 
@@ -16,6 +17,7 @@ date: 2019-03-08
 tags:
   - meme
   - technology
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/my-hands-are-still-noticeably-damp.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-29 the reign of terror — Heritage style
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - politics
   - right
 status: draft
+yaml_end: true
 ---
 
 You gotta hand it to the Trumpets — they’re way ahead of everyone else. They came with a clear operational plan and guns ablaze, but the media (and therefore the populace) hasn’t even begun to see the pattern. Trump:

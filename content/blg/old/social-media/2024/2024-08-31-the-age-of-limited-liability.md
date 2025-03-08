@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-08-31 the age of limited liability
 description: 
 extract: 
@@ -18,12 +19,7 @@ tags:
   - economics
   - corporation
   - law
-  - "#politics"
-  - "#society"
-  - "#national"
-  - "#kleptocracy"
-  - "#transparency"
-  - "#money-laundering"
+yaml_end: true
 ---
 
 ([*Financial Times*](https://www.ft.com/content/0876ef7a-bf88-463e-b8ca-bd9b4a11665c))

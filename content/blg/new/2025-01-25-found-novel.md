@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-25 found novel
 description: 
 extract: 
@@ -21,6 +22,7 @@ tags:
   - novel
   - publishing
 status: draft
+yaml_end: true
 ---
 
 The image captions on [this AOL page](https://www.aol.com/tiktok-pizzas-doughnuts-desserts-going-225912264.html) are a novel. It feels a bit like of those novels you like without actually reading — say, like a Georges Perec novel that’s missing the letter *e* — or Laurence Sterne’s *Sentimental Journey*. I recommend reading this one to the end, since it’s pretty short. So, without further adieu, a novel that consists entirely of image captions from some random AOL page:

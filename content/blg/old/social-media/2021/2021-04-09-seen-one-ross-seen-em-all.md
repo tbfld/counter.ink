@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-04-09 seen one ross seen em all
 description:
 extract:
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true"
 date: 2021-04-09
 tags:
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/seen-one-ross-seen-em-all.jpg]]

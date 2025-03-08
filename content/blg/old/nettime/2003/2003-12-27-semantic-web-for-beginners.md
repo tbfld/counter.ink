@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2003-12-27 semantic web for beginners
 description: 
 extract: 
@@ -19,10 +20,7 @@ tags:
   - information
   - language
   - news
-  - "#internet"
-  - "#technology"
-  - "#culture"
-  - "#ontology"
+yaml_end: true
 ---
 
 To: Nettime-l

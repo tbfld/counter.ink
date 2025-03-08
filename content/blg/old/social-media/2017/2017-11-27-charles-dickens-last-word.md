@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-27 charles dickens last word
 description: 
 extract: 
@@ -14,8 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2017-11-27
 tags:
-  - "#literature"
   - history
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/charles-dickens-last-word.jpg]]

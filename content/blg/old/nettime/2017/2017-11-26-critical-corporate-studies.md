@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-26 critical corporate studies
 description:
 extract:
@@ -24,6 +25,7 @@ tags:
 - media
 - national
 - right
+yaml_end: true
 ---
 
 To:  nettime-l

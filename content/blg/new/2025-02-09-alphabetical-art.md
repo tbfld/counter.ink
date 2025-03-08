@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-02-09 alphabetical art
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - media
   - nyt
 status: draft
+yaml_end: true
 ---
 
 The *NYT* has [an obit](https://www.nytimes.com/2025/02/09/arts/rutherford-chang-dead.html) of [Rutherford Chang](https://www.rutherfordchang.com/), an artist who died way too young, at 45, under slightly mysterious circumstances (“His sister...said that a specific cause would not be determined for several months”). His work is of a kind I love, as his sister put it, “obsessive, but not compulsive”: 3,400 copies of the Beatles’ *White Album*, a 27-minute video of “all of the Hong Kong movie star Andy Lau’s death scenes, in chronological order of the films’ release,” and one of my faves, a copy of the Times’s front page with the words in every element reassembled alphabetically:

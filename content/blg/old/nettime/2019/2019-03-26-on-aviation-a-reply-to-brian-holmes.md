@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-26 on aviation a reply to brian holmes
 description: 
 extract: 
@@ -18,9 +19,8 @@ tags:
   - design
   - history
   - science
-  - "#corporation"
-  - "#cybernetics"
   - crime
+yaml_end: true
 ---
 
 To: Nettime-l

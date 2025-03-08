@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-05-18 weird combinations of books
 description: 
 extract: 
@@ -14,10 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2019-05-18
 tags:
-  - "#media"
   - music
   - culture
   - literature
+yaml_end: true
 ---
 
 \[from Jon Savage’s book *This Searing Light, the Sun and Everything Else: Joy Division*]

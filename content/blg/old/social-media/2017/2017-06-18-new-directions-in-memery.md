@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-06-18 new directions in memery
 description: 
 extract: 
@@ -13,13 +14,10 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#meme"
-  - "#digital-art"
-  - "#visual-culture"
-  - "#image"
   - ai
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/new-directions-in-memery.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: social media
 description:
 extract:
@@ -15,6 +16,7 @@ publish: "true"
 date: 2025-02-14
 tags: []
 status: "draft"
+yaml_end: true
 ---
 
 This is a compilation of things I’ve posted on social media, ranging from ephemeral snark to short essays.

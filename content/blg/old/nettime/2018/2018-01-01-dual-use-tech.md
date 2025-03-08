@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-01-01 dual use tech
 description: 
 extract: 
@@ -18,9 +19,7 @@ tags:
   - cryptography
   - international
   - society
-  - "#technology"
-  - "#military"
-  - "#politics"
+yaml_end: true
 ---
 
 To: Brian Holmes, nettime

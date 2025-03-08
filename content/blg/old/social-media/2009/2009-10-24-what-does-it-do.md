@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2009-10-24 what does it do
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2009-10-24
 tags:
-  - "#technology"
-  - "#design"
-  - "#visual-culture"
-  - "#image"
-  - "#digital-communication"
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/what-does-it-do.jpg]]

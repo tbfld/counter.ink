@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-01-12 anti antifa
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - fascism
   - meme
   - neologism
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/anti-antifa.jpg]]

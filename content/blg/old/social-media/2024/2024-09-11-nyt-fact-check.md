@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-09-11 nyt fact check
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2024-09-11
 tags:
-  - "#media"
-  - "#social-commentary"
-  - "#political-critique"
-  - "#journalism"
-  - "#ai"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/nyt-fact-check.jpg]]

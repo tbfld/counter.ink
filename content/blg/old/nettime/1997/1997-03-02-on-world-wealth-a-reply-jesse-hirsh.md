@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-03-02 on world wealth a reply jesse hirsh
 description: 
 extract: 
@@ -14,9 +15,8 @@ draft:
 publish: 
 date: 1997-03-02
 tags:
-  - "#digital"
-  - "#economics"
   - internet
+yaml_end: true
 ---
 
 To: nettime-l

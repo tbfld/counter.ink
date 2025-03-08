@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 20240 04 11 corinna snyder rip
 description: 
 extract: 
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true" 
 tags:
   - friends
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/corinna-snyder-txts.jpg]]

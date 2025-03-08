@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2002-09-28 patrice riemens and gaston roberge
 description: 
 extract: 
@@ -25,10 +26,7 @@ tags:
   - philosophy
   - politics
   - right
-  - "#internet"
-  - "#media"
-  - "#activism"
-  - "#information"
+yaml_end: true
 ---
 
 To: Nettime

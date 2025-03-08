@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-12-04 DeSantis and the DoD
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - right
   - military
 status: draft
+yaml_end: true
 ---
 
 If the rumors about DeSantis for Sec Def turns out to be serious, the media flap will focus on his “anti-woke” noise and jokes about his white boots etc, but ignore all that. He’s an *extremely* calculating authoritarian from a state where public corruption is a religion, and as governor he has systematically worked to empower armed forces and hobble civil rights. There’s a name for that mix, and you can guess what it is.

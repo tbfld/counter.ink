@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-05-11 reply to bruce perens
 description: 
 extract: 
@@ -15,8 +16,8 @@ publish:
 date: 2000-05-11
 tags:
   - information
-  - "#internet"
   - intellectual-property
+yaml_end: true
 ---
 
 To: Nettime

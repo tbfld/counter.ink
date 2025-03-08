@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-08-6 eery and eerily
 description: 
 extract: “eerily” means “management is nervous about this statement”
@@ -20,6 +21,7 @@ tags:
   - anonymity
 status: 
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/img/2021-08-06-nyt-eerily.jpg]]

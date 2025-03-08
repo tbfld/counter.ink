@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-12-14 on gender and caregiving
 description:
 extract:
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true"
 date: 2017-12-14
 tags:
+yaml_end: true
 ---
 
 Wow, someone finally said it: “you don’t actually have to be female to be a primary caregiver or even an equal partner in caregiving.” Amen to that.

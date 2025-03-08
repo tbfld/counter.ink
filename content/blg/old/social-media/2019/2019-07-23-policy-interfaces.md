@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-07-23 policy interfaces
 description: 
 extract: 
@@ -15,10 +16,7 @@ publish: "true"
 date: 2019-07-23
 tags:
   - interface
-  - "#politics"
-  - "#media"
-  - "#journalism"
-  - "#policy"
+yaml_end: true
 ---
 
 I spent some time this AM looking at some Dem candidates’ websites so you don’t have to. The easiest way to convey my impression is this, from L to R: “the issues” according to Sanders, Harris, Warren, Buttigieg. tl;dr: Sanders is a hero forever deserving of respect and affection; Harris is HRC 2.0 — brilliant, talented, 💯 machine politician; Warren kills it; and Buttigieg is vaporware.

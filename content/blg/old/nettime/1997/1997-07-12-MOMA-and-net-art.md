@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-07-12 MOMA and net art
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft:
 publish: 
 date: 1997-07-12
 tags:
-  - "#art"
-  - "#media"
-  - "#technology"
-  - "#nettime"
   - museum
+yaml_end: true
 ---
 
 To:  Nettime-l

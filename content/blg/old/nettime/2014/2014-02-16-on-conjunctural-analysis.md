@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2014-02-16 on conjunctural analysis
 description: 
 extract: 
@@ -18,9 +19,8 @@ tags:
   - institution
   - theory
   - academia
-  - "#politics"
-  - "#society"
   - economics
+yaml_end: true
 ---
 
 To: nettime-l

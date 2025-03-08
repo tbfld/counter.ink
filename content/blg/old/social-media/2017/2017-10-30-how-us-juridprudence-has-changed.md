@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-10-30 how us juridprudence has changed
 description: 
 extract: 
@@ -18,12 +19,9 @@ tags:
   - left
   - national
   - right
-  - "#politics"
-  - "#society"
-  - "#judiciary"
-  - "#law"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 Imma up this from a comment: 

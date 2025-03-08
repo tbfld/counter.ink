@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-24 on internettisms and Elon
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - internet
   - language
 status: final
+yaml_end: true
 ---
 
 ![[content/blg/new/new_images/tesla-community.jpg|wmed relative|left]]

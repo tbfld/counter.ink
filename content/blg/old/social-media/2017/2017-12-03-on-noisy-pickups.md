@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-12-03 on noisy pickups
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-12-03
 tags:
-  - "#culture"
-  - "#technology"
-  - "#feminism"
-  - "#satirical-commentary"
-  - "#cars"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 😹 😹 😹 12YO feminist LOLZ!!! She knows that when pickup manufacturers moved from V8 to V6 engines for better mileage, they ‘quietly’ added speakers that pump out that “growly” engine noise. (Yes they really do, and yes she really knows it.) So all those macho guys doing vroom-vroom in their Ford F-150s? It’s FAKE NOISE to prop up their frail masculine egos. Her idea? Remotely hack pickup firmware to make sparkly “magical unicorn” sounds, Trololo guy, the Benny Hill theme song, clown-car gawooga honks, etc. 😹 😹 😹

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-12-28 whence and whither btc
 description:
 extract:
@@ -20,6 +21,7 @@ tags:
 - right
 - technology
 - theory
+yaml_end: true
 ---
 
 To: nettime-l

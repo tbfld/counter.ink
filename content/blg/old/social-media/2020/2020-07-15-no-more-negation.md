@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-15 no more negation
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-07-15
 tags:
-  - "#politics"
-  - "#media"
-  - "#cultural-commentary"
-  - "#political-discourse"
-  - "#policy"
+yaml_end: true
 ---
 
 Upping a comment I made on a post about Boris Johnson, but it equally applies to Trump:

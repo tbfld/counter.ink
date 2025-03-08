@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-02-18 recent intellectual history in a meme
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-02-18
 tags:
-  - "#meme"
-  - "#cultural-commentary"
-  - "#media"
-  - "#intellectual-history"
-  - "#visual-culture"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/recent-intellectual-history-in-a-meme.jpg]]

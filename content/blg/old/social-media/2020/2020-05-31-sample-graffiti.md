@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-05-31 sample graffiti
 description:
 extract:
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true"
 date: 2020-05-31
 tags:
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/sample-graffiti.jpg]]

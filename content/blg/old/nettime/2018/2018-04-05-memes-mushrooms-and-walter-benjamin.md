@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-04-05 memes mushrooms and walter benjamin
 description: 
 extract: 
@@ -22,10 +23,7 @@ tags:
   - meme
   - national
   - right
-  - "#media"
-  - "#theory"
-  - "#politics"
-  - "#cultural-critique"
+yaml_end: true
 ---
 
 To: Geert Lovink, nettime

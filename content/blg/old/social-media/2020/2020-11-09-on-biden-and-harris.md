@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-11-09 on biden and harris
 description:
 extract:
@@ -21,6 +22,7 @@ tags:
 - national
 - politics
 - right
+yaml_end: true
 ---
 
 [C&P from something I just sent to a mailing list inhabited mainly by septuagenarian telecom execs](https://www.nytimes.com/2020/11/07/us/politics/aoc-biden-progressives.html) (don’t *even* ask):

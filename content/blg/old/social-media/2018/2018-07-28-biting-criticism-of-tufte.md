@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-07-28 biting criticism of tufte
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - rhetoric
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/tufte-crit.jpg]]

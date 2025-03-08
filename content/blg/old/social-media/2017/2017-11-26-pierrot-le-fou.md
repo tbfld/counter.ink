@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-26 pierrot le fou
 description: 
 extract: 
@@ -22,6 +23,7 @@ tags:
   - cinema
   - technology
   - apple
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/pierrot-le-people-you-know.jpg]]

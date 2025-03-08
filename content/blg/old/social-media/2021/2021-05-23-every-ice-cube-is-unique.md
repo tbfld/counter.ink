@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-05-23 every ice cube is unique
 description: 
 extract: 
@@ -16,6 +17,7 @@ date: 2021-05-23
 tags:
   - neologism
   - language
+yaml_end: true
 ---
 
 YESSSSSSSSS

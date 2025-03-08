@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-06-02 on revolution a reply to richard barbrook
 description: 
 extract: 
@@ -14,10 +15,9 @@ draft:
 publish: 
 date: 1997-06-02
 tags:
-  - "#politics"
-  - "#theory"
   - technology
   - left
+yaml_end: true
 ---
 
 *(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. I’ve set this email in a monospaced font to make that clear.)*

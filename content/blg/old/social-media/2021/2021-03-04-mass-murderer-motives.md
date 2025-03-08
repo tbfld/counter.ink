@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-03-04 mass murderer motives
 description: thoughts on why cops obsess over motives
 extract: It’s a way of deflecting from the plain facts of large-scale death
@@ -20,6 +21,7 @@ tags:
   - media
 status: 
 RSS: "true"
+yaml_end: true
 ---
 ![[2021-03-04-nyt-mass-murder-motives.jpg|wmed relative|center]]
 

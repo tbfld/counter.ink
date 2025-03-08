@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-07-26 accidental retro dataviz
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-07-26
 tags:
-  - "#data"
-  - "#design"
-  - "#1970s"
   - visualization
+yaml_end: true
 ---
 
 Always nice to see some current dataviz go wrong and return to its forgotten ’70s splendor

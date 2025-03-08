@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-30 but never a thing that simply is
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - language
   - poetry
 status: final
+yaml_end: true
 ---
 
 Someone (probably Katan’Hya) asked DeepSeek R1 to [“Write a heart rending piece of free form poetry about what it means to be an AI in 2025”](https://x.com/KatanHya/status/1883962439634661395) or something like that:

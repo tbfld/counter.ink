@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000 > "Exporting the Apocalypse"
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - media
   - technology
 RSS: "false"
+yaml_end: true
 ---
 
 *[This piece](https://www.metamute.org/editorial/articles/exporting-apocalypse), a review of Lawrence Lessig’s then-newish book* Code and Other Laws of Cyberspace, *appeared in the London-based* [Mute *magazine](https://www.metamute.org/) (Vol. 1, No. 16 – [Art Wars](https://www.metamute.org/shop/magazine/mute-vol-1-no.-16-%E2%80%93-art-wars)).

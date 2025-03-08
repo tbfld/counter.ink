@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-05-02 local nyc coverage
 description: 
 extract: 
@@ -14,12 +15,12 @@ draft: "false"
 publish: "true" 
 date: 2016-05-02
 tags:
-  - "#urbanism"
   - nyt
   - journalism
   - audiences
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/church-fire.jpg]]

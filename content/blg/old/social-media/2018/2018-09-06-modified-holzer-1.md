@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-09-06 modified holzer 1
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2018-09-06
 tags:
-  - "#art"
-  - "#image"
-  - "#contemporary-art"
   - modification
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/modified-holzer.jpg]]

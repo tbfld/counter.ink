@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-04-06 on the panama papers a reply to patrice riemens
 description: 
 extract: 
@@ -18,10 +19,7 @@ tags:
   - media
   - national
   - news
-  - "#privacy"
-  - "#surveillance"
-  - "#media-aesthetics"
-  - "#forensics"
+yaml_end: true
 ---
 
 To:  nettime-l

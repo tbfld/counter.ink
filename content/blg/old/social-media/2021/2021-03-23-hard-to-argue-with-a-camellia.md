@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-03-23 hard to argue with a camellia
 description:
 extract:
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true"
 date: 2021-03-23
 tags:
+yaml_end: true
 ---
 
 Hard to argue with a camellia

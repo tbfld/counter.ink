@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: new
 description: things written for this site (“old” is things written before this site)
 extract: 
@@ -16,6 +17,7 @@ date: 2025-01-16
 tags:
   - index
 status: final
+yaml_end: true
 ---
 
 

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-10-05 michael gurstein rip
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-10-05
 tags:
-  - "#internet"
-  - "#community"
-  - "#media-analysis"
-  - "#nettime"
-  - "#digital-heritage"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 I just posted this to the [[blg/old/nettime/nettime]] FB group:

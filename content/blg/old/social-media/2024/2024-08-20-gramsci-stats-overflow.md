@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-08-20 gramsci stats overflow
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2024-11-24
 tags:
-  - "#art"
-  - "#media"
-  - "#cultural-critique"
-  - "#visual-culture"
 status: draft
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/clown-gramsci-overflow.jpg|relative wmed|left]]

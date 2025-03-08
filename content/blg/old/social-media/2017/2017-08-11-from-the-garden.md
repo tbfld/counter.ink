@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-08-11 from the garden
 description: 
 extract: 
@@ -16,6 +17,7 @@ date: 2017-08-11
 tags:
   - photography
   - insects
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/from-the-garden.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-04-13 nyt word salad on erdogan
 description: 
 extract: 
@@ -15,13 +16,9 @@ publish: "true"
 date: 2017-04-13
 tags:
   - europe
-  - "#turkey"
-  - "#political-ideology"
-  - "#social-commentary"
-  - "#government"
-  - "#dissent"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 NYT word salad: “Mr. Erdogan’s government has sought to root out any remaining dissent by targeting nearly every segment of society. It has also used the purge as cover for a crackdown on dissidents of all stripes, including leftists like Ms. Barkin.” Yes, yes, targeting everything and using a purge as cover for a crackdown.

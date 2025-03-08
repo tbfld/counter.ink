@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-08-13 zuck and pubs
 description: 
 extract: 
@@ -15,12 +16,9 @@ publish: "true"
 date: 2018-08-13
 tags:
   - media
-  - "#social-media"
-  - "#publishing"
-  - "#technology"
-  - "#oligarchism"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 The latest from Zuck, whose engineered flesh of simpering earnesty is constantly melting, revealing the same old psychopath within:

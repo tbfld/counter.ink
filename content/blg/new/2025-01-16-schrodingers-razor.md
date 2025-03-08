@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-16 Schrodinger’s razor
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - philosophy
   - visualization
 status: final
+yaml_end: true
 ---
 
 ![[content/blg/new/new_images/schrodingers-razor.jpg|wmed relative|center]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2001-02-07 on spam and scaling
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft:
 publish: 
 date: 2001-02-07
 tags:
-  - "#spam"
-  - "#internet"
-  - "#online-culture"
-  - "#technology"
-  - "#libertarianism"
+yaml_end: true
 ---
 
 To: nettime-l

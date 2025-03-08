@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-11-23 on student debt
 description: 
 extract: 
@@ -17,12 +18,7 @@ tags:
   - academia
   - education
   - finance
-  - "#students"
-  - "#education"
-  - "#politics"
-  - "#finance"
-  - "#academia"
-  - "#debt"
+yaml_end: true
 ---
 
 To: Nettime-l

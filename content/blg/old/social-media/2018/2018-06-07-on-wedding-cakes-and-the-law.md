@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-06-07 on wedding cakes and the law
 description: 
 extract: 
@@ -19,12 +20,9 @@ tags:
   - language
   - law
   - left
-  - "#politics"
-  - "#cultural-commentary"
-  - "#labor"
-  - "#art"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 WOW. One of the best kinds of essay: it neatly lays out some short, sharp tools for disassembling and dissecting a wide range of problems. Really, [take a few minutes to read it](https://bostonreview.net/law-justice/lawrence-glickman-masterpiece-cakeshop).

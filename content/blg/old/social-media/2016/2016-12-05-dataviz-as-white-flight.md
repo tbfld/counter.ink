@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-12-05 dataviz as white flight
 description: 
 extract: 
@@ -14,12 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2016-12-05
 tags:
-  - "#data"
-  - "#dataviz"
   - urbanism
   - visualization
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 \#NYC I’m pretty allergic to self-promo, but I’ll be coming up out of my rabbit hole — a rare event — to [give a tour/talk at Tactical Tech’s Glass Room next Sunday (Dec 11th 3:00-4:30pm, 201 Mulberry St, Spring / Kenmare)](https://theglassroomnyc.org/schedule/). Subject: dataviz as white flight – basically a bunch of white guys inventing imaginary suburbs where they can sip elegant informatic cocktails as they peer down on everyone and everything else like it’s some sort of inner city. Tickets are limited, so if you’re interested you should probably reserve a spot.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-07-06 everything
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - everything
   - genre
   - diagram
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/everything-trump.jpg]]

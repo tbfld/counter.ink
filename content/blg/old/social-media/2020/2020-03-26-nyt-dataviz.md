@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-03-26 nyt dataviz
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-03-26
 tags:
-  - "#data"
-  - "#visual-culture"
-  - "#media"
-  - "#visualization"
-  - "#digital-art"
+yaml_end: true
 ---
 
 This is pretty dazzling

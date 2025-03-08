@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-02-21 overrated dataviz
 description:
 extract:
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true"
 date: 2021-02-21
 tags:
+yaml_end: true
 ---
 
 This new dataviz style — which I’m seeing around more — seems like a tacit acknowledgement that graphs and charts are overrated.

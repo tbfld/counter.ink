@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-10-28 on value btc and the blockchain
 description: 
 extract: 
@@ -15,12 +16,9 @@ publish: "true"
 date: 2017-10-28
 tags:
   - aviation
-  - "#technology"
-  - "#data"
-  - "#finance"
-  - "#blockchain"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 Imma up this from comments. To be clear, I could GAF about blockchain, Bitcoin, etc:

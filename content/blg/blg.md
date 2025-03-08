@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: blg
 description: things I’ve written for other context, reconstituted here as a just-add-waterlog
 extract: This is sort of a blog. *Ceci n’est pas un blog*, maybe — it *is* and *isn’t*. It’s an archive of  things I’ve written over the last ~35 years years for mailing lists (only [[blg/old/nettime/nettime|nettime]] so far) and social media (only [[social-media|Facebook]] so far), reconstituted in a bloggish way — call it a *jawlog*, a just-add-water-log. I have several reasons for doing that (like not relying on increasingly unreliable “platforms”), but where things come from is less interesting than what they are now.
@@ -14,6 +15,7 @@ draft: "true"
 publish: "false"
 tags:
   - index
+yaml_end: true
 ---
 
 This is sort of a blog. *Ceci n’est pas un blog*, maybe — it *is* and *isn’t*. It’s an archive of  things I’ve written over the last ~35 years years for mailing lists (only [[blg/old/nettime/nettime|nettime]] so far) and social media (only [[social-media|Facebook]] so far), reconstituted in a bloggish way — call it a *jawlog*, a just-add-water-log. I have several reasons for doing that (like not relying on increasingly unreliable “platforms”), but where things come from is less interesting than what they are now.

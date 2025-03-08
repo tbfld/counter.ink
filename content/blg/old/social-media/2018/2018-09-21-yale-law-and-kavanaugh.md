@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-09-21 yale law and kavanaugh
 description: 
 extract: 
@@ -15,12 +16,11 @@ publish: "true"
 date: 2018-09-21
 tags:
   - history
-  - "#law"
-  - "#politics"
   - accountability
   - reputation
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 The YLS faculty didn’t say a word about the confirmation ‘process’ until the scandal arrived at their door in the form of student allegations that the faculty knew about and even actively enabled Kavanaugh — so this should be seen in large part as an exercise in reputation management. If Ford’s letter hadn’t leaked they would have been silent, because the upside — another one of their own joining Thomas and Alito on Supreme Court — would have outweighed the downside, namely the result for the country and, indeed, for history.
