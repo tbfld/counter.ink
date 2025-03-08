@@ -19,7 +19,7 @@ tags:
   - "#politics"
   - "#communication"
   - "#media"
-  - "#polling-methodology"
+  - "#polling"
   - "#epistemology"
 ---
 
