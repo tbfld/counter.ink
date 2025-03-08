@@ -15,7 +15,9 @@ draft:
 publish: 
 date: 1999-04-23
 tags:
-  - needs_tags
+  - nyt
+  - media
+  - genre
 yaml_end: true
 ---
 
