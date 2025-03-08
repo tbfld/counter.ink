@@ -5,20 +5,19 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: 
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2019-11-27
 tags:
-  - needs_tags
+  - email
 yaml_end: true
 ---
-
 I laugh at your ten-year challenge. This mail just appeared in my inbox — it’s like a twenty-six-year challenge.
 
 ![[content/blg/old/social-media/FB_images/26-year-challenge.jpg]]

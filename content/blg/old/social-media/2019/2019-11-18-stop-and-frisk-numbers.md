@@ -5,20 +5,26 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: 
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2019-11-18
 tags:
-  - needs_tags
+  - nyc
+  - police
+  - law
+  - crime
+  - race
+  - corruption
+  - policy
+  - violence
 yaml_end: true
 ---
-
 [“As recently as January \[Bloomberg] was still vigorously defending” stop-and-frisk — that’s Centrist for *arbitrary street interrogation* — and arguing “we certainly did not pick somebody by race.”](https://www.nytimes.com/2019/11/17/opinion/bloomberg-stop-and-frisk.html”) Is that so? 2003–2013, there were over 5 MILLION S&Fs. Percentage by race/ethnicity per year:
 
 blax: 54, 55, 54, 53, 54, 53, 55, 54, 53, 55, 56
