@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-11-27 escaping criticism
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - art
   - image
 status: draft
+yaml_end: true
 ---
 
 ![[content/blg/new/new_images/borrell_escaping_criticism-1874.jpeg|relative wmed|center]]

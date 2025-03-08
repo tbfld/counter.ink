@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-10-31 embarking and debarking
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-10-31
 tags:
-  - "#aviation"
   - social-media
-  - "#behavior"
-  - "#cultural-analysis"
+yaml_end: true
 ---
 
 [This headline](https://www.washingtonpost.com/travel/2019/10/30/this-airport-says-its-cracked-code-quicker-airplane-boarding-times/) should be “Anglo Culture Struggles to Overcome Idiotic Obsession with Endlessly Performing Class by Parading Poor People Past Rich Ones.” The cool thing is that embarking and debarking are asymmetrical. If we were really serious about this ritual, we’d debark planes starting with the last row — but we aren’t.

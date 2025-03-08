@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-11-16 time to reread arendt
 description: 
 extract: 
@@ -15,13 +16,9 @@ publish: "true"
 date: 2016-11-16
 tags:
   - europe
-  - "#history"
-  - "#political-ideology"
-  - "#cultural-critique"
-  - "#holocaust"
-  - "#moral-responsibility"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 Seriously, it’s time for people to go back and read Arendt’s *Eichmann in Jerusalem*, *in particular* Chapter 10, “Deportations from Western Europe — France, Belgium, Holland, Denmark, Italy”:

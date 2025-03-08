@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-02-12 maybe too prophetic
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - politics
   - right
 status: final
+yaml_end: true
 ---
 
 I wrote this [on Facebook on 7 Nov 2024](https://www.facebook.com/tbyfield/posts/pfbid02WeNJSKMu7V6zAuMVpBZn8vRcHZkGmxmLq4TmxfD9wGDdTXNw7uzYwiYv2RqX6KySl), barely a day after the election, and it seems a little *too* prescient.

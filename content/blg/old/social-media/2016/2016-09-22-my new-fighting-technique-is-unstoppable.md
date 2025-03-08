@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-09-22 my new fighting technique is unstoppable
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-09-22
 tags:
-  - "#image"
-  - "#digital-art"
-  - "#nostalgia"
   - comic
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/mnftiu.jpg]]

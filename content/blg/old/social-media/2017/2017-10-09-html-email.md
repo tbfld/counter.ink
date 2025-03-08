@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-10-09 html email
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2017-10-09
 tags:
-  - "#html"
-  - "#internet"
-  - "#email"
   - programming
+yaml_end: true
 ---
 
 Found in the headers of an HTML email attachment:

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-12-28 dvd css analysis and comments
 description: 
 extract: 
@@ -18,9 +19,7 @@ tags:
   - data
   - email
   - information
-  - "#law"
-  - "#intellectual-property"
-  - "#internet"
+yaml_end: true
 ---
 
 To: Nettime

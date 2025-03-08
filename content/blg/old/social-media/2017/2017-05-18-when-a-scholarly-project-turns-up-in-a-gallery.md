@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-05-18 when a scholarly project turns up in a gallery
 description: 
 extract: 
@@ -13,6 +14,8 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
+  - needs_tags
+yaml_end: true
 ---
 
 This is *excellent* in every respect.

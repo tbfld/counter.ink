@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1998-03-29 esr cathedral and the bazaar
 description: 
 extract: 
@@ -13,12 +14,9 @@ aliases:
 draft: 
 publish: 
 tags:
-  - "#digital-culture"
-  - "#internet"
-  - "#technology"
-  - "#open-source"
-  - "#software"
+  - needs_tags
 date: 1998-03-29
+yaml_end: true
 ---
 
 To: nettime-l

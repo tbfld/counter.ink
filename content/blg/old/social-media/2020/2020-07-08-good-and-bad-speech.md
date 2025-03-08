@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-08 good and bad speech
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - meme
   - diagram
   - satire
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/good-and-bad-speech-1.jpg]]

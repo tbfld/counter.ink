@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-22 on keeping little lists of subtle changes
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-11-22
 tags:
-  - "#politics"
-  - "#public-discourse"
-  - "#cultural-commentary"
-  - "#authoritarianism"
-  - "#activism"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 Imma up this from comments (w/ mods) — on that ~meme about keeping a list so you remember whatever pre-Trump:

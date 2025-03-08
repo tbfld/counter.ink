@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-07-21 bon mot awards
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-07-21
 tags:
-  - "#media"
-  - "#culture"
-  - "#society"
-  - "#celebrity"
-  - "#social-dynamics"
+  - needs_tags
+yaml_end: true
 ---
 
 There should be an award for bon(s) mots: “the competitive, tight-knit, look-at-me Johnson clan, which holds a place in British life somewhere in ***the large, amorphous space between the Kennedys and the Kardashians***.”

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-02-24 MIT hostnames
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft:
 publish: 
 date: 1999-02-24
 tags:
-  - "#internet"
-  - "#technology"
-  - "#data"
-  - "#dns"
-  - "#online-culture"
+  - needs_tags
+yaml_end: true
 ---
 
 To: nettime-l

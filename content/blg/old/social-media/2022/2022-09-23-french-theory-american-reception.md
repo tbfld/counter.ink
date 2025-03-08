@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2022-09-23 french theory american reception
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2022-09-23
 tags:
-  - "#theory"
-  - "#media"
-  - "#france"
   - usa
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/french-theory-american-reception.jpg]]

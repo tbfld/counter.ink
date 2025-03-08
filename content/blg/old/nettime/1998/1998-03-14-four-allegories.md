@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1998-03-14 four allegories
 description: 
 extract: 
@@ -16,11 +17,7 @@ date: 1998-03-14
 tags:
   - device
   - technology
-  - "#internet"
-  - "#corporation"
-  - "#digital-culture"
-  - "#dns"
-  - "#media"
+yaml_end: true
 ---
 
 To: Nettime

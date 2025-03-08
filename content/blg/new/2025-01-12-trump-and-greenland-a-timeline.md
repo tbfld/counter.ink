@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-12 Trump and Greenland - a timeline
 description: 
 extract: 
@@ -24,6 +25,7 @@ tags:
   - right
   - security
 status: final
+yaml_end: true
 ---
 
 This post is a detailed, annotated, and *sourced* timeline of Trump’s noise about buying Greenland. It has three parts: (1) a short [[2025-01-12-trump-and-greenland-a-timeline#Intro|intro]], (2) a bulleted [[#Summary|summary]], (3) the [[#Timeline|timeline]] itself, and (4) a [[#A Couple of bonus links|couple of bonus links]].

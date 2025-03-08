@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-10-04 the longue duree sure aint what it used to be
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - theory
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/longue-duree.jpg]]

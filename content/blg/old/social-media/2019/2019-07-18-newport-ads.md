@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-07-18 newport ads
 description: 
 extract: 
@@ -15,10 +16,9 @@ publish: "true"
 date: 2019-07-18
 tags:
   - advertising
-  - "#media"
-  - "#visual-culture"
   - 1980s
   - nyc
+yaml_end: true
 ---
 
 Something \[KM] posted reminded me of the ads Newport used to run on the subways, which led me to formulate a theory of ‘superliminal advertising’ — basically hard-core porn with some vague ‘real life’ airbrushed onto it. Years ago, I cobbled together a small collection of these things, but there are a few I’m missing; my personal fave was the ‘pie-eating contest,’ which featured a woman standing behind a seated man shoving his cherry-smeared face down into a pie. Here are a few choice examples.

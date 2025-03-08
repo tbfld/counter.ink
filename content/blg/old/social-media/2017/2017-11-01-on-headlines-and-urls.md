@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-01 on headlines and urls
 description: 
 extract: 
@@ -16,9 +17,8 @@ date: 2017-11-01
 tags:
   - left
   - news
-  - "#media-analysis"
-  - "#journalism"
   - nyt
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/headlines-and-urls.jpg]]

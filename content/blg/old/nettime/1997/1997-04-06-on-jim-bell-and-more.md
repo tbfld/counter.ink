@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-04-06 on jim bell and more
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - law
   - politics
   - right
+yaml_end: true
 ---
 
 To: nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-04-07 grundmann a letter from amsterdam
 description: 
 extract: 
@@ -16,10 +17,7 @@ date: 1999-04-07
 tags:
   - europe
   - media
-  - "#politics"
-  - "#war"
-  - "#history"
-  - "#nato"
+yaml_end: true
 ---
 
 To: nettime-l

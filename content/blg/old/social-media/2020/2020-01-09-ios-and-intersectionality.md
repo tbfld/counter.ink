@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-01-09 ios and intersectionality
 description: 
 extract: 
@@ -14,10 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2020-01-09
 tags:
-  - "#culture"
   - language
   - technology
   - academia
+yaml_end: true
 ---
 
 Amazing: iOS autocompletes “intersectionality.” Aside from being great in its own right, this is the kind of cultural infrastructure that’s left the academy in the dust. What fields can even acknowledge shifts like this, let alone have the apparatus — methodological, historical, institutional — to recognize their importance?

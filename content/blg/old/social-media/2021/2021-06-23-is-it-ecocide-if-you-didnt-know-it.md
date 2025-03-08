@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-06-23 is it ecocide if you didnt know it
 description: 
 extract: 
@@ -14,12 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2021-06-23
 tags:
-  - "#law"
-  - "#politics"
   - policy
-  - "#ecocide"
-  - "#environment"
-  - "#social-commentary"
+yaml_end: true
 ---
 
 I hate to say it, but the expert panel’s definition of ecocide is crap: 

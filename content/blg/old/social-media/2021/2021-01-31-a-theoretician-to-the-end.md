@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-01-31 a theoretician to the end
 description: Ros Krauss defends theory
 extract: Ros Krauss defends theory
@@ -20,6 +21,7 @@ tags:
   - language
 status: 
 RSS: "true"
+yaml_end: true
 ---
 Unwavering in her dedication to theory 😹
 

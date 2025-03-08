@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-27 wikileaks as a template
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-03-27
 tags:
-  - "#media"
-  - "#politics"
-  - "#history"
-  - "#whistleblowing"
-  - "#information-leak"
+  - needs_tags
+yaml_end: true
 ---
 
 I wrote this 8 years ago about Wikileaks, and beyond holding up pretty well it applies to the Mueller Report — though we don’t have a Mueller suffix yet.

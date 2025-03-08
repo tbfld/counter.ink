@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2001-03-14 on defense shields a reply to jordan crandall
 description: 
 extract: 
@@ -15,11 +16,7 @@ publish:
 date: 2001-03-14
 tags:
   - national
-  - "#war"
-  - "#politics"
-  - "#technology"
-  - "#military"
-  - "#national-security"
+yaml_end: true
 ---
 
 To: Nettime

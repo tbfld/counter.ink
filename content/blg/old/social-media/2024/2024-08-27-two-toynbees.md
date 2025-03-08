@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-08-27 two toynbees
 description: 
 extract: 
@@ -14,10 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2024-08-27
 tags:
-  - "#art"
-  - "#visual-culture"
   - urbanism
   - graffiti
+yaml_end: true
 ---
 
 Two Toynbee things from this summer

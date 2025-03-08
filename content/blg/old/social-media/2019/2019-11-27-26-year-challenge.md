@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-11-27 26 year challenge
 description: 
 extract: 
@@ -14,9 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-11-27
 tags:
-  - "#email"
-  - "#communication"
-  - "#digital-communication"
+  - needs_tags
+yaml_end: true
 ---
 
 I laugh at your ten-year challenge. This mail just appeared in my inbox — it’s like a twenty-six-year challenge.

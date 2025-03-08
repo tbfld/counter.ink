@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-18 plane crashes in theory and practice
 description: 
 extract: 
@@ -20,12 +21,7 @@ tags:
   - history
   - information
   - science
-  - "#technology"
-  - "#culture"
-  - "#politics"
-  - "#aviation"
-  - "#ai"
-  - "#cultural-analysis"
+yaml_end: true
 ---
 
 To: nettime-l

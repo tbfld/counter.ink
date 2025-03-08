@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-07-19 scaffolding
 description: 
 extract: 
@@ -14,9 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2019-07-19
 tags:
-  - "#architecture"
   - language
   - urbanism
+yaml_end: true
 ---
 
 My apartment is on the sixth floor and there was literally a guy sitting outside my window eating lunch. “Scaffolding” seems to have lost favor in bureaucratic slang trends (or maybe it’s just that I don’t hang with bureaucrats anymore), but next time you hear it, think of that image.

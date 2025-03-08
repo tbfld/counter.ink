@@ -1,24 +1,27 @@
 ---
+yaml_begin: true
 title: 2021-01-29 critical qualitative detail
 description: 
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: 
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2021-01-29
 tags:
-  - "#visual-culture"
-  - "#image"
-  - "#media-critique"
-  - "#qualitative-analysis"
-  - "#visual-communication"
+  - meme
+  - image
+  - academia
+  - writing
+  - publishing
+  - satire
+yaml_end: true
 ---
-
+                                                                                   
 ![[content/blg/old/social-media/FB_images/critical-qualitative-detail.jpg]]

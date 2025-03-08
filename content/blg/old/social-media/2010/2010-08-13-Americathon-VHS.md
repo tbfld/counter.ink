@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-08-13 Americathon VHS
 description:
 extract:
@@ -20,6 +21,7 @@ tags:
   - technology
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 Finally bought a used VHS of *Americathon*? Because there’s no market for a DVD of a late ’70s media parody about POTUS holding a telethon to bail out America...

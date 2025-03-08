@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2001-09-15 nyc media post 911
 description: 
 extract: 
@@ -18,11 +19,7 @@ tags:
   - language
   - media
   - philosophy
-  - "#politics"
-  - "#media"
-  - "#society"
-  - "#911"
-  - "#national"
+yaml_end: true
 ---
 
 To: Nettime

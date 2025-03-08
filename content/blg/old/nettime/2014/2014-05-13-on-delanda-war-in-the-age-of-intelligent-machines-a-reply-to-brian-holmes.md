@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2014-05-13 on delanda war in the age of intelligent machines a reply to brian holmes
 description: 
 extract: 
@@ -16,11 +17,7 @@ date: 2014-05-13
 tags:
   - history
   - language
-  - "#technology"
-  - "#war"
-  - "#corporation"
-  - "#society"
-  - "#philosophy"
+yaml_end: true
 ---
 
 To: nettime-l

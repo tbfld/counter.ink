@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-07-14 on manhattanhenge
 description: 
 extract: 
@@ -16,10 +17,10 @@ date: 2018-07-14
 tags:
   - nature
   - urbanism
-  - "#cultural-commentary"
   - language
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 A friend posted something about <gag>Manhattanhenge</gag>, and I’ll up my comment:

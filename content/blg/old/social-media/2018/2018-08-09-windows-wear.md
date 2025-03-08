@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-08-09 windows wear
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2018-08-09
 tags:
-  - "#design"
-  - "#fashion"
-  - "#technology"
-  - "#microsoft"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 A+ outfit

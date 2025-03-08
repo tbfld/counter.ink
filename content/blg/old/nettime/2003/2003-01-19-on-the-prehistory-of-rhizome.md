@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2003-01-19 on the prehistory of rhizome
 description: 
 extract: 
@@ -17,9 +18,7 @@ tags:
   - art
   - finance
   - history
-  - "#media"
-  - "#publishing"
-  - "#internet"
+yaml_end: true
 ---
 
 To: nettime-l

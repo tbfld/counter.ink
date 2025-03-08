@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: about
 description: you know, one of those about-this-site pages
 extract: a page about this site and myself
@@ -18,6 +19,7 @@ tags:
   - index
 status: 
 RSS: "false"
+yaml_end: true
 ---
 
 > [!NOTE]- So...tell me about yourself.

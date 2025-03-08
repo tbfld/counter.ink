@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-02-03 now add something about legitimacy
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-02-03
 tags:
-  - "#media"
-  - "#news"
-  - "#political-interference"
-  - "#journalism"
-  - "#journalism"
+  - needs_tags
+yaml_end: true
 ---
 
 *Washington Post*, I fixed your headline

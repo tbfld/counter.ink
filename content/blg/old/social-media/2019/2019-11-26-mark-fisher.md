@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-11-26 mark fisher
 description: 
 extract: 
@@ -17,11 +18,7 @@ tags:
   - 1960s
   - 1970s
   - politics
-  - "#policy"
-  - "#social-justice"
-  - "#mental-health"
-  - "#capitalism"
-  - "#neoliberalism"
+yaml_end: true
 ---
 
 A few years ago when I listened to a few ‘unofficial’ Mark Fisher audiobooks — read aloud in a generic computer voice — this passage really rang true. It still does.

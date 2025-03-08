@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-08-19 belt and suspenders
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-08-19
 tags:
-  - "#design"
-  - "#image"
-  - "#fashion"
-  - "#design"
+  - needs_tags
+yaml_end: true
 ---
 
 This is some serious next-level belt-and-suspenders action: the suspenders end in a belt loop AND THAT LOOP HAS A LOOP FOR THE BELT LOOP.

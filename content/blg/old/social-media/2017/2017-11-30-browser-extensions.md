@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-30 browser extensions
 description: 
 extract: 
@@ -14,11 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-11-30
 tags:
-  - "#technology"
-  - "#internet"
   - software
   - gui
   - language
+yaml_end: true
 ---
 
 Browser extension that appends 🤔to every headline

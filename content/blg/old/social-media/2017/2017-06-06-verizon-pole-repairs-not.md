@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-06-06 verizon pole repairs not
 description: 
 extract: 
@@ -14,11 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-06-06
 tags:
-  - "#technology"
-  - "#corporation"
-  - "#society"
   - infrastructure
   - anthropocene
+yaml_end: true
 ---
 
 Verizon agreed to fix 15,000 of these — in Pennsylvania alone — which result from its refusal to move its services to new poles.

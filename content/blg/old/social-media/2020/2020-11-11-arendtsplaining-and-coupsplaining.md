@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-11-11 arendtsplaining and coupsplaining
 description: 
 extract: 
@@ -17,8 +18,7 @@ tags:
   - fascism
   - governance
   - law
-  - "#politics"
-  - "#media-critique"
+yaml_end: true
 ---
 
 Early on in Trump’s presidency it was Arendtsplaining: “It’s not *really* ‘fascism’ because, as Arendt wrote, \[bla bla wa wa wa].” Now, at the end, it’s coupsplaining: “It’s not *really* a ‘coup’ because it doesn’t meet x, y, z criterion...” This kind of pedantry is boring in the best of times, but in uncertain times it’s really inane. It doesn’t matter if what’s happening *really* meets the dictionary definition of a ‘coup’; what matters are the real risks and ramifications, short- and long-term. The \[*Washington Post*] opinion piece at the bottom of this is a shining example of this kind of stupid: “[an accurate assessment of whether the US is in the midst of a coup matters because the tactics that work to prevent successful coups are different from those needed to prevent other forms of authoritarian power grabs.](https://www.washingtonpost.com/outlook/2020/11/11/coup-trump-election-concede-military/)” And what are those tactics? 1500 words later: “putting public pressure on civilian elites within the Republican Party to veer from their present reckless course.” WHOA! Except...the author’s entire premise is false.

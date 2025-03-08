@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-18 tangled literary histories
 description: 
 extract: 
@@ -21,6 +22,7 @@ tags:
   - Mexico
   - publishing
 status: final
+yaml_end: true
 ---
 
 The French publisher [Minuit](https://en.wikipedia.org/wiki/Les_%C3%89ditions_de_Minuit) just put out [Jean Echenoz](https://en.wikipedia.org/wiki/Jean_Echenoz)’s latest book, *[Bristol](https://isbn.nu/9782707355928)*, and I wrote this in a comment on another platform:

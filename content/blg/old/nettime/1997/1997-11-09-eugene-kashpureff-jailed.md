@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-11-09 eugene kashpureff jailed
 description: 
 extract: 
@@ -14,9 +15,8 @@ draft:
 publish: 
 date: 1997-11-09
 tags:
-  - "#internet"
-  - "#dns"
   - activism
+yaml_end: true
 ---
 
 To: nettime-l

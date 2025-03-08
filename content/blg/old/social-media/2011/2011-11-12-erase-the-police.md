@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-11-12 erase the police
 description: 
 extract: 
@@ -14,11 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2011-11-12
 tags:
-  - "#student"
-  - "#journalism"
-  - "#protest"
+  - needs_tags
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/erasure.jpg]]

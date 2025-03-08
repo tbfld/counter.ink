@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-09-27 late capitalism
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-09-27
 tags:
-  - "#culture"
-  - "#politics"
-  - "#media"
-  - "#capitalism"
-  - "#visual-commentary"
+  - needs_tags
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/costco-cash.jpg]]

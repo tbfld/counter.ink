@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-24 found toynbee nyc
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-11-24
 tags:
-  - "#art"
-  - "#media"
-  - "#visual-culture"
-  - "#urbanism"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/found-toynbee-nyc.jpg]]

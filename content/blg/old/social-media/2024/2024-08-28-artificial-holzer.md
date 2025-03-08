@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-08-28 artificial holzer
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - art
   - technology
   - ai
+yaml_end: true
 ---
 
 There was a MERCIFULLY BRIEF time when I dabbled with generating AI images to get a better sense of what that was about. I did several artists (e.g., Robert Smithson, Claude Lanzmann), but it never occurred to me to do Holzer. Until now.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000 > "Party Like It's 1999 — the Next 5 Minutes 3"
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - activism
   - technology
 RSS: "false"
+yaml_end: true
 ---
 
 [This essay](https://www.metamute.org/editorial/articles/nextfiveminutes3-party-its-1999) , a conference writeup of the [Next 5 Minute](https://monoskop.org/Next_5_Minutes) 3, a “tactical media” conference held in various venues around Amsterdam — De Waag, De Balie, and Melkweg — on 12–14 March 1999. It was the cover story for the London-based *[Mute* magazine](https://www.metamute.org/)’s [Next Five Minutes: Tactical Media](https://www.metamute.org/shop/magazine/mute-vol-1-no.-13-%E2%80%93-next-five-minutes-tactical-media) issue (Vol. 1, No. 13).

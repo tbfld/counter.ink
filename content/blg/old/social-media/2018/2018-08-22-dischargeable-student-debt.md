@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-08-22 dischargeable student debt
 description: 
 extract: 
@@ -16,11 +17,10 @@ date: 2018-08-22
 tags:
   - academia
   - education
-  - "#politics"
-  - "#economics"
   - debt
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 Yes. This guy displays the usual GMU gangs signs (ritual hippy-punching, free markets hard-on, delusional tendency to ignore the impact of industry lobbying), but bottom line he’s right: making student debt dischargeable would fix a lot of what’s wrong with the US.

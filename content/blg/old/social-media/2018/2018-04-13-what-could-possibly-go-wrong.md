@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-04-13 what could possibly go wrong
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2018-04-13
 tags:
-  - "#satire"
-  - "#cultural-commentary"
-  - "#media"
-  - "#visual-commentary"
-  - "#irony-in-media"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 What could possibly go wrong?

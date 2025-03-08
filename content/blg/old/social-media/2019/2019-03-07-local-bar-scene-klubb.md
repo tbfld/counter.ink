@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-07 local bar scene klubb
 description: 
 extract: 
@@ -14,8 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-03-07
 tags:
-  - "#culture"
-  - "#society"
+  - needs_tags
+yaml_end: true
 ---
 
 Best bar name ever

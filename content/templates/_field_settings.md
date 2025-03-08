@@ -1,5 +1,8 @@
 ---
 field_settings:
+  - id: yaml_begin
+    input: boolean
+    path: ""
   - id: title
     input: text
     path: ""
@@ -43,5 +46,8 @@ field_settings:
     path: ""
   - id: tags
     input: tags
+    path: ""
+  - id: yaml_end
+    input: boolean
     path: ""
 ---

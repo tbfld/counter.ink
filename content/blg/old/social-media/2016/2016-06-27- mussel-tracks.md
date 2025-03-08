@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-06-27  mussel tracks
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-06-27
 tags:
-  - "#art"
-  - "#image"
-  - "#visual-culture"
-  - "#photography"
-  - "#nature"
+  - needs_tags
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/mussel-tracks.jpg]]

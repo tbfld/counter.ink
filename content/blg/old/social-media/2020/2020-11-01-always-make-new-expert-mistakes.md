@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-11-01 always make new expert mistakes
 description: 
 extract: 
@@ -14,12 +15,12 @@ draft: "false"
 publish: "true" 
 date: 2020-11-01
 tags:
-  - "#media-critique"
   - disciplinarity
   - nyt
   - media
   - culture
   - trope
+yaml_end: true
 ---
 
 I love this gambit: “I was an expert but I was completely out to lunch, so I’ll treat my sustained cluelessness as an opportunity to reassert my expertise.” It’s very common these days.

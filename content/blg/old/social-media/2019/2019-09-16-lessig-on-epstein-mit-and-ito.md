@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-09-16 lessig on epstein mit and ito
 description: 
 extract: 
@@ -15,11 +16,7 @@ publish: "true"
 date: 2019-09-16
 tags:
   - language
-  - "#media"
-  - "#journalism"
-  - "#politics"
-  - "#media"
-  - "#press-critique"
+yaml_end: true
 ---
 
 > Whatever you think about Joi, or MIT, or me, you should think about this. Not because it’s huge and important, but because it is ordinary and indeed, in the language of Arendt, banal. It’s completely normal today. It is the nature of ‘news.’ And that is its problem.

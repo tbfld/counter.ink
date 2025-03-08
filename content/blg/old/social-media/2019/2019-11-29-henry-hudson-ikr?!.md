@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-11-29 henry hudson ikr?!
 description: 
 extract: 
@@ -14,7 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-11-29
 tags:
-  - "#art"
+  - needs_tags
+yaml_end: true
 ---
 
 Here’s a Thanksgiving-y gem from the kid’s archives

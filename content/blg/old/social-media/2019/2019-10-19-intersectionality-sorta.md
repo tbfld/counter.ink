@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-10-19 intersectionality sorta
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-10-19
 tags:
-  - "#visual-culture"
-  - "#media"
-  - "#culture"
-  - "#intersectionality"
-  - "#social-justice"
+  - needs_tags
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/intersectionality.jpg]]

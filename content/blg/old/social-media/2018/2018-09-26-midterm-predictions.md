@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-09-26 midterm predictions
 description: 
 extract: 
@@ -15,11 +16,9 @@ publish: "true"
 date: 2018-09-26
 tags:
   - law
-  - "#politics"
-  - "#news"
-  - "#elections"
 status: 
 RSS: "false"
+yaml_end: true
 ---
 
 Brace yourselves. If the Dems win, Trump and his noise machine will argue they’re illegitimate. I think there’s a decent chance that’ll move beyond noise into new territory, including lawsuits aimed at preventing the Dems from assuming majority positions in Congress. But, short of that, the alleged illegitimacy of Dem power will be used to justify next-levels procedural abuses.

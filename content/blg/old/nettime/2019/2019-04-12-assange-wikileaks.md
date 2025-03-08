@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-04-12 assange wikileaks
 description: 
 extract: 
@@ -19,7 +20,7 @@ tags:
   - politics
   - security
   - journalism
-  - "#cultural-critique"
+yaml_end: true
 ---
 
 To: Morlock Elloi

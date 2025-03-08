@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-10-23 on analogies between domestic abuse and politics
 description: 
 extract: 
@@ -16,14 +17,11 @@ date: 2016-10-23
 tags:
   - culture
   - media
-  - "#politics"
-  - "#gender"
-  - "#cultural-commentary"
-  - "#consumerism"
   - masculinity
   - 1990s
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 This is “funny” in the same culture that turned to John Stewart to get their news. The joke is that there’s a “funny” analogy between abusive relationships and abusive government, but it’s not an analogy — it’s a genealogy. From the ’30s on, as the US economy shifted its emphasis from industrial and agricultural production to consumer-oriented markets, political stability increasingly depended on consumers — and, it was argued, women made most decisions about what households buy. The result was that “consumers” — the public — were increasingly addressed in terms of women: what women choose (and what *other* women are choosing), what women men will choose (and what *other women* men might be choosing...). People like Henry Luce argued that men should use government, business, and the media to stabilize US politics by defining what choices women can make. But that history is mostly forgotten now, so it’s hard for many people to see how much of US politics boils down to men abusing women and telling them what they can or can’t do. So when people *do* connect these historical dots, it looks like a “funny” analogy between a bad boyfriend and a bad government. (Oh, and note that the woman doing the not-choosing is white, of course. The woman helping her is black — and English!) Just talking about this with Sedista King yesterday, but thinking in different ways about Salome Asega, Corinna Snyder, Elise Pettus, Jessica Blatt, Lucy Sexton, Josephine Berry, and...

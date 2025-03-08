@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-12-12 on etoys market cap reply to declan mccullagh
 description: 
 extract: 
@@ -16,11 +17,7 @@ date: 1999-12-12
 tags:
   - art
   - media
-  - "#internet"
-  - "#online-culture"
-  - "#journalism"
-  - "#dotcoms"
-  - "#ecommerce"
+yaml_end: true
 ---
 
 *(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. Ive set this email in a monospaced font to make that clear. For extra OG-typography fun, I “hung” the punctuation on the right margin. )*

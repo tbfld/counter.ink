@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2023-05-09 leave no author behind
 description: 
 extract: 
@@ -13,10 +14,8 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#art"
-  - "#media"
-  - "#publishing"
   - technology
+yaml_end: true
 ---
 
 Someone’s developed a way to make every author the first author

@@ -1,21 +1,26 @@
 ---
+yaml_begin: true
 title: 2021-05-10 popping filter bubbles
-description:
-extract:
+description: 
+extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb"
-images:
-order:
+author: tb
+images: "false"
+order: 
 enableToc: "true"
-permalink:
-aliases:
+permalink: 
+aliases: 
 draft: "false"
 publish: "true"
 date: 2021-05-10
 tags:
+  - intellectualism
+  - social-media
+  - gender
+  - parenting
+yaml_end: true
 ---
-
 I don’t like sharing things like this by public intellectuals for a few reason, like: so many other people do, which gives it a ‘performative’ edge, and that in turn creates a kind of veil of piety. Basically, if we take the ‘filter bubble’ metaphor seriously, even bubbles are dynamic systems, right? But sometimes a sentence jumps out that’s right on, like this one: “A mother may be treated like a criminal for leaving her child alone for five minutes, even if that child’s father has left it alone for several years.”
 
 > Rebecca Solnit 

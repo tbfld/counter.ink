@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2013-03-03 ascii joy division
 description: 
 extract: 
@@ -14,12 +15,9 @@ draft: "false"
 publish: "true" 
 tags:
   - art
-  - "#design"
-  - "#visual-culture"
-  - "#art"
-  - "#visualization"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 `-----------—^/\⧸⧹/\∕⧵/∖∧^^⋏^^—------------`  

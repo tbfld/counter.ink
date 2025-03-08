@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-10-28 local apocalypse
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-10-28
 tags:
-  - "#art"
-  - "#culture"
-  - "#society"
-  - "#apocalypse"
-  - "#conceptualism"
+  - needs_tags
+yaml_end: true
 ---
 
 We need the idea of a local apocalypse. “Localypse” will do for now, unless you have something better.

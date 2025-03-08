@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-06-18 can the left meme
 description:
 extract:
@@ -14,15 +15,16 @@ draft:
 publish:
 date: 2017-06-18
 tags:
-- institution
-- language
-- left
-- media
-- meme
-- news
-- politics
-- right
-- society
+  - institution
+  - language
+  - left
+  - media
+  - meme
+  - news
+  - politics
+  - right
+  - society
+yaml_end: true
 ---
 
 To: nettime-l

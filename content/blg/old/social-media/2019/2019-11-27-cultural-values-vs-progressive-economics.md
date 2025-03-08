@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-11-27 cultural values vs progressive economics
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-11-27
 tags:
-  - "#politics"
-  - "#economics"
-  - "#culture"
-  - "#agriculture"
-  - "#conservatism"
+  - needs_tags
+yaml_end: true
 ---
 
 I wish [these stories](https://www.nytimes.com/2019/11/27/nyregion/hull-o-farm-catskills.html) came with a disclosure like “\[Farmer X] voted Republican in every election from 1972 to 2016.” The collapse of family farming is a catastrophe, but that’s what happens when you prioritize ‘conservative’ cultural values over progressive economics.

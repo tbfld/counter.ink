@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-06-13 the turn toward inner space
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-06-13
 tags:
-  - "#music"
-  - "#books"
-  - "#cultural-critique"
-  - "#joy-division"
-  - "#punk-culture"
+  - needs_tags
+yaml_end: true
 ---
 
 \[from Jon Savage’s book *This Searing Light, the Sun and Everything Else: Joy Division*]

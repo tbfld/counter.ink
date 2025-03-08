@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-03-10 icann compilation
 description: 
 extract: 
@@ -17,10 +18,7 @@ tags:
   - europe
   - internet
   - law
-  - "#internet-regulation"
-  - "#digital-rights"
-  - "#governance"
-  - "#dns"
+yaml_end: true
 ---
 
 To: nettime-l

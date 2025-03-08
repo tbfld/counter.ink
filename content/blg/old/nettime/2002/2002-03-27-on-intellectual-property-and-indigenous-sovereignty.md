@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2002-03-27 on intellectual property and indigenous sovereignty
 description: some thoughts on intellectual property and indigenous sovereignty
 extract: 
@@ -15,12 +16,9 @@ publish: "true"
 date: 2002-03-27
 tags:
   - africa
-  - "#intellectual-property"
-  - "#culture"
-  - "#politics"
-  - "#indigeneity"
 status: 
 RSS: “true”
+yaml_end: true
 ---
 
 To: nettime

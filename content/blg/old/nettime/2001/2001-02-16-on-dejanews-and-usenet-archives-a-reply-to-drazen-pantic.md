@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2001-02-16 on dejanews and usenet archives a reply to drazen pantic
 description: 
 extract: 
@@ -15,9 +16,7 @@ publish:
 date: 2001-02-16
 tags:
   - data
-  - "#online-discourse"
-  - "#digital-rights"
-  - "#email"
+yaml_end: true
 ---
 
 To: nettime-l

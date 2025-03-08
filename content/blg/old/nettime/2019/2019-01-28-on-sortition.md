@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-01-28 on sortition
 description: 
 extract: 
@@ -16,10 +17,9 @@ date: 2019-01-28
 tags:
   - governance
   - history
-  - "#politics"
-  - "#brexit"
   - democracy
   - europe
+yaml_end: true
 ---
 
 To: Felix Stalder, nettime

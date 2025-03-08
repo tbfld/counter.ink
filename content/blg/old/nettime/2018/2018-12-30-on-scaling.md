@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-12-30 on scaling
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft:
 publish: 
 date: 2018-12-30
 tags:
-  - "#technology"
-  - "#society"
-  - "#politics"
-  - "#anthropocene"
   - scale
+yaml_end: true
 ---
 
 To: Nettime

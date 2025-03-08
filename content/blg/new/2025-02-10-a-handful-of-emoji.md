@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-02-10 a handful of emoji
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - poetry
   - technology
 status: final
+yaml_end: true
 ---
 
 T. S. Eliot can show you fear in a handful of dust, but I can show you that whole stanza from *The Waste Land* in an emoji:

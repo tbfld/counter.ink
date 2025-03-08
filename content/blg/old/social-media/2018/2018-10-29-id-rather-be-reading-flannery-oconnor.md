@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-10-29 id rather be reading flannery oconnor
 description: 
 extract: 
@@ -14,10 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2018-10-29
 tags:
-  - "#literature"
   - cars
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/id-rather-be-reading-flannery-oconnor.jpg]]

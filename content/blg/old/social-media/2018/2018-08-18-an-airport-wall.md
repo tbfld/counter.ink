@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-08-18 an airport wall
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - urbanism
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/airport-wall.jpg]]

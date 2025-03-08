@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-09-26 crazy piranesi
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2020-09-26
 tags:
-  - "#design"
-  - "#image"
-  - "#media"
   - visualization
-  - "#covid"
+yaml_end: true
 ---
 
 Crazy Piranesi scene right at the end of the block

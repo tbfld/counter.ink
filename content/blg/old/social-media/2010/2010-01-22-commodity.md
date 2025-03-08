@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-01-22 commodity
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - consumerism
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/commodity.jpg]]

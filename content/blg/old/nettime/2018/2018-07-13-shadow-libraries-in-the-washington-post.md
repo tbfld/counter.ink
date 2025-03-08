@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-07-13 shadow libraries in the washington post
 description: 
 extract: 
@@ -18,8 +19,7 @@ tags:
   - information
   - international
   - literature
-  - "#information"
-  - "#piracy"
+yaml_end: true
 ---
 
 To:  Nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2014-05-15 can corporations be good or evil
 description: 
 extract: 
@@ -17,12 +18,11 @@ tags:
   - corporation
   - international
   - law
-  - "#politics"
-  - "#economics"
   - governance
   - google
   - facebook
   - elites
+yaml_end: true
 ---
 
 To: nettime-l

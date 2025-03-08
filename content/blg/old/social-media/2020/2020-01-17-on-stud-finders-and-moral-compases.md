@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-01-17 on stud finders and moral compases
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2020-01-17
 tags:
-  - "#communication"
-  - "#email"
-  - "#media"
-  - "#metaphor"
+  - needs_tags
+yaml_end: true
 ---
 
 I wrote this in something to a private mailing list and thought I’d share:

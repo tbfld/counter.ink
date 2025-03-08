@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-09-06 text rendering
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - error
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[illegal emojis.jpg]]

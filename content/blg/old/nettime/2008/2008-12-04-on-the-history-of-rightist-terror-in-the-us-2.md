@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2008-12-04 on the history of rightist terror in the us 2
 description: 
 extract: 
@@ -17,11 +18,7 @@ tags:
   - history
   - left
   - right
-  - "#war"
-  - "#politics"
-  - "#society"
-  - "#urbanism"
-  - "#terrorism"
+yaml_end: true
 ---
 
 To: Nettime

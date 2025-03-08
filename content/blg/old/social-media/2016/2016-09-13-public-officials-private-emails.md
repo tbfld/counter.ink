@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-09-13 public officials private emails
 description: 
 extract: 
@@ -17,13 +18,9 @@ tags:
   - email
   - law
   - corruption
-  - "#politics"
-  - "#governance"
-  - "#news"
-  - "#public-records"
-  - "#privacy"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 Problem solved: when elected officials use “private” email for public business, their private email becomes public record.

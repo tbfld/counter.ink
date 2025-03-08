@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-04-12 circumcision creates killers
 description: 
 extract: 
@@ -14,12 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2016-04-12
 tags:
-  - "#social-commentary"
-  - "#visual-culture"
   - gender
   - cars
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/circumcision-creates-killers.jpg]]

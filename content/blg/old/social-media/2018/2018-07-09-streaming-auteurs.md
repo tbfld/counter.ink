@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-07-09 streaming auteurs
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2018-07-09
 tags:
-  - "#film"
-  - "#streaming"
-  - "#cinema"
-  - "#visual-culture"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 For me, the essence of cinema today is waiting for Apple’s gigantic volume icon to linger in the center of the screen for as long as possible.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-08-23 on erdogans pseudo coup
 description: 
 extract: 
@@ -16,11 +17,9 @@ date: 2016-08-23
 tags:
   - education
   - europe
-  - "#journalism"
-  - "#media"
-  - "#turkey"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 WTF. I hope that in due time someone documents how badly the NYT got punked by Erdogan — it’ll prove to be on par with Judith Miller’s role in backing the Iraq War. The “coup” was a tiny little Truman Show affair mounted by a handful of idiots in a few neighborhoods, with some serious signal-sending SFX. The countercoup, in contrast, was a systematic purge of political alternatives — with a brutal focus on educational institutions and judicial review. Ambitious NYT reporters and commentators eager for barely sourced scoops based mainly on social media (BOOM BOOM! TANK MAN!) played a decisive role in promoting the narrative. And once it was written in stone, why bother following up with questions like you know, who, what, where, when, etc. But *this* story is completely beyond the pale. Shame.

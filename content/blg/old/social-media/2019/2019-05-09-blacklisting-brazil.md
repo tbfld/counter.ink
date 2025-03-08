@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-05-09 blacklisting brazil
 description: 
 extract: 
@@ -15,10 +16,7 @@ publish: "true"
 date: 2019-05-09
 tags:
   - culture
-  - "#media"
-  - "#government"
-  - "#academia"
-  - "#cultural-critique"
+yaml_end: true
 ---
 
 ```

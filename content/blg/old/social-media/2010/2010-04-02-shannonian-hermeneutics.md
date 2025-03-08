@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-04-02 shannonian hermeneutics
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2010-04-02
 tags:
-  - "#theory"
-  - "#hermeneutics"
-  - "#social-media"
-  - "#information"
+  - needs_tags
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 Google: “No results found for ‘Shannonian hermeneutics’.” “No results found for ‘Shannon’s hermeneutics’.” “No results found for ‘hermeneutics of Claude Shannon’.” Facebook, meet Foucault; Foucault, meet Facebook.

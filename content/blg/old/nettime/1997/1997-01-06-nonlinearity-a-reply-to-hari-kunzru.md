@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-01-06 nonlinearity a reply to hari kunzru
 description: 
 extract: 
@@ -14,14 +15,8 @@ draft:
 publish: 
 date: 1997-01-06
 tags:
-  - "#technology"
-  - "#theory"
-  - "#digital-discourse"
-  - "#nonlinearity"
-  - "#economics"
-  - "#digital-culture"
-  - "#politics"
-  - "#economics"
+  - needs_tags
+yaml_end: true
 ---
 
 To:  nettime-l

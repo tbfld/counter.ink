@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-03-14 recent visual mutations
 description: 
 extract: 
@@ -20,9 +21,8 @@ tags:
   - image
   - meme
   - news
-  - "#cryptography"
-  - "#technology"
   - nfts
+yaml_end: true
 ---
 
 To:  Felix Stalder

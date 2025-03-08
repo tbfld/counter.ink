@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-09-22 yucca as investor
 description: 
 extract: 
@@ -14,9 +15,8 @@ draft:
 publish: 
 date: 1999-09-22
 tags:
-  - "#art"
-  - "#technology"
-  - "#media"
+  - needs_tags
+yaml_end: true
 ---
 
 To: Nettime

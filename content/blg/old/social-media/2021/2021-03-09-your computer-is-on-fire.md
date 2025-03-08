@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-03-09 your computer is on fire
 description: about a new book
 extract: looks good
@@ -17,6 +18,7 @@ tags:
   - publishing
   - books
 RSS: "true"
+yaml_end: true
 ---
 
 ![[your computer-is-on-fire.jpeg|550]]

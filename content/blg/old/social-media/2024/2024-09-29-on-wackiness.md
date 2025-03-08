@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-09-29 on wackiness
 description: 
 extract: 
@@ -14,11 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2024-09-29
 tags:
-  - "#art"
-  - "#cultural-critique"
-  - "#social-commentary"
   - comedy
   - tragedy
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/on-wackiness.jpg]]

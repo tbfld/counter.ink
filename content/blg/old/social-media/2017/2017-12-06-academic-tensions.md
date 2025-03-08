@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-12-06 academic tensions
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-12-06
 tags:
-  - "#academia"
-  - "#cultural-commentary"
-  - "#theory"
-  - "#interdisciplinarity"
   - history
   - cybernetics
   - psychology
+yaml_end: true
 ---
 
 \[cropped screenshot of a printed page that says]

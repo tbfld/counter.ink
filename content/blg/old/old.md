@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 enableToc: 
 permalink: 
 title: old
@@ -13,5 +14,7 @@ aliases:
 draft: false
 publish: false
 tags:
+  - index
+yaml_end: true
 ---
 

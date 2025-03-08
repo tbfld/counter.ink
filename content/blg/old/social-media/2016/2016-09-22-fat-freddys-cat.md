@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-09-22 fat freddys cat
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - politics
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/fat-freddys-cat.jpg]]

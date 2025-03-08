@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-07-11 three point seatbelts
 description: 
 extract: 
@@ -15,13 +16,9 @@ publish: "true"
 date: 2016-07-11
 tags:
   - design
-  - "#technology"
-  - "#history"
-  - "#society"
-  - "#cars"
-  - "#patent-history"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 I was so happy to see this. Bohlin is a hero, and the three-point safety belt has been monumentally important. And, as a bonus, it’s the kind of invention that unravels a lot of posturing about “technology” across the political spectrum: it’s completely banal and egalitarian, it didn’t “disrupt” anything, it’s mandated by governments everywhere at every level, and it’s changed *your* life by saving dozens of people you know and love. (via Tom Luciano) Next up: Sam Alderson and Sierra Sam.

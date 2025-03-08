@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-03-16 thanks for the photoshop
 description: 
 extract: 
@@ -14,9 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-03-16
 tags:
-  - "#image"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 P’shop genius courtesy of *Business Insider*

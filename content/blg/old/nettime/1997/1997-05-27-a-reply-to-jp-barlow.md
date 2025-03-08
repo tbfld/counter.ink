@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-05-27 a reply to jp barlow
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft:
 publish: 
 date: 1997-05-27
 tags:
-  - "#politics"
-  - "#communication"
-  - "#1990s"
-  - "#cybersecurity"
-  - "#economics"
+  - needs_tags
+yaml_end: true
 ---
 
 *(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. I’ve set this email in a monospaced font to make that clear.)*

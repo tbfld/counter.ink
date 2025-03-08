@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-07-20 my fave graffito
 description: 
 extract: 
@@ -14,18 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-07-20
 tags:
-  - "#art"
-  - "#urbanism"
-  - "#visual-culture"
-  - "#street-art"
-  - "#graffiti"
-  - "#art"
-  - "#urbanism"
-  - "#image"
-  - "#street-art"
-  - "#graffiti"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/my-fave-graffito.jpg]]

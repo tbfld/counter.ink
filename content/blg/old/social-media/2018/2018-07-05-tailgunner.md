@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-07-05 tailgunner
 description:
 extract:
@@ -14,9 +15,12 @@ draft: "false"
 publish: "true"
 date: 2018-07-05
 tags:
-- aviation
+  - aviation
+  - design
+  - war
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 I’ve spent a big chunk of the last few years researching WW2+ aviation history, and yesterday stumbled onto the National Mighty Eighth Museum. Say what you will about militarism, but take a moment to imagine what it’d be like to have 1/2" of plexi between you and 35k feet.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-03-28 on context collapse and framing
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2018-03-28
 tags:
-  - "#media"
-  - "#society"
-  - "#psychology-of-public-response"
-  - "#context-collapse"
-  - "#digital"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 A lot of babble has gone into theories of how social media cause ‘context collapse,’ but that misframes the problem — because ‘framing’ itself is the problem. It’s a fine idea in lmited contexts, but it’s something we’re forced to do to ourselves to serve others’ abstract, impersonal demands. If there’s a right to forget, it’s a symptom of a more fundamental need — which should be a right — to never have had to remember at all. René Leriche put it beautifully when he defined health as “life in the silence of the organs.” Imagine life in the silence of the media.

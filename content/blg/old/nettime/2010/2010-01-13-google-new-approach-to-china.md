@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-01-13 google new approach to china
 description: 
 extract: 
@@ -15,11 +16,7 @@ publish:
 date: 2010-01-13
 tags:
   - corporation
-  - "#technology"
-  - "#internet"
-  - "#security"
-  - "#corporation"
-  - "#digital"
+yaml_end: true
 ---
 
 To: Nettime-l

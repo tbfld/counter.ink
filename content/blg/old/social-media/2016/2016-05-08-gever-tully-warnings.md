@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-05-08 gever tully warnings
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-05-08
 tags:
-  - "#design"
-  - "#art"
-  - "#cultural-commentary"
-  - "#safety-labels"
-  - "#toys"
+  - needs_tags
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/gever-tully-warnings.jpg]]

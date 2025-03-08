@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-12-01 agnes denes retrspective
 description: 
 extract: 
@@ -17,11 +18,7 @@ tags:
   - art
   - history
   - image
-  - "#visual-culture"
-  - "#cultural-commentary"
-  - "#feminism"
-  - "#art"
-  - "#feminism"
+yaml_end: true
 ---
 
 I went to go see the Agnes Denes retrospective at the Shed. Here’s something I scribbled about it this AM:

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-06-06 postmodern cereals
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-06-06
 tags:
-  - "#theory"
-  - "#art"
-  - "#visual-culture"
-  - "#food"
-  - "#image"
+  - needs_tags
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/breakfast-theory.jpg]]

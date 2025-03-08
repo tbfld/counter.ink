@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-05-18 richard delgado imperial scholar
 description: 
 extract: 
@@ -16,10 +17,7 @@ date: 2000-05-18
 tags:
   - law
   - right
-  - "#gender"
-  - "#society"
-  - "#software-studies"
-  - "#masculinity"
+yaml_end: true
 ---
 
 To: nettime-l

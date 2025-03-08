@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-09-08 new communications
 description: 
 extract: 
@@ -14,13 +15,12 @@ draft: "false"
 publish: "true" 
 date: 2011-09-08
 tags:
-  - "#communication"
-  - "#media"
   - technology
   - society
   - history
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 “Most new forms of communication occasion some kind of cause célèbre. The script is familiar enough: Overzealous advocates declare that ‘legacy’ models are ‘broken’; established interests overreact; tragic choruses wring their hands about social symptoms and consequences; cooler heads engage in subtler discussions; researchers undertake empirical analyses; institutions adopt and integrate the new technologies; and people get used to it.”

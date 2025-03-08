@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-12-09 data cheerleaders
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-12-09
 tags:
-  - "#data"
-  - "#media"
-  - "#social-justice"
   - law
+yaml_end: true
 ---
 
 Isn’t it about time for outfits like Knight put the crack pipe / kool-aid down and start to address the fact that ‘data’ can have a dark side? Seriously, how long can they go on [in this cheerleading mode](https://twitter.com/knightfdn/status/1203028618982707200)?

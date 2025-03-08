@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2001 > Control Shift Commons — An Interview with James Boyle
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - activism
   - academia
 RSS: "false"
+yaml_end: true
 ---
 
 *This interview with [James Boyle](http://www.law.duke.edu/boylesite/boylebio.htm) [appeared](https://www.metamute.org/editorial/articles/control-shift-commons) in the July 2001 London-based* [Mute *magazine](https://www.metamute.org/) (Vol. 1, No. 18 — [I Am The Network](https://www.metamute.org/shop/magazine/mute-vol-1-no.-18-%E2%80%93-i-am-network)).*

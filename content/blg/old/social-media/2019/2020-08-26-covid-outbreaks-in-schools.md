@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-08-26 covid outbreaks in schools
 description: 
 extract: 
@@ -14,9 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2020-08-26
 tags:
-  - "#education"
-  - "#covid"
   - institution
+yaml_end: true
 ---
 
 Despite the precautions, schools are quickly discovering large outbreaks that have prompted new soul-searching about students’ commitment to social distancing and universities’ ability to deliver even a dramatically transformed on-campus experience.” It takes so few words to convey such a profoundly delusional bubble.

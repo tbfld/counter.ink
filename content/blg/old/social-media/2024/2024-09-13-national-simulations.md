@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-09-13 national simulations
 description: 
 extract: 
@@ -15,11 +16,7 @@ publish: "true"
 date: 2024-09-13
 tags:
   - national
-  - "#cultural-critique"
-  - "#simulation"
-  - "#right"
-  - "#language"
-  - "#bug"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/national-simulations.jpg]]

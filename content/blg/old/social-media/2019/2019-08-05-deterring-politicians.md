@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-08-05 deterring politicians
 description: 
 extract: 
@@ -15,11 +16,10 @@ publish: "true"
 date: 2019-08-05
 tags:
   - politics
-  - "#international"
-  - "#elections"
   - uk
   - brexit
   - law
+yaml_end: true
 ---
 
 \[Bojo] is taking the suicide-bomber theory of electoral politics — make it past the gate then blow sh\*t up — to the next level. The left (everywhere, not just in the UK) is going to be on the back foot until it starts to consider an epochal political project: what would it take to deter this kind of thing? The answers will not be pretty, and they won’t conform to the left’s warm-fuzzy pieties. But in the absence of effective deterrents, gangsters will take over more and more nations, and the populations will be given a choice: become Greece or become Russia.

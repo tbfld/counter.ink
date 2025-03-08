@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-05-22 unabomber critique of conference fees
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft:
 publish: 
 date: 2011-05-22
 tags:
-  - "#art"
-  - "#technology"
-  - "#media"
-  - "#electronic-arts"
-  - "#cultural-critique"
+  - needs_tags
+yaml_end: true
 ---
 
 To: nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-08-16 no privacy for authoritarians
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - right
   - privacy
   - corporation
+yaml_end: true
 ---
 
 Razor-sharp move by Tucows: “we felt this domain \[dailystormer (dot) com] clearly violated our privacy service terms of service by inciting violence, and *removed the privacy protection from the domain.*”

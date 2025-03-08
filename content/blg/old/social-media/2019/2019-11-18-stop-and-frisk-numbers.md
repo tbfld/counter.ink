@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-11-18 stop and frisk numbers
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-11-18
 tags:
-  - "#social-justice"
-  - "#policy"
-  - "#police"
-  - "#nyc"
-  - "#race"
+  - needs_tags
+yaml_end: true
 ---
 
 [“As recently as January \[Bloomberg] was still vigorously defending” stop-and-frisk — that’s Centrist for *arbitrary street interrogation* — and arguing “we certainly did not pick somebody by race.”](https://www.nytimes.com/2019/11/17/opinion/bloomberg-stop-and-frisk.html”) Is that so? 2003–2013, there were over 5 MILLION S&Fs. Percentage by race/ethnicity per year:

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2001-06-27 dark fiber under and over supply a reply to michael gurstein
 description: 
 extract: 
@@ -14,9 +15,8 @@ draft:
 publish: 
 date: 2001-06-27
 tags:
-  - "#internet"
-  - "#technology"
-  - "#communication"
+  - needs_tags
+yaml_end: true
 ---
 
 To: nettime-l

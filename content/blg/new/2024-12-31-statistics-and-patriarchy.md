@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-12-31 statistics and patriarchy
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - statistics
   - technology
 status: final
+yaml_end: true
 ---
 
 ![[content/blg/new/new_images/18C-erotic-dice-1.jpg|wmed relative|left]]

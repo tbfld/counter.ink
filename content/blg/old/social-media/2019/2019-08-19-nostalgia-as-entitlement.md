@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-08-19 nostalgia as entitlement
 description: 
 extract: 
@@ -14,10 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2019-08-19
 tags:
-  - "#culture"
-  - "#nostalgia"
   - meme
   - politics
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/nostalgia-as-entitlement.jpg]]

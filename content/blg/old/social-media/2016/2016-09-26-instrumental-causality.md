@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-09-26 instrumental causality
 description: 
 extract: 
@@ -14,11 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2016-09-26
 tags:
-  - "#media"
   - videogames
   - technology
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 [Video games don’t cause violence, they cause passivity!](https://www.washingtonpost.com/news/wonk/wp/2016/09/23/why-amazing-video-games-could-be-causing-a-big-problem-for-america/) Or, um, maybe instrumental ideas of causality might be a simplistic way to think about their cultural effects? Just a thought.

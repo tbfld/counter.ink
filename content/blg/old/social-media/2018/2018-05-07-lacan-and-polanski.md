@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-05-07 lacan and polanski
 description: 
 extract: 
@@ -13,11 +14,10 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#image"
-  - "#psychoanalysis"
-  - "#film"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/lacan-and-polanski.jpg]]

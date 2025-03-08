@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-02-22 cruel technologies
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2020-02-22
 tags:
-  - "#technology"
-  - "#media"
-  - "#cultural-commentary"
-  - "#visual-culture"
-  - "#digital"
+  - needs_tags
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/cruel-technologies.jpg]]

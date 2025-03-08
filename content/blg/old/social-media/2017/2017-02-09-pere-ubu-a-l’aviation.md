@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-02-09 pere ubu a l’aviation
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-02-09
 tags:
-  - "#art"
-  - "#music"
-  - "#visual-culture"
-  - "#personal-expression"
-  - "#avant-garde"
+  - needs_tags
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/pere-ubu-a-l’aviation.jpg]]

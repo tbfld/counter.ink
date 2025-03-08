@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-06-12 on photocopying a reply to wark 1
 description: 
 extract: 
@@ -18,8 +19,8 @@ tags:
   - education
   - literature
   - media
-  - "#publishing"
   - intellectual-property
+yaml_end: true
 ---
 
 _(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. Ive set this email in a monospaced font to make that clear. For extra OG-typography fun, I “hung” the punctuation on the right margin. )_

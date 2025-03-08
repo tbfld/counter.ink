@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-04-05 WHY? WHY?! WHY?!?!
 description: the road to hell is paved with people “improving” memes
 extract: “That’s hilarious, but it’ll be so. much. better when I redo it artlessly!”
@@ -21,6 +22,7 @@ tags:
   - media
 status: 
 RSS: "false"
+yaml_end: true
 ---
 
 ![[2021-04-05-breakfast-theory-before-and-after.jpg]]
