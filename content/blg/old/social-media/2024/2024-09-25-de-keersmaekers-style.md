@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-09-25 de keersmaekers style
 description: 
 extract: 
@@ -16,10 +17,10 @@ date: 2024-09-25
 tags:
   - art
   - dance
-  - "#cultural-critique"
   - gender
   - media
   - history
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/de-keersmaekers-style.jpg]]

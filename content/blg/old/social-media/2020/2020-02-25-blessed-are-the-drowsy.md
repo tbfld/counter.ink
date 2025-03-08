@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-02-25 blessed are the drowsy
 description: 
 extract: 
@@ -14,10 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-02-25
 tags:
-  - "#literature"
-  - "#cultural-critique"
-  - "#philosophy"
-  - "#visual-culture"
+yaml_end: true
 ---
 
 “Blessed are the drowsy for they shall soon drop off.” — Nietzsche

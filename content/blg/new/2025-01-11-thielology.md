@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-11 Thielology
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - publishing
   - technology
 status: final
+yaml_end: true
 ---
 
 Peter Thiel, a dark guy to begin with, [is utterly lost in his own ‘profound’ metaphors,](https://www.ft.com/content/a46cb128-1f74-4621-ab0b-242a76583105) which is a pretty reliable working definition of insane. Fortunately, [Matthew Gault](https://matthewgault.com/) — new to me, but I’m already a fan — is [on it](https://gizmodo.com/i-have-no-idea-what-peter-thiel-is-trying-to-say-and-its-making-me-really-uncomfortable-2000548724):

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2012-10-31 Hurricane Sandy and art criticism
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2012-10-31
 tags:
-  - "#art"
-  - "#media"
-  - "#society"
-  - "#climate"
-  - "#insurance"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 Ruh-roh. There’s a rising tide of noise about how badly Sandy hit Chelsea galleries, and the claims will be boggling: TRILLIONS lost. Now it’s time for the real art critics to step in: the insurance companies.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2001-03-16 on defense shields a reply to pit schultz
 description: 
 extract: 
@@ -17,9 +18,7 @@ tags:
   - internet
   - media
   - national
-  - "#politics"
-  - "#technology"
-  - "#military"
+yaml_end: true
 ---
 
 To: Nettime

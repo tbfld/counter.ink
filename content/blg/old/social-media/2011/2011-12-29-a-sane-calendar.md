@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-12-29 a sane calendar
 description: 
 extract: 
@@ -14,11 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2011-12-29
 tags:
-  - "#technology"
-  - "#society"
-  - "#ideology"
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 Best idea EVAR: a sane calendrical system. Epic cost, but the fight would expose *every* hidden ideology.

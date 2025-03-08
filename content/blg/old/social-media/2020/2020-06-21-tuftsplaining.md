@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-06-21 tuftsplaining
 description: 
 extract: 
@@ -14,11 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2020-06-21
 tags:
-  - "#design"
-  - "#information"
-  - "#data"
-  - "#visualization"
   - dataviz
+yaml_end: true
 ---
 
 Edward tuftesplains a tuftesplainer

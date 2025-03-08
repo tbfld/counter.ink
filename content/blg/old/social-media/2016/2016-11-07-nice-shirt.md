@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-11-07 nice shirt
 description: 
 extract: 
@@ -14,12 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2016-11-07
 tags:
-  - "#image"
-  - "#digital-art"
-  - "#visual-culture"
-  - "#graphics"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/im-outta-here-shirt.jpg]]

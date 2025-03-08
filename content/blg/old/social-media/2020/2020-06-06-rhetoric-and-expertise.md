@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-06-06 rhetoric and expertise
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - language
   - left
   - right
+yaml_end: true
 ---
 
 The US could use more of this approach. Waving “cheap political rhetoric” aside is good, but it’s the underlying argument that matters: BoJo and the Tories rely on ‘political’ language *because they’re too stupid and lazy to listen to people who know what they’re talking about*. The US institutional ‘left’ is too permanently pre-traumatized say things like this, which is a pity because it’s a winner. Like in a debate, say: “Donald, the reason you constantly bullsh\*t your base is you’re too f\*cking stupid and lazy to actually understand the issues — so you just say the same dumb phrases over and over and over...”

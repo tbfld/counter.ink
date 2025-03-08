@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-04-27 the end of the op ed
 description: “op-ed” disappeared ages ago
 extract: 
@@ -19,5 +20,6 @@ tags:
   - technology
 status: 
 RSS: "true"
+yaml_end: true
 ---
 For the infinitesimal group of people interested in the relationship between literary genres and physical formats — maybe just me — [this is passingly interesting,](https://www.nytimes.com/2021/04/26/opinion/nyt-opinion-oped-redesign.html) mainly as a tombstone. AFAICT, “op-ed” disappeared ages ago.

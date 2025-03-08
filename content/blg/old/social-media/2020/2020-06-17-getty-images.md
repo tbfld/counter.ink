@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-06-17 getty images
 description: 
 extract: 
@@ -14,8 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-06-17
 tags:
-  - "#digital-art"
-  - "#media"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/getty-images.jpg]]

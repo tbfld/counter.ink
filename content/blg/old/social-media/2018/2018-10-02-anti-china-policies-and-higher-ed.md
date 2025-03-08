@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-10-02 anti china policies and higher ed
 description: 
 extract: 
@@ -17,11 +18,10 @@ tags:
   - academia
   - education
   - international
-  - "#politics"
-  - "#academia"
   - china
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 Quite a few US universities would be decimated overnight by a policy like this, and yet their faculties have been quiet on the subject of Trump’s increasingly aggressive anti-China policies. Headlines like this (there’ll be more) will drive applications from China down, maybe sharply. But the academics at these institutions will say nothing, just like they say nothing about the indentured servitude of student debt. They’re sleepwalking.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-04-13 dns and handedness
 description: 
 extract: 
@@ -18,8 +19,7 @@ tags:
   - culture
   - design
   - image
-  - "#internet"
-  - "#online-culture"
+yaml_end: true
 ---
 
 To: nettime-l

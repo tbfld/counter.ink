@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1993–94 > Cop Sculpture
 description: an exhibition I mounted with Lincoln Tobier in 1993
 extract: For several years I had haphazardly clipped newspaper and magazine images of police presenting contraband they’d confiscated — weapons, drugs, currency, art, forgeries, animal or cultural artifacts, smuggled plants and food, and so on. I was fascinated by the ritual of law enforcement agencies staging temporary displays of what amount to fetish objects because, by most measures, they were indistinguishable from contemporary art.
@@ -24,6 +25,7 @@ tags:
   - media-theory
 status: 
 RSS: "false"
+yaml_end: true
 ---
 “Cop Sculpture” was an exhibition I mounted with Lincoln Tobier in 1993 — or, as the poster said, “one project, two installations,” at two galleries across the street from each other.
 

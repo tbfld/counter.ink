@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-30 bestriding the world
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-11-30
 tags:
-  - "#politics"
-  - "#public-discourse"
-  - "#cultural-commentary"
-  - "#rhetorical-analysis"
-  - "#imperialism"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 I can’t unread this: “From the perspective of the Republican leadership’s duty to their country, and indeed to the world that our imperium bestrides...” Seriously, of all the ways you can combine words to do strange and marvelous things, how do you arrive at this — the image of the American imperium bestriding the world?

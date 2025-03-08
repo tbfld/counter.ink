@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-05-06 snapuccinos
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - media
   - food
   - celebrity
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/snapuccinos.jpg]]

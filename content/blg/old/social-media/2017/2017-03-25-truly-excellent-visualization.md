@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-03-25 truly excellent visualization
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-03-25
 tags:
-  - "#visual-culture"
-  - "#design"
-  - "#art"
-  - "#visualization"
-  - "#image"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/truly-excellent-visualization.jpg]]

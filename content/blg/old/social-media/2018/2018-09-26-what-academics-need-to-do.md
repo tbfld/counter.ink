@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-09-26 what academics need to do
 description: 
 extract: 
@@ -17,10 +18,10 @@ tags:
   - academia
   - education
   - economics
-  - "#social-reform"
   - debt
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 [This is jaw-dropping.](https://www.nytimes.com/2018/09/15/opinion/sunday/financial-crisis-student-loans-recession.html

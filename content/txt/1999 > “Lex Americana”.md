@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999 > "Lex Americana"
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
 - aesthetic-critique
 - colors
 RSS: "false"
+yaml_end: true
 ---
 
 Written for the exhibition catalog for my BFF [Vuk Ćosić](https://monoskop.org/Vuk_%C4%86osi%C4%87)’s 1999 show *Vuk Cosić: Contemporary ASCII* (Ljubljana: Galerija Kapelica, 2000). The original was published [here](http://www.ljudmila.org/~vuk/).

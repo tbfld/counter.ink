@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2008 > Design Dictionary — "Visual Communication"
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - visual-culture
   - history
 RSS: "false"
+yaml_end: true
 ---
 
 Like my essay on [[2008 > Design Dictionary — “Virtuality”|“virtuality”]], this essay is exactly what it says on the label: the entry for *visual communication* in a design dictionary — specifically,  [Michael Erlhoff](https://www.be-design.info/en/michael-erlhoff-en) and [Tim Marshall](https://www.rmit.edu.au/about/governance-management/rmit-structure/senior-executives/dvc-design-social-context-vp), eds., [Design Dictionary: Perspectives on Design Terminology](https://birkhauser.de/books/9783764381400) (Basel: Birkhäuser, 2008; available via the [Internet Archive](https://archive.org/details/design-dictionary-perspectives-on-design-terminology)). The Dictionary was simultaneously published in English and German; the German translation of this essay is here.

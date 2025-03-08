@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-05-12 multilevel negation
 description: cognitive training for liberal denialism
 extract: A headline that consists of a half-dozen levels of negation
@@ -20,6 +21,7 @@ tags:
   - covid
 status: 
 RSS: “true”
+yaml_end: true
 ---
 ![[2021-05-12-nyt-multilevel-negation.jpg|wmed relative|center]]
 

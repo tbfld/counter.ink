@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-12-07 on cryptome and how the net has changed
 description: 
 extract: 
@@ -16,11 +17,8 @@ date: 2010-12-07
 tags:
   - cryptography
   - information
-  - "#digital"
-  - "#internet"
-  - "#governance"
-  - "#whistleblowing"
   - censorship
+yaml_end: true
 ---
 
 To: Nettime

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-06 israeli chopper
 description: 
 extract: 
@@ -14,9 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-03-06
 tags:
-  - "#image"
-  - "#visual-culture"
-  - "#media-representation"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/israeli-chopper.jpg]]

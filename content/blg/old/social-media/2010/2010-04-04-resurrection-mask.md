@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-04-04 resurrection mask
 description: 
 extract: 
@@ -14,10 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2010-04-04
 tags:
-  - "#nyc"
   - signage
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/easter-technology.jpg]]

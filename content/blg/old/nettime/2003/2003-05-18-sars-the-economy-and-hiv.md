@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2003-05-18 sars the economy and hiv
 description: 
 extract: 
@@ -15,10 +16,9 @@ publish:
 date: 2003-05-18
 tags:
   - media
-  - "#healthcare"
-  - "#politics"
   - medicine
   - conspiracy
+yaml_end: true
 ---
 
 To: Nettime-l

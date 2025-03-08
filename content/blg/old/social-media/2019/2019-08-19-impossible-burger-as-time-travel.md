@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-08-19 impossible burger as time travel
 description: 
 extract: 
@@ -14,11 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2019-08-19
 tags:
-  - "#food"
-  - "#culture"
   - uk
   - graphics
   - pop
+yaml_end: true
 ---
 
 It turns out the Impossible Whopper really does taste like a hamburger — from Britain in the early ’70s. I’m thinking Wimpy, but maybe all British hamburgers tasted like that.

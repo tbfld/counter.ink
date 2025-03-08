@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-02-27 lets get this party started
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - photography
   - fashion
   - found
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/lets-get-this-party-started.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-06-05 post structuralism a reply to stahlman
 description: 
 extract: 
@@ -17,11 +18,7 @@ tags:
   - culture
   - economics
   - email
-  - "#politics"
-  - "#theory"
-  - "#post-structuralism"
-  - "#semiotics"
-  - "#digital-culture"
+yaml_end: true
 ---
 
 *(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. I’ve set this email in a monospaced font to make that clear.)*

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-05-09 21st c fishing license
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2010-05-09
 tags:
-  - "#art"
-  - "#digital-communication"
-  - "#meme-culture"
-  - "#digital"
-  - "#cultural-commentary"
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/fish-license.jpg]]

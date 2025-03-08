@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999 - Mute — "Not Pale Fire" a review of Michael Light's book Full Moon
 description: 
 extract: 
@@ -19,6 +20,7 @@ tags:
   - photography
   - visual-narrative
 RSS: "false"
+yaml_end: true
 ---
 
 Michael Light

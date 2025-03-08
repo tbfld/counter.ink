@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1998-03-08 on adaweb demise
 description: 
 extract: 
@@ -15,10 +16,7 @@ publish:
 date: 1998-03-08
 tags:
   - art
-  - "#digital-culture"
-  - "#media"
-  - "#publishing"
-  - "#corporation"
+yaml_end: true
 ---
 
 *(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. Ive set this email in a monospaced font to make that clear. For extra OG-typography fun, I “hung” the punctuation on the right margin. )*

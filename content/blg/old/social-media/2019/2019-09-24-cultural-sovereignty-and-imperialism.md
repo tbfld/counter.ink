@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-09-24 cultural sovereignty and imperialism
 description: 
 extract: 
@@ -14,13 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2019-09-24
 tags:
-  - "#media"
-  - "#culture"
-  - "#politics"
   - brexit
   - uk
   - france
   - 1980s
+yaml_end: true
 ---
 
 When Brexit-era BBC head Mark Thompson laments “a total loss of culture sovereignty,” he stands on the shoulders of giants — like the French cultural minister Jack Lang, who complained about US “cultural imperialism.” In 1982. What a time to be alive.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-10-04 on micro generations
 description:
 extract:
@@ -16,6 +17,7 @@ date: 2017-10-04
 tags:
 - culture
 - history
+yaml_end: true
 ---
 
 To: David Garcia

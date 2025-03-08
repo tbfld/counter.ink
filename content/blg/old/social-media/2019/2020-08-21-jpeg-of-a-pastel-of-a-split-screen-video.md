@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-08-21 jpeg of a pastel of a split screen video
 description: 
 extract: 
@@ -14,9 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-08-21
 tags:
-  - "#art"
-  - "#technology"
-  - "#media"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/jpeg-of-a-pastel-of-a-split-screen-video.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-08-09 fire and fury like the world has never seen
 description: 
 extract: 
@@ -14,10 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-08-09
 tags:
-  - "#international"
-  - "#war"
   - china
   - nuclear
+yaml_end: true
 ---
 
 Beijing is ~500 miles from Pyongyang, so China is probably pretty interested in this “fire and fury like the world has never seen” stuff. For perspective, here’s a 500-mile radius from Washington DC.

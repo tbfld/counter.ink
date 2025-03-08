@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-01-04 on the forgotten history of economic schock therapy
 description: 
 extract: 
@@ -14,12 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-01-04
 tags:
-  - "#history"
-  - "#politics"
-  - "#media"
-  - "#russia"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 More forgottten history, when the US was all about “shock therapy” for those dumb Russkies: “Shock therapy, which involved the quick-and-dirty demolition of the old system before a new one had been built, was launched in early 1989 with the editorial support of The New York Times. Mr. Aslund now writes a definitive ‘proof’ that the policy succeeded, except that it would have succeeded more if there had been more shock — defined as ‘a rapid reduction in the budget deficit.’ The Times, in turn, assigns the book to Mr. Lloyd, who celebrated the Aslund-Sachs ‘shock therapy’ during his tenure as Moscow bureau chief of The Financial Times of London.”

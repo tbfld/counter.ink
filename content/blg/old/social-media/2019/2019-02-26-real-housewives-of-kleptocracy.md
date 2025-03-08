@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-02-26 real housewives of kleptocracy
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-02-26
 tags:
-  - "#politics"
-  - "#culture"
-  - "#feminism"
-  - "#kleptocracy-analysis"
-  - "#visual-culture"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/real-housewives-of-kleptocracy.jpg]]

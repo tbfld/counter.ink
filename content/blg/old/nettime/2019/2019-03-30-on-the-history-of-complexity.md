@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-30 on the history of complexity
 description: 
 extract: 
@@ -16,11 +17,8 @@ date: 2019-03-30
 tags:
   - data
   - history
-  - "#technology"
-  - "#culture"
-  - "#media"
-  - "#cybernetics"
   - theory
+yaml_end: true
 ---
 
 To:  nettime-l

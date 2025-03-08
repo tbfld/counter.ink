@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-01-02 who likes what i say
 description: 
 extract: 
@@ -14,11 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-01-02
 tags:
-  - "#internet-culture"
-  - "#social-media"
-  - "#facebook"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 My dream for 2017: TO CONTROL WHO LIKES WHAT I SAY

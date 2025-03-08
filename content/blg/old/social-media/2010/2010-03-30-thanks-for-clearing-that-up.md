@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-03-30 thanks for clearing that up
 description: 
 extract: 
@@ -13,13 +14,9 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#image"
-  - "#digital-art"
-  - "#visual-culture"
-  - "#digital"
-  - "#art"
 status:
 RSS: “true”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/evil-exists.jpg]]

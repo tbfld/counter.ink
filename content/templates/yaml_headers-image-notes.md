@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 enableToc:
 permalink:
 title: yaml_headers image notes
@@ -13,6 +14,7 @@ draft: false
 order:
 aliases:
 publish:
+yaml_end: true
 ---
 
 

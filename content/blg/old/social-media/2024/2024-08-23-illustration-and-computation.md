@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-08-23 illustration and computation
 description: 
 extract: 
@@ -16,10 +17,9 @@ date: 2025-02-14
 tags:
   - 1970s
   - history
-  - "#visual-culture"
-  - "#art"
   - illustration
 status: draft
+yaml_end: true
 ---
 
 

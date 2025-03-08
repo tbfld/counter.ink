@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1996-01-06 forward stolen poetry
 description: 
 extract: 
@@ -14,13 +15,8 @@ draft:
 publish: 
 date: 1996-01-06
 tags:
-  - "#poetry"
-  - "#literature"
-  - "#communication"
-  - "#found"
-  - "#digital"
+yaml_end: true
 ---
-
 
 
 To:  nettime

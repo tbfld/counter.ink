@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-09-02 what we call armed people
 description: 
 extract: 
@@ -15,11 +16,8 @@ publish: "true"
 date: 2020-09-02
 tags:
   - history
-  - "#politics"
-  - "#crime"
-  - "#national"
-  - "#military"
   - violence
+yaml_end: true
 ---
 
 \[Whatever “content” this referred to is now “isn’t available right now’]

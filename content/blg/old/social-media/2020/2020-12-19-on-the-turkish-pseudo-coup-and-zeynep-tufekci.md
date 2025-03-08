@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-12-19 on the turkish pseudo coup and zeynep tufekci
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-12-19
 tags:
-  - "#media-coverage"
-  - "#political-narratives"
-  - "#disinformation"
-  - "#coup"
-  - "#journalism"
+yaml_end: true
 ---
 
 [I’m posting this](https://www.theatlantic.com/ideas/archive/2020/12/trumps-farcical-inept-and-deadly-serious-coup-attempt/617309/) not because of Trump but because of Tufekci, who coincidentally I’ve been banging on about lately. Here’s why: 

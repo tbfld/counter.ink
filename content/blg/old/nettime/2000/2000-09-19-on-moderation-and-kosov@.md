@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2000-09-19 on moderation and kosov@
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft:
 publish: 
 date: 2000-09-19
 tags:
-  - "#communication"
-  - "#online-culture"
-  - "#media"
-  - "#mailing-list-moderation"
-  - "#kosovo-war-discourse"
+yaml_end: true
 ---
 
 To: nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-05-02 morris worm
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-05-02
 tags:
-  - "#digital-art"
-  - "#image"
-  - "#media"
-  - "#cybersecurity"
-  - "#internet"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/morris-worm.jpg]]

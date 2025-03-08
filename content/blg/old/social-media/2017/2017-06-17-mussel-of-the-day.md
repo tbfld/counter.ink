@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-06-17 mussel of the day
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-06-17
 tags:
-  - "#art"
-  - "#image"
-  - "#visual-culture"
-  - "#photography"
-  - "#digital-visuals"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/2017-06-17-mussel-of-the-day.jpg]]

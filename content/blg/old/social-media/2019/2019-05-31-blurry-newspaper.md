@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-05-31 blurry newspaper
 description: 
 extract: 
@@ -14,10 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2019-05-31
 tags:
-  - "#media"
-  - "#publishing"
   - design
   - interface
+yaml_end: true
 ---
 
 I have a KILLER idea. I’m going to start a newspaper and give copies away for FREE – the front page will be crystal clear, but all the other pages will be blurry because YOU DIDN’T PAY FOR IT. 

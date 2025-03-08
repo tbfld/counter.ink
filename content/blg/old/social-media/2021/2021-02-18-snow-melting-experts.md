@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-02-18 snow melting experts
 description: 
 extract: 
@@ -14,9 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2021-02-18
 tags:
-  - "#journalism"
-  - "#climate"
   - crisis
+yaml_end: true
 ---
 
 There are snow-melting experts, and the role of journalism is to seek them out in times of need.

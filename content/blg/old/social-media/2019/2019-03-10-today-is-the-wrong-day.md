@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-10 today is the wrong day
 description: 
 extract: 
@@ -14,9 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-03-10
 tags:
-  - "#image"
-  - "#visual-culture"
-  - "#digital"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/today-is-the-wrong-day.jpg]]

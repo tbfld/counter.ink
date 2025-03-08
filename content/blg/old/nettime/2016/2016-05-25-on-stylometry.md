@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-05-25 on stylometry
 description: 
 extract: 
@@ -17,10 +18,7 @@ tags:
   - data
   - email
   - language
-  - "#privacy"
-  - "#cryptography"
-  - "#information"
-  - "#anonymity"
+yaml_end: true
 ---
 
 To: nettime-l

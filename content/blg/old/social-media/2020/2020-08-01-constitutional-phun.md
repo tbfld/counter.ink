@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-08-01 constitutional phun
 description: 
 extract: 
@@ -15,11 +16,7 @@ publish: "true"
 date: 2020-08-01
 tags:
   - law
-  - "#politics"
-  - "#elections"
-  - "#disinformation"
-  - "#constitution"
-  - "#political-litigation"
+yaml_end: true
 ---
 
 Here’s some hard-core Constitutional phun! You’ll have to bear with me — this is worth it.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-08-20 phil donahue rip
 description: 
 extract: 
@@ -16,12 +17,8 @@ date: 2025-02-14
 tags:
   - 1980s
   - history
-  - "#media-critique"
-  - "#social-commentary"
-  - "#cultural-commentary"
-  - "#lgbtq"
-  - "#genre"
 status: draft
+yaml_end: true
 ---
 
 > Andy Humm

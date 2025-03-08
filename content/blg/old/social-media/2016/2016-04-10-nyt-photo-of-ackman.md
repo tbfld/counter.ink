@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-04-10 nyt photo of ackman
 description: 
 extract: 
@@ -14,13 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2016-04-10
 tags:
-  - "#media"
-  - "#photography"
-  - "#social-commentary"
   - nyt
   - wealth
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/ackman-sex-use.jpg]]

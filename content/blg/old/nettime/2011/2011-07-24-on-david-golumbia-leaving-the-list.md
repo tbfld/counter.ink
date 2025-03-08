@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2011-07-24 on david golumbia leaving the list
 description: 
 extract: 
@@ -14,11 +15,10 @@ draft:
 publish: 
 date: 2011-07-24
 tags:
-  - "#politics"
-  - "#culture"
   - left
   - satire
   - email
+yaml_end: true
 ---
 
 To: Nettime-l

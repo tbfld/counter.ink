@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-07-23 here comes everybody quoting somebody
 description: 
 extract: 
@@ -14,11 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2016-07-23
 tags:
-  - "#literature"
-  - "#cultural-commentary"
   - trope
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 Bracing myself for the coming wave of people quoting Yeats’s “Second Coming” and Benjamin’s thing about the Angel of History

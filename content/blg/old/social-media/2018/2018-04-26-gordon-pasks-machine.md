@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2018-04-26 gordon pasks machine
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2018-04-26
 tags:
-  - "#art"
-  - "#technology"
-  - "#design"
-  - "#interactive-art"
-  - "#cybernetics"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/gordon-pasks-machine.jpg]]

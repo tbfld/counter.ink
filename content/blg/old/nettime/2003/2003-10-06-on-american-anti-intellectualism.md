@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2003-10-06 on american anti intellectualism
 description: 
 extract: 
@@ -20,6 +21,7 @@ tags:
   - media
   - philosophy
   - intellectualism
+yaml_end: true
 ---
 
 To: Nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-11-07 on asset taxes
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-11-07
 tags:
-  - "#finance"
-  - "#politics"
-  - "#social-justice"
   - policy
+yaml_end: true
 ---
 
 “If you were going to do a wealth tax and it was on assets... how you would value it is, I think, complicated to start with. But assume you can get some system of evaluation” — yes, Hills, let’s go out on a limb and assume there might be a way to value assets — “people would literally have to sell assets to pay the tax on the assets that they owned before the wealth tax was levied. That would be incredibly disruptive.” The wealthy would *literally* have to sell things. 😱

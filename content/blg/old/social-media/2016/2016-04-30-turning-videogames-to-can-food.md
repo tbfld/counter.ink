@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-04-30 turning videogames to can food
 description: 
 extract: 
@@ -21,6 +22,7 @@ tags:
   - genre
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/video-games-can-food.jpg]]

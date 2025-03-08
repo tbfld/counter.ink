@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-01-10 on walls in us politics
 description: 
 extract: 
@@ -14,13 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2017-01-10
 tags:
-  - "#politics"
-  - "#history"
-  - "#cultural-commentary"
   - symmetry
-  - "#russia"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 Hmmm, just twigged the weird symmetry between Reagan telling Gorbachev to “tear down this wall” and Trump wanting to build another one.

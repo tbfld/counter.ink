@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2012-03-10 potlatch comparison
 description: 
 extract: 
@@ -14,12 +15,12 @@ draft: "false"
 publish: "true"
 date: 2012-03-10
 tags:
-  - "#found"
   - print-media
   - theory
   - anthropology
 status: 
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/potlatch-comparison-guide.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-11 facebook ad
 description: 
 extract: 
@@ -14,10 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2020-07-11
 tags:
-  - "#education"
-  - "#real-estate"
   - advertising
   - crisis
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/college-campus-4-sale.jpg]]

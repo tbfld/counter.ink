@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-05-24 models of community
 description:
 extract:
@@ -16,6 +17,7 @@ date: 2020-05-24
 tags:
 - left
 - media
+yaml_end: true
 ---
 
 This is bad. Since the early/mid ’90s years Doug Henwood maintained a sane, constructive presence online — mailing lists, newsletters, websites, proto-podcasts — and on the radio. I’ve *never* seen him say or share anything that’d justify suspension or anything remotely like it. That record would be impressive for anyone, but given how much lunacy can permeate leftism (for example, at Pacifica radio stations like WBAI) Doug’s reserve is a towering achievement. So, as Jonathan notes, we’re left with one of those all-too-familiar dilemmas about Facebook’s decision to suspend him. Do we attribute it to malice or incompetence? Is it venal or stupid? Is this one of those “first they came for” stages or just an anomaly? We can’t know, which in a way is the general problem. The specific problem is that Facebook has shut down an absolutely, reliably, responsibly sane voice for no good reason and with no clear recourse. IN PARTICULAR, no bot-proof way for communities that know him to intervene to establish his bona fides. And, on some ur-level, wasn’t *that* model of ‘community’ — the one where people demonstrably know each other — supposed to be the whole f\*cking point of Facebook?Updated May 24, 2020 12:39:15 pm

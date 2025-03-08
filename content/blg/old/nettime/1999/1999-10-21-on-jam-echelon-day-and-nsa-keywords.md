@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-10-21 on jam echelon day and nsa keywords
 description: 
 extract: 
@@ -21,11 +22,7 @@ tags:
   - internet
   - national
   - security
-  - "#regulation"
-  - "#online-culture"
-  - "#media"
-  - "#surveillance"
-  - "#hacktivism"
+yaml_end: true
 ---
 
 To: Nettime

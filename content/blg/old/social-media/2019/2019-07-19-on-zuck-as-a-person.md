@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-07-19 on zuck as a person
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-07-19
 tags:
-  - "#image"
-  - "#cultural-critique"
-  - "#media-representation"
-  - "#celebrity"
-  - "#branding"
+yaml_end: true
 ---
 
 ![[zuck.jpg]]

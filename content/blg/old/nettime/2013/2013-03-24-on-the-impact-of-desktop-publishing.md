@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2013-03-24 on the impact of desktop publishing
 description: 
 extract: 
@@ -16,8 +17,7 @@ date: 2013-03-24
 tags:
   - media
   - publishing
-  - "#technology"
-  - "#culture"
+yaml_end: true
 ---
 
 To: nettime-l

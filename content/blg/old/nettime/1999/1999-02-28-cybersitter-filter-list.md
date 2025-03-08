@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1999-02-28 cybersitter filter list
 description: 
 extract: 
@@ -19,11 +20,7 @@ tags:
   - information
   - internet
   - right
-  - "#anonymity"
-  - "#media"
-  - "#online-culture"
-  - "#censorship"
-  - "#internet"
+yaml_end: true
 ---
 
 To: nettime-l

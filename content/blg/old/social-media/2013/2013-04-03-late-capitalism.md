@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2013-04-03 late capitalism
 description: 
 extract: 
@@ -14,13 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2013-04-03
 tags:
-  - "#technology"
-  - "#society"
-  - "#economics"
-  - "#capitalism"
-  - "#consumerism"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 I totally get how much of late capitalism boils down to a sort of counter-WYSIWYG process of conning you into buying stuff that says it does X on the box but doesn’t actually do X, but a container that doesn’t actually contain is some serious next-level late-capitalist bullsh\*t.

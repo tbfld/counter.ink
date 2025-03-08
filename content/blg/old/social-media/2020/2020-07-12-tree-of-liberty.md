@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-12 tree of liberty
 description: 
 extract: 
@@ -14,13 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-07-12
 tags:
-  - "#art"
-  - "#politics"
-  - "#flag"
-  - "#education"
-  - "#violence"
-  - "#right"
-  - "#guns"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/tree-of-liberty.jpg]]

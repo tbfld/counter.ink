@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-03-02 on visual thinking
 description:
 extract:
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true"
 date: 2021-03-02
 tags:
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/on-visual-thinking.jpg]]

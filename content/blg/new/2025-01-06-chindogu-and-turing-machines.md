@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-06 chindogu and turing machines
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - education
   - language
 status: final
+yaml_end: true
 ---
 
 ![[content/blg/new/new_images/cursing-heatmap.jpg|wmed relative|right]]

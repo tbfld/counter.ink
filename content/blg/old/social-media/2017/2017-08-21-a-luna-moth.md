@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-08-21 a luna moth
 description: 
 extract: 
@@ -14,9 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-08-21
 tags:
-  - "#nature"
   - photography
   - insects
+yaml_end: true
 ---
 
 Yesterday’s moth of the day \#motd — separated by 26 minutes

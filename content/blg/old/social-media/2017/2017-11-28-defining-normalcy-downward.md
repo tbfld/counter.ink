@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-28 defining normalcy downward
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - statistics
   - society
   - google
+yaml_end: true
 ---
 
 WTF. Three results?

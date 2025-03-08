@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2022-09-11 scalar model
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2022-09-11
 tags:
-  - "#image"
-  - "#visual-culture"
-  - "#digital-art"
-  - "#scalar-model"
-  - "#image"
+yaml_end: true
 ---
 
 \[found image]

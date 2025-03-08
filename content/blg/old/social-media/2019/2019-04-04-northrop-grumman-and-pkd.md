@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-04-04 northrop grumman and pkd
 description: 
 extract: 
@@ -14,12 +15,10 @@ draft: "false"
 publish: "true" 
 date: 2019-04-04
 tags:
-  - "#corporation"
-  - "#media"
-  - "#war"
   - visual-culture
   - literature
   - sci-fi
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/northrop-grumman-and-pkd.jpg]]

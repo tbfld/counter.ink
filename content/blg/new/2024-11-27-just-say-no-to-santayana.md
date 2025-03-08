@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2024-11-27 just say no to Santayana
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - history
   - language
 status: draft
+yaml_end: true
 ---
 
 My new year’s resolution for 2025 will be to consign George Santayana to the same dustbin as Godwin’s “Law” and “future historians.” Ritually reciting “those who forget the past are condemned to repeat it” doesn’t change where things are headed, and nor does it teach anyone anything worth knowing. It’s just a spell for conjuring up an imaginary population — you know, *those people* who forgot the past — and blaming them.

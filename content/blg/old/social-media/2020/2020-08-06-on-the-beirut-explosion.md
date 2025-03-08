@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-08-06 on the beirut explosion
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-08-06
 tags:
-  - "#law"
-  - "#crime"
-  - "#politics"
-  - "#judiciary"
-  - "#ecocide"
+yaml_end: true
 ---
 
 This guy’s got the right idea. We *will* need a new type of jurisprudence modeled on war crimes tribunals but applicable in times of peace — to large-scale, even distributed crimes like ecocide, genocide, and (I think) fraud. The scale of rewards that individuals and collectives can gain from crime ‘at scale,’ the punishments will need to be beyond anything we know in order to outweigh them.

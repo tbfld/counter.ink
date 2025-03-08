@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2004 > "Thoughts on the Telecenter as a Model for ICT Deployment in the Rural 'South'"
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - international
   - rural-dynamics
 RSS: "false"
+yaml_end: true
 ---
 
 *A few of these  essays need a longer-than-usual introduction, and this one one of them.*

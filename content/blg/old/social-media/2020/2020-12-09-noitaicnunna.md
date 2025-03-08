@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-12-09 noitaicnunna
 description: 
 extract: 
@@ -14,12 +15,12 @@ draft: "false"
 publish: "true" 
 date: 2020-12-09
 tags:
-  - "#art"
   - media
   - history
   - language
   - typography
   - space
+yaml_end: true
 ---
 
 This painting never stops giving, but the detail I love most: Mary’s response is *literally* backwards. (And, for all you literally haters, there is no more literal meaning of “literal” than *literally* referring to the materiality of letters floating in mid-air.) Way back I saw a few passing mentions that the reversal of the letters related to a theological debate, but I never went to the trouble of tracking that down.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-07-05 y u no keep calm
 description: 
 extract: 
@@ -14,11 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-07-05
 tags:
-  - "#meme"
-  - "#internet-culture"
-  - "#visual-culture"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[y-u-no-keep-calm.jpg]]

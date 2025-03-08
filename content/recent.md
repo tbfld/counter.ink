@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: recents
 description: 
 extract: 
@@ -16,6 +17,7 @@ aliases:
   - index
   - home
 notitle: "true"
+yaml_end: true
 ---
 > [!tip]+ For nimbler things, see [[micro]]
 

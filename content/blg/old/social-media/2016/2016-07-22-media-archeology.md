@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-07-22 media archeology
 description: 
 extract: 
@@ -14,13 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2016-07-22
 tags:
-  - "#internet"
-  - "#education"
-  - "#media"
   - technology
   - history
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 Yes, a home-study course called "Selling the Internet" that uses...VHS tapes!

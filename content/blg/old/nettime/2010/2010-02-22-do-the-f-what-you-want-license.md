@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2010-02-22 do the f what you want license
 description: 
 extract: 
@@ -14,10 +15,7 @@ draft:
 publish: 
 date: 2010-02-22
 tags:
-  - "#technology"
-  - "#law"
-  - "#communication"
-  - "#open-source"
+yaml_end: true
 ---
 
 To: Nettime-l

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-11-12 used letraset
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2019-11-12
 tags:
-  - "#design"
-  - "#art"
-  - "#media"
   - typography
+yaml_end: true
 ---
 
 Help me I just realized Ebay is awash in Letraset

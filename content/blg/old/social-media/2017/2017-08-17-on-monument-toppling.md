@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-08-17 on monument toppling
 description: 
 extract: 
@@ -13,13 +14,9 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#politics"
-  - "#society"
-  - "#national"
-  - "#monument-toppling"
-  - "#regime-change-discourse"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 Something I sent to a mailing list just now:

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-04-01 zlast zupper
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2020-04-01
 tags:
-  - "#art"
-  - "#image"
-  - "#visual-culture"
   - covid
+yaml_end: true
 ---
 
 This took waaaaaay too long

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-01-29 kaleidoscope of intersectionality
 description: 
 extract: 
@@ -17,9 +18,9 @@ tags:
   - crime
   - education
   - law
-  - "#politics"
   - feminism
   - democrats
+yaml_end: true
 ---
 
 This seems pretty reasonable. I’d love to see govt at every level become a kaleidoscope of intersectionality, the sooner the better. But there are few intersections I could do without, like ritual hippy-punchers, law-and-order types, and people who think jail is the way to solve education-related issues.

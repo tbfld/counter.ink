@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-07-18 potato colors
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - theory
   - philosophy
   - visuality
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/potato-colors.jpg]]

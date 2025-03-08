@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-10-16 dancing your way to solvency
 description: 
 extract: 
@@ -15,11 +16,9 @@ publish: "true"
 date: 2020-10-16
 tags:
   - art
-  - "#academia"
-  - "#institution"
-  - "#faculty"
   - education
   - governance
+yaml_end: true
 ---
 
 F\*ck me. When I chaired the U Faculty Senate I warned the administration AND the faculty [this would happen](https://www.nytimes.com/2020/10/16/nyregion/new-school-nyc-endowment-layoffs.html). And I engineered some crucial tools for the UFS to arrest this madness: independent authority to appoint and fund bodies to pursue inquiries and read findings into the minutes (*specifically* over admin compensation), and a model process for forcing central functions like IT to meet faculty-defined principles. Byzantine stuff, to be sure, but I made sure a core group of colleagues understood what those tools were for. The president and provost sure as hell did, and they were p\*ssed. And here we are. A university that burns through 25% of its endowment isn’t just trying to survive, it’s also trying to prop up its value while its parts quietly go on the auction block.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2001-02-14 on dejanews and usenet archives a reply to geert lovink
 description: 
 extract: 
@@ -19,11 +20,7 @@ tags:
   - news
   - publishing
   - right
-  - "#digital-rights"
-  - "#intellectual-property"
-  - "#online-discourse"
-  - "#usenet-archives"
-  - "#protocols"
+yaml_end: true
 ---
 
 To: nettime-l

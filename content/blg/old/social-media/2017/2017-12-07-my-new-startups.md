@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-12-07 my new startups
 description:
 extract:
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true"
 date: 2017-12-07
 tags:
+yaml_end: true
 ---
 
 I’m delighted to unveil my new startup, which has been in stealth mode since about 8:45 this morning: Donjr.io — a voice app that anonymously conferences a random lawyer into a phone call so you later can claim attorney–client privilege. NEWSFLASH: We changed our name to perjr.ly — what do you think? Pushing out an update soon...

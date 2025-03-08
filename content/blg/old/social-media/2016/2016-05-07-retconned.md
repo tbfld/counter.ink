@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-05-07 retconned
 description: 
 extract: 
@@ -13,12 +14,9 @@ aliases:
 draft: "false" 
 publish: "true" 
 tags:
-  - "#visual-culture"
-  - "#digital-art"
-  - "#graphics"
-  - "#image"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/retcon.jpg]]

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2013-03-12 on functional or informational purpose
 description: 
 extract: 
@@ -14,11 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2013-03-12
 tags:
-  - "#graffiti"
-  - "#theory"
-  - "#trope"
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/useless-stickers.jpg]]

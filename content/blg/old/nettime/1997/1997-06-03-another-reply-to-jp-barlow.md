@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1997-06-03 another reply to jp barlow
 description: 
 extract: 
@@ -16,11 +17,7 @@ date: 1997-06-03
 tags:
   - history
   - right
-  - "#politics"
-  - "#economics"
-  - "#theory"
-  - "#digital-discourse"
-  - "#economics"
+yaml_end: true
 ---
 
 *(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. I’ve set this email in a monospaced font to make that clear.)*

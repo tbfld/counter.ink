@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-03-22 robocall legislation
 description: 
 extract: 
@@ -16,11 +17,7 @@ date: 2019-03-22
 tags:
   - corporation
   - europe
-  - "#technology"
-  - "#communication"
-  - "#society"
-  - "#regulatory-issues"
-  - "#consumerism"
+yaml_end: true
 ---
 
 Good morning! I’m going to start the day in a positive way, with [a story about the efforts of US corporations to protect us from one of the evils of modern life — roboocalls](https://www.usatoday.com/story/tech/2019/03/20/at-t-comcast-say-they-making-progress-fight-against-robocalls/3215621002/

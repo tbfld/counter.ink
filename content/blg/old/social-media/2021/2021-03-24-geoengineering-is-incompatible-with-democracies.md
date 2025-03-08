@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-03-24 geoengineering is incompatible with democracies
 description:
 extract:
@@ -14,6 +15,7 @@ draft: "false"
 publish: "true"
 date: 2021-03-24
 tags:
+yaml_end: true
 ---
 
 It seems like you can have geo-engineering or you can have democracy, but you can’t have both: there’s no way to democratic way to ratify efforts to change the earth itself. If anyone sees how these things can be reconciled, I’d love to hear how you do it.Updated Mar 27, 2021 10:46:19 pmMar 27, 2021 10:46:19 pm

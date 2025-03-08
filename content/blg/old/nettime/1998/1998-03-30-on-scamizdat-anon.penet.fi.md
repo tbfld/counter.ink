@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 1998-03-30 on scamizdat anon.penet.fi
 description: 
 extract: 
@@ -15,9 +16,7 @@ publish:
 date: 1998-03-30
 tags:
   - email
-  - "#law"
-  - "#anonymity"
-  - "#scientology"
+yaml_end: true
 ---
 To:  nettime-l
 Subject: <nettime> anon.penet.fi: case closed

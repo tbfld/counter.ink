@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-10-30 what we can learn from turkey
 description: 
 extract: 
@@ -15,11 +16,7 @@ publish: "true"
 date: 2020-10-30
 tags:
   - history
-  - "#media"
-  - "#politics"
-  - "#disinformation"
-  - "#turkey"
-  - "#foreign-policy"
+yaml_end: true
 ---
 
 *NYT*: “While secular and liberal Turks generally opposed the coup, it was Mr. Erdogan’s supporters who flooded the streets and gathered at Istanbul’s airport Saturday morning to push out the occupying army. They mostly yelled religious slogans and chants in support of Mr. Erdogan, not of democracy itself.’

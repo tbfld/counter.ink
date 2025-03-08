@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2016-04-10 on the need for apocalypse
 description: 
 extract: 
@@ -14,12 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2016-04-10
 tags:
-  - "#politics"
-  - "#social-commentary"
   - environment
   - history
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 A lot of people seem to need an apocalypse — “plunging headlong toward a full-scale ecological meltdown,” “entire biosphere of the earth is coming violently apart,” etc, etc — to act in a conscientious way. I agree that I probably won’t see another Sanders in my lifetime; and I also think we’re at a pivotal point in the US’s history. But I don’t need the earth to be spinning off its axis (the apocalyptic flavor of the week) to turn what should be a principled act — voting — into a cosmic battle between the Children of Light and the Children of Darkness. It’s easier to say, as a matter of principle, that we all benefit from discouraging would-be dynasties.

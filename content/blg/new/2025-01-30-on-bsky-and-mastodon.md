@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2025-01-30 on bsky and mastodon
 description: 
 extract: 
@@ -21,6 +22,7 @@ tags:
   - protocol
   - right
 status: final
+yaml_end: true
 ---
 
 It occurs to me, as we see more and more people drifting toward Bsky, that the conventional wisdom is that Mastodon “died” or is in the doldrums or somesuch — because it didn’t immediately explode into a magical Xwitter-killer I guess? Nothing could be farther from the truth. It’s rolling along merrily in a low-key way. Bsky is fine, but it has a very familiar undercurrent: it feels like some overhyped trendy restaurant full of being *“mwa! mwa!” faaaaabulous*. Mastodon’s vibe is more like your favorite quiet neighborhood café, especially now that the finger-wagging phase is mostly over.  

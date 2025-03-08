@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-09-16 can we call it fascism yet?
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-09-16
 tags:
-  - "#politics"
-  - "#media"
-  - "#cultural-commentary"
-  - "#political-labeling"
-  - "#gop"
+yaml_end: true
 ---
 
 Is it OK to call the GOP a “fascist” party yet? Asking for a friend!

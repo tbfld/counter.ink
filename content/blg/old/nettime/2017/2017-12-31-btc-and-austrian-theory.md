@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-12-31 btc and austrian theory
 description:
 extract:
@@ -19,6 +20,7 @@ tags:
 - history
 - libertarianism
 - technology
+yaml_end: true
 ---
 
 To: Morlock Elloi

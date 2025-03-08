@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-11-10 just say how
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - meme
   - language
   - academia
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/just-say-how.jpg]]

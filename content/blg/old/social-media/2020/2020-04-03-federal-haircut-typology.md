@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-04-03 federal haircut typology
 description: 
 extract: 
@@ -14,10 +15,8 @@ draft: "false"
 publish: "true" 
 date: 2020-04-03
 tags:
-  - "#design"
-  - "#typology"
-  - "#visual-culture"
   - covid
+yaml_end: true
 ---
 
 I’d like to know what canonical authority is behind this typology.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-09-19 margaret mead on acid
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-09-19
 tags:
-  - "#art"
-  - "#image"
-  - "#visual-culture"
-  - "#art"
-  - "#psychedelic-culture"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/mead-on-acid.jpg]]

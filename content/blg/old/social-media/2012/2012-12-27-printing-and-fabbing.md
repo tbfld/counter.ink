@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2012-12-27 printing and fabbing
 description: 
 extract: 
@@ -14,13 +15,11 @@ draft: "false"
 publish: "true" 
 date: 2012-12-27
 tags:
-  - "#technology"
-  - "#design"
-  - "#cultural-commentary"
   - 3d-printing
   - marxism
 status:
 RSS: “false”
+yaml_end: true
 ---
 
 After McKenzie Wark’s thread on a ‘marxocological analysis of 3D printing,’ the blindingly obvious occurs to me: it isn’t printing, it’s closer to fabbing. And we should be in a neo-photocopy aesthetic phase, except there aren’t any punks fabbing 3D neo-zines or lunatics fabbing the 3D equivalent of cramming their secrets into 8.5x11 objects. Or anything like it.

@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-04-29 on NYC telecom monoliths
 description: 
 extract: 
@@ -17,10 +18,7 @@ tags:
   - advertising
   - design
   - internet
-  - "#technology"
-  - "#urbanism"
-  - "#smart-cities"
-  - "#infrastructure"
+yaml_end: true
 ---
 
 To: nettime-l

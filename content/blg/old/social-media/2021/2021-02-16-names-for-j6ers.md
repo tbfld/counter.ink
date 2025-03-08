@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-02-16 names for j6ers
 description: 
 extract: 
@@ -17,9 +18,9 @@ tags:
   - law
   - media
   - national
-  - "#politics"
   - right
   - language
+yaml_end: true
 ---
 
 We need a blanket name for GOP crazies that doesn’t include “Trump” in any form — badly. “Fascists,” “extremists,” “terrorists,” “QAnons,” “far right,” “white supremacists,” none of them fill the bill. We need to think about this, because as long anyone but them uses *his* name to describe them, they — we — are doing his PR. Having said that...

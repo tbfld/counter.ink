@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-02-28 armin medosch rip
 description: 
 extract: 
@@ -20,14 +21,9 @@ tags:
   - news
   - politics
   - publishing
-  - "#technology"
-  - "#information"
-  - "#society"
-  - "#journalism"
-  - "#netzpolitik"
-  - "#digital"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 I logged in to FB to say exactly what Wolfie \[Christl] said and was delighted to find that he’d already said it much better. Along with *Mute*’s Josephine Berry, Pauline Van Mourik Broekman, Simon Worthington (and many more) and *Neural*’s Alessandro Ludovico, Armin Medosch’s *Telepolis* made a new kind of thinking and writing possible. \[There are many contributions in [[blg/old/nettime/nettime]]’s archive, under the thread [“Armin Medosch (1962–2017).”](https://nettime.org/Lists-Archives/nettime-l-1702/threads.html#00070)]

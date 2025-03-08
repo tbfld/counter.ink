@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2019-06-18 on makerism
 description: 
 extract: 
@@ -14,12 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2019-06-18
 tags:
-  - "#technology"
-  - "#internet"
-  - "#media"
-  - "#maker"
-  - "#digital-culture"
-  - "#diplomacy"
+yaml_end: true
 ---
 
 There’s a [really interesting thread](https://nettime.org/Lists-Archives/nettime-l-1906/threads.html#00019) on [[blg/old/nettime/nettime]] about the death of makerism

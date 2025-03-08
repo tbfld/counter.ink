@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2027(?) > "The List as Open Collectivity — nettime at 25 Years and Counting"
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - theory
   - history
 RSS: "false"
+yaml_end: true
 ---
 
 *by Ted Byfield, Felix Stalder, and nettime*[^1]

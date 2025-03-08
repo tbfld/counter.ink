@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 field_settings:
   - id: title
     input: text
@@ -44,4 +45,5 @@ field_settings:
   - id: tags
     input: tags
     path: ""
+yaml_end: true
 ---

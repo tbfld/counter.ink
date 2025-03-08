@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-03-22 king emdash
 description: 
 extract: 
@@ -17,6 +18,7 @@ tags:
   - meme
   - language
   - typography
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/king-emdash.jpg]]

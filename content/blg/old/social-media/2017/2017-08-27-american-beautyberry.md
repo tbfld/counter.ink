@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-08-27 american beautyberry
 description: 
 extract: 
@@ -14,12 +15,9 @@ draft: "false"
 publish: "true" 
 date: 2017-08-27
 tags:
-  - "#nature"
-  - "#image"
-  - "#photography"
-  - "#botanical"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/american-beautyberry.jpg]]

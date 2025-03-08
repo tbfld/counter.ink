@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-11-08 on us masculinity and brands
 description: 
 extract: 
@@ -15,15 +16,9 @@ publish: "true"
 date: 2017-11-08
 tags:
   - culture
-  - "#politics"
-  - "#society"
-  - "#gender"
-  - "#cultural-commentary"
-  - "#masculinity"
-  - "#guns"
-  - "#masculinity"
 status:
 RSS: "false"
+yaml_end: true
 ---
 
 Imma up this from comments this AM then back to woik:

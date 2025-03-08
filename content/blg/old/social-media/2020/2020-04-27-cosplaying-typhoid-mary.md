@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-04-27 cosplaying typhoid mary
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-04-27
 tags:
-  - "#covid"
-  - "#public-health-communication"
-  - "#visualization"
-  - "#testing-policy"
-  - "#healthcare"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/cosplaying-typhoid-mary.jpg]]

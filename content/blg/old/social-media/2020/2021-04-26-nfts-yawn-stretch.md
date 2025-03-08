@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-04-26 nfts yawn stretch
 description: 
 extract: 
@@ -14,7 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2021-04-26
 tags:
-  - "#nfts"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/nfts-anyone.jpeg|550]]

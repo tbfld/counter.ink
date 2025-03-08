@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2020-07-18 on the carnivalesque and its abuses
 description: 
 extract: 
@@ -14,11 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-07-18
 tags:
-  - "#cultural-commentary"
-  - "#theory"
-  - "#media-theory"
-  - "#bakhtin-analysis"
-  - "#carnivalesque"
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/carnivalesque.jpg]]

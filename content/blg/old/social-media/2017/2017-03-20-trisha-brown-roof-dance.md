@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2017-03-20 trisha brown roof dance
 description: 
 extract: 
@@ -18,6 +19,7 @@ tags:
   - dance
   - culture
   - urbanism
+yaml_end: true
 ---
 
 ![[content/blg/old/social-media/FB_images/trisha-brown-roof-dance.jpg|relative wmed|left]]

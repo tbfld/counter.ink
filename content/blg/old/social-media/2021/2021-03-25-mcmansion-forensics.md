@@ -1,4 +1,5 @@
 ---
+yaml_begin: true
 title: 2021-03-25 mcmansion forensics
 description: how to look at a photo of a collapsed McMansion
 extract: The lead picture for the NYT’s tornado story is a real study in McMansion forensics
@@ -22,6 +23,7 @@ tags:
   - visual-culture
 status: 
 RSS: "false"
+yaml_end: true
 ---
 The lead picture for the *NYT*'s tornado story is a real study in McMansion forensics.
 
