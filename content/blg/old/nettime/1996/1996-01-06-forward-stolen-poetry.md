@@ -18,9 +18,7 @@ tags:
   - "#literature"
   - "#communication"
   - "#found"
-  - "#programming-culture"
   - "#digital"
-  - "#poetic-innovation"
 ---
 
 

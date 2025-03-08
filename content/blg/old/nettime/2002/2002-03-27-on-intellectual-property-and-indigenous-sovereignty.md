@@ -1,25 +1,26 @@
 ---
 title: 2002-03-27 on intellectual property and indigenous sovereignty
-description: 
+description: some thoughts on intellectual property and indigenous sovereignty
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: 
-images: 
+author: tb
+images: "false"
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false"
+publish: "true"
 date: 2002-03-27
 tags:
   - africa
   - "#intellectual-property"
   - "#culture"
   - "#politics"
-  - "#indigenous-sovereignty"
-  - "#property-systems-analysis"
+  - "#indigeneity"
+status: 
+RSS: “true”
 ---
 
 To: nettime

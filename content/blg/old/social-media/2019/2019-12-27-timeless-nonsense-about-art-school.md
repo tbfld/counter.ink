@@ -4,21 +4,20 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: 
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2019-12-27
 tags:
   - "#art"
-  - "#media"
-  - "#culture"
-  - "#art"
-  - "#digital-nostalgia"
+  - education
+  - cultural-commentary
+  - technology
 ---
 
 [Totally surreal nonsense.](https://news.artnet.com/art-world/art-school-tech-adapt-1742802) This could’ve been written twenty years ago and it would have been out of date.

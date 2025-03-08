@@ -4,21 +4,20 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: 
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2019-06-14
 tags:
   - "#music"
   - "#books"
   - "#cultural-critique"
-  - "#joy-division"
-  - "#post-punk-culture"
+  - "#postpunk"
 ---
 
 \[from Jon Savage’s book *This Searing Light, the Sun and Everything Else: Joy Division*]

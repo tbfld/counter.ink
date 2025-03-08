@@ -14,17 +14,12 @@ draft:
 publish: 
 date: 2016-04-06
 tags:
-  - culture
-  - data
   - law
   - media
   - national
   - news
-  - society
   - "#privacy"
   - "#surveillance"
-  - "#information"
-  - "#digital-leaks"
   - "#media-aesthetics"
   - "#forensics"
 ---
