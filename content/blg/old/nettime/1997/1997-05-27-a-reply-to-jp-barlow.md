@@ -15,7 +15,12 @@ draft:
 publish: 
 date: 1997-05-27
 tags:
-  - needs_tags
+  - "#media"
+  - "#politics"
+  - "#communication"
+  - "#cyberspace"
+  - email
+  - libertarianism
 yaml_end: true
 ---
 

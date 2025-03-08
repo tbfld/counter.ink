@@ -27,7 +27,7 @@ Subject: Re: <nettime> Who is paying you?
 From: t byfield
 Date: [Sun, 17 Aug 1997 00:28:53 -0400](https://nettime.org/Lists-Archives/nettime-l-9708/msg00065.html)
 
-*(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. Ive set this email in a monospaced font to make that clear.)*
+*(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. I’ve set this email in a monospaced font to make that clear.)*
 
 director@kaapeli.fi (Sat 08/16/97 at 05:41 AM +0100):
 

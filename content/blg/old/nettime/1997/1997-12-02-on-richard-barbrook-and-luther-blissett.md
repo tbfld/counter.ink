@@ -15,7 +15,9 @@ draft:
 publish: 
 date: 1997-12-02
 tags:
-  - needs_tags
+  - "#media-analysis"
+  - "#internet"
+  - anonymity
 yaml_end: true
 ---
 
@@ -24,7 +26,7 @@ Subject: Re: <nettime> Richard Barbrook and Luther Blissett
 From: t byfield
 Date: [Tue, 2 Dec 1997 01:20:37 -0500](https://nettime.org/Lists-Archives/nettime-l-9712/msg00007.html)
 
-*(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. Ive set this email in a monospaced font to make that clear.)*
+*(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. I’ve set this email in a monospaced font to make that clear.)*
 
 richard@hrc.westminster.ac.uk (Sun 11/30/97 at 11:48 PM +0000):
 
