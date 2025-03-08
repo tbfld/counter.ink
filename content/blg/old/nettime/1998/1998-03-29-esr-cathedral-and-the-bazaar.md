@@ -14,6 +14,7 @@ aliases:
 draft: 
 publish: 
 tags:
+  - needs_tags
 date: 1998-03-29
 yaml_end: true
 ---

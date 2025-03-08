@@ -15,6 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2020-02-18
 tags:
+  - needs_tags
 yaml_end: true
 ---
 

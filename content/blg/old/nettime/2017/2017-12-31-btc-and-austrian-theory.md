@@ -15,11 +15,11 @@ draft:
 publish:
 date: 2017-12-31
 tags:
-- device
-- economics
-- history
-- libertarianism
-- technology
+  - device
+  - economics
+  - history
+  - libertarianism
+  - technology
 yaml_end: true
 ---
 

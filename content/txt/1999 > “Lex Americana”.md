@@ -14,12 +14,12 @@ aliases:
 draft: "false"
 publish: "true"
 tags:
-- art
-- language
-- image
-- media-analysis
-- aesthetic-critique
-- colors
+  - art
+  - language
+  - image
+  - media-analysis
+  - aesthetic-critique
+  - colors
 RSS: "false"
 yaml_end: true
 ---

@@ -14,12 +14,12 @@ aliases:
 draft: "false"
 publish: "true"
 tags:
-- crime
-- law
-- media
-- national
-- security
-- war
+  - crime
+  - law
+  - media
+  - national
+  - security
+  - war
 RSS: "false"
 yaml_end: true
 ---

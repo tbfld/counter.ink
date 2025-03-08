@@ -14,13 +14,13 @@ aliases:
 draft: "false"
 publish: "true"
 tags:
-- design
-- history
-- information
-- media
-- society
-- technology
-- apocalypticism
+  - design
+  - history
+  - information
+  - media
+  - society
+  - technology
+  - apocalypticism
 RSS: "false"
 yaml_end: true
 ---
