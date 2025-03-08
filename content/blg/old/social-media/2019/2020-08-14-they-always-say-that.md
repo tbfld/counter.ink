@@ -5,17 +5,23 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: 
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2020-08-14
 tags:
-  - needs_tags
+  - right
+  - politics
+  - history
+  - language
+  - law
+  - jurisprudence
+  - elections
 yaml_end: true
 ---
 Lots of you tune this stuff out, but give me a few minutes of your time, because this doesn’t end like you expect.

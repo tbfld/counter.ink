@@ -1,21 +1,25 @@
 ---
 yaml_begin: true
 title: 2020-05-31 sample graffiti
-description:
-extract:
+description: 
+extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb"
-images:
-order:
+author: tb
+images: 
+order: 
 enableToc: "true"
-permalink:
-aliases:
+permalink: 
+aliases: 
 draft: "false"
 publish: "true"
 date: 2020-05-31
 tags:
-  - needs_tags
+  - graffiti
+  - crime
+  - language
+  - idiom
+  - technology
 yaml_end: true
 ---
 
