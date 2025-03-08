@@ -19,7 +19,7 @@ tags:
   - 1990s
   - urbanism
   - theory
-  - media-critique
+  - media-analysis
   - collaboration
 status: 
 RSS: "false"

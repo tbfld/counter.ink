@@ -16,7 +16,7 @@ publish: "true"
 tags:
   - technology
   - international
-  - rural-dynamics
+  - rural
 RSS: "false"
 yaml_end: true
 ---

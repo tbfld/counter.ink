@@ -16,7 +16,7 @@ publish: "true"
 date: 2021-08-02
 tags:
   - books
-  - government
+  - governance
   - right
   - institution
 status: 

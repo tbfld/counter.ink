@@ -16,8 +16,8 @@ publish: "true"
 tags:
   - architecture
   - theory
-  - media-critique
-  - aesthetic-critique
+  - media-analysis
+  - aesthetics
 RSS: "false"
 yaml_end: true
 ---

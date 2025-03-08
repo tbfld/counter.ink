@@ -17,7 +17,7 @@ date: 2024-09-21
 tags:
   - photography
   - colors
-  - aesthetic-critique
+  - aesthetics
   - technology
 yaml_end: true
 ---

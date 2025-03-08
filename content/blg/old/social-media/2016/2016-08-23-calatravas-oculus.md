@@ -15,7 +15,9 @@ draft: "false"
 publish: "true"
 date: 2016-08-23
 tags:
-  - wtc
+  - nyc
+  - urbanism
+  - architecture
 status: 
 RSS: “false”
 yaml_end: true

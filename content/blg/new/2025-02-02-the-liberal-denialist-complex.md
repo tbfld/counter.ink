@@ -15,7 +15,7 @@ draft:
 publish: 
 date: 2025-02-02
 tags:
-  - government
+  - governance
   - politics
   - right
   - left

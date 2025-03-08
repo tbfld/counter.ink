@@ -18,7 +18,7 @@ tags:
   - books
   - space
   - photography
-  - visual-narrative
+  - visuality
 RSS: "false"
 yaml_end: true
 ---

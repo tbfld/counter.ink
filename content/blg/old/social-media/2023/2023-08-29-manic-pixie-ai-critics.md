@@ -15,7 +15,7 @@ draft: "false"
 publish: "true"
 date: 2023-08-29
 tags:
-  - media-critique
+  - media-analysis
   - gender
   - technology
   - institution

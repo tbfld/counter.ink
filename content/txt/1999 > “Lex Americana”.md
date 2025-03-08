@@ -18,7 +18,7 @@ tags:
   - language
   - image
   - media-analysis
-  - aesthetic-critique
+  - aesthetics
   - colors
 RSS: "false"
 yaml_end: true

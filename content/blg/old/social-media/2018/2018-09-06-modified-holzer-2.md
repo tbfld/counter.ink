@@ -16,7 +16,7 @@ publish: "true"
 tags:
   - art
   - image
-  - contemporary-art
+  - art
   - modification
 status:
 RSS: "false"

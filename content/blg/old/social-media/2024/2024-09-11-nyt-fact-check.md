@@ -18,7 +18,7 @@ tags:
   - nyt
   - right
   - elections
-  - media-critique
+  - media-analysis
 yaml_end: true
 ---
 
