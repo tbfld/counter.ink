@@ -15,10 +15,9 @@ draft:
 publish: 
 date: 1996-01-06
 tags:
+  - needs_tags
 yaml_end: true
 ---
-
-
 To:  nettime
 Subject: FW: Stolen Poetry
 From: t byfield

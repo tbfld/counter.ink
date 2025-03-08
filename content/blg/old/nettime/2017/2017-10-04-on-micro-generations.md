@@ -15,8 +15,8 @@ draft:
 publish:
 date: 2017-10-04
 tags:
-- culture
-- history
+  - culture
+  - history
 yaml_end: true
 ---
 

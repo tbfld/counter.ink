@@ -15,7 +15,7 @@ draft: "false"
 publish: "true"
 date: 2017-12-08
 tags:
-- academia
+  - academia
 yaml_end: true
 ---
 

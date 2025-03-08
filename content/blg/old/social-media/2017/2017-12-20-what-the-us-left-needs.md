@@ -15,9 +15,9 @@ draft: "false"
 publish: "true"
 date: 2017-12-20
 tags:
-- institution
-- left
-- politics
+  - institution
+  - left
+  - politics
 yaml_end: true
 ---
 

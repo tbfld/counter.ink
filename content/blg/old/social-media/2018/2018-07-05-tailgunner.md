@@ -15,7 +15,9 @@ draft: "false"
 publish: "true"
 date: 2018-07-05
 tags:
-- aviation
+  - aviation
+  - design
+  - war
 status:
 RSS: "false"
 yaml_end: true

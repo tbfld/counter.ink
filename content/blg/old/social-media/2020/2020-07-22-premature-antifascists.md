@@ -15,11 +15,11 @@ draft: "false"
 publish: "true"
 date: 2020-07-22
 tags:
-- culture
-- fascism
-- history
-- left
-- right
+  - culture
+  - fascism
+  - history
+  - left
+  - right
 yaml_end: true
 ---
 

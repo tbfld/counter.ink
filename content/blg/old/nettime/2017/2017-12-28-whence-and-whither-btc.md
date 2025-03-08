@@ -15,12 +15,12 @@ draft:
 publish:
 date: 2017-12-28
 tags:
-- cryptography
-- history
-- language
-- right
-- technology
-- theory
+  - cryptography
+  - history
+  - language
+  - right
+  - technology
+  - theory
 yaml_end: true
 ---
 

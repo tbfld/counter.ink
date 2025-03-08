@@ -15,6 +15,7 @@ draft:
 publish: 
 date: 1997-01-06
 tags:
+  - needs_tags
 yaml_end: true
 ---
 

@@ -15,6 +15,7 @@ draft: "false"
 publish: "true" 
 date: 2013-01-22
 tags:
+  - needs_tags
 status:
 RSS: “false”
 yaml_end: true

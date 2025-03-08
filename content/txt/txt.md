@@ -14,6 +14,7 @@ aliases:
 draft: "false"
 publish: "true"
 tags:
+  
 - index
 yaml_end: true
 ---

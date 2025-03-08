@@ -14,13 +14,13 @@ aliases:
 draft: "false"
 publish: "true"
 tags:
-- design
-- history
-- information
-- interface
-- international
-- internet
-- language
+  - design
+  - history
+  - information
+  - interface
+  - international
+  - internet
+  - language
 RSS: "false"
 yaml_end: true
 ---
