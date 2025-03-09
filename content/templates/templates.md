@@ -1,7 +1,7 @@
 ---
 yaml_begin: true
 extract:
-author:
+author: "tb"
 images:
 enableToc:
 permalink:

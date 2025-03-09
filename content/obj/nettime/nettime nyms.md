@@ -5,7 +5,7 @@ description: a looooong list of nyms we cooked up for the netttime-l mailing lis
 extract: Over the 25 years that Felix Stalder and I moderated the list (sometimes with the help of others), we came up with over *seven hundred* subject-specific nyms.
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

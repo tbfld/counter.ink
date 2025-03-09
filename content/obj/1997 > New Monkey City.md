@@ -5,7 +5,7 @@ description: a one-of-a-kind phonebook for an imaginary city.
 extract: "To make New Monkey City, I bought a set of CD-ROMs that claimed to offer the first telephone-and-address listings for the entire United States. Through a painfully laborious process, I extracted all the data then broke it into its arbitrary components: first names, last names, street names, and street types (for example, street, road, drive, parkway, etc.). I  ordered each category by frequency and generated an “average” listing of streets, assigned minimum and maximum numbers to each one, populated the ranges with street addresses (complete with credible numbers of residents), generated statistically probable combinations of first and last names, and assigned them telephone exchanges (complete with credible distributions of phone numbers). I then typeset the result in what then had become the standard phonebook font — Centennial Bell, designed by Matthew Carter for AT&T in the mid — 1970s — printed it on newsprint, and hand-bound the result."
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

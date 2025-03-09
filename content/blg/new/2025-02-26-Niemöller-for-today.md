@@ -5,7 +5,7 @@ description: updating Niemöller’s famous quote for US academia under Trump
 extract: 
 created: 2025-02-26 09:20
 updated: 2025-02-26 09:20
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

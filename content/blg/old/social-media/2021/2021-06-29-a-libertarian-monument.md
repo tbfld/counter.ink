@@ -5,7 +5,7 @@ description: a libertarian monument
 extract: Libertarians aren’t invested in the state, so they don’t really have any context for memorials or monuments
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

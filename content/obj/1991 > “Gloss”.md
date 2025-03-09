@@ -5,7 +5,7 @@ description: the first exhibition I made with my then-collaborator, Lincoln Tobi
 extract: “Gloss” was the first exhibition I made with my then-collaborator, Lincoln Tobier
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
-author: tb
+author: "tb"
 images: "true"
 order: 
 enableToc: "true"

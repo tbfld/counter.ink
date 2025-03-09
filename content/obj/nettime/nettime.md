@@ -5,7 +5,7 @@ description: about nettime — the mailing list, the project
 extract: ...but such a bland description fails to capture what a phenonemon it was
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

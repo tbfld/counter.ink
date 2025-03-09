@@ -5,7 +5,7 @@ description: things written for this site (“old” is things written before th
 extract: 
 created: 2024-11-27 19:37
 updated: 2025-02-14 22:04
-author: 
+author: "tb"
 images: "true"
 order: 
 enableToc: 
