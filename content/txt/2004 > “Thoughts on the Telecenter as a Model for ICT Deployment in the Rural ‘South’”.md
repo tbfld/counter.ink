@@ -6,7 +6,7 @@ extract:
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
 author: tb
-images: "true"
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -20,7 +20,6 @@ tags:
 RSS: "false"
 yaml_end: true
 ---
-
 *A few of these  essays need a longer-than-usual introduction, and this one one of them.*
 
 *In the late 1990s, I worked closely with Drazen Pantic, a Serbian mathematician who, as a Yugoslav representative to the [ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union), had been responsible for introducing the internet to former Yugoslavia. Drazen had gone on to found OpenNet, the internet-based operation of [B92](https://en.wikipedia.org/wiki/B92),  a major broadcaster following the dissolution of Yugoslavia. It became the only major independent broadcaster in Serbia and a crucial node in organizing  protests against the Milosevic regime. When the government raided B92’s transmitter and shut it down,* within a day or so *Drazen arranged for the Dutch internet provider [XS4ALL](https://en.wikipedia.org/wiki/XS4ALL) to broadcast B92’s programming over the net. That was a remarkable technical achievement, but it was also hilarious: B92’s* terrestrial *radio signal was local to Belgrade, but its* internet *broadcast was accessible throughout former Yugoslavia — and, indeed, throughout the world, making B92 an international cause célèbre. For his efforts, in 1999 Drazen was awarded an [EFF Pioneer Award](https://en.wikipedia.org/wiki/EFF_Pioneer_Award), an honor that until then had mainly gone to pantheon of networking heroes — for example, engineers like Vint Cerf and Jon Postel, and encryption researchers like Phil Zimmerman and Whit Diffey. Drazen’s account of this period can be found in his paper, [“Radio B92 and its Internet Project: From Local to Global Media.”](https://core.ac.uk/download/pdf/47275754.pdf)]

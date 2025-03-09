@@ -6,7 +6,7 @@ extract:
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
 author: tb
-images: "true"
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -22,7 +22,6 @@ tags:
 RSS: "false"
 yaml_end: true
 ---
-
 *Like [my essay on telecenters](obsidian://open?vault=siteprep&file=txt%2F2004%20%3E%20%E2%80%9CThoughts%20on%20the%20Telecenter%20as%20a%20Model%20for%20ICT%20Deployment%20in%20the%20Rural%20%E2%80%98South%E2%80%99%E2%80%9D), this document needs some deep background....*
 
 *This internal report began at the end of the 2010 academic year, when my then-employer, the [New School University](https://www.newschool.edu/) (hereafter “TNS,” as lawyers say), announced that all laptop users would be required to install [“network access control” (NAC)](https://en.wikipedia.org/wiki/Network_access_control) software in order to use the wireless networks, because the IT Department’s policy was that wifi “was a privilege not a right.” Why ethernet would be a “right” and wifi not was never clear; TNS’s internet access policy at the time was more like that of MIT (if you can plug in you can use it) than Harvard (which required users to pre-register their devices’ [MAC addresses](https://en.wikipedia.org/wiki/MAC_address)). As usual, the first thing I did was look into the vendor of the NAC software. From many years of following emerging intellectual property (IP) issues, I recognized that the company’s promotions told two* very *different stories: to higher-education markets they pitched themselves as a “security” company, and to content cartels like the MPAA and RIAA as an IP surveillance and enforcement system.

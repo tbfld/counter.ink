@@ -5,8 +5,8 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: "tb"
-images: "true"
+author: tb
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -23,7 +23,6 @@ tags:
 RSS: "false"
 yaml_end: true
 ---
-
 Written for the exhibition catalog for my BFF [Vuk Ćosić](https://monoskop.org/Vuk_%C4%86osi%C4%87)’s 1999 show *Vuk Cosić: Contemporary ASCII* (Ljubljana: Galerija Kapelica, 2000). The original was published [here](http://www.ljudmila.org/~vuk/).
 ***
 

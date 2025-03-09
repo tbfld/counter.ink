@@ -5,8 +5,8 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: 
-images: "true"
+author: tb
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -21,7 +21,6 @@ tags:
 RSS: "false"
 yaml_end: true
 ---
-
 *by Ted Byfield, Felix Stalder, and nettime*[^1]
 
 This is an insider account. Both of us have been deeply involved in the \<nettime> project from very early on, and most of that time on a daily basis as the list’s moderators. As a brief self-description the footer appended to every message states, 

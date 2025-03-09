@@ -63,7 +63,7 @@ I write constantly but I never especially wanted to “be” a writer, so most o
 
 [[2001 > Control-Shift-Commons — An Interview with James Boyle]] (*Mute* [London])
 
-[[2003 > “*Information und Gemeinwohl*” {UNF}]] (in German, obviously), a double interview of myself and Eben Moglen, then–General Counsel for the Free Software Foundation, in [*Malmoe*](https://www.malmoe.org/) (Vienna)
+[[2003 > “*Information und Gemeinwohl*”]] (in German, obviously), a double interview of myself and Eben Moglen, then–General Counsel for the Free Software Foundation, in [*Malmoe*](https://www.malmoe.org/) (Vienna)
 
 [[2004 > “Thoughts on the Telecenter as a Model for ICT Deployment in the Rural ‘South’”]] (privately distributed)
 
