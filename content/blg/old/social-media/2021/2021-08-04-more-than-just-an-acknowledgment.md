@@ -18,7 +18,7 @@ tags:
   - culture
   - history
   - language
-  - performativity
+  - performance
   - institution
 status: 
 RSS: "true"

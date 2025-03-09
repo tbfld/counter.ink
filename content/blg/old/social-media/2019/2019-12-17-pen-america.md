@@ -17,7 +17,7 @@ date: 2019-12-17
 tags:
   - literature
   - civil-society
-  - literarature
+  - literature
 yaml_end: true
 ---
 

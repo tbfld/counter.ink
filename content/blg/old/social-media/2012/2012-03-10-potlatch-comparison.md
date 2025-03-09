@@ -15,7 +15,7 @@ draft: "false"
 publish: "true"
 date: 2012-03-10
 tags:
-  - print-media
+  - print
   - theory
   - anthropology
 status: 

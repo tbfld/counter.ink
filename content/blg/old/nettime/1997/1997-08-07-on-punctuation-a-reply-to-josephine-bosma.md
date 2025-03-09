@@ -16,7 +16,7 @@ publish:
 date: 1997-08-07
 tags:
   - history
-  - print-media
+  - print
 yaml_end: true
 ---
 

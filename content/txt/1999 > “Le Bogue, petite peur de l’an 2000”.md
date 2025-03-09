@@ -20,7 +20,7 @@ tags:
   - media
   - society
   - technology
-  - apocalypticism
+  - apocalypse
 RSS: "false"
 yaml_end: true
 ---
