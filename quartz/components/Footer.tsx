@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-<a href="https://counter.ink/index.xml">RSS here</a>. © {year} Ted Byfield. If you want something, ask nice. 👍🏼
+<a href="https://counter.ink/index.xml">RSS</a>; <a href="https://counter.ink/tags">tags</a>. © {year} TB. If you want something, just ask. 👍🏼
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
