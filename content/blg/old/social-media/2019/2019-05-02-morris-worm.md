@@ -5,18 +5,20 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: 
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2019-05-02
 tags:
-  - needs_tags
+  - internet
+  - journalism
+  - 1980s
+  - software
 yaml_end: true
 ---
-
 ![[content/blg/old/social-media/FB_images/morris-worm.jpg]]
