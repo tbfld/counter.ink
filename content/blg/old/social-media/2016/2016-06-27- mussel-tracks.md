@@ -20,5 +20,4 @@ status:
 RSS: “false”
 yaml_end: true
 ---
-
 ![[content/blg/old/social-media/FB_images/mussel-tracks.jpg]]

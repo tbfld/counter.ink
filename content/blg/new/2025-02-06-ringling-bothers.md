@@ -6,7 +6,7 @@ extract:
 created: 2025-02-06 11:34
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -23,7 +23,6 @@ tags:
 status: draft
 yaml_end: true
 ---
-
 Here’s a detail that I think will actually be useful to many people, because it points toward what I’m 99% sure is a *method* the fashies are developing. If you think *meh, local news who cares?*, you’re making a mistake.
 
 One odd detail in DeSantis’s proposed budget is to [move the “Ringling” — that is, the John Mable Ringling Museum of Art — from FSU to the New College of Florida](https://www.heraldtribune.com/story/news/education/2025/02/04/new-college-could-take-over-ringling-museum-from-florida-state/78209886007/). Who GAF, right? But that’s the point. [Ringling](https://en.wikipedia.org/wiki/John_and_Mable_Ringling_Museum_of_Art) is (1) the “official” art museum of the state of FL, (2) a serious art museum in its own right, and (3) in Sarasota, i.e., a six-hour drive from Tallahassee, where FSU is based. Why move it? [NCF](https://en.wikipedia.org/wiki/New_College_of_Florida) President Richard Corcoran says it’ll be good for FSU (by “advancing its scientific research”) and for NCF, which “is building America’s best liberal arts college.”

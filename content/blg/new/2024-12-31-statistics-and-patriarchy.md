@@ -6,7 +6,7 @@ extract:
 created: 2024-12-31 11:36
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "true"
 order: 
 enableToc: 
 permalink: 
@@ -23,7 +23,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 ![[content/blg/new/new_images/18C-erotic-dice-1.jpg|wmed relative|left]]
 ![[content/blg/new/new_images/18C-erotic-dice-2.jpg|wmed relative|left]]
 ![[content/blg/new/new_images/18C-erotic-dice-3.jpg|wmed relative|left]]

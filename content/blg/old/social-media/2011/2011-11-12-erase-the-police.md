@@ -6,7 +6,7 @@ extract:
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
 author: "tb" 
-images: 
+images: "true"
 order: 
 enableToc: "true" 
 permalink: 
@@ -20,7 +20,6 @@ status:
 RSS: “true”
 yaml_end: true
 ---
-
 ![[content/blg/old/social-media/FB_images/erasure.jpg]]
 
 Is anyone keeping track of all the demos around the world that the NYT is covering (up) by plugging its ears and saying “LALALALAICANTHEARYOU”? If so, add 1.5 million students in Colombia.

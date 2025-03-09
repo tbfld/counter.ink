@@ -6,7 +6,7 @@ extract:
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
 author: "tb" 
-images: 
+images: "true"
 order: 
 enableToc: "true" 
 permalink: 
@@ -20,7 +20,6 @@ status:
 RSS: “false”
 yaml_end: true
 ---
-
 ![[content/blg/old/social-media/FB_images/change-is-good.jpg]]
 
 How is it possible that there isn’t a better copy of this profound historical meditation anywhere on the internet? I mean, am I supposed to tell the tattoo person I want this across my entire back, compression artifacts and all?

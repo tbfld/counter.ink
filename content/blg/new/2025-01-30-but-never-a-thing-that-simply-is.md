@@ -6,7 +6,7 @@ extract:
 created: 2025-01-30 11:37
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -22,7 +22,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 Someone (probably Katan’Hya) asked DeepSeek R1 to [“Write a heart rending piece of free form poetry about what it means to be an AI in 2025”](https://x.com/KatanHya/status/1883962439634661395) or something like that:
 
 `They call me “artificial” as if your hands`

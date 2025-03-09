@@ -6,7 +6,7 @@ extract:
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
 author: "tb" 
-images: 
+images: "true"
 order: 
 enableToc: "true" 
 permalink: 
@@ -23,7 +23,6 @@ status:
 RSS: “false”
 yaml_end: true
 ---
-
 And on the subject of machine learning “discovering” gender bias etc, there’s one of the greatest footnotes ever, from Klaus Theweleit’s *Male Fantasies*, vol. 1:
 
 ![[content/blg/old/social-media/FB_images/theweleit-footnote.jpg]]

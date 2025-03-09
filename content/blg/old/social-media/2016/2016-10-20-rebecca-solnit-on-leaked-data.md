@@ -5,14 +5,14 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" 
-images: 
+author: tb
+images: "false"
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2016-10-20
 tags:
   - data
@@ -20,11 +20,10 @@ tags:
   - information
   - internet
   - media
-status:
+status: 
 RSS: “false”
 yaml_end: true
 ---
-
 This is really worth reading. BUT. But here’s what I wrote five years ago about why the idea of a ‘leak’ was already over: ///snip/// Where the leak involved the press mediating the shift of knowledge or documentation between government and business, there is of course a new kind of leakage that’s much more systematic and on a scale that very regularly dwarfs Cablegate. It’s endemic to networks and the corporate consolidations they enable, but we still don’t have a good name for it: hack, compromise, exploit, ID theft, and dataleak are the most common names, but poor ones‚ they’re all hopelessly burdened with baggage and they shift emphasis from agency to the event and the product, two hopelessly commodified forms. The forces responsible for these new leakages are sometimes organised, sometimes not; many are in a fast flux of constant, ephemeral reorganisation around means of production, derivatives, affiliations and federations, buyouts and betrayals. These leakages from the ‘private’ sphere, or whatever it is that encompasses relations between corporations and individuals, have reached boggling proportions. It’s only a matter of time before they do the same in the ‘public’ sector‚ if secretive civil and military authorities, as well as surrounding penumbra can be called that. But there’s nothing passive about them: these aren’t leaks, they’re takes. This transformation can be summed up in a single word that doesn’t exist yet: Wikitakes. ///snip///
 
 > Rebecca Solnit 

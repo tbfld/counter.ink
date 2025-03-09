@@ -6,7 +6,7 @@ extract:
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
 author: tb
-images: 
+images: "false"
 order: 
 enableToc: "true"
 permalink: 
@@ -21,6 +21,7 @@ tags:
   - nyt
 yaml_end: true
 ---
+
 [I’m posting this](https://www.theatlantic.com/ideas/archive/2020/12/trumps-farcical-inept-and-deadly-serious-coup-attempt/617309/) not because of Trump but because of Tufekci, who coincidentally I’ve been banging on about lately. Here’s why: 
 
 The NYT and CNN played a crucial role in legitimizing the narrative that the threadbare events in Turkey in July 2016 were a coup; if those two outlets had been more skeptical, the rest of the world press would have followed suit. Erdogan couldn’t have been more obvious about targeting CNN: ostensibly terrified for his life and uncertain about military sympathies, he fled in a private jet — and gave CNN an exclusive Facetime interview complete with call-sign/location data while he was flying around off the coast near Istanbul.

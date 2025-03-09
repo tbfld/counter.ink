@@ -6,7 +6,7 @@ extract:
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
 author: tb
-images: 
+images: "false"
 order: 
 enableToc: "true"
 permalink: 
@@ -21,6 +21,7 @@ tags:
   - satire
 yaml_end: true
 ---
+
 I wrote this in something to a private mailing list and thought I’d share:
 
 > they’re opportunists outfitted with stud finders instead of moral compasses: they’ve got magnets and can find stuff, but it doesn’t seem like north or all that true.

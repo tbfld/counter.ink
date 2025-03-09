@@ -6,7 +6,7 @@ extract:
 created: 2025-02-10 10:43
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -21,7 +21,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 T. S. Eliot can show you fear in a handful of dust, but I can show you that whole stanza from *The Waste Land* in an emoji:
 
 ```

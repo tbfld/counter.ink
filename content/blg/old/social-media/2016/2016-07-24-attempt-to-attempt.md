@@ -5,20 +5,19 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" 
-images: 
+author: tb
+images: "false"
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2016-07-24
 tags:
   - needs_tags
-status:
+status: 
 RSS: “false”
 yaml_end: true
 ---
-
 [WTF “FIVE YEARS IN PRISON for one felony count of beverage return of non-refundable bottles.”](https://www.theguardian.com/us-news/2016/jul/24/michigan-bottle-deposit-recycling-seinfeld) A legal scholar dismisses the guy’s sophistical “attempted to attempt” defense as “the kind of stuff you torture [law] students with.” I guess this entrepreneur should’ve used the “cannibal cop” defense (my precinct!), who argued that his awful plans were just “fantasy role-play” because he hadn’t actually harmed any women yet — and it worked.

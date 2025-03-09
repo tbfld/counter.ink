@@ -6,7 +6,7 @@ extract:
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
 author: "tb" 
-images: 
+images: "true"
 order: 
 enableToc: "true" 
 permalink: 
@@ -20,5 +20,4 @@ status:
 RSS: “true”
 yaml_end: true
 ---
-
 ![[content/blg/old/social-media/FB_images/beyonce.jpg]]

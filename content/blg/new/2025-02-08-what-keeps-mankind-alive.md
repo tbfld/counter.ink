@@ -6,7 +6,7 @@ extract:
 created: 2025-02-08 10:10
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "true"
 order: 
 enableToc: 
 permalink: 
@@ -22,7 +22,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 ![[content/blg/new/new_images/three-p-opera.jpeg|wsmall relative|center]]
 
 I woke up this morning with an old song in my head from *The Threepenny Opera*, which seems newly relevant these days. But there’s something about that play that seems very…resistant? Maybe the play is bad and the music is worse; but maybe there’s something about it we just can’t deal with, something that resists earnest, honest production. The Lincoln Center production that lent the play its iconography in the US was nearly fifty years ago, and a quick scan of musical performances on YT is a wasteland of bumbling pretension. If the best rendition of “What Keeps Mankind Alive” [is by Tom Waits](https://youtu.be/nbRoheBslm8) from the [Hal Willner](https://en.wikipedia.org/wiki/Hal_Willner) album [*Lost in the Stars*](https://en.wikipedia.org/wiki/September_Songs_%E2%80%93_The_Music_of_Kurt_Weill), that in itself says a lot.

@@ -6,7 +6,7 @@ extract:
 created: 2024-11-17
 updated: 2025-02-14
 author: "tb" 
-images: 
+images: "false"
 order: 
 enableToc: "true" 
 permalink: 

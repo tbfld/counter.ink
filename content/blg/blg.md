@@ -6,7 +6,7 @@ extract: This is sort of a blog. *Ceci n’est pas un blog*, maybe — it *is* a
 created: 2024-11-09 14:44
 updated: 2025-02-14 22:04
 author: "tb"
-images: 
+images: "true"
 order: "030"
 enableToc: "true"
 permalink: 
@@ -68,7 +68,6 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-02-20-so-many-nazis-so-little-time|2025-02-20 so many nazis so little time]]
 	- [[2025-02-26-Niemöller-for-today|2025-02-26 Niemöller for today]]
 	- [[2025-03-05-swasticar-flyer|2025-03-05 swasticar flyer]]
-	- [[250305-swasticar-flyer]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]

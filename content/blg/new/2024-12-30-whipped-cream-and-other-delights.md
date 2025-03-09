@@ -6,7 +6,7 @@ extract:
 created: 2024-12-30 12:40
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "true"
 order: 
 enableToc: 
 permalink: 
@@ -21,7 +21,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 [Christopher Bickel writes](https://www.facebook.com/chris.bickel/posts/pfbid0gjPAMbGu8HNra1JV6uis4jMn5y3pt53x2f8VkpSQjNRi4pEYAeAyirXaYTUyYTEel):
 
 >I posted this photo without explanation in a Facebook record collector’s group and there were so many irrationally angry comments about it.

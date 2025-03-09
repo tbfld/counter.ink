@@ -6,7 +6,7 @@ extract:
 created: 2024-12-05 21:18
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -22,7 +22,6 @@ tags:
 status: draft
 yaml_end: true
 ---
-
 [The WP is reporting that the White House is considering “preemptive pardons to figures who might face the hostility of the incoming Trump administration.”](https://www.washingtonpost.com/politics/2024/12/05/white-house-weighs-preemptive-pardons-for-potential-trump-targets/) I’d have to think hard — *very* hard — to imagine anything more emblematic of the Biden admin’s abject failure to grasp the threat Trump poses than blanketing themselves and their supporters with a magical blizzard of private legal exceptions. Talk about privilege...
 
 People like to say that “actions have consequences,” but inactions have consequences too. And the legal perils Biden and his allies face are a direct consequence of their *inaction* — specifically, their failure to hold Trump and his insurrectionist allies to account. I’m not quite ready to say they should personally face those consequences, but the alternative is that *we all will have to face them for the rest of our days*, and I’m even less ready to accept that.

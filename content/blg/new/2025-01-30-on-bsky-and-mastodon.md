@@ -6,7 +6,7 @@ extract:
 created: 2025-01-30 10:08
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -24,7 +24,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 It occurs to me, as we see more and more people drifting toward Bsky, that the conventional wisdom is that Mastodon “died” or is in the doldrums or somesuch — because it didn’t immediately explode into a magical Xwitter-killer I guess? Nothing could be farther from the truth. It’s rolling along merrily in a low-key way. Bsky is fine, but it has a very familiar undercurrent: it feels like some overhyped trendy restaurant full of being *“mwa! mwa!” faaaaabulous*. Mastodon’s vibe is more like your favorite quiet neighborhood café, especially now that the finger-wagging phase is mostly over.  
   
 I know people have encountered harassment problems on Mastodon, which will never be OK, but that mostly has to do with choosing some big, default instance that operates “at scale,” i.e., where the admins do the minimum viable job. There are lots of smaller ones that are very well-run, where issues like that get nipped in the bud. The one I’m involved in, [tldr.nettime.org](https://tldr.nettime.org), has a *really* excellent admin / moderation team, and (naturally) the people there are even better. For people interested in a mix of critical / art / theory / tech / politics / curation / etc, it’s becoming the go-to instance. And it’s doing that slowly and organically, which — starry-eyed rhetoric about how Bsky — is always better than an overnight sensation.  
