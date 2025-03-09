@@ -27,7 +27,10 @@ yaml_end: true
 
 ***
 
-> [!note]+ [[25-03-09-trump-higher-ed-and-judaism|25-03-09 trump, higher ed, and judaism]]
+> [!note]+ [[2025-03-09-elite-capitulation-and-popular-resistance 1|25-03-09 elite capitulation and popular resistance]]
+> When Trump & Co. attack elites, look down not up
+
+> [!note]+ [[2025-03-09-trump-higher-ed-and-judaism|2025-03-09 trump, higher ed, and judaism]]
 > If the fires that were set and continue to be stoked every day by ultraists like Hamas and Netanyahu consume US higher ed, the entire sector — all of it — will burn to the ground.
 
   > [!note]+ [[2025-03-05-swasticar-flyer|25-03-05 swasticar flyer]]

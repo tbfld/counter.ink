@@ -27,8 +27,6 @@ When social media came along, it more or less put an end to blogging. It’s got
 %% Begin Waypoint %%
 - [[blg|blg]]
 - **[[new]]**
-	- [[25-03-09-elite-capitulation-and-popular-resistance|2503-09 elite capitulation and popular resistance]]
-	- [[25-03-09-trump-higher-ed-and-judaism|25-03-09 Trump, higher ed, and Judaism]]
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
 	- [[2024-11-26-second-greatest-footnote-ever|2024-11-26 the second greatest footnote ever]]
 	- [[2024-11-27-all-creatures-terrible-and-fabulous|2024-11-27 all creatures terrible and fabulous]]
@@ -70,6 +68,8 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-02-20-so-many-nazis-so-little-time|2025-02-20 so many nazis so little time]]
 	- [[2025-02-26-Niemöller-for-today|2025-02-26 Niemöller for today]]
 	- [[2025-03-05-swasticar-flyer|2025-03-05 swasticar flyer]]
+	- [[2025-03-09-elite-capitulation-and-popular-resistance|2503-09 elite capitulation and popular resistance]]
+	- [[2025-03-09-trump-higher-ed-and-judaism|25-03-09 Trump, higher ed, and Judaism]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
