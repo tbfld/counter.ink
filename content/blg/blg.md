@@ -68,6 +68,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-02-20-so-many-nazis-so-little-time|2025-02-20 so many nazis so little time]]
 	- [[2025-02-26-Niemöller-for-today|2025-02-26 Niemöller for today]]
 	- [[2025-03-05-swasticar-flyer|2025-03-05 swasticar flyer]]
+	- [[2025-03-09-columbia–vs-feds-timeline|2025-03-09 columbia vs feds timeline]]
 	- [[2025-03-09-elite-capitulation-and-popular-resistance|2503-09 elite capitulation and popular resistance]]
 	- [[2025-03-09-trump-higher-ed-and-judaism|25-03-09 Trump, higher ed, and Judaism]]
 	- **new_images**

@@ -12,7 +12,8 @@ enableToc:
 permalink: 
 draft: "false"
 publish: "true"
-tags: 
+tags:
+  - index
 aliases:
   - index
   - home
@@ -35,7 +36,9 @@ yaml_end: true
 
   > [!note]+ [[2025-03-05-swasticar-flyer|25-03-05 swasticar flyer]]
  > A helpful PDF that you can print out and leave on every Tesla you see!
- 
+
+### 2025-02
+
 > [!warning]+ [[2025-02-12-maybe-too-prophetic]]
 > I wrote this on Facebook on 7 Nov 2024, barely a day after the election, and it seems a little *too* prescient.
 
@@ -59,6 +62,8 @@ yaml_end: true
 
 > [!note]+ [[2025-02-02-the-liberal-denialist-complex|2025 02 02 the liberal denialist complex]]
 > How Gregory Bateson can help us to figure out who’s to blame for Trump’s election, and what that means for activism
+
+### 2025-01
 
 > [!note]+ [[2025-01-30-but-never-a-thing-that-simply-is|2025 01 30 but never a thing that simply is]]
 > Whether “AI” is conscious really doesn’t matter
@@ -99,6 +104,8 @@ yaml_end: true
 > [!note]+ [[2025-01-05-richard-foreman-rip|2025 01 05 richard foreman rip]]
 > “If you let the rhythm of his rocking enter you, he’ll remind you what it feels like to be ecstatic, what it is to be hysterical, what it means to circle the meaningless void that is the wellspring of all meaning.”
 
+##### *BONUS CONTENT!* 2018
+
 > [!note]+ [[2018 > Review of Shadow Libraries — Access to Knowledge in Global Higher Education (MIT Press)|2018 > Review of Shadow Libraries — Access to Knowledge in Global Higher Education (MIT Press)]]
 > Exactly what it says on the label
 
@@ -107,6 +114,10 @@ yaml_end: true
 
 > [!note]+ [[2025-01-03-free-art-and-technology|2025 02 03 free art and technology]]
 > The “cultural discount” is alive and well.
+
+## 2024
+
+### 2024-12
 
 > [!note]+ [[2024-12-31-statistics-and-patriarchy|2024 12 31 statistics and patriarchy]]
 > A few thoughts on an 18th-C pair of dice.
@@ -131,6 +142,8 @@ yaml_end: true
 > [!note]+ [[2024-12-13-recorded-poetry-then-and-now|2024 12 13: recorded poetry then and now]]
 > Amanda Gorman, who shot to fame when she recited her poem “The Hill We Climb” for Biden’s inauguration in 2021, just dropped a new poem that riffs heavily on the movie *Wicked*, and *I think* it’s pretty amazing.
 
+##### *BONUS CONTENT!* 1988
+
 > [!note]+ [[1988 > Survival Research Laboratories]]
 > A short note about working with SRL way back when, to be elaborated into something more interesting at some point soon.
 
@@ -142,6 +155,8 @@ yaml_end: true
 
 > [!note]+ [[blg/new/2024-12-04-desantis-and-the-dod.md|2024 12 04: desantis and the dod]]
 > If the rumors about DeSantis for Sec Def turns out to be serious, the media flap will focus on his “anti-woke” noise and jokes about his white boots e...
+
+### 2024-11
 
 > [!note]+ [[blg/new/2024-11-27-escaping-criticism.md|2024 11 27: escaping criticism]]
 > (image) Pere Borrell del Caso, “Escaping Criticism” (1874).
