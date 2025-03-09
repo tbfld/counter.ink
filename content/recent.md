@@ -28,6 +28,9 @@ yaml_end: true
 
 ***
 
+> [!note]+ [[2025-03-09-columbia–vs-feds-timeline|2025-03-09 columbia vs feds timeline]]
+> Exactly what it says on the label
+
 > [!note]+ [[2025-03-09-elite-capitulation-and-popular-resistance|2025-03-09 elite capitulation and popular resistance]]
 > When Trump & Co. attack elites, look down not up
 
