@@ -5,18 +5,17 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: "false"
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2019-04-06
 tags:
-  - needs_tags
+  - television
 yaml_end: true
 ---
-
 I watched the first season of Sense8 (lateness in these matters is a *virtue*, people) and...it seems a like a really elaborate way to make sense of the most American of all response, “I know *exactly* what you mean.”
