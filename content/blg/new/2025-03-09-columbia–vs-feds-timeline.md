@@ -21,10 +21,12 @@ tags:
   - israel
   - fascism
 status: 
-RSS: 
+RSS: "true"
 yaml_end: true
 ---
-This is a quick-and-dirty timeline of events during 2025 leading up to (and to a lesser degree following) Trump & Co.’s decision to pull $400M in federal funding from Columbia University.
+This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events during 2025 leading up to (and to a lesser degree following) Trump & Co.’s decision to pull $400M in federal funding from Columbia University.
+
+***
 
 **Jan 19:** reports that University Judicial Board held hearings over winter break
 - *Columbia Spectator* ([link](https://www.columbiaspectator.com/news/2025/01/19/university-judicial-board-holds-disciplinary-hearings-during-winter-break-for-student-protesters/))
@@ -32,7 +34,7 @@ This is a quick-and-dirty timeline of events during 2025 leading up to (and to a
 
 **Jan 21:** two Barnard students disrupt first day of "History of Modern Israel" course
 - *Columbia Spectator* [(link)](https://www.columbiaspectator.com/news/2025/02/23/two-barnard-students-expelled-for-history-of-modern-israel-class-disruption-cuad-says/)
-- *Jewish Insider* ([link](https://jewishinsider.com/2025/02/barnard-college-expels-students-involved-in-anti-israel-class-disruption/))
+- *Jewish Insider* ([link](https://jewishinsider.com/2025/02/barnard-college-expels-students-involved-in-anti-israel-class-disruption/); [[20250223_jewish-insider-barnard-story.pdf|local pdf]])
 
 **Jan 28:** CU interim President Katrina Armstrong issues a statement on “Our Unwavering Commitment to the Core Mission and Principles that Define Us”
 - Columbia U ([link](https://president.columbia.edu/news/our-unwavering-commitment-core-mission-and-principles-define-us))
