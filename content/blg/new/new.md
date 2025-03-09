@@ -5,22 +5,26 @@ description: things written for this site (“old” is things written before th
 extract: 
 created: 2024-11-27 19:37
 updated: 2025-02-14 22:04
-author: "tb"
+author: tb
 images: "true"
 order: 
-enableToc: 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: 
-publish: 
+draft: "false"
+publish: "true"
 date: 2025-01-16
 tags:
   - index
 status: final
+RSS: "false"
 yaml_end: true
 ---
 #### Recent posts
 <!-- RECENT_POSTS_START -->]]
+
+> [!note]+ [[2025-03-09-columbia–vs-feds-timeline|2025-03-09 columbia vs feds timeline]]
+> Exactly what it says on the label
 
 > [!note]+ [[2025-03-09-elite-capitulation-and-popular-resistance 1|25-03-09 elite capitulation and popular resistance]]
 > When Trump & Co. attack elites, look down not up
