@@ -27,6 +27,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 %% Begin Waypoint %%
 - [[blg|blg]]
 - **[[new]]**
+	- [[25-03-09-trump-higher-ed-and-judaism|250309 - Trump, higher ed]]
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
 	- [[2024-11-26-second-greatest-footnote-ever|2024-11-26 the second greatest footnote ever]]
 	- [[2024-11-27-all-creatures-terrible-and-fabulous|2024-11-27 all creatures terrible and fabulous]]
