@@ -19,7 +19,7 @@ tags:
   - history
   - media
   - meme
-  - apocalypticism
+  - apocalypse
 yaml_end: true
 ---
 

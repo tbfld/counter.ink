@@ -16,7 +16,7 @@ publish: "true"
 date: 2019-07-19
 tags:
   - theory
-  - apocalypticism
+  - apocalypse
 yaml_end: true
 ---
 

@@ -25,7 +25,7 @@ Early online resources — dialup BBSes, discussion-oriented mailing lists, and 
 When social media came along, it more or less put an end to blogging. It’s got lots of problems, some of them *really* serious, but its weirdness and intensity reflect new stages in how we think about different ideas of community. This jawlog reflects these changing styles, and not the everyone’s-got-their-own-soapbox tone of blogs.
 
 %% Begin Waypoint %%
-- [[blg]]
+- [[blg|blg]]
 - **[[new]]**
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
 	- [[2024-11-26-second-greatest-footnote-ever|2024-11-26 the second greatest footnote ever]]
@@ -579,7 +579,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2017-08-31-im-a-utilitarian|2017-08-31 im a utilitarian]]
 			- [[2017-09-23-historicizing-threats-to-kids|2017-09-23 historicizing threats to kids]]
 			- [[2017-09-28-student-debt-and-inappropriate-conversations|2017-09-28 student debt and inappropriate conversations]]
-			- [[2017-10-03-london-calling]]
+			- [[2017-10-03-london-calling|2017-10-03 london0 calling]]
 			- [[2017-10-05-michael-gurstein-rip|2017-10-05 michael gurstein rip]]
 			- [[2017-10-09-html-email|2017-10-09 html email]]
 			- [[2017-10-28-on-value-btc-and-the-blockchain|2017-10-28 on value btc and the blockchain]]
@@ -1014,7 +1014,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-03-10-the-moruroa-files|2021-03-10 the moruroa files]]
 			- [[2021-03-12-relying-on-judicial-review-was-always-a-dead-end|2021-03-12 relying on judicial review was always a dead end]]
 			- [[2021-03-17-may-have-been-targeted|2021-03-17 may have been targeted]]
-			- [[2021-03-21-lou-ottens-cassette-tape-inventor-rip]]
+			- [[2021-03-21-lou-ottens-cassette-tape-inventor-rip|2021-03-21 lo ottens cassette tape inventor rip]]
 			- [[2021-03-22-krispy-kreme-vakzines|2021-03-22 krispy kreme vakzines]]
 			- [[2021-03-23-hard-to-argue-with-a-camellia|2021-03-23 hard to argue with a camellia]]
 			- [[2021-03-24-geoengineering-is-incompatible-with-democracies|2021-03-24 geoengineering is incompatible with democracies]]
@@ -1022,7 +1022,6 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-03-29-passing-randalorian-litmus-tests|2021-03-29 passing randalorian litmus tests]]
 			- [[2021-04-03-structural-aholes|2021-04-03 structural aholes]]
 			- [[2021-04-05-why-o-why-do-people-do-this|2021-04-05 WHY? WHY?! WHY?!?!]]
-			- [[2021-04-09-seen-one-ross-seen-em-all|2021-04-09 seen one ross seen em all]]
 			- [[2021-04-12-why-privatize-now|2021-04-12 why privatize now]]
 			- [[2021-04-18-obit-for-a-real-life-le-carre-character|2021-04-18 obit for a real-life Le Carre character]]
 			- [[2021-04-23-interview-with-nabil-ahmed|2021-04-23 Interview with Nabil Ahmed]]

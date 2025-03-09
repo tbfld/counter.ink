@@ -5,14 +5,14 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: “true”
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2017-11-26
 tags:
   - film
@@ -21,8 +21,6 @@ tags:
   - gender
   - masculinity
   - cinema
-  - technology
-  - apple
 yaml_end: true
 ---
 

@@ -15,7 +15,6 @@ draft:
 publish: 
 date: 2025-02-10
 tags:
-  - compression
   - language
   - poetry
   - technology

@@ -5,20 +5,23 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: 
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2019-09-16
 tags:
-  - needs_tags
+  - language
+  - politics
+  - fascism
+  - right
+  - social-commentary
 yaml_end: true
 ---
-
 Is it OK to call the GOP a “fascist” party yet? Asking for a friend!
 
 ([NBC](http://www.nbcnews.com/news/us-news/former-gop-candidates-who-won-t-back-trump-could-be-n650171))

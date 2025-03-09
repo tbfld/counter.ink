@@ -5,18 +5,20 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: 
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2019-11-27
 tags:
-  - needs_tags
+  - politics
+  - elections
+  - journalism
+  - agriculture
 yaml_end: true
 ---
-
 I wish [these stories](https://www.nytimes.com/2019/11/27/nyregion/hull-o-farm-catskills.html) came with a disclosure like “\[Farmer X] voted Republican in every election from 1972 to 2016.” The collapse of family farming is a catastrophe, but that’s what happens when you prioritize ‘conservative’ cultural values over progressive economics.

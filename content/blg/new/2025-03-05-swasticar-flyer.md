@@ -19,7 +19,7 @@ publish: "true"
 date: 2024-03-05
 tags:
   - activism
-  - print-media
+  - print
   - antifascism
 status: 
 RSS: "true"

@@ -5,17 +5,21 @@ description:
 extract: 
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
-author: "tb" 
+author: tb
 images: 
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2019-10-01
 tags:
-  - needs_tags
+  - comic
+  - illustration
+  - publishing
+  - cultural-commentary
+  - 1980s
 yaml_end: true
 ---
 

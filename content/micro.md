@@ -15,7 +15,7 @@ draft: "false"
 publish: "true"
 date: 2025-02-18
 tags:
-  - misc
+  - index
 status: 
 notitle: "true"
 yaml_end: true

@@ -14,7 +14,10 @@ aliases:
 draft: 
 publish: 
 tags:
-  - needs_tags
+  - europe
+  - international
+  - language
+  - satire
 yaml_end: true
 ---
 

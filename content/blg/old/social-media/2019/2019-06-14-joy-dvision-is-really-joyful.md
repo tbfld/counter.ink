@@ -15,10 +15,14 @@ draft: "false"
 publish: "true"
 date: 2019-06-14
 tags:
-  - needs_tags
+  - music
+  - 1980s
+  - postpunk
+  - uk
+  - audio
+  - urbanism
 yaml_end: true
 ---
-
 \[from Jon Savage’s book *This Searing Light, the Sun and Everything Else: Joy Division*]
 
 ![[content/blg/old/social-media/FB_images/joy-dvision-is-really-joyful.jpg]]
