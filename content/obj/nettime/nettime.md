@@ -25,7 +25,6 @@ status:
 RSS: "false"
 yaml_end: true
 ---
-
 Technically speaking, [nettime](https://www.nettime.org) was (and remains) a *mailing list* — one of the oldest on the net — but such a bland description fails to capture what a *phenonemon* it was: an online salon featuring [[nettime alumni and alumnae|people who’ve gone on to become big in this and that]], [[nettime nyms|several hundred bespoke pseudonyms]], a series of large meetings in European cities across most of a decade, published books of proceedings, and even the occasional writeup about internal dramas in publications like [*Salon*](https://www.salon.com/1999/03/03/feature_221/). With the exception of the Cypherpunks mailing list and its depoliticized offspring Cryptography — which spawned Bitcoin, Bit Torrent, Wikileaks, among many other things — few other mailing lists have had such widespread impact. There’s no shortage of histories to elaborate that claim: [Wikipedia’s](https://en.wikipedia.org/wiki/Nettime), of course, and [Monoskop](https://monoskop.org/Nettime)’s as well, but also...
 
 - [**Geert Lovink**](https://monoskop.org/Geert_Lovink)’s essay [“The Moderation Question: Nettime and the Boundaries of Mailing List Culture (2001)”](https://monoskop.org/images/3/32/Lovink_Geert_Dark_Fiber_Tracking_Critical_Internet_Culture_2002.pdf#page=81), in his [Dark Fiber, Tracking Critical Internet Culture](https://direct.mit.edu/books/book/2007/Dark-FiberTracking-Critical-Internet-Culture)(Cambridge, MA: MIT Press, 2002), and a revised version in his [*Dynamics of Critical Internet Culture, 1994–2001*](https://networkcultures.org/_uploads/tod/TOD1_dynamicsofcriticalinternetculture.pdf) (Amsterdam: INC, 2009);
@@ -38,5 +37,5 @@ Technically speaking, [nettime](https://www.nettime.org) was (and remains) a *ma
 
 - my own essays, written both [with](2027(?) > “The List as Open Collectivity — nettime at 25 Years and Counting”) my colleague [Felix Stalder](https://felix.openflows.com/) and on my own (see [[2012 > “Nettime – Fortsetzung folgt...”]], in Clemens Apprich and Felix Stalder, eds., *[Vergessene Zukunft. Radikale Netzkulturen in Europa](https://monoskop.org/log/?p=20464)* \[Bielefeld: Transcript, 2012]).
 
-An compilation of many of the messages I sent to the list is [[blg/old/nettime/nettime|here]].
+A compilation of many of the messages I sent to the list is [[blg/old/nettime/nettime|here]].
 
