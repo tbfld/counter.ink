@@ -1,16 +1,16 @@
 ---
 yaml_begin: true
 title: 2020-07-22 premature antifascists
-description:
-extract:
+description: thoughts on the struggle of Serious People to use Serious Words
+extract: It’s un/fun to watch Serious People learn to use the word ‘fascist.’
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb"
-images:
-order:
+author: tb
+images: 
+order: 
 enableToc: "true"
-permalink:
-aliases:
+permalink: 
+aliases: 
 draft: "false"
 publish: "true"
 date: 2020-07-22
@@ -21,8 +21,8 @@ tags:
   - left
   - right
 yaml_end: true
+RSS: "true"
 ---
-
 [This is long but, hopefully, worth it.](https://eand.co/is-it-fascism-yet-402c2ec44723)
 
 Like much of Umair Haque’s writing, this essay is both irritating and right. But what stands out for me is its double focus: on the one hand the question he asks in the title, on the other his emphasis on *whether it’s OK to use the word fascist* — or, in slightly more posh terms something like the discourses around the act of naming. As I think about it, huge swaths of the US’s current political problems revolve around the issue of *naming* and how we fetishize the act. From Malcolm’s adoption of X as a last name to the long history of radical reappropriations — black (and yes ‘the n-word’), gay, fag, queer, and many more I don’t want to rattle off — turning scarlet letters into badges of pride has played a crucial role in liberatory movements. Obviously, if there’s any power in renaming something, then naming things — or misnaming things, or refusing to name things at all — was powerful too. Except, really, all this naming, renaming, unnaming, denaming is just a sideshow, isn’t it?
