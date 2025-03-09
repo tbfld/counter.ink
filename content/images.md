@@ -22,6 +22,24 @@ RSS: "true"
 yaml_end: true
 ---
 
+![[2025-03-09-trump-everything.jpg|wmed relative|center]]
+
+![[2025-03-09-exploded-house.jpg|wmed relative|center]]
+
+![[2025-03-09-guns.jpg|wmed relative|center]]
+
+![[2025-03-09-bell-tatrahedral-kite.jpg|wmed relative|center]]
+
+![[2025-03-09-soviet-kvant-1976.jpg|wmed relative|center]]
+
+![[2025-03-09-mars.jpg|wmed relative|center]]
+
+![[2025-03-09-loie-fuller.jpg|wmed relative|center]]
+
+![[2025-03-09-zamboni.jpg|wmed relative|center]]
+
+![[2025-03-09-gerhard-richter.seestueck.jpg|wmed relative|center]]
+
 ![[2025-03-03-nypd-carl-shurtz-byfield.jpg|wmed relative|center]]
 
 ![[content/img/2025-03-03-south-georgia-instagram-collapse.jpg|wmed relative|center]]

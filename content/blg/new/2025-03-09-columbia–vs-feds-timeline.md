@@ -82,3 +82,4 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 **Mar 09:** DHS arrests student activist at CU
 - DopSite News ([link](https://www.dropsitenews.com/p/dhs-detains-columbia-university-student-gaza?utm_campaign=post&utm_medium=web))
 - Reuters ([link](https://www.reuters.com/world/us/us-authorities-arrest-palestinian-student-protester-columbia-university-students-2025-03-09/))
+- ivZeteo’s detailed account ([link](https://zeteo.com/p/breaking-dhs-detains-palestinian))

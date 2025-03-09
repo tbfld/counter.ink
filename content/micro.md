@@ -5,7 +5,7 @@ description: interesting snippets
 extract: One of those micro-blog-type things
 created: 2025-02-17 23:20
 updated: 2025-02-17 23:20
-author: "tb"
+author: tb
 images: "false"
 order: 
 enableToc: "true"
@@ -18,11 +18,18 @@ tags:
   - index
 status: 
 notitle: "true"
+RSS: "false"
 yaml_end: true
 ---
 > [!tip]+ For chunkier things, see [[recent]]
 
 > [!error]+ Or if you’re more of a visual type, see [[images (2025-02-23 – 2025-03-03)]]
+
+***2025-03-09:*** Mike Masnick on [“Why Techdirt Is Now a Democracy Blog”](https://www.techdirt.com/2025/03/04/why-techdirt-is-now-a-democracy-blog-whether-we-like-it-or-not/)
+
+***2025-03-09:*** Nina Burleigh (a/k/a American Freakshow) on [MAGA’s Heart of Darkness](https://www.americanfreakshow.news/p/magas-heart-of-darkness)
+
+***
 
 ***2025-03-07:*** [“the empathy exploit”](https://www.cnn.com/2025/03/05/politics/elon-musk-rogan-interview-empathy-doge) is quite a phrase
 
