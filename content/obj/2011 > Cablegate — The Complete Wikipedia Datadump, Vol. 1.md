@@ -5,7 +5,7 @@ description: an elaborate encryption joke to suss out Amazon
 extract: 
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

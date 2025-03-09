@@ -5,7 +5,7 @@ description: The Beirut warehouse explosion was a crime not an accident
 extract: Crime ‘at scale’ requires deterrence at scale
 created: 2025-03-07 10:21
 updated: 2025-03-07 10:21
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

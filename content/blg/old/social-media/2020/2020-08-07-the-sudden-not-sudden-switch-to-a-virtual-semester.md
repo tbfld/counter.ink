@@ -5,7 +5,7 @@ description: edu admins suddenly realize what was obvious for months
 extract: Who could have imagined that a country full of people losing their shit with spring isolation would say f- it come summer?
 created: 2025-03-07 10:12
 updated: 2025-03-07 10:12
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

@@ -5,7 +5,7 @@ description: you know, one of those about-this-site pages
 extract: a page about this site and myself
 created: 2025-02-16 23:53
 updated: 2025-02-16 23:53
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

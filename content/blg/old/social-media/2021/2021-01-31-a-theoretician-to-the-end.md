@@ -5,7 +5,7 @@ description: Ros Krauss defends theory
 extract: Ros Krauss defends theory
 created: 2025-03-06 23:27
 updated: 2025-03-06 23:27
-author: tb
+author: "tb"
 images: "true"
 order: 
 enableToc: "true"

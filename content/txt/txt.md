@@ -5,7 +5,7 @@ description: some things I've written
 extract: most of my writing are for a larger context — usually someone else's
 created: 2024-11-09 14:44
 updated: 2025-02-14 22:04
-author: 
+author: "tb"
 images: "true"
 order: 
 enableToc: 

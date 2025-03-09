@@ -5,7 +5,7 @@ description: objects, loosely understood, that I made or was involved in making
 extract: every so often I’ve made things that appear in galleries or museums, that art critics write about, that collectors buy, and that even appear in art histories
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

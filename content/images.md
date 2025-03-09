@@ -5,7 +5,7 @@ description: a stream of pix that pique my interest
 extract: 
 created: 2025-03-03 12:12
 updated: 2025-03-03 12:12
-author: tb
+author: "tb"
 images: "true"
 order: 
 enableToc: "true"

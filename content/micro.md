@@ -5,7 +5,7 @@ description: interesting snippets
 extract: One of those micro-blog-type things
 created: 2025-02-17 23:20
 updated: 2025-02-17 23:20
-author: tb
+author: "tb"
 images: "false"
 order: 
 enableToc: "true"

@@ -5,7 +5,7 @@ description: an exhibition I mounted with Lincoln Tobier in 1993
 extract: For several years I had haphazardly clipped newspaper and magazine images of police presenting contraband they’d confiscated — weapons, drugs, currency, art, forgeries, animal or cultural artifacts, smuggled plants and food, and so on. I was fascinated by the ritual of law enforcement agencies staging temporary displays of what amount to fetish objects because, by most measures, they were indistinguishable from contemporary art.
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
-author: tb
+author: "tb"
 images: "true"
 order: 
 enableToc: "true"
