@@ -1,22 +1,24 @@
 ---
 yaml_begin: true
 title: recents
-description: 
+description: recently recent stuff (but not recently posted old stuff)
 extract: 
 created: 2024-11-27 20:20
 updated: 2025-02-14 22:04
-author: "tb"
+author: tb
 images: "false"
 order: "55"
 enableToc: 
 permalink: 
-draft: 
-publish: 
+draft: "false"
+publish: "true"
 tags: 
 aliases:
   - index
   - home
 notitle: "true"
+status: 
+RSS: "false"
 yaml_end: true
 ---
 > [!tip]+ For nimbler things, see [[micro]]
@@ -25,13 +27,16 @@ yaml_end: true
 
 ***
 
+> [!note]+ [[25-03-09-trump-higher-ed-and-judaism|25-03-09 trump, higher ed, and judaism]]
+> If the fires that were set and continue to be stoked every day by ultraists like Hamas and Netanyahu consume US higher ed, the entire sector — all of it — will burn to the ground.
+
   > [!note]+ [[2025-03-05-swasticar-flyer|25-03-05 swasticar flyer]]
  > A helpful PDF that you can print out and leave on every Tesla you see!
  
 > [!warning]+ [[2025-02-12-maybe-too-prophetic]]
 > I wrote this on Facebook on 7 Nov 2024, barely a day after the election, and it seems a little *too* prescient.
 
-> [!warning]+ [[2025-02-26-Niemöller-for-today|2025-02-26-Niemöller for today]]
+> [!note]+ [[2025-02-26-Niemöller-for-today|2025-02-26-Niemöller for today]]
 > Maybe a GOP bill raising endowment taxes by 1500% will wake academics up?
 
 > [!note]+ [[2025-02-10-a-handful-of-emoji|2025 02 10 a handful of emoji]]

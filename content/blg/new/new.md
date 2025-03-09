@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->]]
 
+> [!note]+ [[25-03-09-trump-higher-ed-and-judaism|25-03-09 trump, higher ed, and judaism]]
+> If the fires that were set and continue to be stoked every day by ultraists like Hamas and Netanyahu consume US higher ed, the entire sector — all of it — will burn to the ground.
+
  > [!note]+ [[2025-03-05-swasticar-flyer|25-03-05 swasticar flyer]]
  > A helpful PDF you can print out and leave on every Tesla you see!
 
