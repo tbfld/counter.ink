@@ -1,7 +1,7 @@
 ---
 yaml_begin: true
 title: 2503-09 elite capitulation and popular resistance
-description: On Big Law buckling under Trump’s attacks
+description: I’m shocked...shocked! that those with the most to lose are the first to give in
 extract: If you’re looking for how to capitulate to fascists, look up to “elites” and anyone else who wears the mantle of superiority. But if you’re looking for ways to fight them, look down.
 created: 2025-03-09 12:24
 updated: 2025-03-09 12:24
@@ -20,6 +20,7 @@ tags:
   - trope
   - law
   - institution
+  - elites
 status: 
 RSS: "true"
 yaml_end: true
