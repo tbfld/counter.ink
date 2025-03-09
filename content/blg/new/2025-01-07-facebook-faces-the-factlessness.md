@@ -6,7 +6,7 @@ extract:
 created: 2025-01-07 10:39
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -23,7 +23,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 It seems like people aren’t quite putting 2 and 2 together yet. Meta has announced that it will (1) [end fact-checking on Facebook](https://www.nytimes.com/live/2025/01/07/business/meta-fact-checking), (2) [flood the zone with AI bots](https://www.theverge.com/2025/1/3/24334946/meta-ai-profiles-instagram-facebook-bots), and (3) [“get rid of content restrictions on certain topics, such as immigration and gender identity, and rolling back limits on how much politics-related content users see in their feeds.”](https://www.cnn.com/2025/01/07/tech/meta-censorship-moderation/index.html) This from the company that has routinely booted users for [“inauthentic behavior.”](https://transparency.meta.com/policies/community-standards/inauthentic-behavior/) 🙄 These might seem like isolated idiocies — for example, on Bluesky the security spokesmodel turned AI expert Meredith Whittaker razzed the AI bots as some [“desperate product manager trying to ship something to meet a company OKR they don't understand and don't believe”](https://bsky.app/profile/meredithmeredith.bsky.social/post/3lf4cm7t7gc2x) (Objectives and Key Results, don’t you know). That hot take seems either naive or (as I suspect) a tad cynically misleading. Much safer to assume these two moves, and others, are coordinated and strategic: *coordinated inauthentic behavior*, [as Facebook puts it](https://about.fb.com/news/2018/12/inside-feed-coordinated-inauthentic-behavior/).
 
 As usual, Dem/Lib/Prog-world is stuck in a loop, daily clutching at its pearls over Elon Musk’s latest outrage, without really grasping what he’s already achieved. On an empirical level, he’s made as much money in the last few months as he’d made *in his entire career*. That’s the kind of thing that oligarchs pay attention to. What matters more, though, is that he’s moved the overton window waaaaaaay over — just not the window most people would reasonably assume based on what they *see*. Instead, the window he’s moved has to do with how media oligarchs see the challenges that lie ahead under Trump.

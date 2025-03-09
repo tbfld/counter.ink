@@ -6,7 +6,7 @@ extract: Libertarians aren’t invested in the state, so they don’t really hav
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
 author: tb
-images: "true"
+images: "false"
 order: 
 enableToc: "true"
 permalink: 

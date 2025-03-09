@@ -6,7 +6,7 @@ extract:
 created: 2025-02-02 10:24
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -22,7 +22,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 [All of this was predictable](https://heathercoxrichardson.substack.com/p/february-1-2025), indeed all of it was predicted because these were Trump's campaign promises. And since he was president for four long years, we all had an unfortunately long chunk of our lives to learn that, yes, he really does *try* to follow through on his hatreds. No one gets to pretend they're surprised. Shocked at the speed and aggression *maybe*, but surprised? No. 
 
 The bulk of responsibility for Trump's election goes to his supporters, of course, but not all of it. By the same token, credit for how close the Dems came to winning goes to *their* active supporters. That leave a motley crew of people non-voters, wobblers, and teh category that interests me: people who *should have* supported the Dems but didn’t. They are, as Gregory Bateson put it, the “difference that makes a difference.”

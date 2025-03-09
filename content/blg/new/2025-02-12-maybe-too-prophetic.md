@@ -6,7 +6,7 @@ extract:
 created: 2025-02-12 23:02
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -23,7 +23,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 I wrote this [on Facebook on 7 Nov 2024](https://www.facebook.com/tbyfield/posts/pfbid02WeNJSKMu7V6zAuMVpBZn8vRcHZkGmxmLq4TmxfD9wGDdTXNw7uzYwiYv2RqX6KySl), barely a day after the election, and it seems a little *too* prescient.
 
 ***

@@ -5,23 +5,22 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" 
-images: 
+author: tb
+images: "false"
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2016-10-30
 tags:
   - history
   - media
-status:
+status: 
 RSS: “false”
 yaml_end: true
 ---
-
 This. Hilarious and painful to watch how, time and again, people will post stuff like “OMG EVEN POL POT CONDEMNS TRUMP!!!” to prove how bad Trump is (or who/whatever). But the long-term effect is to launder Pol Pot into the equivalent of a talking head. The first time I saw this effect was when George magazine — how’s that for ancient history? — ran a cover story treating George Wallace as an elder statesman of race relations. Which reminds me, where was the FBI on the civil rights movement? Never mind, let’s complain that it’s become political...
 
 > Corey Robin

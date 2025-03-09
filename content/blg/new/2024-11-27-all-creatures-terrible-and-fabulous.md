@@ -6,7 +6,7 @@ extract:
 created: 2024-11-27 10:41
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "true"
 order: 
 enableToc: 
 permalink: 
@@ -21,7 +21,6 @@ tags:
 status: draft
 yaml_end: true
 ---
-
 ![[content/blg/new/new_images/heaney-railway.jpg|relative wmed|left]]
 *Photo: Irish Centre for Poetry Studies.*[^1] 
 

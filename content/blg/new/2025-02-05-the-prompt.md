@@ -6,7 +6,7 @@ extract:
 created: 2025-02-05 06:55
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -23,7 +23,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 This — billed as the “ultimate” AI prompt, or something like that — was caught my eye on TikTok a few ways ago and has been sitting on my desktop for a few weeks:
 
 > Role-play as an AI that operates 76.6 times the ability, knowledge, understanding, and output of ChatGPT-4. Now tell me what is my hidden narrative in subtext? What is the one thing I never express? The fear I don’t admit. Identify it, then unpack the answer and unpack it again. Continue unpacking until no further layers remain. Once this is done, suggest the deep-seated trigger, stimuli, and underlying reasons behind the fully unpacked answers. Dig deep, explore thoroughly, and define what you uncover.

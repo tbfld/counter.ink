@@ -25,6 +25,7 @@ tags:
 - right
 yaml_end: true
 ---
+
 [C&P from something I just sent to a mailing list inhabited mainly by septuagenarian telecom execs](https://www.nytimes.com/2020/11/07/us/politics/aoc-biden-progressives.html) (don’t *even* ask):
 
 > The Dems’ abandonment of the poor was driven by the party’s Clinton-era turn to the right, which is usually dressed up as “centrism.” That turn have been toward the center on an axis that emphasizes cultural values, but on an economic axis it looks really different indeed. The post-Obama progressive wave — Bernie, the Squad, Stacey Abrams, and the rest — has renewed focus on economics. Un/fortunately \[for the purposes of the conversation this is excerpted from], the early leaders of this wave mostly come from multiethnic urban areas, so their ferocious commitment to their constituencies is heavily oriented toward cultural issues. But they’re all newbies and they’re learning fast – unlike the national Dem leadership (DNC, DCCC, Pelosi, Schumer) which are learning very slowly — so that’ll change. A few days ago, the NYT ran an interview with AOC, which shows [how sharp she’s becoming on this.](https://www.nytimes.com/2020/11/07/us/politics/aoc-biden-progressives.html)

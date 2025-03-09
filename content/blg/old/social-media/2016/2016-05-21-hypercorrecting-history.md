@@ -5,21 +5,20 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" 
-images: 
+author: tb
+images: "false"
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2016-05-21
 tags:
   - national
   - international
-status:
+status: 
 RSS: “false”
 yaml_end: true
 ---
-
 When I see Americans write “an historian” it triggers the linguistic equivalent of road rage. Brits can do whatever they want with their ’istories, but in the US *history* is aspirated, like *horror movie* and *hound dog*. Would you write “an horror movie” or “an hound dog”? No. Stop hypercorrecting, it makes you look servile.

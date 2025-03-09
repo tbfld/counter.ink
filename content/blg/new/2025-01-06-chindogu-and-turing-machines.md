@@ -6,7 +6,7 @@ extract:
 created: 2025-01-06 08:51
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "true"
 order: 
 enableToc: 
 permalink: 
@@ -21,7 +21,6 @@ tags:
 status: final
 yaml_end: true
 ---
-
 ![[content/blg/new/new_images/cursing-heatmap.jpg|wmed relative|right]]
 
 A generic exercise I use when I teach design involves defining what a door is: what elements and functions make it a “door”? So we do that every college catalog ever features, with eager students calling out ideas and the dynamic teacher scribbling them on the board: *Hinges! Knobs! Well, OK, handles! Windows!* It’s genuinely interesting leading students from concrete (*wall*, *hinge*) to abstract (*surface*, *rotational axis*). As things progress, you can get to a point where everyone understands — some in everyday language, others more precisely — something like *a door is an aperture with one or more stateful mechanisms that can determine whether or how creatures and/or things pass through it*. But the fun comes when you draw a matrix of *elements* and *functions* (like the one here) and use that to invent new kinds of doors: *revolving cat doors*, *sliding screen trap doors*, *dutch flap doors*, etc. And — if the situation allows it — you can end up with surprising elements like *doors of perception* or rear-hinged *“suicide doors”* (see image) , and from there things like *sliding screen doors of perception* or *suicide revolving doors*.

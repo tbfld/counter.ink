@@ -3,8 +3,8 @@ yaml_begin: true
 title:
 description:
 extract:
-created: 2025-03-05 11:45
-updated: 2025-03-05 11:45
+created: 2025-03-08 14:53
+updated: 2025-03-08 14:53
 author: "tb"
 images: "false"
 order:
@@ -19,3 +19,6 @@ status:
 RSS:
 yaml_end: true
 ---
+```dataview
+LIST FROM "" WHERE contains(text, "wmed")
+```

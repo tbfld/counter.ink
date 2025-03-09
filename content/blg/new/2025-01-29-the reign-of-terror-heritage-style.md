@@ -6,7 +6,7 @@ extract:
 created: 2025-01-29 08:11
 updated: 2025-02-14 22:04
 author: 
-images: 
+images: "false"
 order: 
 enableToc: 
 permalink: 
@@ -23,7 +23,6 @@ tags:
 status: draft
 yaml_end: true
 ---
-
 You gotta hand it to the Trumpets — they’re way ahead of everyone else. They came with a clear operational plan and guns ablaze, but the media (and therefore the populace) hasn’t even begun to see the pattern. Trump:
 
 1. conjured up an extralegal magical entity, DOGE, that was going to cut some ridiculous percentage of the federal civil service,

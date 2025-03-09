@@ -5,22 +5,21 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" 
-images: 
+author: tb
+images: "false"
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2016-09-19
 tags:
   - email
-status:
+status: 
 RSS: “false”
 yaml_end: true
 ---
-
 Worth upping this from a comment — an email I sent to the New School admin and faculty senate after the school spammed out hysterical messages following the 2011 VA earthquake. It’s a quick, nontechnical primer in how to think about emergency message broadcasts. (For the uninitiated, the UFS is the University Faculty Senate. TNS’s experiments in requiring invasive and incompetent surveillance software were pretty recent [summer 2010], and I had learned that going directly to the executive level didn’t work, whereas faculty pressure and an emphasis on process did. Sort of.)
 
 ***

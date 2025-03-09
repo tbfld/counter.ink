@@ -25,6 +25,7 @@ status:
 RSS: "false"
 yaml_end: true
 ---
+
 The lead picture for the *NYT*'s tornado story is a real study in McMansion forensics.
 
 ![[2021-03-25-mcmansion-forensics.jpg]]

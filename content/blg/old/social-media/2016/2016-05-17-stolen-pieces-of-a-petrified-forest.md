@@ -5,21 +5,20 @@ description:
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb" 
-images: 
+author: tb
+images: "false"
 order: 
-enableToc: "true" 
+enableToc: "true"
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+draft: "false"
+publish: "true"
 date: 2016-05-17
 tags:
   - nature
   - crime
-status:
+status: 
 RSS: “false”
 yaml_end: true
 ---
-
 [Really nice.](http://hyperallergic.com/178522/letters-of-woe-and-curses-returned-with-stolen-pieces-of-the-petrified-forest/) Reminds me of the Museum of Jurassic Technology’s “No One May Ever Have The Same Knowledge Again” exhibition and unreminds me of the rubberstamp authenticity of Postsecret.
