@@ -55,6 +55,10 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 - *Daily Pennsylvanian* ([link](https://www.thedp.com/article/2025/02/penn-letter-department-education-civil-rights))
 - DoE ([PDF](https://www.ed.gov/media/document/dear-colleague-letter-sffa-v-harvard-109506.pdf))
 
+**Feb 17:** CU president Armstrong “met with Israeli Minister of Education Yoav Kisch”
+- *Columbia Spectator* ([link](https://www.columbiaspectator.com/main/2025/02/20/armstrong-olinto-meet-with-israeli-minister-of-education-yoav-kisch/))
+- Kish (via xitter: [1](https://x.com/yoavkisch/status/1891827569550413874), [2](https://x.com/YoavKisch/status/1891838291915284967))
+
 **Feb 21:** Barnard expels the two students
 - *Columbia Spectator* ([link](https://www.columbiaspectator.com/news/2025/02/23/two-barnard-students-expelled-for-history-of-modern-israel-class-disruption-cuad-says/))
 
@@ -70,8 +74,15 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 **Feb 27:** pro-Israel advocates call for CU’s funding to be pullled
 -  ([link](https://stopantisemitism.org/02/27/jewish-advocacy-group-calls-on-doj-to-defund-columbia-barnard-for-failing-to-protect-students-as-violent-anti-israel-protests-rage-hostile-and-dangerous/))
 
+**Mar 01(?):** CU issues “Protocol for Potential Visits to Campus By U.S. Immigration and Customs Enforcement (ICE) Agents”
+- Columbia ([link](https://publicsafety.columbia.edu/content/protocol-potential-visits-campus-us-immigration-and-customs-enforcement-ice-agents))
+- R. S. Horton ([via FB](https://www.facebook.com/scott.horton.5648/posts/pfbid0PCgAUPYPFJuH6RPcLNi4rtRpnYnxearj5nYsUvh2fmU6TZEoyHGRissPpEE5SEqXl))
+
 **Mar 03:** Trump admin threatens to pull more than $50 million in fed contracts from CU
 - StopAntisemitism ([link](https://stopantisemitism.org/03/03/trump-admin-threatens-to-pull-51m-in-contracts-with-columbia-for-nyc-colleges-inaction-on-protests-that-harass-jewish-students/))
+
+**Mar 04:** ex Israeli PM Naftali Bennett speaks at CU in event co-sponsored by CU/BC Hillel, SIPA’s IGP, and the Kraft Center for Jewish Student; protest outside co-sponsored by Jewish Voice for Peace and Columbia Palestine Solidarity Coalition
+- *Columbia Spectator* ([link](https://www.columbiaspectator.com/news/2025/03/04/pro-palestinian-demonstrators-protest-appearance-of-former-israeli-prime-minister-naftali-bennett/))
 
 **Mar 07:** Trump admin pulls $400M in fed contracts etc from Columbia.
 - Columbia Spectator ([link](https://www.columbiaspectator.com/news/2025/03/07/trump-administration-cuts-400-million-in-federal-funding-to-columbia/))
