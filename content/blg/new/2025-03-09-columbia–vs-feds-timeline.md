@@ -84,6 +84,20 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 **Mar 04:** ex Israeli PM Naftali Bennett speaks at CU in event co-sponsored by CU/BC Hillel, SIPA’s IGP, and the Kraft Center for Jewish Student; protest outside co-sponsored by Jewish Voice for Peace and Columbia Palestine Solidarity Coalition
 - *Columbia Spectator* ([link](https://www.columbiaspectator.com/news/2025/03/04/pro-palestinian-demonstrators-protest-appearance-of-former-israeli-prime-minister-naftali-bennett/))
 
+**Mar 06:** 
+
+- *2:30pm:* Canary Mission tweets “🚨 SUSPECTED FOREIGN NATIONAL ALERT 🚨 Mahmoud Khalil, allegedly from Syria, is a grad student at Columbia. Khalil appeared to be the lead negotiator for the Barnard College library occupation yesterday. He took the same role at the Columbia encampment & was suspended,” with a video: “Mahmoud Khalil, allegedly from Syria, is a grad student at Columbia. Khalil appeared to be the lead negotiator for the Barnard College library occupation”
+	- xitter ([link](https://x.com/canarymission/status/1897731409369870762))
+
+- *5:30pm:* US Sec State Marco Rubio tweets “Those who support designated terrorist organizations, including Hamas, threaten our national security. The United States has zero tolerance for foreign visitors who support terrorists. Violators of U.S. law — including international students — face visa denial or revocation, and deportation.
+	- xitter ([link](https://x.com/SecRubio/status/1897776709778211044))
+
+- *5:47pm:* David Lederer tweets “Meet Mahmoud Khalil, a Columbia student known to have been on a foreign visa last year. He recently helped illegally take over a library building and distribute Hamas propaganda.”
+	- xitter ([link](https://x.com/Davidlederer6/status/1897781002954535091))
+
+- *6:39pm:* CU prof Shai Davidai tweets “Thank you for your strong statements. Now we want to see strong action. Illegally taking over a college in which you are not even enrolled and distributing terrorist propaganda should be a deportable offense, no? Because that’s what Mahmoud Khalil from @ColumbiaSJP did yesterday at @BarnardCollege
+	- xitter ([link](https://x.com/shaidavidai/status/1897794236797378640))
+
 **Mar 07:** Trump admin pulls $400M in fed contracts etc from Columbia.
 - Columbia Spectator ([link](https://www.columbiaspectator.com/news/2025/03/07/trump-administration-cuts-400-million-in-federal-funding-to-columbia/))
 
@@ -94,3 +108,6 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 - DopSite News ([link](https://www.dropsitenews.com/p/dhs-detains-columbia-university-student-gaza?utm_campaign=post&utm_medium=web))
 - Reuters ([link](https://www.reuters.com/world/us/us-authorities-arrest-palestinian-student-protester-columbia-university-students-2025-03-09/))
 - Zeteo’s detailed account ([link](https://zeteo.com/p/breaking-dhs-detains-palestinian))
+
+**Mar 09:** US Sec State Marco Rubio tweets “We will be revoking the visas and/or green cards of Hamas supporters in America so they can be deported”
+- xitter ([link](https://x.com/marcorubio/status/1898858967532441945))
