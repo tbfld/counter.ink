@@ -86,6 +86,8 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 - *Columbia Spectator* ([link](https://www.columbiaspectator.com/news/2025/03/04/pro-palestinian-demonstrators-protest-appearance-of-former-israeli-prime-minister-naftali-bennett/))
 - *Harvard Crimson* ([link](https://www.thecrimson.com/article/2025/3/10/naftali-bennett-hbs-talk/))
 
+**Mar 06:** According to Zeteo, Kahlil’s ID was deactivated (see Mar 07, Zereo).
+
 **Mar 06:** 
 
 - *2:30pm:* Canary Mission tweets “🚨 SUSPECTED FOREIGN NATIONAL ALERT 🚨 Mahmoud Khalil, allegedly from Syria, is a grad student at Columbia. Khalil appeared to be the lead negotiator for the Barnard College library occupation yesterday. He took the same role at the Columbia encampment & was suspended,” with a video: “Mahmoud Khalil, allegedly from Syria, is a grad student at Columbia. Khalil appeared to be the lead negotiator for the Barnard College library occupation”
@@ -99,6 +101,9 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 
 - *6:39pm:* CU prof Shai Davidai tweets “Thank you for your strong statements. Now we want to see strong action. Illegally taking over a college in which you are not even enrolled and distributing terrorist propaganda should be a deportable offense, no? Because that’s what Mahmoud Khalil from @ColumbiaSJP did yesterday at @BarnardCollege
 	- xitter ([link](https://x.com/shaidavidai/status/1897794236797378640))
+
+**Mar 07:** Report that Kahlil “appealed to \[CU] for protection from harassment and possibly ICE agents _one day_ before” his arrest, saying in an email to Armostrong, “Since yesterday, I have been subjected to a vicious, coordinated, and dehumanizing doxxing campaign led by Columbia affiliates Shai Davidai \[*see above, Mar 06*] and* David Lederer \[*see above, Mar 06*] who, among others, have labeled me a security threat and called for my deportation.” Also, “On Thursday, March 6, Khalil emailed Gerald Lewis, the vice president of Columbia Public Safety, and cc’d Armstrong regarding the deactivation of his university ID.” The report also notes “several reports of ICE being spotted on campus throughout the week.”
+- Zeteo ([link](https://zeteo.com/p/scoop-emails-show-mahmoud-khalil-ask-columbia-protection-ice))
 
 **Mar 07:** Trump admin pulls $400M in fed contracts etc from Columbia.
 - Columbia Spectator ([link](https://www.columbiaspectator.com/news/2025/03/07/trump-administration-cuts-400-million-in-federal-funding-to-columbia/))
@@ -117,11 +122,21 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 **Mar 09:** US Sec State Marco Rubio tweets “We will be revoking the visas and/or green cards of Hamas supporters in America so they can be deported”
 - xitter ([link](https://x.com/marcorubio/status/1898858967532441945))
 
-**Mar 10:** Reports that ICE “also visited a second international student at Columbia over the weekend and attempted to take her into custody but were prevented from entering the apartment, according to a union representing the student,” Student Workers of Columbia
+**Mar 10:** Reports that ICE “also visited a second international student at Columbia over the weekend and attempted to take her into custody but were prevented from entering the apartment, according to() a union representing the student,” Student Workers of Columbia
 - AP ([link](https://apnews.com/article/columbia-university-mahmoud-khalil-ice-6964107d218dba43eb995d6dbbe528b1))
 
 **Mar 10 (1:10pm):** Trump takes credit for Kahlil’s arrest, “the first arrest of many to come”
 - Truth Social ([via Bsky](https://bsky.app/profile/justinbaragona.bsky.social/post/3lk22aiqosk2i))
+
+**Mar 10 (2:58pm):** Mayor Adams implies Khalil was armed: “If he has a gun, he needs to go.”
+- Twitter ([via Bsky](https://bsky.app/profile/petersterne.com/post/3lk2b7vife22i))
+
+**Mar 10:** SDNY Judge Jesse Furman blocks efforts to deport Kahlil and orders his appearance in court the next day
+- CourtListener ([link](https://storage.courtlistener.com/recap/gov.uscourts.nysd.638260/gov.uscourts.nysd.638260.9.0.pdf))
+- detailed analysis by Chris Geidner / Law Dork ([link](https://bsky.app/profile/chrisgeidner.bsky.social/post/3lk2ktcbqe22k))
+
+**Mar 10 (x<5:30pm):** ‪“Jews For Racial & Economic Justice” posts w/ photos of “Columbia/Barnard faculty, Jewish community leaders, immigrant advocates, and rabbis are demanding the immediate release of Mahmoud Khalil from ICE custody.’
+- Bsky ([link](https://bsky.app/profile/jfrejnyc.bsky.social/post/3lk2hnbjzms2w))
 
 ***
 ###### Older context
