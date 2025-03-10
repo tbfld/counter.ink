@@ -27,6 +27,7 @@ yaml_end: true
 This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events during 2025 leading up to (and to a lesser degree following) Trump & Co.’s decision to pull $400M in federal funding from Columbia University.
 
 ***
+##### Current
 
 **Jan 19:** reports that University Judicial Board held hearings over winter break
 - *Columbia Spectator* ([link](https://www.columbiaspectator.com/news/2025/01/19/university-judicial-board-holds-disciplinary-hearings-during-winter-break-for-student-protesters/))
@@ -81,8 +82,9 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 **Mar 03:** Trump admin threatens to pull more than $50 million in fed contracts from CU
 - StopAntisemitism ([link](https://stopantisemitism.org/03/03/trump-admin-threatens-to-pull-51m-in-contracts-with-columbia-for-nyc-colleges-inaction-on-protests-that-harass-jewish-students/))
 
-**Mar 04:** ex Israeli PM Naftali Bennett speaks at CU in event co-sponsored by CU/BC Hillel, SIPA’s IGP, and the Kraft Center for Jewish Student; protest outside co-sponsored by Jewish Voice for Peace and Columbia Palestine Solidarity Coalition
+**Mar 04:** ex Israeli PM Naftali Bennett speaks at CU in event co-sponsored by CU/BC Hillel, SIPA’s IGP, and the Kraft Center for Jewish Student; protest outside co-sponsored by Jewish Voice for Peace and Columbia Palestine Solidarity Coalition. (Six days later, Bennett ‘joked’ about students criticizing his appearance at Harvard, “I think we’ll just give them a pager.”)
 - *Columbia Spectator* ([link](https://www.columbiaspectator.com/news/2025/03/04/pro-palestinian-demonstrators-protest-appearance-of-former-israeli-prime-minister-naftali-bennett/))
+- *Harvard Crimson* ([link](https://www.thecrimson.com/article/2025/3/10/naftali-bennett-hbs-talk/))
 
 **Mar 06:** 
 
@@ -105,12 +107,24 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 - xitter ([link](https://bsky.app/profile/proptermalone.bsky.social/post/3ljxbvt4dek27))
 
 **Mar 08:** CU pres Armstrong knuckles under
-- Columbia Spectator ([link](https://www.columbiaspectator.com/news/2025/03/07/armstrong-responds-to-400-million-federal-cut-to-columbias-funding-in-email-to-columbia-community/))
+- *Columbia Spectator* ([link](https://www.columbiaspectator.com/news/2025/03/07/armstrong-responds-to-400-million-federal-cut-to-columbias-funding-in-email-to-columbia-community/))
 
 **Mar 09:** DHS arrests student activist at CU
-- DopSite News ([link](https://www.dropsitenews.com/p/dhs-detains-columbia-university-student-gaza?utm_campaign=post&utm_medium=web))
+- DropSite News ([link](https://www.dropsitenews.com/p/dhs-detains-columbia-university-student-gaza?utm_campaign=post&utm_medium=web))
 - Reuters ([link](https://www.reuters.com/world/us/us-authorities-arrest-palestinian-student-protester-columbia-university-students-2025-03-09/))
 - Zeteo’s detailed account ([link](https://zeteo.com/p/breaking-dhs-detains-palestinian))
 
 **Mar 09:** US Sec State Marco Rubio tweets “We will be revoking the visas and/or green cards of Hamas supporters in America so they can be deported”
 - xitter ([link](https://x.com/marcorubio/status/1898858967532441945))
+
+**Mar 10:** Reports that ICE “also visited a second international student at Columbia over the weekend and attempted to take her into custody but were prevented from entering the apartment, according to a union representing the student,” Student Workers of Columbia
+- AP ([link](https://apnews.com/article/columbia-university-mahmoud-khalil-ice-6964107d218dba43eb995d6dbbe528b1))
+
+**Mar 10 (1:10pm):** Trump takes credit for Kahlil’s arrest, “the first arrest of many to come”
+- Truth Social ([via Bsky](https://bsky.app/profile/justinbaragona.bsky.social/post/3lk22aiqosk2i))
+
+***
+###### Older context
+
+- 2024-11-23: “Zionist org preps list of foreign pro-Hamas students, hoping Trump will deport them” ([*NYPost*](https://nypost.com/2024/11/23/us-news/zionist-org-preps-list-of-foreign-pro-hamas-students-hoping-trump-will-deport-them/))
+***
