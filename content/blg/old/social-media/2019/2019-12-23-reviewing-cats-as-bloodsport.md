@@ -14,7 +14,10 @@ aliases:
 draft: "false"
 publish: "true"
 date: 2019-12-23
-tags: 
+tags:
+  - cinema
+  - film
+  - criticism
 status: 
 RSS: "false"
 yaml_end: true
