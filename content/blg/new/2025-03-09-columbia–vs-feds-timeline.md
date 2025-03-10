@@ -101,6 +101,9 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 **Mar 07:** Trump admin pulls $400M in fed contracts etc from Columbia.
 - Columbia Spectator ([link](https://www.columbiaspectator.com/news/2025/03/07/trump-administration-cuts-400-million-in-federal-funding-to-columbia/))
 
+**Mar 07:** March 9, 2025 at 10:49 AM, “post malone ergo propter malone’ on bsky reproduces a tweet(?) *purportedly* from* “two days ago” by “@CampusJewHate,” saying: “Mahmoud Khalil, the foreign student who is one of the leading agitators on campus, is still causing trouble. He seems to be present at every encampment and every sit-in or building takeover. Yesterday, he managed to get onto campus despite not being the current student. Here he is confronted by the @Columbia's Public Safety officer during a rally against NYPD. A day before that he was at @BarnardCollege orchestrating illegal takeover of the building. Secretary Rubio (@SecRubio), please revoke Mahmoud Khalil's visa! \#DeportMahmoudKhalil
+- xitter ([link](https://bsky.app/profile/proptermalone.bsky.social/post/3ljxbvt4dek27))
+
 **Mar 08:** CU pres Armstrong knuckles under
 - Columbia Spectator ([link](https://www.columbiaspectator.com/news/2025/03/07/armstrong-responds-to-400-million-federal-cut-to-columbias-funding-in-email-to-columbia-community/))
 
