@@ -25,21 +25,24 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, see [[images (2025-02-23 – 2025-03-03)]]
 
+***2025-03-11:*** every US citizen should read [Malcolm Nance on Trump’s plans for #Canada](https://malcolmnance.substack.com/p/urgent-warning-trump-is-planning)
+
+***2025-03-11:*** AFA-CWA’s [promo video for its C.H.A.O.S. approach to striking](https://www.youtube.com/watch?v=6K2tL2sSpA4&t=22s) is 🏆 (background [here](https://ourcontract.org/chaos/))
+
+***2025-03-11:*** Starship 8 blowing up in the Bahamas [is gorgeous](https://x.com/NorcrossUSA/status/1897796234502349117) — Musk should do it more often
+***
 ***2025-03-10:*** I didn’t realize the great [Onethingwell](https://onethingwell.org/) started up the stopped again
 
 ***2025-03-10:*** [this *still* isn’t happiness](https://thisisnthappiness.com/)
 
 ***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/) But they had to publish it on Wordpress because faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.) But they had to publish it on Wordpress because, apparently, faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.
 ***
-
 ***2025-03-09:*** FB’s explicitly blocking access to Gil Durán’s *Nerd Reich* [because it “addresses topics like the ‘Network State’ concept and critiques of tech industry figures](https://bsky.app/profile/gilduran.com/post/3ljy3wqbs2c26)
 
 ***2025-03-09:*** Mike Masnick on [“Why Techdirt Is Now a Democracy Blog”](https://www.techdirt.com/2025/03/04/why-techdirt-is-now-a-democracy-blog-whether-we-like-it-or-not/)
 
 ***2025-03-09:*** Nina Burleigh (a/k/a American Freakshow) on [MAGA’s Heart of Darkness](https://www.americanfreakshow.news/p/magas-heart-of-darkness)
-
 ***
-
 ***2025-03-07:*** [“the empathy exploit”](https://www.cnn.com/2025/03/05/politics/elon-musk-rogan-interview-empathy-doge) is quite a phrase
 
 ***2025-03-06:*** [Timeline of Technological Buffoonery in the DOGE Era](https://boehs.org/node/doge-tech)
@@ -49,32 +52,24 @@ yaml_end: true
 ***2025-03-06:*** “life-size chocolate *Guernica*” should be a mid-’90s punk band, not [an actual life-size chocolate *Guernica*](https://www.smithsonianmag.com/smart-news/artists-recreate-picassos-guernica-entirely-out-chocolate-180977636/)
 
 ***2025-03-06:*** “# [“Space focused on technology, new media and artistic research”](https://escuderoandaluz.com/ "Home")
-
 ***
-
 ***2025-03-04:*** Columbia U (my alma mater and neighbor for deacdes) [keeps on screwing up its handling of the pro-Palestinian protests](https://www.dropsitenews.com/p/columbia-university-gaza-student-disclinary-office)
 
 ***2025-03-04:*** Dictionary.com doesn’t know how to pronounce [the singular word *interstice*](https://www.dictionary.com/browse/interstice)
-
 ***
-
 ***2025-03-03:*** not enough people understand that [*Musk’s goal is to exterminate multitudes*](https://medium.com/age-of-awareness/a-unifying-theory-of-elon-musk-66b841ee0f71) — and Trump is cool with that because that’d make him a Great Man
 
 ***2025-03-03:*** Association of Collegiate Schools of Architecture’s *Journal of Architectural Education* [pulls its call for an issue about Palestine](https://www.archpaper.com/2025/02/acsa-cancels-fall-2025-journal-of-architectural-education-issue-on-palestine-and-fires-its-interim-executive-editor/) (2025-03-10: [the board resigned en bloc](https://www.instagram.com/p/DHCwxrPJ86N/?img_index=1) — *good for them!*)
 
 ***2025-03-03:*** Gregg Gonsalves gets warmer than most — [the Trump admin wants to destroy universties](https://www.thenation.com/article/society/trump-universities-research-cuts-reaction/) — but his analysis still focuses on science, which is a mistake.
 ***
-
 ***2025-02-27:*** Steve Vladeck notes Big Law partners worry [“they could jeopardize their economic future by protecting the rule of law”](https://www.stevevladeck.com/p/bonus-126-chill-all-the-lawyers) 🎻 🔬 😭 🌊
-
 ***
-
 ***2025-02-26:*** a super obit for [a fascinating guy](https://provincetownindependent.org/obituaries/2025/02/19/christopher-jencks-celebrated-scholar-and-teacher-dies-at-88/), Chistopher “Sandy” Jencks (🎩 [LF](https://en.wikipedia.org/wiki/Liza_Featherstone))
 
 ***2025-02-26:*** an awful squib about [N5N1 killing sand hill cranes in southern Indiana](https://www.facebook.com/marc.haggerty.3/posts/pfbid02iuYy6Ki5mWpR7ZjARTt149t5N3v3TqdGi6NCn86ieayQvNHyE6ASQgX85j7EskFRl)
 
 ***2025-02-26:*** on [Christian support for Trump and liberal denialism](https://www.liberalcurrents.com/trump-the-redeemer/) (🎩 Mike McG)
-
 ***
 ##### 2025-02-24
 
@@ -83,7 +78,6 @@ yaml_end: true
 ***2025-02-24:*** Peter Sellers’s 1975 ads for TWA are brilliant ([this one](https://youtu.be/Wy26PYeP4aY&t=60) especially), but [the *meta-ad* he made](https://youtu.be/Wy26PYeP4aY?&t=179) is next-*next*-**next**-***next*** level
 
 ***2025-02-24:*** Wankpanzer vs Pinto [according to a hobbyist stats blog that looks great](https://www.someweekendreading.blog/cybertruck-vs-pinto/)
-
 ***
 ##### 2025-02-22
 
@@ -120,7 +114,6 @@ yaml_end: true
 ***2025-02-12:*** Chris Newfield gives a masterclass on [why the proposed change in NIH funding would be a systemic catastrophe for US higher ed](https://utotherescue.blogspot.com/2025/02/liner-note-15-real-crisis-in-research.html) 
 
 ***2025-02-12:*** Jeff Sharlet explains [why faculty *must* be open with students about that threat](https://slowcivilwar.substack.com/)
-
 ***2025-02-12:*** Trump wants to [cancel 50% of the office space leased by the federal government](https://www.arnoldporter.com/en/perspectives/advisories/2025/02/doge-and-gsa-officials-pledge-acceleration) 
 ***
 ##### 2025-02-10
