@@ -25,6 +25,8 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, see [[images (2025-02-23 – 2025-03-03)]]
 
+***2025-03-11:*** Columbia’s own James Schamus [on Trump’s attacks on the university](https://lithub.com/a-columbia-professors-message-to-his-fellow-jewish-faculty-members/)
+
 ***2025-03-11:*** every US citizen should read [Malcolm Nance on Trump’s plans for #Canada](https://malcolmnance.substack.com/p/urgent-warning-trump-is-planning)
 
 ***2025-03-11:*** AFA-CWA’s [promo video for its C.H.A.O.S. approach to striking](https://www.youtube.com/watch?v=6K2tL2sSpA4&t=22s) is 🏆 (background [here](https://ourcontract.org/chaos/))

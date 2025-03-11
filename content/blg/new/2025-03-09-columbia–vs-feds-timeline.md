@@ -138,6 +138,9 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 **Mar 10 (x<5:30pm):** ‪“Jews For Racial & Economic Justice” posts w/ photos of “Columbia/Barnard faculty, Jewish community leaders, immigrant advocates, and rabbis are demanding the immediate release of Mahmoud Khalil from ICE custody.’
 - Bsky ([link](https://bsky.app/profile/jfrejnyc.bsky.social/post/3lk2hnbjzms2w))
 
+**Mar 10:** The (formerly *Jewish Daily) Forward* cites “Ross Glick, a pro-Israel activist who previously shared a list of campus protesters with federal immigration authorities, said that he was in Washington, D.C., for meetings with members of Congress during the Barnard library demonstration and discussed Khalil with aides to Sens. Ted Cruz and John Fetterman who promised to “escalate” the issue. **He said that some members of Columbia’s board had also reported Khalil to officials.**” (emph added)
+- Forward ([link](https://forward.com/news/703018/mahmoud-khalil-columbia-cuad-ice/))
+
 ***
 ###### Older context
 
