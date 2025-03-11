@@ -22,6 +22,8 @@ RSS: "true"
 yaml_end: true
 ---
 
+![[2025-03-11-luciean-freud-selfie-1963-eme-muskan-fb.jpg|wmed relative|center]]
+
 ![[2025-03-11-duane-michaels-esrly-photo.jpg|wmed relative|center]]
 
 ![[2025-03-11-15-Lorzas_2C+granito+do+monte+Nariga.jpg|wmed relative|center]]
