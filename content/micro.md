@@ -25,9 +25,11 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, see [[images (2025-02-23 – 2025-03-03)]]
 
-***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/) But they had to publish it on Wordpress because
-apparently
-faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.) But they had to publish it on Wordpress because, apparently, faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.
+***2025-03-10:*** I didn’t realize the great [Onethingwell](https://onethingwell.org/) started up the stopped again
+
+***2025-03-10:*** [this *still* isn’t happiness](https://thisisnthappiness.com/)
+
+***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/) But they had to publish it on Wordpress because faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.) But they had to publish it on Wordpress because, apparently, faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.
 ***
 
 ***2025-03-09:*** FB’s explicitly blocking access to Gil Durán’s *Nerd Reich* [because it “addresses topics like the ‘Network State’ concept and critiques of tech industry figures](https://bsky.app/profile/gilduran.com/post/3ljy3wqbs2c26)
@@ -58,7 +60,7 @@ faculty can’t speak *as* the university in the same way that administrators ca
 
 ***2025-03-03:*** not enough people understand that [*Musk’s goal is to exterminate multitudes*](https://medium.com/age-of-awareness/a-unifying-theory-of-elon-musk-66b841ee0f71) — and Trump is cool with that because that’d make him a Great Man
 
-***2025-03-03:*** Association of Collegiate Schools of Architecture’s *Journal of Architectural Education* [pulls its call for an issue about Palestine](https://www.archpaper.com/2025/02/acsa-cancels-fall-2025-journal-of-architectural-education-issue-on-palestine-and-fires-its-interim-executive-editor/)
+***2025-03-03:*** Association of Collegiate Schools of Architecture’s *Journal of Architectural Education* [pulls its call for an issue about Palestine](https://www.archpaper.com/2025/02/acsa-cancels-fall-2025-journal-of-architectural-education-issue-on-palestine-and-fires-its-interim-executive-editor/) (2025-03-10: [the board resigned en bloc](https://www.instagram.com/p/DHCwxrPJ86N/?img_index=1) — *good for them!*)
 
 ***2025-03-03:*** Gregg Gonsalves gets warmer than most — [the Trump admin wants to destroy universties](https://www.thenation.com/article/society/trump-universities-research-cuts-reaction/) — but his analysis still focuses on science, which is a mistake.
 ***
