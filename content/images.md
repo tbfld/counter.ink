@@ -3,17 +3,17 @@ yaml_begin: true
 title: images
 description: a stream of pix that pique my interest
 extract: 
-created: 2025-03-03 12:12
-updated: 2025-03-03 12:12
-author: "tb"
-images: "true"
+created: 2025-03-11 00:12
+updated: 2025-03-11 00:12
+author: tb
+images: "false"
 order: 
 enableToc: "true"
 permalink: 
 aliases: 
 draft: "false"
 publish: "true"
-date: 2025-03-03
+date: 2025-03-11
 tags:
   - image
   - media
@@ -22,143 +22,27 @@ RSS: "true"
 yaml_end: true
 ---
 
-![[2025-03-09-trump-everything.jpg|wmed relative|center]]
+![[2025-03-11-50000000-bernie-fans-byfield.jpg|wmed relative|center]]
 
-![[2025-03-09-exploded-house.jpg|wmed relative|center]]
+![[2025-03-11-190000-ceiling-fans.jpg|wmed relative|center]]
 
-![[2025-03-09-guns.jpg|wmed relative|center]]
+![[2025-03-11-not-those-rascals.jpg|wmed relative|center]]
 
-![[2025-03-09-bell-tatrahedral-kite.jpg|wmed relative|center]]
+![[2025-03-11-heisenberg-detroit.jpg|wmed relative|center]]
 
-![[2025-03-09-soviet-kvant-1976.jpg|wmed relative|center]]
+![[2025-03-11-man-in-the-high-castle-subway-2019.jpg|wmed relative|center]]
 
-![[2025-03-09-mars.jpg|wmed relative|center]]
+![[2025-03-11-police-trolley-nyc.jpg|wmed relative|center]]
 
-![[2025-03-09-loie-fuller.jpg|wmed relative|center]]
+![[2025-03-11-distracted-excel.jpg|wmed relative|center]]
 
-![[2025-03-09-zamboni.jpg|wmed relative|center]]
+![[2025-03-11-ascent-of-man-descent-of-trump.jpg|wmed relative|center]]
 
-![[2025-03-09-gerhard-richter.seestueck.jpg|wmed relative|center]]
+![[2025-03-11-egg-found-you-hunt-collection.jpg|wmed relative|center]]
 
-![[2025-03-03-nypd-carl-shurtz-byfield.jpg|wmed relative|center]]
+![[2025-03-11-detroit-kowalski-byfield.jpg|wmed relative|center]]
 
-![[2025-03-03-south-georgia-instagram-collapse.jpg|wmed relative|center]]
-
-![[2025-03-03-clouds.jpg|wmed relative|center]]
-
-![[2025-03-03-abandoned-diner-location-unknown-byfield.jpg|wmed relative|center]]
-
-![[2025-03-03-911-beaded-purse.jpg|wmed relative|center]]
-
-![[2025-03-03-antler-tower-delta-co.jpg|wmed relative|center]]
-
-![[2025-03-03-polar-solar-photo.jpg|wmed relative|center]]
-
-![[2025-03-03-problem-solving-flowchart.jpg|wmed relative|center]]
-
-![[2025-03-03-spider-web-with-dewdrops.jpg|wmed relative|center]]
-
-![[2025-03-03-lonely-lade-crazy-scene.jpg|wmed relative|center]]
-
-![[2025-03-03-parmigianino-self-portrait-mirrored.jpg|wmed relative|center]]
-
-![[2025-03-03-red-shanked-douc-langur-monkey.jpg|wmed relative|center]]
-
-![[2025-03-03-salo-pig-mask.jpg|wmed relative|center]]
-
-![[2025-03-03-scabby-nyc.jpg|wmed relative|center]]
-
-![[2025-03-03-times-square-crazy-eddie.jpg|wmed relative|center]]
-
-![[2025-03-03-world-on-wire-phone.jpg|wmed relative|center]]
-
-![[2025-03-03-architects-protest.jpg|wmed relative|center]]
-
-
-![[2025-03-03-jacques-tati-perspective-machine.jpg|wmed relative|center]]
-
-![[2025-03-03-brussels-broodthaers-homage-byfield.jpg|wmed relative|center]]
-
-![[2025-03-03-rothko-schwitters-book-spread.jpg|wmed relative|center]]
-
-![[2025-03-03-vacuuming-europe-byfield.jpg|wmed relative|center]]
-
-![[2025-03-03-ww2-contrails.jpg|wmed relative|center]]
-
-![[2025-03-03-floating-saturn.jpg|wmed relative|center]]
-
-![[2025-03-03-bbc-pask-what-he-thinks-i-believe.jpg|wmed relative|center]]
-
-![[2025-03-03-pacific-beach-fence.jpg|wmed relative|center]]
-
-![[2025-03-03-lax-tile-tunnel-charles-kratka-1961.jpg|wmed relative|center]]
-
-![[2025-03-03-tyouki-bouki-still-masks.jpg|wmed relative|center]]
-
-![[2025-03-03-wally-wood-realist-disney-scape.jpg|wmed relative|center]]
-
-![[2025-03-03-wilson-bryan-key-clam-plate-orgy-spread.jpg|wmed relative|center]]
-
-![[2025-03-03-rapture-puppets-album-cover.jpg|wmed relative|center]]
-
-![[2025-03-03-skeleton-costume.jpg|wmed relative|center]]
-
-![[2025-03-03-tinklers-diagram-chemical-imbalance.jpg|wmed relative|center]]
-
-![[2025-03-03-tlh-head-float.jpg|wmed relative|center]]
-
-![[2025-03-03-wolfram-akpah-cow-sphere-squence.jpg|wmed relative|center]]
-
-![[2025-03-03-you-seem-to-be-made-of-porcelain.jpg|wmed relative|center]]
-
-![[2025-03-03-loyalty-to-trump-is-not-patriotism.jpg|wmed relative|center]]
-
-![[2025-03-03-flannery-oconnor-bumpersticker-byfield.jpg|wmed relative|center]]
-
-![[2025-03-03-involuntary-test-subject-cruel-tech.jpg|wmed relative|center]]
-
-![[2025-03-03-2fa-6666.jpg|wmed relative|center]]
-
-![[2025-03-03-chat-gtp-outrageous-pronunciation.jpg|wmed relative|center]]
-
-![[2025-03-03-solzhenitsyn-gulag.jpg|wmed relative|center]]
-
-![[2025-03-03-agony-of-defeat.jpg|wmed relative|center]]
-
-![[2025-03-03-boyfriend-distracted-by-american-chopper.jpg|wmed relative|center]]
-
-![[2025-03-03-british-airways-baby-ad.jpg|wmed relative|center]]
-
-![[2025-03-03-globes-hanging-from-strings.jpg|wmed relative|center]]
-
-![[2025-03-03-ascii-flickr.jpg|wmed relative|center]]
-
-![[2025-03-03-innocent-wordle.jpg|wmed relative|center]]
-
-![[2025-03-03-epoh.jpg|wmed relative|center]]
-
-![[2025-03-03-morales-pope.jpg|wmed relative|center]]
-
-![[2025-03-03-bloomberg.jpg|wmed relative|center]]
-
-![[2025-03-03-gadsden-flag-waffle-house.jpg|wmed relative|center]]
-
-![[2025-03-03-henwood-after-the-new-economy.jpg|wmed relative|center]]
-
-![[2025-03-03-hype-pouch.jpg|wmed relative|center]]
-
-![[2025-03-03-stickers-with-no-purpose.jpg|wmed relative|center]]
-
-![[2025-03-03-so-much-for-so-little.jpg|wmed relative|center]]
-
-![[2025-03-03-corvid-testing-via-BM.jpg|wmed relative|center]]
-
-![[2025-03-03-zelda-ehance-your-rubber-tights.jpg|wmed relative|center]]
-
-![[2025-03-03-wario-this-is-what-defeat-looks-like.jpg|wmed relative|center]]
-
-![[2025-03-03-chris-burden-shoot-artwork-1971-via-rimanelli.jpg|wmed relative|center]]
 
 *See also:*
 - [[images (2025-02-23 – 2025-03-03)]]
-
+- [[images (2025-03-03 – 2025-03-10)]]
