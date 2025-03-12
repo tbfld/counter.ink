@@ -136,8 +136,9 @@ export default (() => {
 // Path to OpenGraph/social image (priority: frontmatter > generated image (if enabled) > default image)
 const frontmatterImgUrl = fileData.frontmatter?.socialImage;
 
+// Determine the OpenGraph/social image path (priority: frontmatter > generated image > default image)
 let ogImagePath = frontmatterImgUrl 
-  ? frontmatterImgUrl 
+  ? `https://${cfg.baseUrl}/static/${frontmatterImgUrl}` 
   : useDefaultOgImage 
     ? ogImageDefaultPath 
     : ogImageGeneratedPath;
@@ -150,10 +151,8 @@ if (fileData.slug === "index") {
   ogImagePath = ogImageDefaultPath;
 }
 
-    // Override with frontmatter url if existing
-    if (frontmatterImgUrl) {
-      ogImagePath = `https://${cfg.baseUrl}/static/${frontmatterImgUrl}`
-    }
+// Append version query string to force cache refresh
+const ogImageVersioned = `${ogImagePath}?v=2`;
 
     // Url of current page
     const socialUrl =
