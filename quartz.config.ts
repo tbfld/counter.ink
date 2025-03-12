@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
-    defaultSocialImage: "img/altrecyc-1200x630.jpeg",
+    defaultSocialImage: "/img/altrecyc-1200x630.jpeg",
     pageLayout: {
       index: ["recent", "index", "home"]
     },
