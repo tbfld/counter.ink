@@ -28,6 +28,9 @@ yaml_end: true
 
 ***
 
+> [!success]+ [[2020-07-08-distributed-criminality|BONUS CONTENT: 2020-07-08 distributed criminality]]
+> “Not a day goes by without Trump or one of his associates explicitly acknowledging that their polices will kill large numbers of people, and that they’re doing it for electoral advantage,”
+
 > [!note]+ [[2025-03-09-columbia–vs-feds-timeline|2025-03-09 columbia vs feds timeline]]
 > Exactly what it says on the label
 
