@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
-    defaultSocialImage: "/img/altrecyc-1200x630.jpeg",
+    defaultSocialImage: "img/altrecyc-1200x630.jpeg",
     pageLayout: {
       index: ["recent", "index", "home"]
     },
@@ -91,7 +91,6 @@ const config: QuartzConfig = {
           
           // List of Folder Notes to exclude
           const excludeFolderNotes = ['blg.md', 'blg/new.md', 'blg/old.md'];
-          
           return (
             // Include specific files
             includeFiles.includes(node.file.name) ||
