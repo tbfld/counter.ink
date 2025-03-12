@@ -137,8 +137,8 @@ export default (() => {
 const frontmatterImgUrl = fileData.frontmatter?.socialImage;
 
 // Determine the OpenGraph/social image path (priority: frontmatter > generated image > default image)
-let ogImagePath = frontmatterImgUrl 
-  ? `https://${cfg.baseUrl}/static/${frontmatterImgUrl}` 
+let ogImagePath = frontmatterImgUrl
+  ? `https://${cfg.baseUrl}/img/${frontmatterImgUrl}`
   : useDefaultOgImage 
     ? ogImageDefaultPath 
     : ogImageGeneratedPath;
