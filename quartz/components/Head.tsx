@@ -194,6 +194,7 @@ if (fileData.slug === "index") {
           <>
             <meta name="twitter:image" content={ogImagePath} />
             <meta property="og:image" content={ogImagePath} />
+            <meta property="og:image:secure_url" content={ogImagePath} />
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
             <meta property="og:url" content={socialUrl}></meta>
             <meta property="twitter:url" content={socialUrl}></meta>
