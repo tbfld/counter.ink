@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->]]
 
+> [!note]+ [[2025-03-12-2025-03-12-trump-canada-and-real-resistance|2025-03-12 Trump Canada and Real Resistance]]
+> What Germans should have done in the 1930s but for US citizens now
+ 
 > [!note]+ [[2025-03-09-columbia–vs-feds-timeline|2025-03-09 columbia vs feds timeline]]
 > Exactly what it says on the label
 

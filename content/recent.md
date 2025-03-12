@@ -28,6 +28,9 @@ yaml_end: true
 
 ***
 
+> [!note]+ [[2025-03-12-2025-03-12-trump-canada-and-real-resistance|2025-03-12 Trump Canada and Real Resistance]]
+> What Germans should have done in the 1930s but for US citizens now
+
 > [!success]+ [[2020-07-08-distributed-criminality|BONUS CONTENT: 2020-07-08 distributed criminality]]
 > “Not a day goes by without Trump or one of his associates explicitly acknowledging that their polices will kill large numbers of people, and that they’re doing it for electoral advantage,”
 
