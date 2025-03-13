@@ -19,7 +19,7 @@ tags:
   - governance
   - nostalgia
 status: 
-RSS: "false"
+RSS: "true"
 yaml_end: true
 ---
 ...not even a year ago, when Trump was convicted of 34 felonies.

@@ -27,6 +27,8 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, see [[images (2025-03-03 – 2025-03-10)]]
 
 ***
+> [!note]+ [[2025-03-13-relic-of-a-simpler-time|2025-03-13 relic of a simpler time]]
+> *Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty!* 
 
 > [!note]+ [[2025-03-12-2025-03-12-trump-canada-and-real-resistance|2025-03-12 Trump Canada and Real Resistance]]
 > What Germans should have done in the 1930s but for US citizens now
