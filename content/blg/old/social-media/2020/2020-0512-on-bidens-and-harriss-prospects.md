@@ -22,7 +22,7 @@ tags:
   - race
   - gop
 status: 
-RSS: fale
+RSS: "false"
 yaml_end: true
 ---
 One thing jumps out in this puff piece about Biden: Warren and Sanders get sidelined. “Outwardly, at least, Biden appears sensitive to the concerns of progressives,” while he “builds his bridge” to a new generation of — wait for it — centrists. [It’s sounding a lot like the veep-for-life is planning on being a one-term president,](https://nymag.com/intelligencer/2020/05/joe-biden-presidential-plans.html) i.e., saddling his own veep with the Hubert Humphrey problem of having to run both for and against a platform s/he can’t fully claim. I’m sure the GOP would see what a decent that gesture that is and give the 2024 Dem candidate room to grow... 🙄
