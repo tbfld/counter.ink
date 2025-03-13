@@ -21,8 +21,11 @@ RSS: "false"
 yaml_end: true
 ---
 #### Recent posts
-<!-- RECENT_POSTS_START -->]]
+<!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2025-03-13-relic-of-a-simpler-time|2025-03-13 relic of a simpler time]]
+> *Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty!* 
+ 
 > [!note]+ [[2025-03-12-2025-03-12-trump-canada-and-real-resistance|2025-03-12 Trump Canada and Real Resistance]]
 > What Germans should have done in the 1930s but for US citizens now
  
