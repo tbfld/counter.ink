@@ -72,7 +72,7 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 **Feb 27:** Barnard says no promises of amnesty; planned protest
 - *NY Post* ([link](https://nypost.com/2025/02/27/us-news/jewish-advocacy-group-calls-on-doj-to-defund-columbia-barnard-as-anti-israel-protests-resume-for-second-day/))
 
-**Feb 27:** pro-Israel advocates call for CU’s funding to be pullled
+**Feb 27:** pro-Israel advocates call for CU’s funding to be pulled
 -  ([link](https://stopantisemitism.org/02/27/jewish-advocacy-group-calls-on-doj-to-defund-columbia-barnard-for-failing-to-protect-students-as-violent-anti-israel-protests-rage-hostile-and-dangerous/))
 
 **Mar 01(?):** CU issues “Protocol for Potential Visits to Campus By U.S. Immigration and Customs Enforcement (ICE) Agents”
@@ -140,6 +140,9 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 
 **Mar 10:** The (formerly *Jewish Daily) Forward* cites “Ross Glick, a pro-Israel activist who previously shared a list of campus protesters with federal immigration authorities, said that he was in Washington, D.C., for meetings with members of Congress during the Barnard library demonstration and discussed Khalil with aides to Sens. Ted Cruz and John Fetterman who promised to “escalate” the issue. **He said that some members of Columbia’s board had also reported Khalil to officials.**” (emph added)
 - Forward ([link](https://forward.com/news/703018/mahmoud-khalil-columbia-cuad-ice/))
+
+**Mar 13:** Maryam Alwan offers a personal perspective on Kahlil and event.
+- Columbia Spectator ([link](https://www.columbiaspectator.com/opinion/2025/03/13/mahmoud-khalil-is-my-friend-columbia-targeted-him-then-the-us-government-abducted-him/))
 
 ***
 ###### Older context

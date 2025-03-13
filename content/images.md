@@ -22,6 +22,36 @@ RSS: "true"
 yaml_end: true
 ---
 
+![[2025-03-13-syd-barrett-floor-refound-ca-2023.jpg|wmed relative|center]]
+
+![[2025-03-13-smith-college-dance-studio-skeleton-ca-2022.jpg|wmed relative|center]]
+
+![[2025-03-13-frog-plantain-leaf-byfield.jpg|wmed relative|center]]
+
+![[2025-03-13-lga-escalator-byfield.jpg|wmed relative|center]]
+
+![[2025-03-13-disassembled-ciruclar-stair-case-byfield.jpg|wmed relative|center]]
+
+![[2025-03-13-drop-ceiling-photog-date-unknown.jpg|wmed relative|center]]
+
+![[2025-03-13-1964-bushmiller-nancy-abstract-shapes.jpg|wmed relative|center]]
+
+![[2025-03-13-saul-steinberg-the-city-feb-24-1973.jpg|wmed relative|center]]
+
+![[2025-03-13-2019-wayback_machine-condition—green-byfield.jpg|wmed relative|center]]
+
+![[2025-03-13-letraset-ip-found-ebay.jpg|wmed relative|center]]
+
+![[2025-03-13-2021-nyc-chinatown-mosco-st-byfield.jpg|wmed relative|center]]
+
+![[2025-03-13-2020-axel-honneth-frankfurt-school-zzzzzzzoom.jpg|wmed relative|center]]
+
+![[2025-03-13-former-four-seasons-nyc-byfield.jpg|wmed relative|center]]
+
+![[2025-03-13-alexey-titarenko-vasileostrovskaya-metro-variant-2-crowd-2-st-Pet-1992 .jpg|wmed relative|center]]
+
+![[2025-03-12-jesus-corner-via-unvit-abbey-via-boring-pcards.jpg|wmed relative|center]]
+
 ![[2025-03-11-luciean-freud-selfie-1963-eme-muskan-fb.jpg|wmed relative|center]]
 
 ![[2025-03-11-duane-michaels-esrly-photo.jpg|wmed relative|center]]
