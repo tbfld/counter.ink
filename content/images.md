@@ -1,6 +1,6 @@
 ---
 yaml_begin: true
-title: images
+title: image stream 3
 description: a stream of pix that pique my interest
 extract: 
 created: 2025-03-11 00:12
@@ -92,5 +92,5 @@ yaml_end: true
 
 
 *See also:*
-- [[images (2025-02-23 – 2025-03-03)]]
-- [[images (2025-03-03 – 2025-03-10)]]
+- [[images (2025-02-23 – 2025-03-03)| image stream 1 (2025-02-23 – 2025-03-03)]]
+- [[images (2025-03-03 – 2025-03-10)|image stream 2 (2025-03-03 – 2025-03-10)]]

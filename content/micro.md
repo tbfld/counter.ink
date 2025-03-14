@@ -25,6 +25,8 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, see [[images (2025-02-23 – 2025-03-03)]]
 
+***2025-03-13:*** MFA Houston’s page for [Alexey Titarenko’s photographs](https://emuseum.mfah.org/people/16608/alexey-titarenko/objects)
+
 ***2025-03-11:*** Marian Zazeela and La Monte Young’s Music and Light Box [on display in NYC Mar 27 – Apr 12](https://melafoundation.org/music-light-box-2025.html)
 
 ***2025-03-11:*** Columbia’s own James Schamus [on Trump’s attacks on the university](https://lithub.com/a-columbia-professors-message-to-his-fellow-jewish-faculty-members/)
