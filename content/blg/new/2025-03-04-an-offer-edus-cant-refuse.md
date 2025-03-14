@@ -40,9 +40,10 @@ I’ve been warning about this for, depending on how the level of specificity yo
 
 ***
 
-*And on 13 March, that’s **exactly** what the Trump admin did:
+*And on 13 March, that’s **exactly** what the Trump admin did:*
 
 
 ![[2025-03-13_USG2CU-let-01.jpg|wmed relative|center]]
 ![[2025-03-13_USG2CU-let-02.jpg|wmed relative|center]]
 
+🎩 to the top-notch [Zeteo](https://substack.com/@premthakker) reporter [Prem Thacker](https://linktr.ee/premthakker) for this letter.

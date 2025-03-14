@@ -11,8 +11,8 @@ order:
 enableToc: "true"
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+draft: "true"
+publish: "false"
 date: 2025-03-12
 tags:
   - fascism
@@ -21,7 +21,7 @@ tags:
   - science
   - governance
 status: 
-RSS: "true"
+RSS: "false"
 yaml_end: true
 ---
 Scientists need to stop reflexively calling what Trump is doing is “an attack on science.” It *includes* that, yes, but it isn’t limited to it — not even close. Widespread detentions of immigrants? *Not science.* Corrupt, incompetent appointments across the federal government? *Not science.* Book-burnings and library purges? *Not science.* Reactionary anti-DEI curricular diktats? *Not science.* Across-the-board cuts in federal funding? *Not science.* “Deconstructing the administrative state”? *Not science.* Exploiting “antisemitism”? *Not science.* Singling out Columbia for an increasingly ‘all-of-government’ assault? *Not science.* Issuing a watchlist to threaten sixty universities by name? *Not science.* Extrajudicial arrests? *Not science.* Corrupt exemptions for NYU, where Barron attends? *Not science.* These aren’t attacks on science, they’re attacks on the secular, democratic, civil, progressive, meritocratic, knowledge-based ideals and institutions that made science possible.
