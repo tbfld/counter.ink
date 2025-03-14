@@ -27,6 +27,8 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
+> [!success]+ [[2016-07-08-edurant|BONUS CONTENT: 2016-07-08 edurant]]
+> An eight-year-old rant waraning academics to organize because “history will move much more quickly than your CV”
 
 > [!note]+ [[2025-03-13-this-is-not-an-an-attack-on-science|2025-03-13 this is not an an attack on science]]
 > Scientists need to stop reflexively calling what Trump is doing is “an attack on science.” It *includes* that, yes, but it isn’t limited to it — not even close. 
