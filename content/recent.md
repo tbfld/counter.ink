@@ -27,6 +27,9 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, see [[images (2025-03-03 – 2025-03-10)]]
 
 ***
+> [!warning]+ [[2025-03-04-an-offer-edus-cant-refuse|2025-03-04 an offer edus cant refuse]]
+> My 🔮 about what Trump & Co. would do to CU were 🎯
+
 > [!note]+ [[2025-03-13-relic-of-a-simpler-time|2025-03-13 relic of a simpler time]]
 > *Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty!* 
 

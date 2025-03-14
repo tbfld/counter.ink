@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!warning]+ [[2025-03-04-an-offer-edus-cant-refuse|2025-03-04 an offer edus cant refuse]]
+> My 🔮 about what Trump & Co. would do to CU were 🎯
+
 > [!note]+ [[2025-03-13-relic-of-a-simpler-time|2025-03-13 relic of a simpler time]]
 > *Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty!* 
  

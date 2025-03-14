@@ -37,3 +37,12 @@ If you’re counting on the courts to save you, don’t — they won’t because
 There‘s one possible variation on this trajectory: whether, DeSantis-style, the Trump admin will give schools the option of continuing to operate on a probationary basis if they basically agree to go into a form of receivership and accept externally imposed leadership — people like Christopher Rufo. If so, the highest levels of institutional leadership will face a very stark choice: either accept these state-imposed leaders or wind down operations.
 
 I’ve been warning about this for, depending on how the level of specificity you require, somewhere between 20 years and a few months. My advice remains the same: faculty need to organize. Now.
+
+***
+
+*And on 13 March, that’s **exactly** what the Trump admin did:
+
+
+![[2025-03-13_USG2CU-let-01.jpg|wmed relative|center]]
+![[2025-03-13_USG2CU-let-02.jpg|wmed relative|center]]
+
