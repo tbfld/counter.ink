@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2025-03-13-this-is-not-an-an-attack-on-science|2025-03-13 this is not an an attack on science]]
+> Scientists need to stop reflexively calling what Trump is doing is “an attack on science.” It *includes* that, yes, but it isn’t limited to it — not even close. 
+
 > [!warning]+ [[2025-03-04-an-offer-edus-cant-refuse|2025-03-04 an offer edus cant refuse]]
 > My 🔮 about what Trump & Co. would do to CU were 🎯
 
