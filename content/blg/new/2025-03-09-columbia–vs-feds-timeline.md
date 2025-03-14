@@ -4,7 +4,7 @@ title: 2025-03-09 columbia vs feds timeline
 description: a q&d timeline of events surrounding Columbia U and the Trump admin
 extract: This is a quick-and-dirty timeline of events during 2025 leading up to (and to a lesser degree following) Trump & Co.’s decision to pull $400M in federal funding from Columbia University
 created: 2025-03-09 15:28
-updated: 2025-03-09 15:28
+updated: 2025-03-24 09:38
 author: tb
 images: "false"
 order: 
@@ -111,6 +111,9 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 **Mar 07:** March 9, 2025 at 10:49 AM, “post malone ergo propter malone’ on bsky reproduces a tweet(?) *purportedly* from* “two days ago” by “@CampusJewHate,” saying: “Mahmoud Khalil, the foreign student who is one of the leading agitators on campus, is still causing trouble. He seems to be present at every encampment and every sit-in or building takeover. Yesterday, he managed to get onto campus despite not being the current student. Here he is confronted by the @Columbia's Public Safety officer during a rally against NYPD. A day before that he was at @BarnardCollege orchestrating illegal takeover of the building. Secretary Rubio (@SecRubio), please revoke Mahmoud Khalil's visa! \#DeportMahmoudKhalil
 - xitter ([link](https://bsky.app/profile/proptermalone.bsky.social/post/3ljxbvt4dek27))
 
+**Mar 07:** “A Declaration of William P. Joyce,” Acting Field Office Director in the New York City Field Office of ICE’s NY Enforcement and Removal Operations, attests that Mahmoud Khalil was booked into a detention facility in Newark one or more hours *before* his habeas petition was filed.
+- [Court Listener](https://storage.courtlistener.com/recap/gov.uscourts.nysd.638260/gov.uscourts.nysd.638260.32.0.pdf) ([via Josha J. Friedman on Bsky](https://bsky.app/profile/joshuajfriedman.com/post/3lka7gmyeok2p))
+
 **Mar 08:** CU pres Armstrong knuckles under
 - *Columbia Spectator* ([link](https://www.columbiaspectator.com/news/2025/03/07/armstrong-responds-to-400-million-federal-cut-to-columbias-funding-in-email-to-columbia-community/))
 
@@ -152,6 +155,9 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 
 **Mar 13:** Interesting details about Elvin Hernandez, one of the ICE officers who arrested Kahlil — and was honored by name by Trump at the State of the Union *in 2019*
 - DropSite ([link](https://www.dropsitenews.com/p/mahmoud-khalil-detained-ice-agent-honored-trump?utm_campaign=post&utm_medium=web))
+
+**Mar 13:** Columbia “expelled and fired Grant Miner, President of UAW Local 2710, which represents thousands of Columbia student workers. The firing comes one day before contract negotiations were set to open with the University.”
+- UAW ([via xitter](https://threadreaderapp.com/thread/1900339745625899368.html))
 
 ***
 ###### Older context
