@@ -1,10 +1,10 @@
 ---
 yaml_begin: true
-title: 2025-03-11 this is not an an attack on science
+title: 2025-03-13 this is not an an attack on science
 description: Trump is attacking higher ed, not “science,” and that misframing within academia is a catastrophic mistake
 extract: These aren’t attacks on science, they’re attacks on the secular, democratic, civil, progressive, meritocratic, knowledge-based ideals and institutions that made science possible.
 created: 2025-03-12 19:22
-updated: 2025-03-12 19:22
+updated: 2025-03-13 22:06
 author: tb
 images: "false"
 order: 
@@ -13,7 +13,7 @@ permalink:
 aliases: 
 draft: "false"
 publish: "true"
-date: 2025-03-12
+date: 2025-03-13
 tags:
   - fascism
   - academia
