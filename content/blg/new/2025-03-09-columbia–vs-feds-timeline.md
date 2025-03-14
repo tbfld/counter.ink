@@ -148,6 +148,7 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 
 **Mar 13:** A letter to CU co-signed by the GSA, DoE, and HHS imposed several “preconditions for formal negotiations regarding CU’s continued financial relationship” with the feds, requiring “expulsion or multi-year suspension” for students who occupied Hamilton Hall, abolition of the University Judicial Board and “centraliz[ation of] all disciplinary processes under the Office of the President,”time, place, and manner” restrictions “to prevent disruption of teaching, research, and campus life,” a ban on all masks except those worn for religious or health reasons, restrictions and punishments for “unrecognized” groups, “promulgat[ion of] a definition of antisemitism including “Anti-‘Zionist’ discrimination against Jews in areas unrelated to Israel or Middle East,” giving CU security “full law enforcement authority,” placing the Middle East, South Asian, and African Studies department under academic receivership,” and a “comprehensive admissions reform.”
 - DoJ (via [Bsky](https://bsky.app/profile/premthakker.bsky.social/post/3lkcdvb52ic2j))
+- my March 4 predictions were 🎯 down to the detail of receivership ([[2025-03-04-an-offer-edus-cant-refuse|link]])
 
 ***
 ###### Older context

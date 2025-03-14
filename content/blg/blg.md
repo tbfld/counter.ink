@@ -84,6 +84,8 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[25-03-09-wsj-trump-elite-law.jpeg]]
 		- [[2020-05-30-trump-tweets.jpg]]
 		- [[2025-02-26-endowment-tax-google-news.jpeg]]
+		- [[2025-03-13_USG2CU-let-01.jpg]]
+		- [[2025-03-13_USG2CU-let-02.jpg]]
 		- [[alphabetized-opt.jpeg]]
 		- [[alphabetized.jpg]]
 		- [[and-and-and-grid-sm.jpeg]]
