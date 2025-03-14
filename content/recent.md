@@ -24,7 +24,7 @@ yaml_end: true
 ---
 > [!tip]+ For nimbler things, see [[micro]]
 
-> [!error]+ Or if you’re more of a visual type, see [[images (2025-03-03 – 2025-03-10)]]
+> [!error]+ Or if you’re more of a visual type, check out the image streams: [[images|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
 

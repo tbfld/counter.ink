@@ -150,6 +150,9 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 - DoJ (via [Bsky](https://bsky.app/profile/premthakker.bsky.social/post/3lkcdvb52ic2j))
 - my March 4 predictions were 🎯 down to the detail of receivership ([[2025-03-04-an-offer-edus-cant-refuse|link]])
 
+**Mar 13:** Interesting details about Elvin Hernandez, one of the ICE officers who arrested Kahlil — and was honored by name by Trump at the State of the Union *in 2019*
+- DropSite ([link](https://www.dropsitenews.com/p/mahmoud-khalil-detained-ice-agent-honored-trump?utm_campaign=post&utm_medium=web))
+
 ***
 ###### Older context
 
