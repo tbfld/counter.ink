@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!warning]+ [[2025-02-25-how-nih-cuts-will-defund-edus|2025-02-25 how nih cuts will defund edus]]
+> I wrote this when the conventional wisdom held that NIH cuts’ impact would be limited to those fields. Yes, really — most academics really believed that. 
+
 > [!note]+ [[2025-03-13-this-is-not-an-an-attack-on-science|2025-03-13 this is not an an attack on science]]
 > Scientists need to stop reflexively calling what Trump is doing is “an attack on science.” It *includes* that, yes, but it isn’t limited to it — not even close. 
 
