@@ -39,9 +39,9 @@ The Pat Hearn installation later appeared  in the 1995 [*Temporary Translation(s
 
 “Cop Sculpture” got quite a few notices, including a big review in *Artforum* ([Thad Ziolkowski](https://www.artforum.com/author/thad-ziolkowski), [“Openings: Ted Byfield and Lincoln Tobier”](https://www.artforum.com/features/openings-ted-byfield-and-lincoln-tobier-203081/), *Artforum* 32.9 \[May 1994]).
 
-![[content/txt/MISC_images/copsculp-artforum-1.jpg|relative wmed|left]]
+![[copsculp-artforum-1.jpg|relative wmed|left]]
 
 
-![[content/txt/MISC_images/copsculp-artforum-2.jpg|relative wmed|left]]
+![[copsculp-artforum-2.jpg|relative wmed|left]]
 
 

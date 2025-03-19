@@ -33,7 +33,7 @@ yaml_end: true
 *The exhibition appeared at [Real Art Ways](https://www.realartways.org/) (Hartford CT), the [Eye Gallery](https://www.sfgate.com/entertainment/article/eye-gallery-s-holiday-closing-is-permanent-3049493.php) (San Francisco CA), and the [Randolph Street Gallery](https://en.wikipedia.org/wiki/Randolph_Street_Gallery) (Chicago IL) during the 1992 US presidential election. This slightly expanded version of the essay appeared in a spread in an early issue of* Frieze, *back when it was still obscure (#7, Nov–Dec 1992). The essay also appeared in German; both were among the very first texts to appear on [[obj/nettime/nettime]] ([EN](https://nettime.org/Lists-Archives/nettime-l-9512/msg00001.html), [DE](https://nettime.org/Lists-Archives/nettime-l-9512/msg00000.html)).*
 ***
 
-![[content/img/ailes-frieze-spread.jpg]]
+![[ailes-frieze-spread.jpg]]
 
 ***
 
