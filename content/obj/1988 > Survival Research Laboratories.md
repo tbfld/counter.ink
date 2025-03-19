@@ -37,6 +37,6 @@ Here’s [a copy of the script](content/obj/obj_images/19880517-srl-misfortunes-
 
 
 <video controls>
-  <source src="https://github.com/tbfld/counter.ink/img/19880517-srl-misfortunes-video.mp4" type="video/mp4">
+  <source src="https://tbfld.github.io/counter.ink/img/19880517-srl-misfortunes-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
