@@ -25,7 +25,13 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***
+
+***2025-03-16:*** I’m probably more familiar with arbitration than most people from spending several years following ICANN, but even so[ the International Centre for Dispute Resolution’s “Emergency International Arbitral Tribunal,” sounded a bit dystopian.](https://about.fb.com/wp-content/uploads/2025/03/Arbitration-Interim-Award.pdf)
+***
+
 ***2025-03-13:*** MFA Houston’s page for [Alexey Titarenko’s photographs](https://emuseum.mfah.org/people/16608/alexey-titarenko/objects)
+***
 
 ***2025-03-11:*** Marian Zazeela and La Monte Young’s Music and Light Box [on display in NYC Mar 27 – Apr 12](https://melafoundation.org/music-light-box-2025.html)
 
@@ -44,10 +50,9 @@ yaml_end: true
 ***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/) But they had to publish it on Wordpress because faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.) But they had to publish it on Wordpress because, apparently, faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.
 ***
 ***2025-03-09:*** FB’s explicitly blocking access to Gil Durán’s *Nerd Reich* [because it “addresses topics like the ‘Network State’ concept and critiques of tech industry figures](https://bsky.app/profile/gilduran.com/post/3ljy3wqbs2c26)
-
 ***2025-03-09:*** Mike Masnick on [“Why Techdirt Is Now a Democracy Blog”](https://www.techdirt.com/2025/03/04/why-techdirt-is-now-a-democracy-blog-whether-we-like-it-or-not/)
 
-***2025-03-09:*** Nina Burleigh (a/k/a American Freakshow) on [MAGA’s Heart of Darkness](https://www.americanfreakshow.news/p/magas-heart-of-darkness)
+***2025-03-09:*** Nina Burleigh (a/k/a American Freakshow) on [MAGA’s Heart of Darkness](https://www.americanfreakshow.news/p/magas-heart-of-darkness
 ***
 ***2025-03-07:*** [“the empathy exploit”](https://www.cnn.com/2025/03/05/politics/elon-musk-rogan-interview-empathy-doge) is quite a phrase
 
