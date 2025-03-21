@@ -22,6 +22,52 @@ RSS: "true"
 yaml_end: true
 ---
 
+![[2025-03-20-dictionary_book_in_window_reflection-amherest-byfield.jpg|wmed relative|center]]
+
+![[2025-03-20-zelda-academia.jpg|wmed relative|center]]
+
+![[2025-03-20-schygulla-there-must-be-from-eight-hours.jpg|wmed relative|center]]
+
+![[2025-03-20-a-science-of-kicks-in-the-butt.jpg|wmed relative|center]]
+
+![[2025-03-20-ai-gen-average-supreme-court-justice.jpg|wmed relative|center]]
+
+![[2025-03-20-ed-roth.jpg|wmed relative|center]]
+
+![[2025-03-20-fiberglass-tome-and-jerry-and-cpr.jpg|wmed relative|center]]
+
+![[2025-03-20-washington-road-trip-rooftop-characters-byfield.jpg|wmed relative|center]]
+
+![[2025-03-20-ai-gen-french-rev.jpg|wmed relative|center]]
+
+![[2025-03-20-1987_caricature_with_american_flag_david_levine.jpg|wmed relative|center]]
+
+![[2025-03-20-nyc-bus-no-no-no-byfield.jpg|wmed relative|center]]
+
+![[2025-03-20-portato-kasse-ii-get-victored-reddit.jpg|wmed relative|center]]
+
+![[2025-03-20-lga-reflection-byfield.jpg|wmed relative|center]]
+
+![[2025-03-20-sunset_over_ahmic-byfield.jpg|wmed relative|center]]
+
+![[2025-03-20-tanapol-kaewpring-untitled-2010.jpg|wmed relative|center]]
+
+![[2025-03-20-pink_building_green_dumpster_palm-byfield.jpg|wmed relative|center]]
+
+![[2025-03-20-pet_relief_area-byfied.jpg|wmed relative|center]]
+
+![[2025-03-20-lab_with_computers_and_chimp.jpg|wmed relative|center]]
+
+![[2025-03-20-bronx-zoo-1960.jpg|wmed relative|center]]
+
+![[2025-03-20-tati-playtime-still.jpg|wmed relative|center]]
+
+![[2025-03-20-64000_years_ago_Domino_effect_meme_illustration_Know_Your_Meme.jpg|wmed relative|center]]
+
+![[2025-03-20-8_10_23_Abstract_painting_with_trees_water.jpg|wmed relative|center]]
+
+![[2025-03-20-diego-rivera-la-castaneda-o-paseo-de-los-melancolico-1904-gouache-via-eme-muskan-on-fb.jpg|wmed relative|center]]
+
 ![[2025-03-13-syd-barrett-floor-refound-ca-2023.jpg|wmed relative|center]]
 
 ![[2025-03-13-smith-college-dance-studio-skeleton-ca-2022.jpg|wmed relative|center]]
