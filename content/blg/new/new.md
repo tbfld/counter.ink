@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2025-03-21-super-bon-voyage-jonathan-sterne|2025-03-21 super bon voyage jonathan sterne]]
+> “You only get one chance to show your integrity — your entire life.” That was Jonathan.
+
 > [!warning]+ [[2025-02-25-how-nih-cuts-will-defund-edus|2025-02-25 how nih cuts will defund edus]]
 > I wrote this when the conventional wisdom held that NIH cuts’ impact would be limited to those fields. Yes, really — most academics really believed that. 
 
