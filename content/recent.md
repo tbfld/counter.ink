@@ -26,6 +26,8 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+> [!success] And there’s *35 years* of stuff here, so try searching for something you like
+
 ***
 > [!note]+ [[2025-03-21-big-law-and-big-moralism|2025-03-21 big law and big moralism]]
 > a rant about the left’s descent into bombastic moralism
