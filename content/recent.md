@@ -27,6 +27,9 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
+> [!note]+ [[2025-03-21-big-law-and-big-moralism|2025-03-21 big law and big moralism]]
+> a rant about the left’s descent into bombastic moralism
+
 > [!note]+ [[2025-03-21-super-bon-voyage-jonathan-sterne|2025-03-21 super bon voyage jonathan sterne]]
 > “You only get one chance to show your integrity — your entire life.” That was Jonathan.
 

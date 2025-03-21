@@ -76,6 +76,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-03-12-2025-03-12-trump-canada-and-real-resistance|2025-03-12 Trump, Canada, and real resistance]]
 	- [[2025-03-13-relic-of-a-simpler-time|2025-03-13 relic of a simpler time]]
 	- [[2025-03-13-this-is-not-an-an-attack-on-science|2025-03-13 this is not an an attack on science]]
+	- [[2025-03-21-big-law-and-big-moralism|2025-03-21 big law and big moralism]]
 	- [[2025-03-21-super-bon-voyage-jonathan-sterne|2025-03-21 super bon voyage Jonathan Sterne]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
