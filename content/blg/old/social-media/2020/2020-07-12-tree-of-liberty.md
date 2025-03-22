@@ -22,4 +22,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/tree-of-liberty.jpg]]
+![[tree-of-liberty.jpg]]

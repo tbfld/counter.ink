@@ -22,4 +22,4 @@ yaml_end: true
 
 YESSSSSSSSS
 
-![[content/blg/old/social-media/FB_images/every-ice-cube-is-unique.jpg]]
+![[every-ice-cube-is-unique.jpg]]

@@ -20,4 +20,4 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/lacan-and-polanski.jpg]]
+![[lacan-and-polanski.jpg]]

@@ -21,4 +21,4 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/nyt-on-nyt-nyt-on-nyt-nyt-on-nyt-nyt-on-nyt.jpg]]
+![[nyt-on-nyt-nyt-on-nyt-nyt-on-nyt-nyt-on-nyt.jpg]]

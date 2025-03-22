@@ -22,4 +22,4 @@ yaml_end: true
 
 Actual screenshot of my dog upstaging Diane Keaton and Morgan Freeman TRUE FACT
 
-![[content/blg/old/social-media/FB_images/my-dog-the-movie-star.jpg]]
+![[my-dog-the-movie-star.jpg]]

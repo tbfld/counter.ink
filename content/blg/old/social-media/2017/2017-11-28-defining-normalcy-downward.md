@@ -24,4 +24,4 @@ yaml_end: true
 
 WTF. Three results?
 
-![[content/blg/old/social-media/FB_images/defining-normalcy-downward.jpg]]
+![[defining-normalcy-downward.jpg]]

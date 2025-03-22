@@ -23,4 +23,4 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/modified-holzer-2.jpg]]
+![[modified-holzer-2.jpg]]

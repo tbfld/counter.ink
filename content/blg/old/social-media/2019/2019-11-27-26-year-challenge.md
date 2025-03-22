@@ -20,4 +20,4 @@ yaml_end: true
 ---
 I laugh at your ten-year challenge. This mail just appeared in my inbox — it’s like a twenty-six-year challenge.
 
-![[content/blg/old/social-media/FB_images/26-year-challenge.jpg]]
+![[26-year-challenge.jpg]]

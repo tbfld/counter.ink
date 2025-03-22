@@ -20,6 +20,6 @@ status:
 RSS: “false”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/mnftiu.jpg]]
+![[mnftiu.jpg]]
 
 I used to have this on my office door back when you could do that

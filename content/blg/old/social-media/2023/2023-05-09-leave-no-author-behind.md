@@ -20,6 +20,6 @@ yaml_end: true
 
 Someone’s developed a way to make every author the first author
 
-![[content/blg/old/social-media/FB_images/leave-no-author-behind-1.jpg]]
+![[leave-no-author-behind-1.jpg]]
 
-![[content/blg/old/social-media/FB_images/leave-no-author-behind-2.jpg]]
+![[leave-no-author-behind-2.jpg]]

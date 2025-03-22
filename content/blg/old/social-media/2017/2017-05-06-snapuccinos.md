@@ -21,7 +21,7 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/snapuccinos.jpg]]
+![[snapuccinos.jpg]]
 
 Future snapuccinos you’ll be hearing about: internet culture from goatse to smiling poop emojis, surprise messages (marriage proposals, harassment, bullying, I’m breaking up with you, you’re fired, etc), IP violations, technical glitches (code fragments, file listings, pictures of USB drives, etc). Next-gen: snapuccinos that disappear after 30 seconds, that can’t be photographed, etc), etc, etc, etc, etc.
 

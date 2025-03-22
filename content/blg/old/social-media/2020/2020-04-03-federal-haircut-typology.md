@@ -21,4 +21,4 @@ yaml_end: true
 
 I’d like to know what canonical authority is behind this typology.
 
-![[content/blg/old/social-media/FB_images/federal-haircut-typology.jpg]]
+![[federal-haircut-typology.jpg]]

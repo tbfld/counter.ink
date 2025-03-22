@@ -22,4 +22,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/new-ubu.jpg]]
+![[new-ubu.jpg]]

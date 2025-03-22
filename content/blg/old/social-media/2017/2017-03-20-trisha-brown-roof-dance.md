@@ -22,6 +22,6 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/trisha-brown-roof-dance.jpg|relative wmed|left]]
+![[trisha-brown-roof-dance.jpg|relative wmed|left]]
 
 RIP Trisha Brown 😞

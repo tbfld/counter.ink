@@ -23,4 +23,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/im-a-utilitarian.jpg]]
+![[im-a-utilitarian.jpg]]

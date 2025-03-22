@@ -23,4 +23,4 @@ yaml_end: true
 
 P’shop genius courtesy of *Business Insider*
 
-![[content/blg/old/social-media/FB_images/thanks-for-the-photoshop.jpg]]
+![[thanks-for-the-photoshop.jpg]]

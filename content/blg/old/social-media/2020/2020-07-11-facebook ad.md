@@ -20,4 +20,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/college-campus-4-sale.jpg]]
+![[college-campus-4-sale.jpg]]

@@ -22,4 +22,4 @@ yaml_end: true
 
 Verizon agreed to fix 15,000 of these — in Pennsylvania alone — which result from its refusal to move its services to new poles.
 
-![[content/blg/old/social-media/FB_images/verizon-pole-repairs-not.jpg]]
+![[verizon-pole-repairs-not.jpg]]

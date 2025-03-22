@@ -21,4 +21,4 @@ status:
 RSS: “false”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/circumcision-creates-killers.jpg]]
+![[circumcision-creates-killers.jpg]]

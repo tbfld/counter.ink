@@ -25,4 +25,4 @@ yaml_end: true
 
 Maybe the US should just go back to manufacturing objects
 
-![[content/blg/old/social-media/FB_images/time-mag-k-pop.jpg]]
+![[time-mag-k-pop.jpg]]

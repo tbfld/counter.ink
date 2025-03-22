@@ -22,4 +22,4 @@ yaml_end: true
 
 Hard to argue with a camellia
 
-![[content/blg/old/social-media/FB_images/hard-to-argue-with-a-camellia.jpg]]
+![[hard-to-argue-with-a-camellia.jpg]]

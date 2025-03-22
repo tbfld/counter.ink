@@ -20,4 +20,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/from-the-garden.jpg]]
+![[from-the-garden.jpg]]

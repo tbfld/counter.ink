@@ -23,4 +23,4 @@ yaml_end: true
 
 My favorite [[nettime alumni and alumnae|nettimer]], Morlock Elloi, noticed the book on top
 
-![[content/blg/old/social-media/FB_images/voice-activated-foucault.jpg]]
+![[voice-activated-foucault.jpg]]

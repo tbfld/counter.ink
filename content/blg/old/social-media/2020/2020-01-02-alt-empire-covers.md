@@ -22,4 +22,4 @@ yaml_end: true
 ---
 Hardt and Negri should reissue *Empire* with different covers so readers can collect ’em all.
 
-![[content/blg/old/social-media/FB_images/alt-empire-cover.jpg]]
+![[alt-empire-cover.jpg]]

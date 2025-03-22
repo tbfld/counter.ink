@@ -23,4 +23,4 @@ yaml_end: true
 
 It turns out the Impossible Whopper really does taste like a hamburger — from Britain in the early ’70s. I’m thinking Wimpy, but maybe all British hamburgers tasted like that.
 
-![[content/blg/old/social-media/FB_images/impossible.jpg]]
+![[impossible.jpg]]

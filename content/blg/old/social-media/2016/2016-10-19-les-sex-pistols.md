@@ -22,4 +22,4 @@ status:
 RSS: “false”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/pistolets-de-sexe.jpg]]
+![[pistolets-de-sexe.jpg]]

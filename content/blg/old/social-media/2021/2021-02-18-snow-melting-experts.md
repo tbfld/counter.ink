@@ -21,4 +21,4 @@ yaml_end: true
 
 There are snow-melting experts, and the role of journalism is to seek them out in times of need.
 
-![[content/blg/old/social-media/FB_images/snow-melting-experts.jpg]]
+![[snow-melting-experts.jpg]]

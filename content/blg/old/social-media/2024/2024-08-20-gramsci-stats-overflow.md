@@ -24,4 +24,4 @@ status: draft
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/clown-gramsci-overflow.jpg|relative wmed|left]]
+![[clown-gramsci-overflow.jpg|relative wmed|left]]

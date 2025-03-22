@@ -23,4 +23,4 @@ yaml_end: true
 ---
 Someone asked me to dig up some of my old syllabi and I found this. Brown!!! CAT FACE WITH TEARS OF JOY
 
-![[content/blg/old/social-media/FB_images/my-syllabus.jpg]]
+![[my-syllabus.jpg]]

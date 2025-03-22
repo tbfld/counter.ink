@@ -22,4 +22,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/google-reader.jpg]]
+![[google-reader.jpg]]

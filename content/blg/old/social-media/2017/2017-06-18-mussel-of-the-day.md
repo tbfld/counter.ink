@@ -20,4 +20,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/2017-06-18-mussel-of-the-day.jpg]]
+![[2017-06-18-mussel-of-the-day.jpg]]

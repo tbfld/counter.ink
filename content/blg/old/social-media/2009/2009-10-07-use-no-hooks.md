@@ -24,6 +24,6 @@ RSS: “true”
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/use-no-hooks.jpg]]
+![[use-no-hooks.jpg]]
 
 Icono-ideological mutation UPS delivery on my block.

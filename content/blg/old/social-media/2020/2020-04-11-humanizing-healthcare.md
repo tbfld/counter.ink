@@ -24,4 +24,4 @@ yaml_end: true
 ---
 Medics with photos of themselves smiling for C-19 patients. This is smart and great on so many levels.
 
-![[content/blg/old/social-media/FB_images/humanizing-healthcare.jpg]]
+![[humanizing-healthcare.jpg]]

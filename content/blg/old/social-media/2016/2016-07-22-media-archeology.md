@@ -23,4 +23,4 @@ yaml_end: true
 ---
 Yes, a home-study course called "Selling the Internet" that uses...VHS tapes!
 
-![[content/blg/old/social-media/FB_images/selling-the-net.jpg]]
+![[selling-the-net.jpg]]

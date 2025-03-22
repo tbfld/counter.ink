@@ -24,4 +24,4 @@ yaml_end: true
 
 I’m thinking something soothing, maybe a warmish greige with earth-tone detailing. 
 
-![[content/blg/old/social-media/FB_images/viral-aesthetics.jpg]]
+![[viral-aesthetics.jpg]]

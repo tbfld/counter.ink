@@ -20,4 +20,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/enjoy-it-at-your-own-risk.jpg]]
+![[enjoy-it-at-your-own-risk.jpg]]

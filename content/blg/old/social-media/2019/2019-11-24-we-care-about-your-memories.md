@@ -21,4 +21,4 @@ yaml_end: true
 
 All the feelz
 
-![[content/blg/old/social-media/FB_images/we-care-about-your-memories.jpg]]
+![[we-care-about-your-memories.jpg]]

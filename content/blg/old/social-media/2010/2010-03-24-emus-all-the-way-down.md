@@ -21,6 +21,6 @@ RSS: “true”
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/emulators-within-emulators.jpg]]
+![[emulators-within-emulators.jpg]]
 
 WP 1.0.5 running under OSX 10.6.2 (in only *four* clicks!) is boggling, but WP 5.2 for DOS running under OSX would be really satisfying.

@@ -17,4 +17,4 @@ tags:
   - needs_tags
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/busload-of-lamers.jpg]]
+![[busload-of-lamers.jpg]]

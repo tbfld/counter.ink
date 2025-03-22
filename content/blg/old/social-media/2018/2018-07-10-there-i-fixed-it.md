@@ -22,4 +22,4 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/there-i-fixed-it.jpg]]
+![[there-i-fixed-it.jpg]]

@@ -20,4 +20,4 @@ tags:
   - history
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/recent-intellectual-history-in-a-meme.jpg]]
+![[recent-intellectual-history-in-a-meme.jpg]]

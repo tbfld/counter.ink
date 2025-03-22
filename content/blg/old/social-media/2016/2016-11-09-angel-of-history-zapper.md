@@ -22,4 +22,4 @@ yaml_end: true
 ---
 I’m pleased to announce my latest project: an Angel of History Zapper. When your morose theory pals start quoting Walter Benjamin to give their impotent whining that special ‘aura’ of the inexorable, just plug this puppy in and CRACK ZAP POW! You’ll enjoy a renewed sense of political agency in no time!
 
-![[content/blg/old/social-media/FB_images/angel-of-history-zapper.jpg]]
+![[angel-of-history-zapper.jpg]]

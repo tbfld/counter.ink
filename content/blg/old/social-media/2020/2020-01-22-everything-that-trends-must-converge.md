@@ -24,4 +24,4 @@ yaml_end: true
 
 Everything that trends must converge
 
-![[content/blg/old/social-media/FB_images/everything-that-trends-must-converge-jpg.jpg]]
+![[everything-that-trends-must-converge-jpg.jpg]]

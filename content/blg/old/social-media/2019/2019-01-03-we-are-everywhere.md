@@ -22,4 +22,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/we-are-everywhere.jpg|wmed relative|center]]
+![[we-are-everywhere.jpg|wmed relative|center]]

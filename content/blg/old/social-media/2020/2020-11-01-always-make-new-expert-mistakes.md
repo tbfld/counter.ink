@@ -25,4 +25,4 @@ yaml_end: true
 
 I love this gambit: “I was an expert but I was completely out to lunch, so I’ll treat my sustained cluelessness as an opportunity to reassert my expertise.” It’s very common these days.
 
-![[content/blg/old/social-media/FB_images/expert-gambit.jpg]]2
+![[expert-gambit.jpg]]2

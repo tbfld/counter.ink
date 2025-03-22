@@ -21,6 +21,6 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/my-fave-graffito.jpg]]
+![[my-fave-graffito.jpg]]
 
 Still my fave graffito in NYC

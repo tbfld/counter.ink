@@ -21,4 +21,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/just-say-how.jpg]]
+![[just-say-how.jpg]]

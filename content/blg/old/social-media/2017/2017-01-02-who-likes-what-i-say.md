@@ -23,4 +23,4 @@ yaml_end: true
 
 My dream for 2017: TO CONTROL WHO LIKES WHAT I SAY
 
-![[content/blg/old/social-media/FB_images/controlling-comments.jpg]]
+![[controlling-comments.jpg]]

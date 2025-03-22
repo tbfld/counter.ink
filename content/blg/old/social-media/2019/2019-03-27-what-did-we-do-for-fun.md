@@ -22,4 +22,4 @@ yaml_end: true
 
 What did people do for fun before they could exchange text messages with their kids?
 
-![[content/blg/old/social-media/FB_images/what-did-we-do-for-fun.jpg]]
+![[what-did-we-do-for-fun.jpg]]

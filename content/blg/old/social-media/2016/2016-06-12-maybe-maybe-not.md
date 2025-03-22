@@ -22,4 +22,4 @@ yaml_end: true
 ---
 Stumbled onto this a few days ago. Not convinced.
 
-![[content/blg/old/social-media/FB_images/maybe-toynbee-maybe-not.jpg]]
+![[maybe-toynbee-maybe-not.jpg]]

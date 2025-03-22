@@ -21,4 +21,4 @@ yaml_end: true
 
 *Washington Post*, I fixed your headline
 
-![[content/blg/old/social-media/FB_images/now-add-something-about-legitimacy.jpg]]
+![[now-add-something-about-legitimacy.jpg]]

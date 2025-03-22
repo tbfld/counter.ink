@@ -23,4 +23,4 @@ yaml_end: true
 
 edu admin kool-aid: just add water
 
-![[content/blg/old/social-media/FB_images/academic-banter.jpg]]
+![[academic-banter.jpg]]

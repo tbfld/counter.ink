@@ -20,4 +20,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/my-hands-are-still-noticeably-damp.jpg]]
+![[my-hands-are-still-noticeably-damp.jpg]]

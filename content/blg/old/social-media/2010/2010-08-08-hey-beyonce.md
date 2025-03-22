@@ -20,4 +20,4 @@ status:
 RSS: “true”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/beyonce.jpg]]
+![[beyonce.jpg]]

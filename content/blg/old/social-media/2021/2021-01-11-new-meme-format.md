@@ -23,4 +23,4 @@ yaml_end: true
 
 New format (to me): breaking even worse.
 
-![[content/blg/old/social-media/FB_images/breaking-theory.jpg]]
+![[breaking-theory.jpg]]

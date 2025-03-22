@@ -19,12 +19,12 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/latest-last-supper.jpg]]
+![[latest-last-supper.jpg]]
 
-![[content/blg/old/social-media/FB_images/las-meninas.jpg]]
+![[las-meninas.jpg]]
 
-![[content/blg/old/social-media/FB_images/guernica.jpg]]
+![[guernica.jpg]]
 
 ### 2020-03-24
 
-![[content/blg/old/social-media/FB_images/anatomy-lesson-of-dr.tulp.jpg]]
+![[anatomy-lesson-of-dr.tulp.jpg]]

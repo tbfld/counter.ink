@@ -21,4 +21,4 @@ yaml_end: true
 
 Just stumbled on this Xmas gift–buying advice for the 13YO
 
-![[content/blg/old/social-media/FB_images/on-gift-giving.jpg]]
+![[on-gift-giving.jpg]]

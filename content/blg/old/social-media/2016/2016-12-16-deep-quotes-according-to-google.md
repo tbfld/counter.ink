@@ -23,4 +23,4 @@ yaml_end: true
 
 <3 Google autocomplete
 
-![[content/blg/old/social-media/FB_images/google-autocomplete.jpg]]
+![[google-autocomplete.jpg]]

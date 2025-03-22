@@ -20,6 +20,6 @@ status:
 RSS: “false”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/straubs-rain.jpg]]
+![[straubs-rain.jpg]]
 
 \\[Screenshot from a film by [Straub–Huillet](https://en.wikipedia.org/wiki/Straub%E2%80%93Huillet) whose name I’ve forgotten]

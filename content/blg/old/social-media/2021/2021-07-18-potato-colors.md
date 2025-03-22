@@ -21,4 +21,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/potato-colors.jpg]]
+![[potato-colors.jpg]]

@@ -23,4 +23,4 @@ yaml_end: true
 
 \[from Jon Savage’s book *This Searing Light, the Sun and Everything Else: Joy Division*]
 
-![[content/blg/old/social-media/FB_images/weird-combinations-of-books.jpg]]
+![[weird-combinations-of-books.jpg]]

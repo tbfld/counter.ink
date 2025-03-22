@@ -21,4 +21,4 @@ yaml_end: true
 
 Help me I just realized Ebay is awash in Letraset
 
-![[content/blg/old/social-media/FB_images/letraset.jpg]]
+![[letraset.jpg]]

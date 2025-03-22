@@ -22,4 +22,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/not-everywhere-is-queens.jpg]]
+![[not-everywhere-is-queens.jpg]]

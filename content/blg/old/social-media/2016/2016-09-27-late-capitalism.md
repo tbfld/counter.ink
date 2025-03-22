@@ -20,6 +20,6 @@ status:
 RSS: “false”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/costco-cash.jpg]]
+![[costco-cash.jpg]]
 
 Late capitalism in a nutshell

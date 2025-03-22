@@ -20,6 +20,6 @@ status:
 RSS: “true”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/easter-technology.jpg]]
+![[easter-technology.jpg]]
 
 Easter Sunday, Harlem
