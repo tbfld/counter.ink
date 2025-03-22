@@ -20,6 +20,6 @@ status:
 RSS: “true”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/erasure.jpg]]
+![[erasure.jpg]]
 
 Is anyone keeping track of all the demos around the world that the NYT is covering (up) by plugging its ears and saying “LALALALAICANTHEARYOU”? If so, add 1.5 million students in Colombia.

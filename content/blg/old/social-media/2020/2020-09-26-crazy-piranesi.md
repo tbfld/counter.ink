@@ -21,4 +21,4 @@ yaml_end: true
 
 Crazy Piranesi scene right at the end of the block
 
-![[content/blg/old/social-media/FB_images/crazy-covid-viz.jpg]]
+![[crazy-covid-viz.jpg]]

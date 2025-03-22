@@ -19,6 +19,6 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/icloud-is-full.jpg]]
+![[icloud-is-full.jpg]]
 
 This should be the last word on this subject

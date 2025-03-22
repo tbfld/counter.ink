@@ -22,4 +22,4 @@ yaml_end: true
 
 5 years ago
 
-![[content/blg/old/social-media/FB_images/centrist-rally.jpg]]
+![[centrist-rally.jpg]]

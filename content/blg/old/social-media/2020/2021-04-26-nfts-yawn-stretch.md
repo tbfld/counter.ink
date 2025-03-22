@@ -20,7 +20,7 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/nfts-anyone.jpeg|550]]
+![[nfts-anyone.jpeg|550]]
 
 Imma reup this because it turns out there some genuinely interesting writing about NFTs, just not what or where you’d expect. For example, Emily Ratajkowski kicked [[blg/old/nettime/nettime]]’s collective \*ss in a half-dozen directions at once — no big surprise because the list is (as they say) pretty stale, pale, and male. Dean Kissick in *Spike* is what you’d get when you overfilled a Vitamix with interesting observations: yummy stuff splattered everywhere. And Kal Raustiala and Christopher Jon Sprigman in *Slate* are good too. tl;dr: leftoid moralizing about “hoaxes” and “scams” is the theoretical quivalent of a cul-de-sac in a subdivison — it goes nowhere, just neighbors having each other over for margaritas to say the same things over and over.
 

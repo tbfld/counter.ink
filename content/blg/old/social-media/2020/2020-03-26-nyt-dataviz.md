@@ -24,4 +24,4 @@ yaml_end: true
 ---
 This is pretty dazzling
 
-![[content/blg/old/social-media/FB_images/2020-03-26-nyt-dataviz.jpg]]
+![[2020-03-26-nyt-dataviz.jpg]]

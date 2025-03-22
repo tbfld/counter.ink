@@ -22,6 +22,6 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/homage-a-broodthaers.jpg]]
+![[homage-a-broodthaers.jpg]]
 
 Since I’m in Belgium, here’s my homage to Broodthaers

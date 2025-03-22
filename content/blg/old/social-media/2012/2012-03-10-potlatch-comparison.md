@@ -22,6 +22,6 @@ status:
 RSS: “false”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/potlatch-comparison-guide.jpg]]
+![[potlatch-comparison-guide.jpg]]
 
 \[*this was a found object*]

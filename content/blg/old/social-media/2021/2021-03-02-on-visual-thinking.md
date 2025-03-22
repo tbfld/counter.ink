@@ -21,6 +21,6 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/on-visual-thinking.jpg]]
+![[on-visual-thinking.jpg]]
 
 This is a great example of “visual thinking,” in large part because it shows how and why most people intuitively DO NOT WANT to think visually. Visual thinking isn’t that instrumentalized, performative bullshit you see in smarmy public-input sessions, or the servile officiousness of dataviz monoculture — it’s much more delirious and even hallucinatory.

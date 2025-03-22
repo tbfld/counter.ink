@@ -24,6 +24,6 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/tufte-crit.jpg]]
+![[tufte-crit.jpg]]
 
 Biting criticism 😹

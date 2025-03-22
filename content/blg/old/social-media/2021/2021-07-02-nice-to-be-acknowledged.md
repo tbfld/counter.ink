@@ -22,6 +22,6 @@ yaml_end: true
 
 My work isn’t done here, but it's pretty nice to see [[blg/old/nettime/nettime]] — 23 years of work there — acknowledged in a canonical-ish history.
 
-![[content/blg/old/social-media/FB_images/nettime-nea.jpg]]
+![[nettime-nea.jpg]]
 
 \[From the National Endowment for the Arts, [*Tech as Art: Supporting Artists Who Use Technology as a Medium* ](https://www.arts.gov/sites/default/files/Arts%20and%20Tech-final.pdf)(2021)]

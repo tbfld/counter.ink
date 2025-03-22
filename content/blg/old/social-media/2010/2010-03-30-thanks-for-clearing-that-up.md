@@ -20,4 +20,4 @@ RSS: “true”
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/evil-exists.jpg]]
+![[evil-exists.jpg]]

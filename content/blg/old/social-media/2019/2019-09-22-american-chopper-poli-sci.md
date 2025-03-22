@@ -21,4 +21,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/american-chopper-poli-sci.jpg]]
+![[american-chopper-poli-sci.jpg]]

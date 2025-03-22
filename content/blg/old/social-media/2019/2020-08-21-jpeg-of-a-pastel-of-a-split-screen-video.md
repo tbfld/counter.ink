@@ -24,4 +24,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/jpeg-of-a-pastel-of-a-split-screen-video.jpg]]
+![[jpeg-of-a-pastel-of-a-split-screen-video.jpg]]

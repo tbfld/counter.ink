@@ -22,4 +22,4 @@ yaml_end: true
 
 Still great. And I still miss Rene calling everyone Cookie, Frenchie, or Blondie
 
-![[content/blg/old/social-media/FB_images/cultural-syncretism.jpg]]
+![[cultural-syncretism.jpg]]

@@ -24,4 +24,4 @@ yaml_end: true
 ---
 Criterion’s UI is giving me flashbacks to when I used to bike around the city at night to change art-house marquees 😳
 
-![[content/blg/old/social-media/FB_images/criterion-ui.jpg]]
+![[criterion-ui.jpg]]

@@ -21,4 +21,4 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/truly-excellent-visualization.jpg]]
+![[truly-excellent-visualization.jpg]]

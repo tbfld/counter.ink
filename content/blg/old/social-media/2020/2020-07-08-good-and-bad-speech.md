@@ -21,6 +21,6 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/good-and-bad-speech-1.jpg]]
+![[good-and-bad-speech-1.jpg]]
 
-![[content/blg/old/social-media/FB_images/good-and-bad-speech-2.jpg]]
+![[good-and-bad-speech-2.jpg]]

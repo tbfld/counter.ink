@@ -22,6 +22,6 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/2017-06-15-mussel-of-the-day.jpg]]
+![[2017-06-15-mussel-of-the-day.jpg]]
 
 New series! Mussel of the day \#motd

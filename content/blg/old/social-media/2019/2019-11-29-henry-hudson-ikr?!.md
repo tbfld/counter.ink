@@ -25,4 +25,4 @@ yaml_end: true
 ---
 Here’s a Thanksgiving-y gem from the kid’s archives
 
-![[content/blg/old/social-media/FB_images/henry-hudson-ikr.jpg]]
+![[henry-hudson-ikr.jpg]]

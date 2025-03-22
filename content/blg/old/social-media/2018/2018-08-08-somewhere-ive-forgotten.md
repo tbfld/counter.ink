@@ -21,4 +21,4 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/somewhere-ive-forgotten.jpg]]
+![[somewhere-ive-forgotten.jpg]]

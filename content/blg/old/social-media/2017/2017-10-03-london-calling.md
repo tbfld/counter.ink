@@ -23,4 +23,4 @@ yaml_end: true
 
 O&BTW
 
-![[content/blg/old/social-media/FB_images/london-calling.jpg]]
+![[london-calling.jpg]]

@@ -21,4 +21,4 @@ tags:
   - 1960s
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/mead-on-acid.jpg]]
+![[mead-on-acid.jpg]]

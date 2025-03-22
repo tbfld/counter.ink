@@ -24,4 +24,4 @@ yaml_end: true
 
 Dimensional memeography seems not just innovative but inevitable.
 
-![[content/blg/old/social-media/FB_images/dimensional-memeography.jpg]]
+![[dimensional-memeography.jpg]]

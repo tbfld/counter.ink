@@ -24,6 +24,6 @@ status:
 RSS: “false”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/video-games-can-food.jpg]]
+![[video-games-can-food.jpg]]
 
 TURN YOUR OLD VIDEO GAMES IN2 CAN FOOD!!!

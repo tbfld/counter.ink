@@ -22,4 +22,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/crazy-covid-viz.jpg]]
+![[crazy-covid-viz.jpg]]

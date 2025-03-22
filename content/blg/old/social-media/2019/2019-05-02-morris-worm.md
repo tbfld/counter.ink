@@ -21,4 +21,4 @@ tags:
   - software
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/morris-worm.jpg]]
+![[morris-worm.jpg]]

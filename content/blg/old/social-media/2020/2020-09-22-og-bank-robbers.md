@@ -21,4 +21,4 @@ yaml_end: true
 
 A decade ± ago I installed an exhibition in a space that Citibank had just moved out of. They left lots of stuff behind, including a folder devoted to bank robberies: manuals, forms, signoffs, etc. It included this page, which — judging by the bank’s name, the revision date, and the styles — dates from 1963.
 
-![[content/blg/old/social-media/FB_images/bank-robbers.jpg]]
+![[bank-robbers.jpg]]

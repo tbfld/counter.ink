@@ -29,4 +29,4 @@ I was so happy to see this. Bohlin is a hero, and the three-point safety belt ha
 
 > The U.S. Patent Office issued Patent No. 3,043,625 to “Nils Ivar Bohlin, Goteborg, Sweden, assignor to Aktiebolaget Volvo.” In the patent Bohlin explained his new seatbelt design, “The object… is to provide a safety belt which independently of the strength of the seat and its connection with the vehicle in an effective and physiologically favorable manner retains the upper as well as the lower part of the body of the strapped person against the action of substantially forwardly directed forces and which is easy to fasten and unfasten and even in other respects satisfies rigid requirements.”
 
-![[content/blg/old/social-media/FB_images/nils-bohlin.jpg]]
+![[nils-bohlin.jpg]]

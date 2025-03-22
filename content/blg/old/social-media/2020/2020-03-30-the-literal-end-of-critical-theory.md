@@ -22,4 +22,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/the-literal-end-of-critical-theory.jpg]]
+![[the-literal-end-of-critical-theory.jpg]]

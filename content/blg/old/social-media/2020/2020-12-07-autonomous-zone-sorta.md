@@ -24,4 +24,4 @@ yaml_end: true
 
 Autonomous zones just ain’t what they used to be
 
-![[content/blg/old/social-media/FB_images/autonomous-zone-sorta.jpg]]
+![[autonomous-zone-sorta.jpg]]

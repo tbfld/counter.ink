@@ -24,4 +24,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/pierrot-le-people-you-know.jpg]]
+![[pierrot-le-people-you-know.jpg]]

@@ -21,6 +21,6 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/pere-ubu-a-l’aviation.jpg]]
+![[pere-ubu-a-l’aviation.jpg]]
 
 My life is now complete

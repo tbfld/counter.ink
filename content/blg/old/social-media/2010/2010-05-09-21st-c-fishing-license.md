@@ -20,6 +20,6 @@ status:
 RSS: “true”
 yaml_end: true
 ---
-![[content/blg/old/social-media/FB_images/fish-license.jpg]]
+![[fish-license.jpg]]
 
 ALL YOUR DNA ARE BELONG TO US (EXCEPT IN CALIFORNIA).

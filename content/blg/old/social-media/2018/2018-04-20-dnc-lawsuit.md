@@ -23,4 +23,4 @@ yaml_end: true
 
 This DNC lawsuit is bitter-end HRC death-cult stuff. The third form of relief requested is “the financial gain earned by Defendants as a consequence of the violations described herein.”
 
-![[content/blg/old/social-media/FB_images/dnc-lawsuit.jpg]]
+![[dnc-lawsuit.jpg]]

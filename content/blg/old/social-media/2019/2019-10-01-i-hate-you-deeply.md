@@ -25,4 +25,4 @@ yaml_end: true
 
 \[a favorite from way back]
 
-![[content/blg/old/social-media/FB_images/i-hate-you-deeply.jpg]]
+![[i-hate-you-deeply.jpg]]

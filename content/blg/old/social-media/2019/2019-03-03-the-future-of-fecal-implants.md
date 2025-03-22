@@ -23,4 +23,4 @@ yaml_end: true
 
 Pretty much sums it all up
 
-![[content/blg/old/social-media/FB_images/the-future-of-fecal-implants.jpg]]
+![[the-future-of-fecal-implants.jpg]]

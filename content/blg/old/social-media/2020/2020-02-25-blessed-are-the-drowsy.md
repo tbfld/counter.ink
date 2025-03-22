@@ -24,4 +24,4 @@ yaml_end: true
 
 “Blessed are the drowsy for they shall soon drop off.” — Nietzsche
 
-![[content/blg/old/social-media/FB_images/blessed-are-the-drowsy.jpg]]
+![[blessed-are-the-drowsy.jpg]]

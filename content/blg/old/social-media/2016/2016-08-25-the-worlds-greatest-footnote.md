@@ -25,7 +25,7 @@ yaml_end: true
 ---
 And on the subject of machine learning “discovering” gender bias etc, there’s one of the greatest footnotes ever, from Klaus Theweleit’s *Male Fantasies*, vol. 1:
 
-![[content/blg/old/social-media/FB_images/theweleit-footnote.jpg]]
+![[theweleit-footnote.jpg]]
 
 
 

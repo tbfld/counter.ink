@@ -19,4 +19,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/today-is-the-wrong-day.jpg]]
+![[today-is-the-wrong-day.jpg]]

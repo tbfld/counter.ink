@@ -20,4 +20,4 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/reset-blocked-memories.jpg]]
+![[reset-blocked-memories.jpg]]

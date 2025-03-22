@@ -21,4 +21,4 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/id-rather-be-reading-flannery-oconnor.jpg]]
+![[id-rather-be-reading-flannery-oconnor.jpg]]

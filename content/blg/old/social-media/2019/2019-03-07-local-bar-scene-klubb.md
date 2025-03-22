@@ -24,4 +24,4 @@ yaml_end: true
 
 Best bar name ever
 
-![[content/blg/old/social-media/FB_images/local-bar-scene-klubb.jpg]]
+![[local-bar-scene-klubb.jpg]]

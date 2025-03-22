@@ -21,4 +21,4 @@ yaml_end: true
 
 Edward tuftesplains a tuftesplainer
 
-![[content/blg/old/social-media/FB_images/tuftsplaining.jpg]]
+![[tuftsplaining.jpg]]

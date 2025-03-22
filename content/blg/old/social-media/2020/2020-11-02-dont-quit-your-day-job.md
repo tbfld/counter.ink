@@ -21,7 +21,7 @@ yaml_end: true
 
 \[Context: I had tweeted “@sfmnemonic Here’s Byfield’s Law: *As the number of actual Nazis increases, the probability that Godwin’s Slogan will be invoked to avoid confronting them approaches 1.* What do you think?”]
 
-![[content/blg/old/social-media/FB_images/godwin-day-job.jpg]]
+![[godwin-day-job.jpg]]
 
 
 👉🏼 *See also:* [[2024-09-16-godwins-non-law]], [[2024-11-27-just-say-no-to-santayana]]

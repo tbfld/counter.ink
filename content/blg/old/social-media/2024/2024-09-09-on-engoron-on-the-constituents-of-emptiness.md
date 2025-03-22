@@ -22,4 +22,4 @@ yaml_end: true
 
 So...I was poking around looking for the equivalent of Commentpress for Github Pages, and I found a twenty-year-old comment from — unless there’s more than one literary-minded Arthur Engoron running around, which is not impossible — the judge who slammed Trump with a $350M fine. Best of all: the comment is on Mitchell Stephens’s Holy of Holies: On the Constituents of Emptiness. And suggestions about Commentpress-like functions for GP are warmly welcome.
 
-![[content/blg/old/social-media/FB_images/on-engoron-on-the-constituents-of-emptiness.jpg]]
+![[on-engoron-on-the-constituents-of-emptiness.jpg]]

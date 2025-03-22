@@ -22,6 +22,6 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/doonesburys-energy-czar-situation-not-crisis.jpg]]
+![[risis.jpg]]
 
 Just filing this in ~public

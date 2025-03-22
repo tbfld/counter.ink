@@ -21,7 +21,7 @@ RSS: “true”
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/computer-center.jpg]]
+![[computer-center.jpg]]
 
 old-school
 

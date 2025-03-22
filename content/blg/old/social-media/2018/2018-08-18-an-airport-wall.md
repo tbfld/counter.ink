@@ -24,4 +24,4 @@ RSS: "false"
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/airport-wall.jpg]]
+![[airport-wall.jpg]]

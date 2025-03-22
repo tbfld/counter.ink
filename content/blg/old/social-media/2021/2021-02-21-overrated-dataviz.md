@@ -23,4 +23,4 @@ yaml_end: true
 
 This new dataviz style — which I’m seeing around more — seems like a tacit acknowledgement that graphs and charts are overrated.
 
-![[content/blg/old/social-media/FB_images/overrated-dataviz.jpg]]
+![[overrated-dataviz.jpg]]

@@ -21,6 +21,6 @@ tags:
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/companies-prep-for-deepfake-future.jpg]]
+![[companies-prep-for-deepfake-future.jpg]]
 
 By prototyping radical new forms of clickbait

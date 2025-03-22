@@ -21,6 +21,6 @@ RSS: “true”
 yaml_end: true
 ---
 
-![[content/blg/old/social-media/FB_images/what-does-it-do.jpg]]
+![[what-does-it-do.jpg]]
 
 Good question.
