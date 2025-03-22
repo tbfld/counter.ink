@@ -33,3 +33,7 @@ EDIT: Biella Coleman [posted this picture with a memorial that included the foll
 
 ![[2025-03-21-jonathan-sterne-boston-reflection-by-biella-coleman.jpg|wmed relative|center]]
 
+Other notable memorials as they roll in:
+
+- [Society for Cinema and Media Studies](https://www.facebook.com/SCMStudies?__cft__[0]=AZXe0MN38eSasdaq4gysCRsSZG8Sz1MNDrhqkdTyp_LTDgnbR4KpxkZmPTlW3g-yblt8bPR3lotqd_M_CNPDU-yIbgrvVeGyAnYGCTTryWxJnoaskOan7H9N7Nbl4uZ181zqHoagbl1THcBjqgE3QsxYHNFzh5sHD3JqDdAyzvB4Nw&__tn__=-UC%2CP-R)
+

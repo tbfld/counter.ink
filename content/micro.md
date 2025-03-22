@@ -27,6 +27,11 @@ yaml_end: true
 
 ***
 
+***2025-03-21:*** Michael Ignatieff, who headed up CEU in Budapest, on [what US edus should do](https://archive.ph/20250314193712/https://www.chronicle.com/article/how-a-university-fights-an-authoritarian-regime)
+
+***2025-03-21:*** I was sure that [Tesla coined](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/) the fabulous word “embrittlement,” [but it was far more popular in 1967 and 1983](https://books.google.com/ngrams/graph?content=embrittlement&year_start=1800&year_end=2022&corpus=en&smoothing=3)
+***
+
 ***2025-03-16:*** I’m probably more familiar with arbitration than most people from spending several years following ICANN, but even so[ the International Centre for Dispute Resolution’s “Emergency International Arbitral Tribunal,” sounded a bit dystopian.](https://about.fb.com/wp-content/uploads/2025/03/Arbitration-Interim-Award.pdf)
 ***
 
