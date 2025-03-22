@@ -22,6 +22,8 @@ yaml_end: true
 ---
 #### Recent posts
 <!-- RECENT_POSTS_START -->
+> [!note]+ [[2025-03-21-alma-mater|2025-03-21 alma mater]]
+> a plaster maquette for our times
 
 > [!note]+ [[2025-03-21-big-law-and-big-moralism|2025-03-21 big law and big moralism]]
 > a rant about the left’s descent into bombastic moralism

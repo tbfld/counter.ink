@@ -29,6 +29,10 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 ***
+
+> [!note]+ [[2025-03-21-alma-mater|2025-03-21 alma mater]]
+> a plaster maquette for our times
+
 > [!note]+ [[2025-03-21-big-law-and-big-moralism|2025-03-21 big law and big moralism]]
 > a rant about the left’s descent into bombastic moralism
 
