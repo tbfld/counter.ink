@@ -21,4 +21,4 @@ yaml_end: true
 
 \[found image]
 
-![[content/blg/old/social-media/FB_images/scalar-model.jpg]]
+![[scalar-model.jpg]]
