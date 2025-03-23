@@ -158,6 +158,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[three-p-opera.jpeg]]
 	- [[new|new]]
 	- [[NYU.pdf]]
+	- [[swasticar.png]]
 - **[[old]]**
 	- **[[nettime]]**
 		- **[[1995]]**
