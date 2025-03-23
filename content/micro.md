@@ -26,18 +26,18 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
+***2025-03-23:*** [a *brilliant* takedown some new book](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Freallandsend.bsky.social%2Fpost%2F3lkbiboxarc2z&viewtype=unroll) called *In Covid’s Wake: How Our Politics Failed Us*
 
+***
 ***2025-03-21:*** Michael Ignatieff, who headed up CEU in Budapest, on [what US edus should do](https://archive.ph/20250314193712/https://www.chronicle.com/article/how-a-university-fights-an-authoritarian-regime)
 
 ***2025-03-21:*** I was sure that [Tesla coined](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/) the fabulous word “embrittlement,” [but it was far more popular in 1967 and 1983](https://books.google.com/ngrams/graph?content=embrittlement&year_start=1800&year_end=2022&corpus=en&smoothing=3)
 ***
-
 ***2025-03-16:*** I’m probably more familiar with arbitration than most people from spending several years following ICANN, but even so[ the International Centre for Dispute Resolution’s “Emergency International Arbitral Tribunal,” sounded a bit dystopian.](https://about.fb.com/wp-content/uploads/2025/03/Arbitration-Interim-Award.pdf)
 ***
 
 ***2025-03-13:*** MFA Houston’s page for [Alexey Titarenko’s photographs](https://emuseum.mfah.org/people/16608/alexey-titarenko/objects)
 ***
-
 ***2025-03-11:*** Marian Zazeela and La Monte Young’s Music and Light Box [on display in NYC Mar 27 – Apr 12](https://melafoundation.org/music-light-box-2025.html)
 
 ***2025-03-11:*** Columbia’s own James Schamus [on Trump’s attacks on the university](https://lithub.com/a-columbia-professors-message-to-his-fellow-jewish-faculty-members/)
