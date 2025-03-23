@@ -63,4 +63,9 @@ Anything NOT associated with a guy who tweets ‘great point’ at white nationa
 
 You bought your Tesla in good faith, thinking it was the future. It’s not your fault. But now, the best move is to leave it in the past-before the only buyers left are alt-right influencers and guys who say “actually, free speech” every 10 minutes.
 
+***
+
+Bonus graphic (added 2025-03-23):
+
+![[swasticar.png]]
 
