@@ -1,6 +1,6 @@
 ---
 yaml_begin: true
-title: image stream 3
+title: image stream
 description: a stream of pix that pique my interest
 extract: 
 created: 2025-03-11 00:12
