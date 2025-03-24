@@ -29,6 +29,8 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 ***
+> [!note]+ [[2025-03-24-i-claudius|2025-03-24 i claudius]]
+> a squib about the 1976 BBC series (tl;dr: *watch it*)
 
 > [!note]+ [[2025-03-21-alma-mater|2025-03-21 alma mater]]
 > a plaster maquette for our times

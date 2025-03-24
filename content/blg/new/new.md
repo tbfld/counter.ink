@@ -13,15 +13,19 @@ permalink:
 aliases: 
 draft: "false"
 publish: "true"
-date: 2025-01-16
+date: 2025-03-24
 tags:
   - index
-status: final
+status: 
 RSS: "false"
 yaml_end: true
 ---
 #### Recent posts
 <!-- RECENT_POSTS_START -->
+
+> [!note]+ [[2025-03-24-i-claudius|2025-03-24 i claudius]]
+> a squib about the 1976 BBC series (tl;dr: *watch it*)
+
 > [!note]+ [[2025-03-21-alma-mater|2025-03-21 alma mater]]
 > a plaster maquette for our times
 

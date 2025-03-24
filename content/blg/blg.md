@@ -80,6 +80,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-03-21-alma-mater|2025-03-21 alma mater]]
 	- [[2025-03-21-big-law-and-big-moralism|2025-03-21 big law and big moralism]]
 	- [[2025-03-21-super-bon-voyage-jonathan-sterne|2025-03-21 super bon voyage Jonathan Sterne]]
+	- [[2025-03-24-i-claudius]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
@@ -95,6 +96,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[2025-03-13_USG2CU-let-02.jpg]]
 		- [[2025-03-21-jonathan-sterne-boston-reflection-by-biella-coleman.jpg]]
 		- [[2025-03-21-jonathan-sterne.jpg]]
+		- [[2025-03-25-iclaudius.jpeg]]
 		- [[alphabetized-opt.jpeg]]
 		- [[alphabetized.jpg]]
 		- [[and-and-and-grid-sm.jpeg]]
