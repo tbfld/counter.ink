@@ -26,6 +26,9 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
+
+***2025-03-24:*** [Letter to USC on edu transparency re natsec risks posed by Chinese nationals in STEM](https://selectcommitteeontheccp.house.gov/media/letters/letter-dr-carol-folt-president-usc-transparency-universities-national-security-risks)
+***
 ***2025-03-23:*** For those of a certain age, [this clock design](https://social.yetzt.me/@yetzt/statuses/01JQ17NBRG9NH2N5BB6Q97T7R3) is a work of unsurpassed candor, wit, and genius. For others, its meaning will be lost, like tears in the rain.
 
 ***2025-03-23:*** [a *brilliant* takedown some new book](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Freallandsend.bsky.social%2Fpost%2F3lkbiboxarc2z&viewtype=unroll) called *In Covid’s Wake: How Our Politics Failed Us*
