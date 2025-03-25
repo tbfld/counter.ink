@@ -29,6 +29,9 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 ***
+> [!note]+ [[2025-03-25-trump-and-nuclear-codes-round-2|2025-03-25 trump and nukes round 2]]
+> Here we go again
+
 > [!note]+ [[2025-03-24-i-claudius|2025-03-24 i claudius]]
 > a squib about the 1976 BBC series (tl;dr: *watch it*)
 
