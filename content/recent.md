@@ -29,6 +29,9 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 ***
+> [!note]+ [[2025-0325-dod-says-signal-is-a-no-no|2025-0325 dod says signal is a no-no]]
+> this kind of signaling and maneuvering is how bureaucracies work
+
 > [!note]+ [[2025-03-25-vice-signaling|2025-03-25 vice signaling]]
 > a squib about the Signal / Atlantic brouhaha
 
