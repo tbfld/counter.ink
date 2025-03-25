@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2025-03-25-vice-signaling|2025-03-25 vice signaling]]
+> a squib about the Signal / Atlantic brouhaha
+
 > [!note]+ [[2025-03-25-trump-and-nuclear-codes-round-2|2025-03-25 trump and nukes round 2]]
 > Here we go again
 

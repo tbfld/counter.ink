@@ -165,6 +165,12 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 **Mar 14:** The Guardian reports that Betar US, “a far-right group that claimed credit for the arrest of a Palestinian activist and permanent US resident who the Trump administration is seeking to deport claims it has submitted ‘thousands of names’ for similar treatment.” Events above strongly suggest that Kahlil’s arrest stemmed from a similar arrangement, i.e., Betar guiding Trump and ICE operatives at least.
 - *Guardian* ([link](https://www.theguardian.com/us-news/2025/mar/14/israel-betar-deportation-list-trump))
 
+**Mar 14:** a [video of Kahlil’s arrest](https://bsky.app/profile/joshuajfriedman.com/post/3lkejmabksk2k)
+
+***
+
+*(After the 14th or so, the different strands of these events — essentially, the Trump administration’s attacks on Columbia vs the details surrounding Kahlil’s detention — became a little less entangled, so I stopped updating this as a matter of course. I may add more in the future, but I’d prefer not to contribute to the conflation of Kahlil’s and Columbia’s respective fates.)*
+
 ***
 ###### Older context
 
