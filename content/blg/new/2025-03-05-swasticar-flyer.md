@@ -4,8 +4,8 @@ title: 2025-03-05 swasticar flyer
 description: a convenient pdf for flyering Teslas
 extract: 
 created: 2025-03-05 11:32
-updated: 2025-03-05 11:32
-author: "tb"
+updated: 2025-03-26 00:22
+author: tb
 images: "true"
 order: 
 enableToc: "true"
@@ -25,6 +25,10 @@ status:
 RSS: "true"
 yaml_end: true
 ---
+***New!*** 
+
+![[musk-qr.jpg|wmed relative|center]]
+
 This image has been making the rounds on social media, so I thought I’d help it do the same IRL [[swasticar.pdf|by making a convenient PDF]]. Just download it, print out a dozen copies, toss them in your bag, and leave them under the windshield wipers on Teslas. *You too can do antifa!*
 
 (I’ve added the text below so people can adapt it as they see fit — for example, in countries outside the US where alternatives are different.)
