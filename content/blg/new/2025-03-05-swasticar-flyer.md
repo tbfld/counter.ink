@@ -25,9 +25,13 @@ status:
 RSS: "true"
 yaml_end: true
 ---
+***
 ***New!*** 
 
 ![[musk-qr.jpg|wmed relative|center]]
+
+Thus QR points to [https://www.plainsite.org/dockets/download.html?id=332879335&z=06846ebe](https://www.plainsite.org/dockets/download.html?id=332879335&z=06846ebe)
+***
 
 This image has been making the rounds on social media, so I thought I’d help it do the same IRL [[swasticar.pdf|by making a convenient PDF]]. Just download it, print out a dozen copies, toss them in your bag, and leave them under the windshield wipers on Teslas. *You too can do antifa!*
 

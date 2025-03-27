@@ -25,6 +25,10 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+
+***2025-03-27:*** Rolux’s [Vectorisation(s) Du cinéma](https://rolux.org/video/vectorisation(s)_du_cin%c3%a9ma_1a/) (2020)
+***
+***2025-03-26:*** Interesting syllabus [“about the representation of the city across media and disciplines”](https://www.fig-projects.com/?p=1555) by Fabrizio Gallianti
 ***
 ***2025-03-25:*** “Turd Reich” images [for download](https://mcusercontent.com/bd36014b9888db9081d204e78/files/27983e2f-9aa0-bf57-321f-53c4dbdeb252/the_turd_reich_A0_.pdf)
 ***

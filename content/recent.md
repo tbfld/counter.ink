@@ -29,7 +29,7 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 ***
-> [!note]+ [[2025-0325-dod-says-signal-is-a-no-no|2025-0325 dod says signal is a no-no]]
+> [!note]+ [[2025-03-25-dod-says-signal-is-a-no-no|2025-0325 dod says signal is a no-no]]
 > this kind of signaling and maneuvering is how bureaucracies work
 
 > [!note]+ [[2025-03-25-vice-signaling|2025-03-25 vice signaling]]
@@ -228,3 +228,7 @@ yaml_end: true
 > [!note]+ [[blg/old/social-media/2024/2024-08-19-third-parties-and-doing-good.md|2024 08 19: third parties and doing good]]
 > (image) This sounds like a soundbite, i.e., a short statement extracted from a larger context, but 18YO \[i.e., my eighteen-year-old daughter] has tuned me on...
 
+### additional refs
+
+> [!note]+ [[https://bsky.app/profile/ansleyerickson.bsky.social/post/3llega25ahk22|Bsky thread updating the status of detained CU students]]
+> as of 202503-27; 🎩 to RG for the pointer
