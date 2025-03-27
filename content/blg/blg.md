@@ -80,9 +80,9 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-03-21-big-law-and-big-moralism|2025-03-21 big law and big moralism]]
 	- [[2025-03-21-super-bon-voyage-jonathan-sterne|2025-03-21 super bon voyage Jonathan Sterne]]
 	- [[2025-03-24-i-claudius|2025-03-24 I Claudius]]
+	- [[2025-03-25-dod-says-signal-is-a-no-no|2025-03-25 DOD says signal is a no-no]]
 	- [[2025-03-25-trump-and-nuclear-codes-round-2|2025-03-25 Trump and “nuclear codes” — round 2]]
 	- [[2025-03-25-vice-signaling|2025-03-25 vice signaling]]
-	- [[2025-0325-dod-says-signal-is-a-no-no|2025-03-25 DOD says signal is a no-no]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
@@ -130,6 +130,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[mission-of-burma-signals-calls-insert.jpg]]
 		- [[mtm-ai.jpeg]]
 		- [[mtm-hidef.jpeg]]
+		- [[musk-qr.jpg]]
 		- [[nag-hammadi-meme.jpeg]]
 		- **neologisms**
 			- [[2011-01-05-tweetiqutte.png]]
