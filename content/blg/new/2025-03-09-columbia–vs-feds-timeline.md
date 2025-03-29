@@ -170,8 +170,9 @@ This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events
 ***
 
 *(After the 14th or so, the different strands of these events — essentially, the Trump administration’s attacks on Columbia vs the details surrounding Kahlil’s detention — became a little less entangled, so I stopped updating this as a matter of course. I may add more in the future, but I’d prefer not to contribute to the conflation of Kahlil’s and Columbia’s respective fates.)*
-
 ***
+
+***2025-03-28:*** Another CU student being persecuted, Ranjani Srinivasan, has written an open letter that makes an empirical case (which I believe, FWIW) that the university administration is actively collaborating with authorities against its own students — for example, by [“arbitrarily de-enroll\[ing] me causing me to lose my legal status, worker status, and housing.”](https://www.normanfinkelstein.com/letter-from-columbia-student-ranjani-srinivasan-after-fleeing-the-united-states-to-canada/)
 ###### Older context
 
 - 2024-11-23: “Zionist org preps list of foreign pro-Hamas students, hoping Trump will deport them” ([*NYPost*](https://nypost.com/2024/11/23/us-news/zionist-org-preps-list-of-foreign-pro-hamas-students-hoping-trump-will-deport-them/))
