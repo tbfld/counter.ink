@@ -22,6 +22,44 @@ RSS: "true"
 yaml_end: true
 ---
 
+![[2025-03-29-expanse-drummer-words.jpg|wmed relative|center]]
+
+![[2025-03-29-scabby-at-columbia.jpg|wmed relative|center]]
+
+![[2025-03-29-men-women-lga-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-ralph-morse-sunset_diner.jpg|wmed relative|center]]
+
+![[2025-03-29-order-pickup-shadow-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-strength-through-masturbation-graffiti-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-bushmiller-nancuy-sluggo-ice-cream-fence.jpg|wmed relative|center]]
+
+![[2025-03-29-whats-behind-a-kapoor-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-dior-paris-plan-plate-via-rj-andrews.jpg|wmed relative|center]]
+
+![[2025-03-29-paper-towels-cuban-rest-10-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-snake-wask-nest-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-georgia-o-keeffe-black-abstraction-1927-via-eme-musakn-on-fb.jpg|wmed relative|center]]
+
+![[2025-03-29-blurry-dorm-vt-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-unabomber-shack-in-a-warehouse.jpg|wmed relative|center]]
+
+![[2025-03-29-toronto-wood-block-outdoor-shed-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-mr-plywood-portland-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-restroom-bench-tlf-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-brick-corner-nyc-moho-byfield.jpg|wmed relative|center]]
+
+![[2025-03-29-anni-albers-tapestry-1948-via-eme-muskan-on-fb.jpg|wmed relative|center]]
+
 ![[2025-03-29-lake-reflection-drop-byfield.jpg|wmed relative|center]]
 
 ![[2025-03-29-paid-invoices-byfield.jpg|wmed relative|center]]

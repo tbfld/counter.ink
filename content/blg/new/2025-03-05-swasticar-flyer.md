@@ -4,7 +4,7 @@ title: 2025-03-05 swasticar flyer
 description: a convenient pdf for flyering Teslas
 extract: 
 created: 2025-03-05 11:32
-updated: 2025-03-26 00:22
+updated: 2025-03-29 21:36
 author: tb
 images: "true"
 order: 
@@ -26,11 +26,17 @@ RSS: "true"
 yaml_end: true
 ---
 ***
-***New!*** 
+***New! (29 March)*** Turd Reich images [you can download](https://mcusercontent.com/bd36014b9888db9081d204e78/files/27983e2f-9aa0-bf57-321f-53c4dbdeb252/the_turd_reich_A0_.pdf)
+
+![[turdreich-grid-sm.jpeg]]
+
+***
+***New! (26 March)*** 
 
 ![[musk-qr.jpg|wmed relative|center]]
 
 Thus QR points to [https://www.plainsite.org/dockets/download.html?id=332879335&z=06846ebe](https://www.plainsite.org/dockets/download.html?id=332879335&z=06846ebe)
+
 ***
 
 This image has been making the rounds on social media, so I thought I’d help it do the same IRL [[swasticar.pdf|by making a convenient PDF]]. Just download it, print out a dozen copies, toss them in your bag, and leave them under the windshield wipers on Teslas. *You too can do antifa!*
