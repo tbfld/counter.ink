@@ -1,11 +1,11 @@
 ---
 yaml_begin: true
-title: 20181 08 19 spider web
+title: 2018 08 19 spider web
 description: 
 extract: 
 created: 2024-11-17 17:08
 updated: 2025-02-14 22:04
-author: "tb"
+author: tb
 images: "true"
 order: 
 enableToc: "true"
