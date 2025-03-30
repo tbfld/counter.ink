@@ -26,6 +26,8 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
+***2025-03-30:*** The Rutgers faculty senate did what faculty senates everywhere *should have been doing* — passing [resolutions demanding positive, collective action from the admin](https://senate.rutgers.edu/wp-content/uploads/2025/03/Resolution-to-Establish-a-Mutual-Defense-Compact-for-the-Universities-of-the-Big-Ten-Academic-Alliance-in-Defense-of-Academic-Freedom-Institutional-Integrity-and-the-Research.pdf)
+
 ***2025-03-30:*** The architect [Kazys Varnelis](https://varnelis.net/) drops an excellent neologism: [*Ghiblification*](https://bsky.app/profile/kazys.bsky.social/post/3llmcko77hz2r)
 ***
 ***2025-03-29:*** # John Zorn’s [Hermetic Cartography](https://drawingcenter.org/bookstore/books/john-zorn-hermetic-cartography-1)
