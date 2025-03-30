@@ -26,6 +26,8 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
+***2025-03-30:*** The architect [Kazys Varnelis](https://varnelis.net/) drops an excellent neologism: [*Ghiblification*](https://bsky.app/profile/kazys.bsky.social/post/3llmcko77hz2r)
+***
 ***2025-03-29:*** # John Zorn’s [Hermetic Cartography](https://drawingcenter.org/bookstore/books/john-zorn-hermetic-cartography-1)
 
 ***2025-03-29:*** # Dean Blundell on [Canada cutting ties with the US](https://deanblundell.substack.com/p/breaking-canada-officially-cuts-ties)
