@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2025-04-01-doge-and-the-wages-of-sin|2025-04-01 doge and the wages of sin]]
+> They know what they’re doing is wrong, but we shouldn’t care whether they know.
+
 > [!note]+ [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can’t buy their way out of fascism]]
 > ......and if they did it, a lot of other schools would go ballistic, particularly those that aren’t wealthy
 

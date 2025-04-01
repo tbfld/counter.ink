@@ -29,8 +29,11 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 ***
+> [!note]+ [[2025-04-01-doge-and-the-wages-of-sin|2025-04-01 doge and the wages of sin]]
+> They know what they’re doing is wrong, but we shouldn’t care whether they know.
+
 > [!note]+ [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can’t buy their way out of fascism]]
-> ......and if they did it, a lot of other schools would go ballistic, particularly those that aren’t wealthy
+> . . . and if they did it, a lot of other schools would go ballistic, particularly those that aren’t wealthy
 
 > [!note]+ [[2025-03-25-dod-says-signal-is-a-no-no|2025-0325 dod says signal is a no-no]]
 > this kind of signaling and maneuvering is how bureaucracies work
