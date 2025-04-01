@@ -26,6 +26,10 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
+***2025-04-01:*** Facebook seems to be [f\*ing with Heather Cox Richardson’s daily posts](https://www.facebook.com/FearAndLoathingCloserToTheEdge/posts/pfbid02NAWghKLKdTyZXYKhYh2hSrjLupBhuvSa8j7bngLzyTTMPvZLRQuFbM2GsmtLjSYVl)(additional report by [Mark Lemley](https://www.facebook.com/mark.lemley/posts/pfbid0mbR2QLQAmEqsQoNaKn3vjJDo2FokYzEtz9k3ethdzPUyLAhXN8YGvrBSuuBnmHG2l))
+
+***2025-04-01:*** Laura Kipnis on [the history “weaponization” of federal funding](https://www.facebook.com/laura.kipnis/posts/pfbid02KbfBw5dWG7HLqHWgy9pqJXd9CinE3Gnucx7sHMgdvgo1JGUFvwnhjFEZ7DJypvfql)
+***
 ***2025-03-30:*** The Rutgers faculty senate did what faculty senates everywhere *should have been doing* — passing [resolutions demanding positive, collective action from the admin](https://senate.rutgers.edu/wp-content/uploads/2025/03/Resolution-to-Establish-a-Mutual-Defense-Compact-for-the-Universities-of-the-Big-Ten-Academic-Alliance-in-Defense-of-Academic-Freedom-Institutional-Integrity-and-the-Research.pdf)
 
 ***2025-03-30:*** The architect [Kazys Varnelis](https://varnelis.net/) drops an excellent neologism: [*Ghiblification*](https://bsky.app/profile/kazys.bsky.social/post/3llmcko77hz2r)
