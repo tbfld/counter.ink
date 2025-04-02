@@ -26,6 +26,8 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
+;***2025-04-02:*** Princeton has [a better idea](https://bsky.app/profile/nickseaver.website/post/3lltnsob6ts2b) than hiding: [selling bonds](https://www.dailyprincetonian.com/article/2025/04/princeton-news-adpol-issuing-bonds-same-day-federal-government-pauses-grants)
+***
 ***2025-04-01:*** Facebook seems to be [f\*ing with Heather Cox Richardson’s daily posts](https://www.facebook.com/FearAndLoathingCloserToTheEdge/posts/pfbid02NAWghKLKdTyZXYKhYh2hSrjLupBhuvSa8j7bngLzyTTMPvZLRQuFbM2GsmtLjSYVl)(additional report by [Mark Lemley](https://www.facebook.com/mark.lemley/posts/pfbid0mbR2QLQAmEqsQoNaKn3vjJDo2FokYzEtz9k3ethdzPUyLAhXN8YGvrBSuuBnmHG2l))
 
 ***2025-04-01:*** Laura Kipnis on [the history “weaponization” of federal funding](https://www.facebook.com/laura.kipnis/posts/pfbid02KbfBw5dWG7HLqHWgy9pqJXd9CinE3Gnucx7sHMgdvgo1JGUFvwnhjFEZ7DJypvfql)
