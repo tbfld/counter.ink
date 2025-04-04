@@ -22,6 +22,16 @@ RSS: "true"
 yaml_end: true
 ---
 
+![[2025-04-04-rudolf-weisser-stadthalle-chemnitz-1974.jpg|wmed relative|center]]
+
+![[2025-04-04-hilbert-curve-scheduling-explanation-wikitok.jpg|wmed relative|center]]
+
+![[2025-04-04-cy-twombly-night-watch.jpg|wmed relative|center]]
+
+![[2025-04-04-optimist-wasted-rita-via-this-isnt-happiness.jpg|wmed relative|center]]
+
+![[2025-04-04-edward-hopper-soir-bleu-1914-yale.jpg|wmed relative|center]]
+
 ![[2025-04-04-nuke-the-valley.jpg|wmed relative|center]]
 
 ![[2025-04-04-fallout-protection-from-the-slides-via-bsky.jpg|wmed relative|center]]
