@@ -1,0 +1,26 @@
+---
+yaml_begin: true
+title: 2019-11-24 companies prep for deepfake future
+description: 
+extract: 
+created: 2024-11-17 17:07
+updated: 2025-02-14 22:04
+author: "tb" 
+images: "true"
+order: 
+enableToc: "true" 
+permalink: 
+aliases: 
+draft: "false" 
+publish: "true" 
+date: 2019-11-24
+tags:
+  - history
+  - corporation
+  - publishing
+yaml_end: true
+---
+
+![[companies-prep-for-deepfake-future.jpg]]
+
+By prototyping radical new forms of clickbait
