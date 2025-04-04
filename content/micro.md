@@ -26,7 +26,11 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
-;***2025-04-02:*** Princeton has [a better idea](https://bsky.app/profile/nickseaver.website/post/3lltnsob6ts2b) than hiding: [selling bonds](https://www.dailyprincetonian.com/article/2025/04/princeton-news-adpol-issuing-bonds-same-day-federal-government-pauses-grants)
+***2025-04-03:*** Perry Anderson on [“Regime Change in the West”](https://www.lrb.co.uk/contributors/perry-anderson)(of which McKenzie Wark says, [“It takes forever to get Marxists to embrace a new concept, and then they never ant to give it up.”](https://www.facebook.com/mckenziewark/posts/pfbid0UYr3ZVTYgWxVrGeqcZPxZobXGRrhV2BDG1DFpeRN63CU4QdrXsDczKCyaxRLgd11l?comment_id=1346209333351514&reply_comment_id=601356182881276&__cft__[0]=AZVJtMgHfoE0t3F4_wP3gJu_Fef7Ee4p-WGRN6KiLYtgUlCkxi-Nq6vi1wEmW2BiRvW1Fe89MBERF2gy0nU320e8Frls7C9xTFk3OwSTswaVvBp32T8rx6Q5Y25HsOdElnreM1qP615BLAl2jDyHPKL3IrRZhmolpQ3XG-MV5o_JfA&__tn__=R]-R))
+
+***2025-04-03:*** Public Domain Review — one of the best things on the net — on [perfect animals](https://publicdomainreview.org/essay/elephants-horses-and-the-proportions-of-paradise/)
+***
+***2025-04-02:*** Princeton has [a better idea](https://bsky.app/profile/nickseaver.website/post/3lltnsob6ts2b) than hiding: [selling bonds](https://www.dailyprincetonian.com/article/2025/04/princeton-news-adpol-issuing-bonds-same-day-federal-government-pauses-grants)
 ***
 ***2025-04-01:*** Facebook seems to be [f\*ing with Heather Cox Richardson’s daily posts](https://www.facebook.com/FearAndLoathingCloserToTheEdge/posts/pfbid02NAWghKLKdTyZXYKhYh2hSrjLupBhuvSa8j7bngLzyTTMPvZLRQuFbM2GsmtLjSYVl)(additional report by [Mark Lemley](https://www.facebook.com/mark.lemley/posts/pfbid0mbR2QLQAmEqsQoNaKn3vjJDo2FokYzEtz9k3ethdzPUyLAhXN8YGvrBSuuBnmHG2l))
 
