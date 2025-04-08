@@ -26,6 +26,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 
 %% Begin Waypoint %%
 - [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can’t buy their way out of fascism]]
+- [[2025-04-08-fox-gender-theory|2025-04-08 fox gender theory]]
 - [[blg|blg]]
 - **[[new]]**
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]

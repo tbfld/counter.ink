@@ -22,6 +22,8 @@ yaml_end: true
 ---
 #### Recent posts
 <!-- RECENT_POSTS_START -->
+> [!note]+ [[2025-04-08-fox-gender-theory|2025 04 08 fox gender theory]]
+> a dumping ground for Fox’s greatest gender theory hits
 
 > [!note]+ [[2025-04-01-doge-and-the-wages-of-sin|2025-04-01 doge and the wages of sin]]
 > They know what they’re doing is wrong, but we shouldn’t care whether they know.
