@@ -26,6 +26,10 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
 ***
+***2025-04-08:***  [Dan Goodin quoting Matthew Green and Matt Blaze is a pretty good working definition of trust](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
+
+***2025-04-08:*** [“YOU HAVE NO REAL FRIENDS AND WILL DIE ALONE”](https://archive.ph/20250407225348/https://www.404media.co/elon-musk-is-hounded-by-haters-in-path-of-exile-2-chat/#selection-935.123-935.168)
+
 ***2025-04-08:*** [“the tariffs are another tool for Trump to compel loyalty from industries in the US”](https://thelastbillionaires.com/why-the-plan-behind-trumps-tyranny-by-tariff-matters/)
 ***
 ***2025-04-06:*** amazing rundown of [Trump’s penchant for cheating at golf](https://www.palmbeachpost.com/story/sports/2023/02/03/trump-and-golf-fancy-resorts-a-list-partners-cheating-at-highest-level/69857594007/)
