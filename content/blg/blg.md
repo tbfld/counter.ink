@@ -122,6 +122,9 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[alice-eugenia-ligon-4.jpg]]
 			- [[alice-eugenia-ligon-5.jpg]]
 		- [[foreman-manifesto.jpg]]
+		- **fox-gender**
+			- [[fox-manly-tariffs.jpg]]
+			- [[fox-the-women-behind-the-screen.jpg]]
 		- [[guilty-x-34.jpg]]
 		- [[heaney-railway.jpg]]
 		- [[higher-ed-tax.jpeg]]
