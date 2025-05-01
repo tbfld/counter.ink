@@ -25,8 +25,6 @@ Early online resources — dialup BBSes, discussion-oriented mailing lists, and 
 When social media came along, it more or less put an end to blogging. It’s got lots of problems, some of them *really* serious, but its weirdness and intensity reflect new stages in how we think about different ideas of community. This jawlog reflects these changing styles, and not the everyone’s-got-their-own-soapbox tone of blogs.
 
 %% Begin Waypoint %%
-- [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can’t buy their way out of fascism]]
-- [[2025-04-08-fox-gender-theory|2025-04-08 fox gender theory]]
 - [[blg|blg]]
 - **[[new]]**
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
@@ -86,6 +84,8 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-03-25-trump-and-nuclear-codes-round-2|2025-03-25 Trump and “nuclear codes” — round 2]]
 	- [[2025-03-25-vice-signaling|2025-03-25 vice signaling]]
 	- [[2025-04-01-doge-and-the-wages-of-sin|2025-04-01 DOGE and the wages of sin]]
+	- [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can’t buy their way out of fascism]]
+	- [[2025-04-08-fox-gender-theory|2025-04-08 fox gender theory]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
