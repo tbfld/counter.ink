@@ -25,7 +25,14 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-05-01:*** an exoplanet whose [“atmosphere is thick with clouds of vaporized metal, and it rains liquid sapphires and rubies”](https://www.sciencealert.com/planets-record-smashing-iron-wind-hides-a-climate-unlike-anything-weve-seen) (🎩CT)
+
+***2025-05-01:*** click whither: [a random website generator](https://randomgenerate.io/random-website-generator
+(🎩CT)
 ***
+***2025-04-30:*** “five nuns fled a northern Italian convent after the abbess was sacked amid [‘grave vicissitudes’](https://www.msn.com/en-us/news/world/nuns-flee-convent-after-abbess-sacked/ar-AA1DVvF8)”
+***
+
 ***2025-04-08:***  [Dan Goodin quoting Matthew Green and Matt Blaze is a pretty good working definition of trust](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
 
 ***2025-04-08:*** [“YOU HAVE NO REAL FRIENDS AND WILL DIE ALONE”](https://archive.ph/20250407225348/https://www.404media.co/elon-musk-is-hounded-by-haters-in-path-of-exile-2-chat/#selection-935.123-935.168)
