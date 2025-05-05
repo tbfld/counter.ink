@@ -29,6 +29,9 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 ***
+> [!note]+ [[2025-05-05-worlds-third-greatest-footnote|2025 05 05 world’s third greatest footnote]]
+> exactly that
+
 > [!note]+ [[2025-04-08-fox-gender-theory|2025 04 08 fox gender theory]]
 > a dumping ground for Fox’s greatest gender theory hits
 

@@ -27,6 +27,6 @@ And on the subject of machine learning “discovering” gender bias etc, there�
 
 ![[theweleit-footnote.jpg]]
 
-
-
-👉🏼 \[*See also:* [[2024-11-26-second-greatest-footnote-ever]]]]
+👉🏼 *See also:*
+- [[2024-11-26-second-greatest-footnote-ever]]
+- [[2025-05-05-worlds-third-greatest-footnote]]

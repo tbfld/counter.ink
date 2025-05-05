@@ -27,4 +27,6 @@ yaml_end: true
 Footnote 2, from [Gregory Bateson](https://en.wikipedia.org/wiki/Gregory_Bateson), “The Growth of Paradigms for Psychiatry” (ca. 1976), orig. “Epilogue: The Growth of Paradigms for Psychiatry,” in P. F.  Ostwald, ed.,  *[Communication and Social Interaction: Clinical and Therapeutic Aspects of Human Behavior](https://archive.org/details/communicationsoc0000unse)* (NYC / Philadelphia: Grune and Stratton, 1977), pp. 331–37; repr. in Bateson’s *[A Sacred Unity: Further Steps to an Ecology of Mind](https://archive.org/details/sacredunityfurth0000bate/page/n5/mode/2up)*, ed. Rodney E. Donaldson (NYC: HarperCollins, 1991), pp. 151–57.
 
 
-👉🏼 *See also:* [[2016-08-25-the-worlds-greatest-footnote]]
+👉🏼 *See also:*
+- [[2016-08-25-the-worlds-greatest-footnote]]
+- [[2025-05-05-worlds-third-greatest-footnote]]
