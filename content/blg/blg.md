@@ -86,6 +86,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-04-01-doge-and-the-wages-of-sin|2025-04-01 DOGE and the wages of sin]]
 	- [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can’t buy their way out of fascism]]
 	- [[2025-04-08-fox-gender-theory|2025-04-08 fox gender theory]]
+	- [[2025-05-05-worlds-third-greatest-footnote]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
@@ -121,6 +122,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[alice-eugenia-ligon-3.jpg]]
 			- [[alice-eugenia-ligon-4.jpg]]
 			- [[alice-eugenia-ligon-5.jpg]]
+		- [[footnote-third-greatest.png]]
 		- [[foreman-manifesto.jpg]]
 		- **fox-gender**
 			- [[fox-manly-tariffs.jpg]]
