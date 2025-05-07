@@ -86,7 +86,8 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-04-01-doge-and-the-wages-of-sin|2025-04-01 DOGE and the wages of sin]]
 	- [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can’t buy their way out of fascism]]
 	- [[2025-04-08-fox-gender-theory|2025-04-08 fox gender theory]]
-	- [[2025-05-05-worlds-third-greatest-footnote]]
+	- [[2025-05-05-worlds-third-greatest-footnote|2025-05-05 world’s third greatest footnote]]
+	- [[2025-05-06-plutocratic-psychosis|2025-05-06 plutocratic psychosis]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]

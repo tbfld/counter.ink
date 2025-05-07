@@ -29,8 +29,12 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 ***
+
+> [!note]+ [[2025-05-06-plutocratic-psychosis|2025 05 06 plutocratic psychosis]]
+> a short, ‘found’ essay on wealth-induced madness
+
 > [!note]+ [[2025-05-05-worlds-third-greatest-footnote|2025 05 05 world’s third greatest footnote]]
-> exactly that
+> exactly what it says
 
 > [!note]+ [[2025-04-08-fox-gender-theory|2025 04 08 fox gender theory]]
 > a dumping ground for Fox’s greatest gender theory hits
