@@ -6,6 +6,7 @@ extract:
 created: 2025-05-08 09:27
 updated: 2025-05-08 09:27
 author: tb
+notitle: 
 images: "true"
 order: 
 enableToc: "true"
@@ -23,6 +24,19 @@ yaml_end: true
 timelines:
 ---
 
+![[ww2-flying-over-erupting-volcano-mario-unger.jpg]]
+
+![[fungus_growing_on_tree_trunk-tlh-byfield.jpeg|wmed relative|center]]
+
+![[white-mushroom-in-forest-floor-byfield.jpg|wmed relative|center]]
+
+![[london-architecture-sm-byfield.jpeg|wmed relative|center]]
+
+![[parking-lot-google-maps.jpeg|wmed relative|center]]
+
+![[guangzhou-wired-scape-from-100architects.jpeg|wmed relative|center]]
+
+![[kiddy-train-fl-byfield.jpeg|wmed relative|center]]
 
 ![[banger-truck-ca-canada-byfield 1.jpg|wmed relative|center]]
 
