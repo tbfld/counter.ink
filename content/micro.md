@@ -25,6 +25,10 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-05-08:*** poem [“For a Student Who Used AI to Write a Paper”](https://poets.org/poem/student-who-used-ai-write-paper)
+***
+***2025-05-07:*** this guy says John Fetterman’s [always been a mess](https://paydayreport.com/fettermans-long-history-of-toxic-relationships-in-braddock/) (🎩 RP)
+***
 ***2025-05-01:*** an exoplanet whose [“atmosphere is thick with clouds of vaporized metal, and it rains liquid sapphires and rubies”](https://www.sciencealert.com/planets-record-smashing-iron-wind-hides-a-climate-unlike-anything-weve-seen) (🎩CT)
 
 ***2025-05-01:*** click whither: [a random website generator](https://randomgenerate.io/random-website-generator
