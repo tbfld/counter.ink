@@ -28,6 +28,9 @@ yaml_end: true
 
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
+> [!note]+ [[2025-05-13-emem|2025-05-13 emem]]
+> rationalizing the orientation of a meme
+
 ***
 
 > [!note]+ [[2025-05-06-plutocratic-psychosis|2025 05 06 plutocratic psychosis]]
