@@ -4,7 +4,7 @@ title: recents
 description: recently recent stuff (but not recently posted old stuff)
 extract: 
 created: 2024-11-27 20:20
-updated: 2025-04-26 10:19
+updated: 2025-05-14 10:19
 author: tb
 images: "false"
 order: "55"
@@ -12,6 +12,7 @@ enableToc:
 permalink: 
 draft: "false"
 publish: "true"
+date: 2025-05-14
 tags:
   - index
 aliases:
@@ -27,6 +28,9 @@ yaml_end: true
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-24 – 2025-05-07)|4]] ~ [[images (2025-03-11 – 2025-03-24)|3]] ~ [[images (2025-03-03 – 2025-03-10)|2]] ~ [[images (2025-02-23 – 2025-03-03)|1]] ~ [[images|current]]
 
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
+
+> [!note]+ [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
+> An NYT “videtorial” (or whatever) on Yale scholars fleeing fascism seem kinda problematic
 
 > [!note]+ [[2025-05-13-emem|2025-05-13 emem]]
 > rationalizing the orientation of a meme
