@@ -4,7 +4,7 @@ title: new
 description: things written for this site (“old” is things written before this site)
 extract: 
 created: 2024-11-27 19:37
-updated: 2025-02-14 22:04
+updated: 2025-05-14 22:04
 author: tb
 images: "true"
 order: 
@@ -22,6 +22,19 @@ yaml_end: true
 ---
 #### Recent posts
 <!-- RECENT_POSTS_START -->
+
+> [!note]+ [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
+> An NYT “videtorial” (or whatever) on Yale scholars fleeing fascism seem kinda problematic
+
+> [!note]+ [[2025-05-13-emem|2025-05-13 emem]]
+> rationalizing the orientation of a meme
+
+> [!note]+ [[2025-05-06-plutocratic-psychosis|2025 05 06 plutocratic psychosis]]
+> a short, ‘found’ essay on wealth-induced madness
+
+> [!note]+ [[2025-05-05-worlds-third-greatest-footnote|2025 05 05 world’s third greatest footnote]]
+> exactly what it says
+
 > [!note]+ [[2025-04-08-fox-gender-theory|2025 04 08 fox gender theory]]
 > a dumping ground for Fox’s greatest gender theory hits
 

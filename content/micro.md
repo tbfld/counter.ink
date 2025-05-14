@@ -25,6 +25,11 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-05-14:*** Apparently, Robert Macfarlane (not sure which one) said “Despair is a luxury and hope is a discipline.”
+
+***2025-05-14:***  big props to *The Verge*’s for using [“supposed" and "putative" to describe Trump's minions who were named without qualification or process to replace people who were illegally fired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
+***
+
 ***2025-05-08:*** find who owns a publisher [from a book’s barcode](https://whoisbn.net/fr/) (🎩 NTT)
 
 ***2025-05-08:*** poem [“For a Student Who Used AI to Write a Paper”](https://poets.org/poem/student-who-used-ai-write-paper)
