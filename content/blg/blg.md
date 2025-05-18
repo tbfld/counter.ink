@@ -27,6 +27,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 %% Begin Waypoint %%
 - [[2025-05-13-emem|2025-05-13-emem]]
 - [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
+- [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
 - [[blg|blg]]
 - **[[new]]**
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]

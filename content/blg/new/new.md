@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
+> two madmen — liberal and left
+
 > [!note]+ [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
 > An NYT “videtorial” (or whatever) on Yale scholars fleeing fascism seem kinda problematic
 
