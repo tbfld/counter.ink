@@ -18,7 +18,7 @@ tags:
   - politics
   - literature
 status: 
-RSS: “true”
+RSS: "true"
 yaml_end: true
 ---
 I've been thinking about how much of the traffic I see on coming from my fellow liberalish types consists of posts, memes, etc that say THIS IS FASCISM!!! and the like. It's a bit perplexing because (a) they're correct, just a decade late, and (b) they seem to think that endlessly pointing out the plainly obvious accomplishes anything constructive. I love you all etc, but I have bad news: it doesn't. And it gets worse: endlessly repeating the infantile gesture of *naming* something also serves to call that name into question. Kinda like the boy who cried wolf, but update it with some serious media theory and insights about cognition.  
