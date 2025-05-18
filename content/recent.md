@@ -29,13 +29,14 @@ yaml_end: true
 
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
+> [!note]+ [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
+> two madmen — liberal and left
+
 > [!note]+ [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
 > An NYT “videtorial” (or whatever) on Yale scholars fleeing fascism seem kinda problematic
 
 > [!note]+ [[2025-05-13-emem|2025-05-13 emem]]
 > rationalizing the orientation of a meme
-
-***
 
 > [!note]+ [[2025-05-06-plutocratic-psychosis|2025 05 06 plutocratic psychosis]]
 > a short, ‘found’ essay on wealth-induced madness
