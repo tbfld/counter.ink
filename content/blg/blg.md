@@ -28,6 +28,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 - [[2025-05-13-emem|2025-05-13-emem]]
 - [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
 - [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
+- [[2025-05-20-a-modest-book-proposal|2025-05-20 a modest book proposal]]
 - [[blg|blg]]
 - **[[new]]**
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
@@ -114,6 +115,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[and-and-and-grid-sm.jpeg]]
 		- [[bateson-footnote.jpeg]]
 		- [[borrell_escaping_criticism-1874.jpeg]]
+		- [[chicago-fake-books.jpeg]]
 		- [[christopher-bickel-does-herb-alpert.jpeg]]
 		- [[cursing-heatmap.jpg]]
 		- [[donmartin-01.jpg]]

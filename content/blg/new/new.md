@@ -23,6 +23,10 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+
+> [!note]+ [[2025-05-20-a-modest-book-proposal|2025-05-20 a modest book proposal]]
+> fake book reviews
+
 > [!note]+ [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
 > two madmen — liberal and left
 
