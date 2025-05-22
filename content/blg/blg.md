@@ -92,6 +92,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-04-08-fox-gender-theory|2025-04-08 fox gender theory]]
 	- [[2025-05-05-worlds-third-greatest-footnote|2025-05-05 world’s third greatest footnote]]
 	- [[2025-05-06-plutocratic-psychosis|2025-05-06 plutocratic psychosis]]
+	- [[2025-05-22-the-silence-of-the-lames|2025-05-22 the silence of the lames]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
