@@ -29,6 +29,10 @@ yaml_end: true
 
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
+
+> [!note]+ [[2025-05-22-the-silence-of-the-lames|2025-05-22 the silence of the lames]]
+> condemning the assassination of two Israeli diplomats is a no-brainer — but very few people have brains, it seems
+
 > [!note]+ [[2025-05-20-a-modest-book-proposal|2025-05-20 a modest book proposal]]
 > fake book reviews
 
