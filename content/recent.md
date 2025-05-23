@@ -29,6 +29,9 @@ yaml_end: true
 
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
+> [!note]+ [[2025-05-23-genocide-genocides-and-trump|2025-05-23 genocide genocides and trump]]
+> the underlying genocidal logic of Trumpian policies was clear many years ago
+
 
 > [!note]+ [[2025-05-22-the-silence-of-the-lames|2025-05-22 the silence of the lames]]
 > condemning the assassination of two Israeli diplomats is a no-brainer — but very few people have brains, it seems
