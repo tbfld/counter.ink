@@ -25,6 +25,10 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-05-25:*** “I Was Targeted by a Hostile Crypto Spambot Swarm That Revealed [How X’s Algorithm Has Been Truly Broken](https://bylinetimes.com/2025/05/20/x-spam-algorithm-elon-musk-bots/)”
+
+***
+
 ***2025-05-14:*** the [Big Boy graveyard on Google Maps or scene from *The Matrix?*](https://www.google.com/maps/place/Big+Boy+Graveyard/@39.1298382,-84.4879424,3a,48.9y/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICf-YyldA!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4nq8nfuKXRiBsx4G4DiAr42MB85vM6lRTndibgDuxcOZYvRpW4UmqrlmhsGFvOOD6ymafzckVdte3EfpGYtUTfFbzNWvyjGK_oESdvaL-XbrWC1Y2Yi7haKA5kxTUqLn09ztNvPf%3Dw203-h152-k-no!7i4032!8i3024!4m15!1m7!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!2sBig+Boy+Graveyard!8m2!3d39.1297008!4d-84.4876367!16s%2Fg%2F11vy7trg56!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!8m2!3d39.1297008!4d-84.4876367!10e5!16s%2Fg%2F11vy7trg56?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D)
 
 ***2025-05-14:*** [a letter from concerned Palantir alumni to the tech workers of Silicon Valley](https://s3.documentcloud.org/documents/25930212/the-scouring-of-the-shire.pdf)
