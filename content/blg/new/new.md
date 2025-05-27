@@ -23,6 +23,10 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+
+> [!note]+ [[2025-0527-a-bleak-prospect|2025-0527 a bleak prospect]]
+> any argument or strategy that relies on the Dems is doomed to fail
+
 > [!note]+ [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
 > one of the central tragedies of his presidency
 

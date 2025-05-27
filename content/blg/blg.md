@@ -30,6 +30,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 - [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
 - [[2025-05-20-a-modest-book-proposal|2025-05-20 a modest book proposal]]
 - [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
+- [[2025-0527-a-bleak-prospect|2025-05-27 a bleak prospect]]
 - [[blg|blg]]
 - **[[new]]**
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
