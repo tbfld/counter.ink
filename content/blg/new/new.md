@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
+> one of the central tragedies of his presidency
+
 > [!note]+ [[2025-05-23-genocide-genocides-and-trump|2025-05-23 genocide genocides and trump]]
 > the underlying genocidal logic of Trumpian policies was clear many years ago
 
