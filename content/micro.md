@@ -25,6 +25,10 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-05-30:*** high school graduation [hit with fake ticket DOS attack](https://www.newsbreak.com/worcester-telegram-gazette-1590723/4029532153183-counterfeit-ticket-scam-leads-to-parents-missing-worcester-high-school-graduation)
+
+***
+
 ***2025-05-25:*** “I Was Targeted by a Hostile Crypto Spambot Swarm That Revealed [How X’s Algorithm Has Been Truly Broken](https://bylinetimes.com/2025/05/20/x-spam-algorithm-elon-musk-bots/)”
 
 ***
