@@ -25,12 +25,6 @@ Early online resources — dialup BBSes, discussion-oriented mailing lists, and 
 When social media came along, it more or less put an end to blogging. It’s got lots of problems, some of them *really* serious, but its weirdness and intensity reflect new stages in how we think about different ideas of community. This jawlog reflects these changing styles, and not the everyone’s-got-their-own-soapbox tone of blogs.
 
 %% Begin Waypoint %%
-- [[2025-05-13-emem|2025-05-13-emem]]
-- [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
-- [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
-- [[2025-05-20-a-modest-book-proposal|2025-05-20 a modest book proposal]]
-- [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
-- [[2025-0527-a-bleak-prospect|2025-05-27 a bleak prospect]]
 - [[blg|blg]]
 - **[[new]]**
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
@@ -94,8 +88,15 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-04-08-fox-gender-theory|2025-04-08 fox gender theory]]
 	- [[2025-05-05-worlds-third-greatest-footnote|2025-05-05 world’s third greatest footnote]]
 	- [[2025-05-06-plutocratic-psychosis|2025-05-06 plutocratic psychosis]]
+	- [[2025-05-13-emem|2025-05-13-emem]]
+	- [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
+	- [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
+	- [[2025-05-20-a-modest-book-proposal|2025-05-20 a modest book proposal]]
 	- [[2025-05-22-the-silence-of-the-lames|2025-05-22 the silence of the lames]]
 	- [[2025-05-23-genocide-genocides-and-trump|2025-05-23 genocide, genocides, and Trump]]
+	- [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
+	- [[2025-05-31-science-is-what-scientists-do|2025-05-31 science is what scientists do]]
+	- [[2025-0527-a-bleak-prospect|2025-05-27 a bleak prospect]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
@@ -114,6 +115,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[2025-03-21-jonathan-sterne.jpg]]
 		- [[2025-03-25-iclaudius.jpeg]]
 		- [[2025-03-25-signal-opsec-email.jpeg]]
+		- [[2025-05-31-gleick-chart.jpg]]
 		- [[alphabetized-opt.jpeg]]
 		- [[alphabetized.jpg]]
 		- [[and-and-and-grid-sm.jpeg]]

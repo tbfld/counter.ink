@@ -29,6 +29,9 @@ yaml_end: true
 
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
+> [!note]+ [[2025-05-31-science-is-what-scientists-do|2025-05-31 science is what scientists do]]
+> scientists should respond to Trump’s destruction with construction
+
 > [!note]+ [[2025-0527-a-bleak-prospect|2025-0527 a bleak prospect]]
 > any argument or strategy that relies on the Dems is doomed to fail
 
@@ -37,7 +40,6 @@ yaml_end: true
 
 > [!note]+ [[2025-05-23-genocide-genocides-and-trump|2025-05-23 genocide genocides and trump]]
 > the underlying genocidal logic of Trumpian policies was clear many years ago
-
 
 > [!note]+ [[2025-05-22-the-silence-of-the-lames|2025-05-22 the silence of the lames]]
 > condemning the assassination of two Israeli diplomats is a no-brainer — but very few people have brains, it seems
