@@ -19,7 +19,7 @@ aliases:
   - index
   - home
 notitle: "true"
-status: 
+status: draft
 RSS: "false"
 yaml_end: true
 ---
@@ -32,7 +32,7 @@ yaml_end: true
 > [!note]+ [[2025-05-31-science-is-what-scientists-do|2025-05-31 science is what scientists do]]
 > scientists should respond to Trump’s destruction with construction
 
-> [!note]+ [[2025-0527-a-bleak-prospect|2025-0527 a bleak prospect]]
+> [!note]+ [[2025-05-27-a-bleak-prospect|2025-05-27 a bleak prospect]]
 > any argument or strategy that relies on the Dems is doomed to fail
 
 > [!note]+ [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
