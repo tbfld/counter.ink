@@ -29,9 +29,6 @@ yaml_end: true
 
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
-> [!note]+ [[2025-07-30-this-is-only-a-test|2025-07-30 this is only a test]]
-> this is only a test
-
 > [!note]+ [[2025-05-27-a-bleak-prospect|2025-05-27 a bleak prospect]]
 > a bleak, bleak post mortem of the 2024 election
 
