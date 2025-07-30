@@ -2,7 +2,7 @@
 yaml_begin: true
 title: 2025-05-31 science is what scientists do
 description: scientists should respond to Trump’s destruction with construction
-extract: Gleick’s point may be true (I think it is, of course), but it also combines the directionaless retrospection of the Sanatayana clichés with what I’ve started criticizing as “modelism.”
+extract: Gleick’s point may be true (I think it is, of course), but it also combines the directionaless retrospection of the Sanatayana clichés with what I’ve started criticizing as “modelism”
 created: 2025-05-31 09:17
 updated: 2025-05-31 09:17
 author: tb
