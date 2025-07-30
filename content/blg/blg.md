@@ -97,7 +97,6 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-05-27-a-bleak-prospect|2025-05-27 a bleak prospect]]
 	- [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
 	- [[2025-05-31-science-is-what-scientists-do|2025-05-31 science is what scientists do]]
-	- [[2025-07-30-this-is-only-a-test|2025-07-30-this-is-only-a-test]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
@@ -179,17 +178,17 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2024-08-31-emdashical.png]]
 			- [[2024-09-02-progwashing.png]]
 			- [[2024-11-13-wordlview.png]]
+		- [[NYU.pdf]]
 		- [[schrodingers-razor.jpg]]
 		- [[scott-galloway-US_Higher_Ed_Update_073020.png]]
 		- [[Social-Media-Statement-re-JHE-Resignations.pdf]]
 		- [[suicide-doors.jpeg]]
+		- [[swasticar.png]]
 		- [[taas.jpeg]]
 		- [[tesla-community.jpg]]
 		- [[three-p-opera.jpeg]]
 		- [[turdreich-grid-sm.jpeg]]
 	- [[new|new]]
-	- [[NYU.pdf]]
-	- [[swasticar.png]]
 - **[[old]]**
 	- **[[nettime]]**
 		- **[[1995]]**
