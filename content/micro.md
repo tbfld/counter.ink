@@ -25,6 +25,21 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-08-08:*** Al-Jazeera on Trump’s “[fascist anti-psychiatry](https://www.aljazeera.com/opinions/2025/8/8/trump-and-the-global-rise-of-fascist-anti-psychiatry)”
+
+***2025-08-08:*** Glyn Morgan’s [belated review](https://morganmorgan.substack.com/p/arthur-goldhammers-shooting-war) of Arthur Goldhammer’s 2012 novel [*Shooting War*](https://isbn.nu/9781480224391)
+
+***2025-08-08:*** the [Ursus Books](https://www.ursusbooks.com/) (NYC) mailing list *never* fails to amaze ([signup link](https://www.ursusbooks.com/about.php))
+
+***2025-08-08:*** “GIRLS OWN THE VOID”: [Nina Power on the supergenius Audrey Wollen (2017)](https://ninapower.net/2017/11/09/191/)
+***2025-08-08:*** *https://archive.ph/20250808131031/https://www.nytimes.com/2025/08/04/technology/rationalists-ai-lighthaven.html* mentions this [techno-volkish wannabe anthem](https://www.youtube.com/watch?v=aB3uTV5Pyz0)
+
+***2025-08-08:*** A+ explanation of the [sinking market for US bonds](https://www.facebook.com/permalink.php?story_fbid=pfbid0rH6MQg2YYqhqJeSCttM3uDGCGse6WH98MJW9BFbB6DvwhFpUN9nJmw6BtDMgjAX4l&id=100014591748791)
+
+***
+*a two-and-a-half-month break...*
+***
+
 ***2025-05-30:*** high school graduation [hit with fake ticket DOS attack](https://www.newsbreak.com/worcester-telegram-gazette-1590723/4029532153183-counterfeit-ticket-scam-leads-to-parents-missing-worcester-high-school-graduation)
 
 ***
