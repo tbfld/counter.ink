@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2025-08-11-learning-to-read-corruption|2025-08-11 learning to read corruption]]
+> gotta keep up with the times
+
 > [!note]+ [[2025-05-27-a-bleak-prospect|2025-05-27 a bleak prospect]]
 > a bleak, bleak post mortem of the 2024 election
 
