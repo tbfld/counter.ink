@@ -25,6 +25,11 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+
+
+***2025-08-10:*** Charlie Stross thread on a [proposed interstellar travel design](https://wandering.shop/@cstross/114993194582954593) (🎩 KD)
+***
+
 ***2025-08-08:*** Al-Jazeera on Trump’s “[fascist anti-psychiatry](https://www.aljazeera.com/opinions/2025/8/8/trump-and-the-global-rise-of-fascist-anti-psychiatry)”
 
 ***2025-08-08:*** Glyn Morgan’s [belated review](https://morganmorgan.substack.com/p/arthur-goldhammers-shooting-war) of Arthur Goldhammer’s 2012 novel [*Shooting War*](https://isbn.nu/9781480224391)
