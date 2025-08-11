@@ -97,7 +97,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-05-27-a-bleak-prospect|2025-05-27 a bleak prospect]]
 	- [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
 	- [[2025-05-31-science-is-what-scientists-do|2025-05-31 science is what scientists do]]
-	- [[2025-08-11-learning-to-read-corruption]]
+	- [[2025-08-11-learning-to-read-corruption|2025-08-11 learning to read corruption]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
