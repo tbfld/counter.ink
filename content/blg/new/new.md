@@ -23,6 +23,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2025-08-25 what isn't happening|2025-08-25 what isn't happening]]
+> a litany of what left-leaning society needs to do to counter Trump & Co
+
 > [!note]+ [[2025-08-11-titles-i-through-x|2025-08-11 titles i through x]]
 > some context for Title X
 

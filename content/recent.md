@@ -25,10 +25,16 @@ yaml_end: true
 ---
 > [!tip]+ For nimbler things, see [[micro]]
 
-> [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-24 – 2025-05-07)|4]] ~ [[images (2025-03-11 – 2025-03-24)|3]] ~ [[images (2025-03-03 – 2025-03-10)|2]] ~ [[images (2025-02-23 – 2025-03-03)|1]] ~ [[images|current]]
+> [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-24 – 2025-05-07)|4]] ~ [[images (2025-03-11 – 2025-03-24)|3]] ~ [[images (2025-03-03 – 2025-03-10)|2]] ~ [[images (2025-02-23 – 2025-03-03)|1]] ~ [[images (2025-05-08 – 2025-08-12)|current]]
 
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
+<!-- RECENT_POSTS_START -->
+> [!note]+ [[2025-08-25 what isn't happening|2025-08-25 what isn't happening]]
+> a litany of what left-leaning society needs to do to counter Trump & Co
+
+> [!note]+ [[2025-08-11-titles-i-through-x|2025-08-11-titles I through X]]
+> some context for Title IX
 
 > [!note]+ [[2025-08-11-titles-i-through-x|2025-08-11 titles i through x]]
 > some context for Title X
