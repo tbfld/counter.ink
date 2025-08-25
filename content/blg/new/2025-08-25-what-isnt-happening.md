@@ -5,20 +5,20 @@ description: a litany of what left-leaning society needs to do to counter Trump 
 extract: "The left ALSO needs to rediscover popular frontism: mass, coordinated action — the kind where everyone shows up with the same sign, not whatever clever quip they thought up, as if they were going to a Halloween parade and their message was their costume."
 created: 2025-08-25 09:10
 updated: 2025-08-25 09:12
-author: "tb"
+author: tb
 images: "false"
-order:
+order: 
 enableToc: "true"
-permalink:
-aliases:
+permalink: 
+aliases: 
 draft: "true"
-publish: "false"
+publish: "true"
 date: 2025-08-25
 tags:
   - activism
   - fascism
   - politics
-status:
+status: 
 RSS: "true"
 yaml_end: true
 ---
