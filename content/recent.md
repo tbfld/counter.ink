@@ -30,14 +30,11 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 <!-- RECENT_POSTS_START -->
-> [!note]+ [[2025-08-25-what-isn't-happening|2025-08-25 what isn't happening]]
+> [!note]+ [[2025-08-25-what-isnt-happening|2025-08-25 what isn't happening]]
 > a litany of what left-leaning society needs to do to counter Trump & Co
 
 > [!note]+ [[2025-08-11-titles-i-through-x|2025-08-11-titles I through X]]
 > some context for Title IX
-
-> [!note]+ [[2025-08-11-titles-i-through-x|2025-08-11 titles i through x]]
-> some context for Title X
 
 > [!note]+ [[2025-08-11-learning-to-read-corruption|2025-08-11 learning to read corruption]]
 > gotta keep up with the times
