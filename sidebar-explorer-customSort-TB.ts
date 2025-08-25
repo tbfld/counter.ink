@@ -1,4 +1,4 @@
-export const customSortFn = (a, b) => {
+export const customSortFn = (a: any, b: any) => {
   console.log(`Sorting item: ${a.name} (${a.isFolder ? "Folder" : "File"}) vs ${b.name} (${b.isFolder ? "Folder" : "File"})`);
 
   // Top-level order
@@ -16,8 +16,8 @@ export const customSortFn = (a, b) => {
 
   if (!a?.name || !b?.name) return 0;
 
-  const orderA = nameOrderMap[a.name] || 1000;
-  const orderB = nameOrderMap[b.name] || 1000;
+  const orderA = nameOrderMap[a.name as keyof typeof nameOrderMap] || 1000;
+  const orderB = nameOrderMap[b.name as keyof typeof nameOrderMap] || 1000;
 
   // Sort top-level items first
   if (orderA !== 1000 && orderB !== 1000) {

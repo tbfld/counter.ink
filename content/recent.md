@@ -19,7 +19,7 @@ aliases:
   - index
   - home
 notitle: "true"
-status: draft
+status: published
 RSS: "false"
 yaml_end: true
 ---
@@ -43,10 +43,7 @@ yaml_end: true
 > a bleak, bleak post mortem of the 2024 election
 
 > [!note]+ [[2025-05-31-science-is-what-scientists-do|2025-05-31 science is what scientists do]]
-> scientists should respond to Trump’s destruction with construction
-
-> [!note]+ [[2025-05-27-a-bleak-prospect|2025-05-27 a bleak prospect]]
-> any argument or strategy that relies on the Dems is doomed to fail
+> scientists should respond to Trump's destruction with construction
 
 > [!note]+ [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
 > one of the central tragedies of his presidency
@@ -184,13 +181,13 @@ yaml_end: true
 > [!note]+ [[2025-01-18-why-no-one-can-quite-capture-what-david-lynch-did|2025 01 18 why no one can quite capture what david lynch did]]
 > The Spanish writer Roy Galàn on Lynch’s work (and a meta-meme)
 
-> [!note]+ [[2025-01-16-schrodingers-razor|2025 01 26 schrodingers razor]]
+> [!note]+ [[2025-01-16-schrodingers-razor|2025 01 16 schrodingers razor]]
 > found meme
 
 > [!note]+ [[2025-01-15-hi-def-history|2025 01 15 hi-def history]]
 > A few thoughts about “AI”
 
-> [!note]+  [[2025-01-12-trump-and-greenland-a-timeline|2025 01 12 trump and greenland a timeline]]
+> [!note]+ [[2025-01-12-trump-and-greenland-a-timeline|2025 01 12 trump and greenland a timeline]]
 > You won’t find a more detailed or better-sourced chronology about this *anywhere*.
 
 > [!note]+ [[2025-01-11-thielology|2025 01 11 thielology]]
@@ -210,7 +207,7 @@ yaml_end: true
 > [!note]+ [[2025-01-04-user-generated-brechtian-distancing|2025 01 04 user generated Brechtian distancing]]
 > Is Cinema really that much greater than iPad?
 
-> [!note]+ [[2025-01-03-free-art-and-technology|2025 02 03 free art and technology]]
+> [!note]+ [[2025-01-03-free-art-and-technology|2025 01 03 free art and technology]]
 > The “cultural discount” is alive and well.
 
 ## 2024

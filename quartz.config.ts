@@ -14,11 +14,6 @@ const config: QuartzConfig = {
     baseUrl: "counter.ink",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false,
-    defaultSocialImage: "/img/altrecyc-1200x630.jpeg",
-    pageLayout: {
-      index: ["recent", "index", "home"]
-    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -85,19 +80,6 @@ const config: QuartzConfig = {
         enableRSS: true,
         rssLimit: 50,
         rssFullHtml: true,
-        filterFn: (node) => {
-          // List of specific files to include
-          const includeFiles = ['images.md', 'micro.md', 'recent.md'];
-          
-          // List of Folder Notes to exclude
-          const excludeFolderNotes = ['blg.md', 'blg/new.md', 'blg/old.md'];
-          return (
-            // Include specific files
-            includeFiles.includes(node.file.name) ||
-            // Include files in blg/ but not the Folder Notes
-            (node.file.path.startsWith('blg/') && !excludeFolderNotes.includes(node.file.path))
-          )
-        }
       }),
       Plugin.Assets(),
       Plugin.Static(),

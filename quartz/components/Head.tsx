@@ -1,19 +1,40 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
+import { joinSegments } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponent, QuartzComponentProps, QuartzComponentConstructor } from "./types"
 import { unescapeHTML } from "../util/escape"
+import { SocialImageOptions, defaultImage, getSatoriFonts } from "../util/og"
+import satori, { SatoriOptions } from "satori"
+import sharp from "sharp"
+import fs from "node:fs"
+
+interface CustomImageOptions {
+  cfg: any
+  description: string
+  fileName: string
+  fontsPromise: Promise<SatoriOptions["fonts"]>
+  title: string
+  fileData: any
+}
 
 async function generateSocialImage(
-  { cfg, description, fileName, fontsPromise, title, fileData }: ImageOptions,
+  { cfg, description, fileName, fontsPromise, title, fileData }: CustomImageOptions,
   userOpts: SocialImageOptions,
   imageDir: string,
 ) {
   const fonts = await fontsPromise
   const { width, height } = userOpts
 
-  const imageComponent = userOpts.imageStructure(cfg, userOpts, title, description, fonts, fileData)
+  const imageComponent = userOpts.imageStructure({
+    cfg,
+    userOpts,
+    title,
+    description,
+    fonts,
+    fileData,
+    iconBase64: undefined,
+  })
 
   const svg = await satori(imageComponent, { width, height, fonts })
   const compressed = await sharp(Buffer.from(svg)).webp({ quality: 40 }).toBuffer()
@@ -38,13 +59,11 @@ export default (() => {
 
   const Head: QuartzComponent = ({ cfg, fileData, externalResources, ctx }: QuartzComponentProps) => {
     if (!fullOptions) {
-      fullOptions = typeof cfg.generateSocialImages !== "boolean" 
-        ? { ...defaultOptions, ...cfg.generateSocialImages }
-        : defaultOptions
+      fullOptions = defaultOptions
     }
 
-    if (!fontsPromise && cfg.generateSocialImages) {
-      fontsPromise = getSatoriFont(cfg.theme.typography.header, cfg.theme.typography.body)
+    if (!fontsPromise) {
+      fontsPromise = getSatoriFonts(cfg.theme.typography.header, cfg.theme.typography.body)
     }
 
     const slug = fileData.filePath
@@ -55,19 +74,14 @@ export default (() => {
     let description = fileData.frontmatter?.socialDescription || fileData.frontmatter?.description || unescapeHTML(fdDescription)
 
     const fileDir = joinSegments(ctx.argv.output, "static", "social-images")
-    if (cfg.generateSocialImages) {
+    if (fileName) {
       if (!fs.existsSync(fileDir)) {
         fs.mkdirSync(fileDir, { recursive: true })
       }
-      if (fileName) {
-        generateSocialImage({ title, description, fileName, fileDir, fileExt: extension, fontsPromise, cfg, fileData }, fullOptions, fileDir)
-      }
+      generateSocialImage({ title, description, fileName, fontsPromise, cfg, fileData }, fullOptions, fileDir)
     }
 
     const { css, js } = externalResources
-    const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
-    const baseDir = fileData.slug === "404" ? url.pathname as FullSlug : pathToRoot(fileData.slug!)
-    const iconPath = joinSegments(baseDir, "static/icon.png")
 
     return (
       <head>
