@@ -45,7 +45,7 @@ And Solnit is also *wrong*. The list of things that are *not* happening is even 
 
 - Are media and legal professionals working together to put an end to the right’s poisonous media empires?
 
-- Are technologists and legal professionals working to identify the oceans of data that DOGE stole and top remediate the consequences?
+- Are technologists and legal professionals working to identify the oceans of data that DOGE stole and to remediate the consequences?
 
 - Are scientists planning the next generation of institutions to replace NIH, NSF, etc with something even better?
 
@@ -53,4 +53,4 @@ And Solnit is also *wrong*. The list of things that are *not* happening is even 
 
 - Are social scientists planning effective strategies for reforming institutions — educational, social, even parental — in order to fix this continent-wide factory for broken people? (If you think that sounds daft, you need to learn more about the history of progressive education — maybe start with Maria Montessori.)
 
-If these things aren’t happening “at scale,” and they are not, the fascists will — because they *are* doing these things.
+If these things aren’t happening “at scale,” and they are not, the fascists will win — because they *are* doing these things.
