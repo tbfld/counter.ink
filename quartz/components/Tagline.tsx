@@ -1,4 +1,4 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types";
+import { QuartzComponentConstructor } from "./types";
 
 const Tagline: QuartzComponentConstructor = () => {
  function TaglineComponent() {
