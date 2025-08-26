@@ -7,18 +7,18 @@ created: 2025-08-25 09:10
 updated: 2025-08-25 09:12
 author: tb
 images: "false"
-order: 
+order:
 enableToc: "true"
-permalink: 
-aliases: 
-draft: "true"
+permalink:
+aliases:
+draft:
 publish: "true"
 date: 2025-08-25
 tags:
   - activism
   - fascism
   - politics
-status: 
+status:
 RSS: "true"
 yaml_end: true
 ---
