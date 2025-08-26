@@ -26,12 +26,27 @@ jobs:
           node-version: 20
       - name: Install Dependencies
         run: npm ci
+      - name: Debug Environment
+        run: |
+          echo "=== Environment Debug ==="
+          node --version
+          npm --version
+          echo "Memory info:"
+          free -h || echo "free command not available"
+          echo "Disk space:"
+          df -h
+          echo "Content directory:"
+          ls -la content/ | head -10
+          echo "Package.json scripts:"
+          cat package.json | grep -A 10 '"scripts"'
       - name: Build Quartz
         run: |
-          export NODE_OPTIONS="--max-old-space-size=4096"
-          npx quartz build
+          echo "=== Starting Quartz Build ==="
+          export NODE_OPTIONS="--max-old-space-size=8192"
+          npx quartz build --directory content
         env:
           NODE_ENV: production
+          CI: true
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
