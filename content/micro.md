@@ -7,16 +7,22 @@ created: 2025-02-17 23:20
 updated: 2025-02-17 23:20
 author: tb
 images: "false"
-order: 
+order:
 enableToc: "true"
-permalink: 
-aliases: 
+permalink:
+aliases:
 draft: "false"
 publish: "true"
 date: 2025-02-18
 tags:
   - index
-status: 
+  - "#media"
+  - "#publishing"
+  - "#technology"
+  - "#visual-culture"
+  - "#digital-archives"
+  - "#social-commentary"
+status:
 notitle: "true"
 RSS: "false"
 yaml_end: true
@@ -24,6 +30,30 @@ yaml_end: true
 > [!tip]+ For chunkier things, see [[recent]]
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
+
+***2025-09-15:*** [kitsch is central to MAGA](https://cybelecanterel.substack.com/p/lost-in-the-kingdom-of-kitsch) (🎩 AO)
+***
+
+***2025-09-14:*** bsky thread on [climate disruption narratives](https://bsky.app/profile/mliebreich.bsky.social/post/3lysob7e3322a)
+***
+
+***2025-09-12:*** [chopstick sleeve exhibition](https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/)
+
+***2025-09-12:*** [Kirk was killed by a meme](https://www.garbageday.email/p/charlie-kirk-was-killed-by-a-meme)
+
+***2025-09-12:*** FARK [bans misogyny](https://m.fark.com/comments/8378910?)
+***
+
+***2025-09-06:*** [“Nothing comes without its world”](https://brooklynrail.org/2017/12/art/DONNA-HARAWAY-with-Thyrza-Nichols-Goodeve/) (🎩 CS)
+***
+
+***2025-09-05:*** Counterfacto, a tool for analyzing Xitter search results [“to highlight counterfactual statements on certain topics”](https://github.com/Commonfare-net/counterfacto)
+
+***
+
+***2025-09-03:*** Western Cell Division, [“Opening Gaps and Filling Them Up...WESTERN CELL DIVISION and You”](https://archive.org/details/western_cell_division_and_you/) (Baltimore, MD: Dialectical Immaterialism Press, 1987)
+
+***
 
 ***2025-08-13:*** David Dayen sheds more light on the fund-raising machines that dominate the Democratic Party — [this time in California](https://prospect.org/politics/2025-08-13-establishment-struggles-control-california-governors-race/)
 

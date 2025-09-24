@@ -30,6 +30,9 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 <!-- RECENT_POSTS_START -->
+> [!note]+ [[new|new]]
+> things written for this site (“old” is things written before this site)
+
 > [!note]+ [[2025-08-25-what-isnt-happening|2025-08-25 what isn't happening]]
 > a litany of what left-leaning society needs to do to counter Trump & Co
 
