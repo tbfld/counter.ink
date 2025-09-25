@@ -31,6 +31,13 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-09-25:*** *Jacobin* as [“the politics of demoralization in service of the Dem Party”](https://www.wsws.org/en/articles/2025/09/25/qbcd-s25.html)
+
+***2025-09-25:*** *Teen Vogue* on [rapture ideology](https://www.teenvogue.com/story/the-rapture-didnt-come-tiktok) 
+
+***2025-09-25:*** a pretty sharp [AI video about MAGA](https://youtu.be/nD_25aSMSFc) 
+***
+
 ***2025-09-15:*** [kitsch is central to MAGA](https://cybelecanterel.substack.com/p/lost-in-the-kingdom-of-kitsch) (🎩 AO)
 ***
 
