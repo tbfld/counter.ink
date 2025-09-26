@@ -31,76 +31,50 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-09-26:*** [Complete History of the Soviet Union, Arranged to the Melody of Tetris](https://youtu.be/hWTFG3J1CP8)
+***2025-09-26:*** [De l’émancipation des toons](https://lestempsquirestent.org/fr/numeros/numero-6/de-l-emancipation-des-toons)
+***2025-09-26:*** “[raw, unfiltered takes from everyday people on the topics that matter most](https://inauf.co/)”
+***
 ***2025-09-25:*** *Jacobin* as [“the politics of demoralization in service of the Dem Party”](https://www.wsws.org/en/articles/2025/09/25/qbcd-s25.html)
-
 ***2025-09-25:*** *Teen Vogue* on [rapture ideology](https://www.teenvogue.com/story/the-rapture-didnt-come-tiktok) 
-
 ***2025-09-25:*** a pretty sharp [AI video about MAGA](https://youtu.be/nD_25aSMSFc) 
 ***
-
 ***2025-09-15:*** [kitsch is central to MAGA](https://cybelecanterel.substack.com/p/lost-in-the-kingdom-of-kitsch) (🎩 AO)
 ***
-
 ***2025-09-14:*** bsky thread on [climate disruption narratives](https://bsky.app/profile/mliebreich.bsky.social/post/3lysob7e3322a)
 ***
-
 ***2025-09-12:*** [chopstick sleeve exhibition](https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/)
-
 ***2025-09-12:*** [Kirk was killed by a meme](https://www.garbageday.email/p/charlie-kirk-was-killed-by-a-meme)
-
 ***2025-09-12:*** FARK [bans misogyny](https://m.fark.com/comments/8378910?)
 ***
-
 ***2025-09-06:*** [“Nothing comes without its world”](https://brooklynrail.org/2017/12/art/DONNA-HARAWAY-with-Thyrza-Nichols-Goodeve/) (🎩 CS)
 ***
-
 ***2025-09-05:*** Counterfacto, a tool for analyzing Xitter search results [“to highlight counterfactual statements on certain topics”](https://github.com/Commonfare-net/counterfacto)
-
 ***
-
 ***2025-09-03:*** Western Cell Division, [“Opening Gaps and Filling Them Up...WESTERN CELL DIVISION and You”](https://archive.org/details/western_cell_division_and_you/) (Baltimore, MD: Dialectical Immaterialism Press, 1987)
-
 ***
-
 ***2025-08-13:*** David Dayen sheds more light on the fund-raising machines that dominate the Democratic Party — [this time in California](https://prospect.org/politics/2025-08-13-establishment-struggles-control-california-governors-race/)
-
 ***
-
 ***2025-08-11:*** a great [Michael Tomasky column](https://newrepublic.com/article/198965/donald-trump-putin-europe-ukraine) on Trump, Putin, UA, and UE
 ***
-
 ***2025-08-10:*** Charlie Stross thread on a [proposed interstellar travel design](https://wandering.shop/@cstross/114993194582954593) (🎩 KD)
 ***
-
 ***2025-08-08:*** Al-Jazeera on Trump’s “[fascist anti-psychiatry](https://www.aljazeera.com/opinions/2025/8/8/trump-and-the-global-rise-of-fascist-anti-psychiatry)”
-
 ***2025-08-08:*** Glyn Morgan’s [belated review](https://morganmorgan.substack.com/p/arthur-goldhammers-shooting-war) of Arthur Goldhammer’s 2012 novel [*Shooting War*](https://isbn.nu/9781480224391)
-
 ***2025-08-08:*** the [Ursus Books](https://www.ursusbooks.com/) (NYC) mailing list *never* fails to amaze ([signup link](https://www.ursusbooks.com/about.php))
-
 ***2025-08-08:*** “GIRLS OWN THE VOID”: [Nina Power on the supergenius Audrey Wollen (2017)](https://ninapower.net/2017/11/09/191/)
-***2025-08-08:*** *https://archive.ph/20250808131031/https://www.nytimes.com/2025/08/04/technology/rationalists-ai-lighthaven.html* mentions this [techno-volkish wannabe anthem](https://www.youtube.com/watch?v=aB3uTV5Pyz0)
-
+***2025-08-08:*** *https://archive.ph/20250808131031/https://www.nytimes.com/2025/08/04/technology/rationalists-ai-lighthaven.html* mentions this [techno-volkish wannabe anthem](https://www.youtube.com/watch?v=aB3uTV5Pyz0
 ***2025-08-08:*** A+ explanation of the [sinking market for US bonds](https://www.facebook.com/permalink.php?story_fbid=pfbid0rH6MQg2YYqhqJeSCttM3uDGCGse6WH98MJW9BFbB6DvwhFpUN9nJmw6BtDMgjAX4l&id=100014591748791)
-
 ***
 *a two-and-a-half-month break...*
 ***
-
 ***2025-05-30:*** high school graduation [hit with fake ticket DOS attack](https://www.newsbreak.com/worcester-telegram-gazette-1590723/4029532153183-counterfeit-ticket-scam-leads-to-parents-missing-worcester-high-school-graduation)
-
 ***
-
 ***2025-05-25:*** “I Was Targeted by a Hostile Crypto Spambot Swarm That Revealed [How X’s Algorithm Has Been Truly Broken](https://bylinetimes.com/2025/05/20/x-spam-algorithm-elon-musk-bots/)”
-
 ***
-
 ***2025-05-14:*** the [Big Boy graveyard on Google Maps or scene from *The Matrix?*](https://www.google.com/maps/place/Big+Boy+Graveyard/@39.1298382,-84.4879424,3a,48.9y/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICf-YyldA!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4nq8nfuKXRiBsx4G4DiAr42MB85vM6lRTndibgDuxcOZYvRpW4UmqrlmhsGFvOOD6ymafzckVdte3EfpGYtUTfFbzNWvyjGK_oESdvaL-XbrWC1Y2Yi7haKA5kxTUqLn09ztNvPf%3Dw203-h152-k-no!7i4032!8i3024!4m15!1m7!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!2sBig+Boy+Graveyard!8m2!3d39.1297008!4d-84.4876367!16s%2Fg%2F11vy7trg56!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!8m2!3d39.1297008!4d-84.4876367!10e5!16s%2Fg%2F11vy7trg56?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D)
-
-***2025-05-14:*** [a letter from concerned Palantir alumni to the tech workers of Silicon Valley](https://s3.documentcloud.org/documents/25930212/the-scouring-of-the-shire.pdf)
-
+***2025-05-14:*** [a letter from concerned Palantir alumni to the tech workers of Silicon Valley](https://s3.documentcloud.org/documents/25930212/the-scouring-of-the-shire.pdf
 ***2025-05-14:*** Apparently, Robert Macfarlane (not sure which one) said “Despair is a luxury and hope is a discipline.”
-
 ***2025-05-14:***  big props to *The Verge*’s for using [“supposed" and "putative" to describe Trump's minions who were named without qualification or process to replace people who were illegally fired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
 ***
 
