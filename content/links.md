@@ -38,6 +38,8 @@ yaml_end: true
 
 [Numlock News](https://www.numlock.com/) (added 2025-05-01)
 
+[Peteski](https://bsky.app/profile/peteski.bsky.social) (added 2025-10-01)
+
 [Public Domain Review](https://publicdomainreview.org/) (added 2025-05-01)
 
 [Shannon Mattern](https://wordsinspace.net/) (added 2025-05-01)
