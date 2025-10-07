@@ -22,6 +22,8 @@ yaml_end: true
 ---
 #### Recent posts
 <!-- RECENT_POSTS_START -->
+> [!note]+ [[2025-10-07-no-more-acab-thanks|2025-10-07 no more acab thanks]]
+> “ACAB” was never a good idea, but now it’s a bad one
 
 > [!note]+ [[2025-08-25-what-isnt-happening|2025-08-25 what isn't happening]]
 > a litany of what left-leaning society needs to do to counter Trump & Co

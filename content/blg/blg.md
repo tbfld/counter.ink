@@ -100,6 +100,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-08-11-learning-to-read-corruption|2025-08-11 learning to read corruption]]
 	- [[2025-08-11-titles-i-through-x|2025-08-11-titles I through X]]
 	- [[2025-08-25-what-isnt-happening|2025-08-25 what isn't happening]]
+	- [[2025-10-07-no-more-acab-thanks|2025 10 07]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
@@ -119,6 +120,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[2025-03-25-iclaudius.jpeg]]
 		- [[2025-03-25-signal-opsec-email.jpeg]]
 		- [[2025-05-31-gleick-chart.jpg]]
+		- [[2025-10-07-not-an-ice-protest.jpg]]
 		- [[alphabetized-opt.jpeg]]
 		- [[alphabetized.jpg]]
 		- [[and-and-and-grid-sm.jpeg]]
