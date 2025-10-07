@@ -30,8 +30,8 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 <!-- RECENT_POSTS_START -->
-> [!note]+ [[new|new]]
-> things written for this site (“old” is things written before this site)
+> [!note]+ [[2025-10-07-no-more-acab-thanks|2025-10-07 no more acab thanks]]
+> “ACAB” was never a good idea, but now it’s a bad one
 
 > [!note]+ [[2025-08-25-what-isnt-happening|2025-08-25 what isn't happening]]
 > a litany of what left-leaning society needs to do to counter Trump & Co
