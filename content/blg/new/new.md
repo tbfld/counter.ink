@@ -22,6 +22,10 @@ yaml_end: true
 ---
 #### Recent posts
 <!-- RECENT_POSTS_START -->
+
+> [!note]+ [[2025-10-11-TrumpRX-etc|]2025-10-11 TrumpRX]]
+> analysis and metanalysis of TrumpRX etc
+
 > [!note]+ [[2025-10-07-no-more-acab-thanks|2025-10-07 no more acab thanks]]
 > “ACAB” was never a good idea, but now it’s a bad one
 
