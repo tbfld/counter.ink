@@ -27,10 +27,14 @@ notitle: "true"
 RSS: "false"
 yaml_end: true
 ---
-![[]]> [!tip]+ For chunkier things, see [[recent]]
+> [!tip]+ For chunkier things, see [[recent]]
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-10-31:*** [Cop Sculpture](1993–94 > Cop Sculpture) is on [IG](https://www.instagram.com/cop.sculpture/)
+***2025-10-31:*** [wtfjusthappenedtoday](https://whatthefuckjusthappenedtoday.com/)
+***2025-10-31:*** “[Human Only Public License](https://vanderessen.com/posts/hopl/)” (🎩 US)
+***
 ***2025-10-10:*** [Bill Ayers on “sewer socialism” and free buses](https://www.dopemag.org/articles-1/free-buses-prr67) (🎩 JB)
 ***
 ***2025-10-06:*** Dollar General Carl Schmitt, Curtis Yarvin, has “[think realistically about how to flee the country](https://www.thenerdreich.com/panicked-curtis-yarvin-jd-vance-guru-plans-to-flee-usa/)”
