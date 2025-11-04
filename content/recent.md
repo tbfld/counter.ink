@@ -1,7 +1,7 @@
 ---
 yaml_begin: true
 title: recents
-description: recently recent stuff (but not recently posted old stuff)
+description: recently recent stuff (as opposed to recently posted old stuff)
 extract:
 created: 2025-11-03 20:20
 updated: 2025-11-03 20:20
