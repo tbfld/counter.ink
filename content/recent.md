@@ -2,17 +2,17 @@
 yaml_begin: true
 title: recents
 description: recently recent stuff (but not recently posted old stuff)
-extract: 
-created: 2024-11-27 20:20
-updated: 2025-05-14 10:19
+extract:
+created: 2025-11-03 20:20
+updated: 2025-11-03 20:20
 author: tb
 images: "false"
 order: "55"
-enableToc: 
-permalink: 
+enableToc:
+permalink:
 draft: "false"
 publish: "true"
-date: 2025-05-14
+date: 2025-11-03
 tags:
   - index
 aliases:
