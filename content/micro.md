@@ -31,6 +31,13 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-11-07:*** [oldversion.com](http://www.oldversion.com/)
+***
+***2025-11-06:*** [Altman’s Long Goodbye movie poster](https://filmartgallery.com/products/the-long-goodbye-15)
+***2025-11-06:*** [news.kagi.com](https://news.kagi.com/)
+***2025-11-06:*** [high-quality Mamdani t-shirt](https://zohranmamdanimayor.com/products/zohran-mamdani-good-fucking-riddance-t-shirt)
+***2025-11-06:*** [visual/video search engine for Reddit](https://infini.wtf/)
+***
 ***2025-11-03:*** [Tony Karon’s blog](https://tonykaron.com/)
 ***2025-11-03:*** [Chi-town saying no to predatory stadium financing](https://www.fieldofschemes.com/2025/11/03/23308/sportswriters-alarmed-as-bears-again-do-not-get-1b-in-tax-money-toward-new-stadium/)
 ***
