@@ -30,6 +30,7 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 <!-- RECENT_POSTS_START -->
+
 > [!note]+ [[2025-10-11-TrumpRX-etc|]2025-10-11 TrumpRX]]
 > analysis and metanalysis of TrumpRX etc
 
