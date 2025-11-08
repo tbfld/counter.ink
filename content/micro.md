@@ -31,6 +31,9 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-11-08:*** [Sam Altman’s pants are totally on fire](https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on)
+***
+***2025-11-07:*** [Wordle in 1973](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
 ***2025-11-07:*** [oldversion.com](http://www.oldversion.com/)
 ***
 ***2025-11-06:*** [Altman’s Long Goodbye movie poster](https://filmartgallery.com/products/the-long-goodbye-15)
