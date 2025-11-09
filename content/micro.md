@@ -36,18 +36,25 @@ yaml_end: true
 ***2025-11-08:*** [Sam Altman’s pants are totally on fire](https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on)
 ***
 ***2025-11-07:*** [Wordle in 1973](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
+
 ***2025-11-07:*** [oldversion.com](http://www.oldversion.com/)
 ***
 ***2025-11-06:*** [Altman’s Long Goodbye movie poster](https://filmartgallery.com/products/the-long-goodbye-15)
+
 ***2025-11-06:*** [news.kagi.com](https://news.kagi.com/)
+
 ***2025-11-06:*** [high-quality Mamdani t-shirt](https://zohranmamdanimayor.com/products/zohran-mamdani-good-fucking-riddance-t-shirt)
+
 ***2025-11-06:*** [visual/video search engine for Reddit](https://infini.wtf/)
 ***
 ***2025-11-03:*** [Tony Karon’s blog](https://tonykaron.com/)
+
 ***2025-11-03:*** [Chi-town saying no to predatory stadium financing](https://www.fieldofschemes.com/2025/11/03/23308/sportswriters-alarmed-as-bears-again-do-not-get-1b-in-tax-money-toward-new-stadium/)
 ***
 ***2025-10-31:*** [Cop Sculpture](1993–94 > Cop Sculpture) is on [IG](https://www.instagram.com/cop.sculpture/)
+
 ***2025-10-31:*** [wtfjusthappenedtoday](https://whatthefuckjusthappenedtoday.com/)
+
 ***2025-10-31:*** “[Human Only Public License](https://vanderessen.com/posts/hopl/)” (🎩 US)
 ***
 ***2025-10-10:*** [Bill Ayers on “sewer socialism” and free buses](https://www.dopemag.org/articles-1/free-buses-prr67) (🎩 JB)
@@ -55,11 +62,15 @@ yaml_end: true
 ***2025-10-06:*** Dollar General Carl Schmitt, Curtis Yarvin, has “[think realistically about how to flee the country](https://www.thenerdreich.com/panicked-curtis-yarvin-jd-vance-guru-plans-to-flee-usa/)”
 ***
 ***2025-09-26:*** [Complete History of the Soviet Union, Arranged to the Melody of Tetris](https://youtu.be/hWTFG3J1CP8)
+
 ***2025-09-26:*** [De l’émancipation des toons](https://lestempsquirestent.org/fr/numeros/numero-6/de-l-emancipation-des-toons)
+
 ***2025-09-26:*** “[raw, unfiltered takes from everyday people on the topics that matter most](https://inauf.co/)”
 ***
 ***2025-09-25:*** *Jacobin* as [“the politics of demoralization in service of the Dem Party”](https://www.wsws.org/en/articles/2025/09/25/qbcd-s25.html)
+
 ***2025-09-25:*** *Teen Vogue* on [rapture ideology](https://www.teenvogue.com/story/the-rapture-didnt-come-tiktok) 
+
 ***2025-09-25:*** a pretty sharp [AI video about MAGA](https://youtu.be/nD_25aSMSFc) 
 ***
 ***2025-09-15:*** [kitsch is central to MAGA](https://cybelecanterel.substack.com/p/lost-in-the-kingdom-of-kitsch) (🎩 AO)
@@ -67,7 +78,9 @@ yaml_end: true
 ***2025-09-14:*** bsky thread on [climate disruption narratives](https://bsky.app/profile/mliebreich.bsky.social/post/3lysob7e3322a)
 ***
 ***2025-09-12:*** [chopstick sleeve exhibition](https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/)
+
 ***2025-09-12:*** [Kirk was killed by a meme](https://www.garbageday.email/p/charlie-kirk-was-killed-by-a-meme)
+
 ***2025-09-12:*** FARK [bans misogyny](https://m.fark.com/comments/8378910?)
 ***
 ***2025-09-06:*** [“Nothing comes without its world”](https://brooklynrail.org/2017/12/art/DONNA-HARAWAY-with-Thyrza-Nichols-Goodeve/) (🎩 CS)
@@ -83,10 +96,15 @@ yaml_end: true
 ***2025-08-10:*** Charlie Stross thread on a [proposed interstellar travel design](https://wandering.shop/@cstross/114993194582954593) (🎩 KD)
 ***
 ***2025-08-08:*** Al-Jazeera on Trump’s “[fascist anti-psychiatry](https://www.aljazeera.com/opinions/2025/8/8/trump-and-the-global-rise-of-fascist-anti-psychiatry)”
+
 ***2025-08-08:*** Glyn Morgan’s [belated review](https://morganmorgan.substack.com/p/arthur-goldhammers-shooting-war) of Arthur Goldhammer’s 2012 novel [*Shooting War*](https://isbn.nu/9781480224391)
+
 ***2025-08-08:*** the [Ursus Books](https://www.ursusbooks.com/) (NYC) mailing list *never* fails to amaze ([signup link](https://www.ursusbooks.com/about.php))
+
 ***2025-08-08:*** “GIRLS OWN THE VOID”: [Nina Power on the supergenius Audrey Wollen (2017)](https://ninapower.net/2017/11/09/191/)
+
 ***2025-08-08:*** *https://archive.ph/20250808131031/https://www.nytimes.com/2025/08/04/technology/rationalists-ai-lighthaven.html* mentions this [techno-volkish wannabe anthem](https://www.youtube.com/watch?v=aB3uTV5Pyz0
+
 ***2025-08-08:*** A+ explanation of the [sinking market for US bonds](https://www.facebook.com/permalink.php?story_fbid=pfbid0rH6MQg2YYqhqJeSCttM3uDGCGse6WH98MJW9BFbB6DvwhFpUN9nJmw6BtDMgjAX4l&id=100014591748791)
 ***
 *a two-and-a-half-month break...*
