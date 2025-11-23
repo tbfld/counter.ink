@@ -100,7 +100,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-08-11-learning-to-read-corruption|2025-08-11 learning to read corruption]]
 	- [[2025-08-11-titles-i-through-x|2025-08-11-titles I through X]]
 	- [[2025-08-25-what-isnt-happening|2025-08-25 what isn't happening]]
-	- [[2025-09-21-where-do-you-draw-the-line]]
+	- [[2025-09-21-where-do-you-draw-the-line|2025-09-21 where do you draw the line]]
 	- [[2025-10-07-no-more-acab-thanks|2025 10 07]]
 	- [[2025-10-11-TrumpRX-etc|2025-10-11 TrumpRX]]
 	- **new_images**
