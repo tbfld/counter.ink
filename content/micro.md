@@ -31,6 +31,14 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-11-22:*** Github > [allaboutrss](https://github.com/AboutRSS/ALL-about-RSS)
+***
+***2025-11-20:***  a much-needed homage to [Martha Wilson](https://artifacts.movie/martha-wilson/)
+***
+***2025-11-18:***  Seemingly legit tool for [sandboxing attachments](https://dangerzone.rocks/about/)
+***
+***2025-11-14:*** [first AI-orchestrated cyber espionage](https://www.anthropic.com/news/disrupting-AI-espionage)
+***
 ***2025-11-09:*** # [The Rise of Parasitic AI](https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai)
 ***
 ***2025-11-08:*** [Sam Altman’s pants are totally on fire](https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on)
@@ -114,8 +122,11 @@ yaml_end: true
 ***2025-05-25:*** “I Was Targeted by a Hostile Crypto Spambot Swarm That Revealed [How X’s Algorithm Has Been Truly Broken](https://bylinetimes.com/2025/05/20/x-spam-algorithm-elon-musk-bots/)”
 ***
 ***2025-05-14:*** the [Big Boy graveyard on Google Maps or scene from *The Matrix?*](https://www.google.com/maps/place/Big+Boy+Graveyard/@39.1298382,-84.4879424,3a,48.9y/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICf-YyldA!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4nq8nfuKXRiBsx4G4DiAr42MB85vM6lRTndibgDuxcOZYvRpW4UmqrlmhsGFvOOD6ymafzckVdte3EfpGYtUTfFbzNWvyjGK_oESdvaL-XbrWC1Y2Yi7haKA5kxTUqLn09ztNvPf%3Dw203-h152-k-no!7i4032!8i3024!4m15!1m7!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!2sBig+Boy+Graveyard!8m2!3d39.1297008!4d-84.4876367!16s%2Fg%2F11vy7trg56!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!8m2!3d39.1297008!4d-84.4876367!10e5!16s%2Fg%2F11vy7trg56?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D)
+
 ***2025-05-14:*** [a letter from concerned Palantir alumni to the tech workers of Silicon Valley](https://s3.documentcloud.org/documents/25930212/the-scouring-of-the-shire.pdf
+
 ***2025-05-14:*** Apparently, Robert Macfarlane (not sure which one) said “Despair is a luxury and hope is a discipline.”
+
 ***2025-05-14:***  big props to *The Verge*’s for using [“supposed" and "putative" to describe Trump's minions who were named without qualification or process to replace people who were illegally fired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
 ***
 
@@ -201,6 +212,7 @@ yaml_end: true
 ***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/) But they had to publish it on Wordpress because faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.) But they had to publish it on Wordpress because, apparently, faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.
 ***
 ***2025-03-09:*** FB’s explicitly blocking access to Gil Durán’s *Nerd Reich* [because it “addresses topics like the ‘Network State’ concept and critiques of tech industry figures](https://bsky.app/profile/gilduran.com/post/3ljy3wqbs2c26)
+
 ***2025-03-09:*** Mike Masnick on [“Why Techdirt Is Now a Democracy Blog”](https://www.techdirt.com/2025/03/04/why-techdirt-is-now-a-democracy-blog-whether-we-like-it-or-not/)
 
 ***2025-03-09:*** Nina Burleigh (a/k/a American Freakshow) on [MAGA’s Heart of Darkness](https://www.americanfreakshow.news/p/magas-heart-of-darkness
