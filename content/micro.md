@@ -31,6 +31,10 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-11-26:*** *epic* list of [journal RSS feeds](https://gist.github.com/hubgit/5453202) on Github
+***
+***2025-11-23:*** [framework for combining geospatial resources](https://allmaps.org/iiif-partnership)
+***
 ***2025-11-22:*** Github > [allaboutrss](https://github.com/AboutRSS/ALL-about-RSS)
 ***
 ***2025-11-20:***  a much-needed homage to [Martha Wilson](https://artifacts.movie/martha-wilson/)
