@@ -31,6 +31,10 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-11-26:*** Hyman Rickover’s [rules for govt management](https://www.nr-ha.org/books-sources/management-magazine-rickover-on-management)
+
+***2025-11-26:*** how’d I miss [a walking city block](https://bldgblog.com/2025/07/architectural-dressage/)?
+
 ***2025-11-26:*** *epic* list of [journal RSS feeds](https://gist.github.com/hubgit/5453202) on Github
 ***
 ***2025-11-23:*** [framework for combining geospatial resources](https://allmaps.org/iiif-partnership)
