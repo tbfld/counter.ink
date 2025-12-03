@@ -31,6 +31,10 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2025-12-03:*** [Dictionary of Non-notable Artists](https://0x0a.li/en/text/dictionary-of-non-notable-artists/)
+***
+***2025-12-01:*** [the best font ever](https://www.fontspace.com/pramo-font-f4878)
+***
 ***2025-11-29:*** [Poor Theory](https://uchri.org/foundry/poor-theory/) (🎩 SXW)
 ***
 ***2025-11-26:*** Hyman Rickover’s [rules for govt management](https://www.nr-ha.org/books-sources/management-magazine-rickover-on-management)
