@@ -30,31 +30,31 @@ yaml_end: true
 > [!success] And there’s *35 years* of stuff here, so try searching for something you like
 
 <!-- RECENT_POSTS_START -->
-> [!note]+ [[2025-09-21-where-do-you-draw-the-line|2025-09-21 where do you draw the line]]
+> [!note]+ [[2025-09-21-where-do-you-draw-the-line]]
 > a para on ethics
 
-> [!note]+ [[2025-10-11-TrumpRX-etc|2025-10-11 TrumpRX etc]]
+> [!note]+ [[2025-10-11-TrumpRX-etc]]
 > analysis and metanalysis of TrumpRX etc
 
-> [!note]+ [[2025-10-07-no-more-acab-thanks|]2025-10-07 no more acab thanks]
+> [!note]+ [[2025-10-07-no-more-acab-thanks]]
 > “ACAB” was never a good idea, but now it’s a bad one
 
-> [!note]+ [[2025-08-25-what-isnt-happening|2025-08-25 what isn't happening]]
+> [!note]+ [[2025-08-25-what-isnt-happening]]
 > a litany of what left-leaning society needs to do to counter Trump & Co
 
-> [!note]+ [[2025-08-11-titles-i-through-x|2025-08-11-titles I through X]]
+> [!note]+ [[2025-08-11-titles-i-through-x]]
 > some context for Title IX
 
-> [!note]+ [[2025-08-11-learning-to-read-corruption|2025-08-11 learning to read corruption]]
+> [!note]+ [[2025-08-11-learning-to-read-corruption]]
 > gotta keep up with the times
 
 > [!note]+ [[2025-05-27-a-bleak-prospect|2025-05-27 a bleak prospect]]
 > a bleak, bleak post mortem of the 2024 election
 
-> [!note]+ [[2025-05-31-science-is-what-scientists-do|2025-05-31 science is what scientists do]]
+> [!note]+ [[2025-05-31-science-is-what-scientists-do]]
 > scientists should respond to Trump's destruction with construction
 
-> [!note]+ [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
+> [!note]+ [[2025-05-27-biden-and-student-debt]]
 > one of the central tragedies of his presidency
 
 > [!note]+ [[2025-05-23-genocide-genocides-and-trump|2025-05-23 genocide genocides and trump]]
