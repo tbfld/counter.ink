@@ -2,17 +2,17 @@
 yaml_begin: true
 title: 2025-10-11 TrumpRX
 description: analysis and metanalysis of TrumpRX etc
-extract: "an unusually crisp example of the the kind of “hypocrisy” that whiny-b rightists are constantly moaning about, and that Trump has a feral, predatory talent for exploiting"
+extract: an unusually crisp example of the the kind of “hypocrisy” that whiny-b rightists are constantly moaning about, and that Trump has a feral, predatory talent for exploiting
 created: 2025-10-11 07:58
 updated: 2025-10-11 08:02
-author: "tb"
+author: tb
 images: "false"
 order:
 enableToc: "true"
 permalink:
 aliases:
-draft: "true"
-publish: "false"
+draft: "false"
+publish: "true"
 date: 2025-10-11
 tags:
   - healthcare
