@@ -60,6 +60,8 @@ yaml_end: true
 
 **shocktrope** (n.d.): do as you will with it
 
+**speed-run dialectics** ([2025-12-19](https://tldr.nettime.org/@tb/115747646730629855#.))
+
 **stand-up tragedian** ([2025-03-14](https://www.facebook.com/553058053/posts/10162964610813054))
 
 **statsplain** (n.d.): splaining with statistics, usually by people who are unwilling to plainly state they believe that statistics offers the preeminent form of analysis
