@@ -4,7 +4,7 @@ title: recents
 description: recently recent stuff (as opposed to recently posted old stuff)
 extract:
 created: 2025-11-03 20:20
-updated: 2025-11-03 20:20
+updated: 2025-12-18 20:20
 author: tb
 images: "false"
 order: "55"
@@ -12,7 +12,7 @@ enableToc:
 permalink:
 draft: "false"
 publish: "true"
-date: 2025-11-03
+date: 2025-12-18
 tags:
   - index
 aliases:
