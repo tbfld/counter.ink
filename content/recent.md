@@ -1,6 +1,6 @@
 ---
 yaml_begin: true
-title: recent posts
+title: recents
 description: recently recent (not recently posted but old)
 extract:
 created: 2025-11-03 20:20
@@ -11,7 +11,7 @@ order: "55"
 enableToc:
 permalink:
 draft:
-publish: "false"
+publish: "true"
 date: 2025-12-29
 tags:
   - index
