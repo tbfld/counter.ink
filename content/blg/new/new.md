@@ -1,22 +1,22 @@
 ---
 yaml_begin: true
 title: new
-description: things written for this site (“old” is things written before this site)
-extract: 
+description: things written for this site
+extract:
 created: 2024-11-27 19:37
-updated: 2025-05-14 22:04
+updated: 2025-12-29 09:52
 author: tb
 images: "true"
-order: 
+order:
 enableToc: "true"
-permalink: 
-aliases: 
+permalink:
+aliases:
 draft: "false"
 publish: "true"
-date: 2025-03-24
+date: 2025-12-29
 tags:
   - index
-status: 
+status:
 RSS: "false"
 yaml_end: true
 ---
@@ -26,20 +26,20 @@ yaml_end: true
 > [!note]+ [[2025-12-29-on-chomsky-and-epstein|2025-12-29 on chomsky and epstein]]
 > a short Q&A on two men
 
-> [!note]+ [[2025-10-11-TrumpRX-etc]]
+> [!note]+ [[2025-10-11-TrumpRX-etc|2025-10-11 TrumpRX etc]]
 > analysis and metanalysis of TrumpRX etc
 
-> [!note]+ [[2025-10-07-no-more-acab-thanks]]
+> [!note]+ [[2025-10-07-no-more-acab-thanks|2025-10-07 no more acab thanks]]
 > “ACAB” was never a good idea, but now it’s a bad one
 
-> [!note]+ [[2025-09-21-where-do-you-draw-the-line]]
+> [!note]+ [[2025-09-21-where-do-you-draw-the-line|2025-09-21 where do you draw the line]]
 > a para on ethics
 
-> [!note]+ [[2025-08-25-what-isnt-happening]]
+> [!note]+ [[2025-08-25-what-isnt-happening|2025-08-25 what isnt happening]]
 > a litany of what left-leaning society needs to do to counter Trump & Co
 
 > [!note]+ [[2025-08-11-titles-i-through-x|2025-08-11 titles i through x]]
-> some context for Title X
+> some context for Title IX
 
 > [!note]+ [[2025-08-11-learning-to-read-corruption|2025-08-11 learning to read corruption]]
 > gotta keep up with the times
