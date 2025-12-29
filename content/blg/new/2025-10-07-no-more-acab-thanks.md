@@ -1,6 +1,6 @@
 ---
 yaml_begin: true
-title: 2025 10 07
+title: 2025 10 07 no more acab thanks
 description: thoghts about an old protest photo circulating under the claim that it’s ICE
 extract: As blue-vs-green conflicts become more common, one side will always be worse than the other — but which will be unpredictable.
 created: 2025-10-07 09:32
