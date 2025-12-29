@@ -10,8 +10,8 @@ images: "false"
 order: "55"
 enableToc:
 permalink:
-draft: "false"
-publish: "true"
+draft:
+publish: "false"
 date: 2025-12-29
 tags:
   - index
