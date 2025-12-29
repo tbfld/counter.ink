@@ -11,6 +11,8 @@ order:
 enableToc: "true"
 permalink:
 aliases:
+  - index
+  - home
 draft: "false"
 publish: "true"
 date: 2025-12-29
