@@ -30,11 +30,15 @@ yaml_end: true
 
 [FIG Projects](https://www.facebook.com/figprojects/) (on FB; added 2025-05-01)
 
+[Idle Words](https://idlewords.com/) (added 2025-12-31)
+
 [J. F. Ptak Science Books](https://longstreet.typepad.com/) (added 2025-05-01)
 
 [Messy Nessy](https://www.messynessychic.com/) (added 2025-05-01)
 
 [Morning News](https://themorningnews.org/) (added 2025-05-01)
+
+[Nerd Reich](https://www.thenerdreich.com/author/gil/) (added 2025-12-31)
 
 [Numlock News](https://www.numlock.com/) (added 2025-05-01)
 

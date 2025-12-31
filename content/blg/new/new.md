@@ -25,6 +25,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2025-12-31-obey-in-advance|2025-12-31 obey in advance]]
+> not obeying is not enough
+
 > [!note]+ [[2025-12-29-on-chomsky-and-epstein|2025-12-29 on chomsky and epstein]]
 > a short Q&A on two men
 
