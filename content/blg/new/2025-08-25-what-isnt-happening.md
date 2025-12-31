@@ -11,7 +11,7 @@ order:
 enableToc: "true"
 permalink:
 aliases:
-draft:
+draft: false
 publish: "true"
 date: 2025-08-25
 tags:
