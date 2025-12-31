@@ -2,17 +2,17 @@
 yaml_begin: true
 title: 2025-12-31 obey in advance
 description: HCR’s 2025 wrap-up and a few thoughts
-extract: "a shrieking, howling train wreck of imperatives, ambiguities, negations, and contradictions, ideally suited to a cultural of rudderless liberal denialism"
+extract: a shrieking, howling train wreck of imperatives, ambiguities, negations, and contradictions, ideally suited to a cultural of rudderless liberal denialism
 created: 2025-12-31 11:19
 updated: 2025-12-31 11:25
-author: "tb"
+author: tb
 images: "false"
 order:
 enableToc: "true"
 permalink:
 aliases:
 draft: "true"
-publish: "false"
+publish: "true"
 date: 2025-12-31
 tags:
   - politics
