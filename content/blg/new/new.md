@@ -25,6 +25,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-01-08-Trump-and-residential-rackets|2026-01-08 Trump and residential rackets]]
+> WTFJHT, DJT, PE, and RE
+
 > [!note]+ [[2025-12-31-obey-in-advance|2025-12-31 obey in advance]]
 > not obeying is not enough
 
