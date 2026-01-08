@@ -1,18 +1,18 @@
 ---
 yaml_begin: true
 title: 2026-01-08 Trump and residential rackets
-description: a few thoughts on Trump’s noise about institutional RE investors 
-extract: "this ‘policy’ would be an effort to get his arms around affordability, but if he follows though at all the implications would be staggering*"
+description: a few thoughts on Trump’s noise about institutional RE investors
+extract: this ‘policy’ would be an effort to get his arms around affordability, but if he follows though at all the implications would be staggering*
 created: 2026-01-08 11:41
 updated: 2026-01-08 11:41
-author: "tb"
+author: tb
 images: "false"
 order:
 enableToc: "true"
 permalink:
 aliases:
-draft: "true"
-publish: "false"
+draft: "false"
+publish: "true"
 date: 2026-01-08
 tags:
   - politics
