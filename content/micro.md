@@ -31,6 +31,10 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2026-01-09:*** VZ: “[The cash waterfall operates upstream of sovereignty itself](https://substack.com/home/post/p-183664310)”
+***
+***2026-01-08:*** neatocal for [planning an entire year](https://abetusk.github.io/neatocal/)
+
 ***2026-01-08:*** alleged Berlin group manifesto: deDOTindymediaDOTorg/nodeSLASH565575
 ***
 ***2025-12-23:*** [RAM price skyockets thanks to OpenAI](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)
