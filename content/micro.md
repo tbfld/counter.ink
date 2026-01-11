@@ -31,6 +31,8 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2026-01-11:*** gently brutal [NYRB review](https://archive.is/9PZRV) of Douthat’s doorstop
+***
 ***2026-01-10:*** historian of Venezuela [AMA on FB](https://www.facebook.com/george.ciccariellomaher/posts/pfbid0sST8oe6WhWNioeedxRr4eATtoBkDwPYDG7adqUVy2VBbXMuWNzeP83cznR4CJCoPl)
 
 ***2026-01-10:*** [automating medieval manuscript transcription](https://www.inria.fr/en/comma-medieval-manuscripts-transcribed)
