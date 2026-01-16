@@ -12,7 +12,7 @@ enableToc: "true"
 permalink:
 aliases:
 draft: "true"
-publish: "false"
+publish: "true"
 date: 2026-01-16
 tags:
   - law
