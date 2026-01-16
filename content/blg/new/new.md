@@ -25,6 +25,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-01-16-lowering-the-bar-in-FL-etc|2026-01-16-lowering the bar in FL etc]]
+> FL SC says FU to ABA over JD EDU
+
 > [!note]+ [[2026-01-08-Trump-and-residential-rackets|2026-01-08 Trump and residential rackets]]
 > WTFJHT, DJT, PE, and RE
 

@@ -31,6 +31,9 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2026-01-14:*** “Why I Will Not Cast My Electoral Vote for Donald Trump”
+***2026-01-14:*** “[Why I Will Not Cast My Electoral Vote for Donald Trump]()”
+
 ***2026-01-14:*** [The China Syndrome and American decline](www.patreon.com/posts/148151858)
 ***
 ***2026-01-13:*** [Times Square FB group](https://www.facebook.com/groups/347911852086113/)
