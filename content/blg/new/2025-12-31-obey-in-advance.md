@@ -11,8 +11,7 @@ order:
 enableToc: "true"
 permalink:
 aliases:
-draft: "true"
-publish: "true"
+publish: true
 date: 2025-12-31
 tags:
   - politics
