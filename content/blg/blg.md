@@ -106,6 +106,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-12-29-on-chomsky-and-epstein|2025-12-29 on chomsky and epstein]]
 	- [[2025-12-31-obey-in-advance|2025-12-31 obey in advance]]
 	- [[2026-01-08-Trump-and-residential-rackets|2026-01-08 Trump and residential rackets]]
+	- [[2026-01-16-lowering-the-bar-in-FL-etc|Untitled]]
 	- **new_images**
 		- [[18C-erotic-dice-1.jpg]]
 		- [[18C-erotic-dice-2.jpg]]
