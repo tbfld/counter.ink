@@ -11,8 +11,7 @@ order:
 enableToc: "true"
 permalink:
 aliases:
-draft: "false"
-publish: "true"
+publish: true
 date: 2026-01-16
 tags:
   - law
