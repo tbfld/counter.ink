@@ -20,6 +20,7 @@ status:
 RSS: "true"
 yaml_end: true
 ---
+- [RSS Lookup](https://www.rsslookup.com/) (added 2026-01-19): exactly what it says on the label
 - [Bombadillo](https://bombadillo.colorfield.space/) (added 2025-03-10, from OTW): a terminal-based non-web browser #cli #protocols
 - [Bunch](https://bunchapp.co/) (added 2025-03-10, from OTW): automation tool that uses text files with lists of apps / commands to launch #automation #macos #ui
 - [Finicky](https://johnste.github.io/finicky/) (added 2025-03-10, from OTW): route links to specific browsers based on URL patterns and Javascript. (I use [OpenIn](https://setapp.com/apps/openin) for this.) #ui #web 
