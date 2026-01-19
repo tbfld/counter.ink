@@ -25,8 +25,99 @@ Early online resources — dialup BBSes, discussion-oriented mailing lists, and 
 When social media came along, it more or less put an end to blogging. It’s got lots of problems, some of them *really* serious, but its weirdness and intensity reflect new stages in how we think about different ideas of community. This jawlog reflects these changing styles, and not the everyone’s-got-their-own-soapbox tone of blogs.
 
 %% Begin Waypoint %%
-- [[blg|blg]]
-- **[[new]]**
+- **[[new|new]]**
+	- **new_images**
+		- **dress**
+			- [[alice-eugenia-ligon-1.jpg]]
+			- [[alice-eugenia-ligon-2.jpg]]
+			- [[alice-eugenia-ligon-3.jpg]]
+			- [[alice-eugenia-ligon-4.jpg]]
+			- [[alice-eugenia-ligon-5.jpg]]
+		- **fox-gender**
+			- [[fox-manly-tariffs.jpg]]
+			- [[fox-the-women-behind-the-screen.jpg]]
+		- **indybay-not-pubbed**
+			- [[20250112-930htrs-indybat.org-about-us.png]]
+			- [[20250112-931hrs-indybay-lists.png]]
+		- **neologisms**
+			- **2023-10-08-statsplain-statslight**
+				- [[statslighting.jpg]]
+				- [[statsplain.jpg]]
+				- [[statsplaining.jpg]]
+			- **2024-04-04-fanticipation**
+				- [[2024-04-04-fanticipation-fb.png]]
+				- [[2024-04-04-fanticipation.jpg]]
+			- **2024-07-14-retronaissance**
+				- [[2024-07-14-retronaissance-fb.png]]
+				- [[2024-07-14-retronaissance.jpg]]
+			- **2024-08-11-zeitvibe**
+				- [[2024-08-11-zeitvibe-fb.png]]
+				- [[2024-08-11-zeitvibe.jpg]]
+			- [[2011-01-05-tweetiqutte.png]]
+			- [[2011-01-06-crowdwash.png]]
+			- [[2011-06-11-bitcoinomania.png]]
+			- [[2011-08-13-myhrvoldemort.png]]
+			- [[2019-07-14-brogrom.png]]
+			- [[2023-01-31-everywhen-no-then-then.png]]
+			- [[2024-03-09-mass-nihilization.png]]
+			- [[2024-08-07-koyaanisqatsification.png]]
+			- [[2024-08-31-emdashical.png]]
+			- [[2024-09-02-progwashing.png]]
+			- [[2024-11-13-wordlview.png]]
+		- [[18C-erotic-dice-1.jpg]]
+		- [[18C-erotic-dice-2.jpg]]
+		- [[18C-erotic-dice-3.jpg]]
+		- [[18C-erotic-dice-4.jpg]]
+		- [[25-03-09-george-mag.jpg]]
+		- [[25-03-09-wsj-trump-elite-law.jpeg]]
+		- [[2020-05-30-trump-tweets.jpg]]
+		- [[2025-02-22-bsky-edu-thread-01.jpg]]
+		- [[2025-02-22-bsky-edu-thread-02.jpg]]
+		- [[2025-02-26-endowment-tax-google-news.jpeg]]
+		- [[2025-03-13_USG2CU-let-01.jpg]]
+		- [[2025-03-13_USG2CU-let-02.jpg]]
+		- [[2025-03-21-alma-mater-maquette.jpg]]
+		- [[2025-03-21-jonathan-sterne-boston-reflection-by-biella-coleman.jpg]]
+		- [[2025-03-21-jonathan-sterne.jpg]]
+		- [[2025-03-25-iclaudius.jpeg]]
+		- [[2025-03-25-signal-opsec-email.jpeg]]
+		- [[2025-05-31-gleick-chart.jpg]]
+		- [[2025-10-07-not-an-ice-protest.jpg]]
+		- [[alphabetized-opt.jpeg]]
+		- [[alphabetized.jpg]]
+		- [[and-and-and-grid-sm.jpeg]]
+		- [[bateson-footnote.jpeg]]
+		- [[borrell_escaping_criticism-1874.jpeg]]
+		- [[chicago-fake-books.jpeg]]
+		- [[christopher-bickel-does-herb-alpert.jpeg]]
+		- [[cursing-heatmap.jpg]]
+		- [[donmartin-01.jpg]]
+		- [[donmartin-02.jpg]]
+		- [[donmartin-03.jpg]]
+		- [[donmartin-04.jpg]]
+		- [[emem.jpg]]
+		- [[footnote-third-greatest.png]]
+		- [[foreman-manifesto.jpg]]
+		- [[guilty-x-34.jpg]]
+		- [[heaney-railway.jpg]]
+		- [[higher-ed-tax.jpeg]]
+		- [[joyce-ulysses-1924.mp3]]
+		- [[lynch-historical-hairdos.jpeg]]
+		- [[mission-of-burma-signals-calls-insert.jpg]]
+		- [[mtm-ai.jpeg]]
+		- [[mtm-hidef.jpeg]]
+		- [[musk-qr.jpg]]
+		- [[nag-hammadi-meme.jpeg]]
+		- [[NYU.pdf]]
+		- [[schrodingers-razor.jpg]]
+		- [[scott-galloway-US_Higher_Ed_Update_073020.png]]
+		- [[Social-Media-Statement-re-JHE-Resignations.pdf]]
+		- [[suicide-doors.jpeg]]
+		- [[swasticar.png]]
+		- [[taas.jpeg]]
+		- [[tesla-community.jpg]]
+		- [[three-p-opera.jpeg]]
+		- [[turdreich-grid-sm.jpeg]]
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
 	- [[2024-11-26-second-greatest-footnote-ever|2024-11-26 the second greatest footnote ever]]
 	- [[2024-11-27-all-creatures-terrible-and-fabulous|2024-11-27 all creatures terrible and fabulous]]
@@ -106,113 +197,22 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-12-29-on-chomsky-and-epstein|2025-12-29 on chomsky and epstein]]
 	- [[2025-12-31-obey-in-advance|2025-12-31 obey in advance]]
 	- [[2026-01-08-Trump-and-residential-rackets|2026-01-08 Trump and residential rackets]]
-	- [[2026-01-16-lowering-the-bar-in-FL-etc|Untitled]]
-	- **new_images**
-		- [[18C-erotic-dice-1.jpg]]
-		- [[18C-erotic-dice-2.jpg]]
-		- [[18C-erotic-dice-3.jpg]]
-		- [[18C-erotic-dice-4.jpg]]
-		- [[25-03-09-george-mag.jpg]]
-		- [[25-03-09-wsj-trump-elite-law.jpeg]]
-		- [[2020-05-30-trump-tweets.jpg]]
-		- [[2025-02-22-bsky-edu-thread-01.jpg]]
-		- [[2025-02-22-bsky-edu-thread-02.jpg]]
-		- [[2025-02-26-endowment-tax-google-news.jpeg]]
-		- [[2025-03-13_USG2CU-let-01.jpg]]
-		- [[2025-03-13_USG2CU-let-02.jpg]]
-		- [[2025-03-21-alma-mater-maquette.jpg]]
-		- [[2025-03-21-jonathan-sterne-boston-reflection-by-biella-coleman.jpg]]
-		- [[2025-03-21-jonathan-sterne.jpg]]
-		- [[2025-03-25-iclaudius.jpeg]]
-		- [[2025-03-25-signal-opsec-email.jpeg]]
-		- [[2025-05-31-gleick-chart.jpg]]
-		- [[2025-10-07-not-an-ice-protest.jpg]]
-		- [[alphabetized-opt.jpeg]]
-		- [[alphabetized.jpg]]
-		- [[and-and-and-grid-sm.jpeg]]
-		- [[bateson-footnote.jpeg]]
-		- [[borrell_escaping_criticism-1874.jpeg]]
-		- [[chicago-fake-books.jpeg]]
-		- [[christopher-bickel-does-herb-alpert.jpeg]]
-		- [[cursing-heatmap.jpg]]
-		- [[donmartin-01.jpg]]
-		- [[donmartin-02.jpg]]
-		- [[donmartin-03.jpg]]
-		- [[donmartin-04.jpg]]
-		- **dress**
-			- [[alice-eugenia-ligon-1.jpg]]
-			- [[alice-eugenia-ligon-2.jpg]]
-			- [[alice-eugenia-ligon-3.jpg]]
-			- [[alice-eugenia-ligon-4.jpg]]
-			- [[alice-eugenia-ligon-5.jpg]]
-		- [[emem.jpg]]
-		- [[footnote-third-greatest.png]]
-		- [[foreman-manifesto.jpg]]
-		- **fox-gender**
-			- [[fox-manly-tariffs.jpg]]
-			- [[fox-the-women-behind-the-screen.jpg]]
-		- [[guilty-x-34.jpg]]
-		- [[heaney-railway.jpg]]
-		- [[higher-ed-tax.jpeg]]
-		- **indybay-not-pubbed**
-			- [[20250112-930htrs-indybat.org-about-us.png]]
-			- [[20250112-931hrs-indybay-lists.png]]
-		- [[joyce-ulysses-1924.mp3]]
-		- [[lynch-historical-hairdos.jpeg]]
-		- [[mission-of-burma-signals-calls-insert.jpg]]
-		- [[mtm-ai.jpeg]]
-		- [[mtm-hidef.jpeg]]
-		- [[musk-qr.jpg]]
-		- [[nag-hammadi-meme.jpeg]]
-		- **neologisms**
-			- [[2011-01-05-tweetiqutte.png]]
-			- [[2011-01-06-crowdwash.png]]
-			- [[2011-06-11-bitcoinomania.png]]
-			- [[2011-08-13-myhrvoldemort.png]]
-			- [[2019-07-14-brogrom.png]]
-			- [[2023-01-31-everywhen-no-then-then.png]]
-			- **2023-10-08-statsplain-statslight**
-				- [[statslighting.jpg]]
-				- [[statsplain.jpg]]
-				- [[statsplaining.jpg]]
-			- [[2024-03-09-mass-nihilization.png]]
-			- **2024-04-04-fanticipation**
-				- [[2024-04-04-fanticipation-fb.png]]
-				- [[2024-04-04-fanticipation.jpg]]
-			- **2024-07-14-retronaissance**
-				- [[2024-07-14-retronaissance-fb.png]]
-				- [[2024-07-14-retronaissance.jpg]]
-			- [[2024-08-07-koyaanisqatsification.png]]
-			- **2024-08-11-zeitvibe**
-				- [[2024-08-11-zeitvibe-fb.png]]
-				- [[2024-08-11-zeitvibe.jpg]]
-			- [[2024-08-31-emdashical.png]]
-			- [[2024-09-02-progwashing.png]]
-			- [[2024-11-13-wordlview.png]]
-		- [[NYU.pdf]]
-		- [[schrodingers-razor.jpg]]
-		- [[scott-galloway-US_Higher_Ed_Update_073020.png]]
-		- [[Social-Media-Statement-re-JHE-Resignations.pdf]]
-		- [[suicide-doors.jpeg]]
-		- [[swasticar.png]]
-		- [[taas.jpeg]]
-		- [[tesla-community.jpg]]
-		- [[three-p-opera.jpeg]]
-		- [[turdreich-grid-sm.jpeg]]
+	- [[2026-01-16-lowering-the-bar-in-FL-etc|2026-01-16-lowering the bar in FL etc]]
+	- [[2026-01-19-making-an-example-of-the-twin-cities|2026 01 19]]
 	- [[new|new]]
-- **[[old]]**
-	- **[[nettime]]**
-		- **[[1995]]**
+- **[[old|old]]**
+	- **[[nettime|nettime]]**
+		- **[[1995|1995]]**
 			- [[1995-12-27-art-r-us|1995-12-27 art r us]]
 			- [[1995|1995]]
-		- **[[1996]]**
+		- **[[1996|1996]]**
 			- [[1996-01-06-forward-stolen-poetry|1996-01-06 forward stolen poetry]]
 			- [[1996-02-19-a-reply-to-jp-barlow|1996-02-19 a reply to jp barlow]]
 			- [[1996-03-22-three-questions-about-nettime|1996-03-22 three questions about nettime]]
 			- [[1996-07-29-net-commercialization|1996-07-29 net commercialization]]
 			- [[1996-09-25-on-pkd-and-gnosticism-a-reply-to-erik-davis|1996-09-25 on pkd and gnosticism a reply to erik davis]]
 			- [[1996|1996]]
-		- **[[1997]]**
+		- **[[1997|1997]]**
 			- [[1997-01-06-nonlinearity-a-reply-to-hari-kunzru|1997-01-06 nonlinearity a reply to hari kunzru]]
 			- [[1997-02-12-a-reply-to-cook-and-gonggrijp|1997-02-12 a reply to cook and gonggrijp]]
 			- [[1997-03-02-on-world-wealth-a-reply-jesse-hirsh|1997-03-02 on world wealth a reply jesse hirsh]]
@@ -228,7 +228,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[1997-11-09-eugene-kashpureff-jailed|1997-11-09 eugene kashpureff jailed]]
 			- [[1997-12-02-on-richard-barbrook-and-luther-blissett|1997-12-02 on richard barbrook and luther blissett]]
 			- [[1997|1997]]
-		- **[[1998]]**
+		- **[[1998|1998]]**
 			- [[1998-02-05-on-barbrook-and-dery|1998-02-05 on barbrook and dery]]
 			- [[1998-03-02-europanto-five-year-plan|1998-03-02 europanto five year plan]]
 			- [[1998-03-07-reply-to-keith-sanborn|1998-03-07 reply to keith sanborn]]
@@ -237,7 +237,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[1998-03-29-esr-cathedral-and-the-bazaar|1998-03-29 esr cathedral and the bazaar]]
 			- [[1998-03-30-on-scamizdat-anon.penet.fi|1998-03-30 on scamizdat anon.penet.fi]]
 			- [[1998|1998]]
-		- **[[1999]]**
+		- **[[1999|1999]]**
 			- [[1999-02-24-MIT-hostnames|1999-02-24 MIT hostnames]]
 			- [[1999-02-28-cybersitter-filter-list|1999-02-28 cybersitter filter list]]
 			- [[1999-04-04-on-genocide-in-kosov@|1999-04-04 on genocide in kosov@]]
@@ -256,7 +256,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[1999-12-23-on-various-leonardos|1999-12-23 on various leonardos]]
 			- [[1999-12-28-dvd-css-analysis-and-comments|1999-12-28 dvd css analysis and comments]]
 			- [[1999|1999]]
-		- **[[2000]]**
+		- **[[2000|2000]]**
 			- [[2000-03-10-icann-compilation|2000-03-10 icann compilation]]
 			- [[2000-03-22-.ps-for-palestine|2000-03-22 .ps for palestine]]
 			- [[2000-03-31-interview-with-a-search-engine|2000-03-31 interview with a search engine]]
@@ -273,7 +273,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2000-10-03-on-isoc-and-icann|2000-10-03 on isoc and icann]]
 			- [[2000-10-08-on-streaming-participation-and-history|2000-10-08 on streaming participation and history]]
 			- [[2000|2000]]
-		- **[[2001]]**
+		- **[[2001|2001]]**
 			- [[2001-02-07-on-spam-and-scaling|2001-02-07 on spam and scaling]]
 			- [[2001-02-14-on-dejanews-and-usenet-archives-a-reply-to-geert-lovink|2001-02-14 on dejanews and usenet archives a reply to geert lovink]]
 			- [[2001-02-16-on-dejanews-and-usenet-archives-a-reply-to-drazen-pantic|2001-02-16 on dejanews and usenet archives a reply to drazen pantic]]
@@ -282,41 +282,41 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2001-06-27-dark-fiber-under-and-over-supply-a-reply-to-michael-gurstein|2001-06-27 dark fiber under and over supply a reply to michael gurstein]]
 			- [[2001-09-15-nyc-media-post-911|2001-09-15 nyc media post 911]]
 			- [[2001|2001]]
-		- **[[2002]]**
+		- **[[2002|2002]]**
 			- [[2002-03-27-on-intellectual-property-and-indigenous-sovereignty|2002-03-27 on intellectual property and indigenous sovereignty]]
 			- [[2002-07-24-on-wtc-redevelopment|2002-07-24 on wtc redevelopment]]
 			- [[2002-09-28-patrice-riemens-and-gaston-roberge|2002-09-28 patrice riemens and gaston roberge]]
 			- [[2002|2002]]
-		- **[[2003]]**
+		- **[[2003|2003]]**
 			- [[2003-01-19-on-the-prehistory-of-rhizome|2003-01-19 on the prehistory of rhizome]]
 			- [[2003-03-29-on-geert-lovink-dark-fibre|2003-03-29 on geert lovink dark fibre]]
 			- [[2003-05-18-sars-the-economy-and-hiv|2003-05-18 sars the economy and hiv]]
 			- [[2003-10-06-on-american-anti-intellectualism|2003-10-06 on american anti intellectualism]]
 			- [[2003-12-27-semantic-web-for-beginners|2003-12-27 semantic web for beginners]]
 			- [[2003|2003]]
-		- **[[2004]]**
+		- **[[2004|2004]]**
 			- [[2004-10-02-on-polling-and-cellphones|2004-10-02 on polling and cellphones]]
 			- [[2004|2004]]
-		- **[[2007]]**
+		- **[[2007|2007]]**
 			- [[2007-02-17-bird-flu-and-intellectual-property|2007-02-17 bird flu and intellectual property]]
 			- [[2007-12-27-on-the-semantic-web-and-taxonomies|2007-12-27 on the semantic web and taxonomies]]
 			- [[2007|2007]]
-		- **[[2008]]**
+		- **[[2008|2008]]**
 			- [[2008-05-20-steve-cisler-rip|2008-05-20 steve cisler rip]]
 			- [[2008-07-14-dj-spooky-on-stanislaw-lem|2008-07-14 dj spooky on stanislaw lem]]
 			- [[2008-09-20-on-financial-and-governance-crises|2008-09-20 on financial and governance crises]]
 			- [[2008-12-04-on-the-history-of-rightist-terror-in-the-us-1|2008-12-04 on the history of rightist terror in the us 1]]
 			- [[2008-12-04-on-the-history-of-rightist-terror-in-the-us-2|2008-12-04 on the history of rightist terror in the us 2]]
 			- [[2008|2008]]
-		- **[[2009]]**
+		- **[[2009|2009]]**
 			- [[2009-11-18-on-phil-agre|2009-11-18 on phil agre]]
 			- [[2009|2009]]
-		- **[[2010]]**
+		- **[[2010|2010]]**
 			- [[2010-01-13-google-new-approach-to-china|2010-01-13 google new approach to china]]
 			- [[2010-02-22-do-the-f-what-you-want-license|2010-02-22 do the f what you want license]]
 			- [[2010-12-07-on-cryptome-and-how-the-net-has-changed|2010-12-07 on cryptome and how the net has changed]]
 			- [[2010|2010]]
-		- **[[2011]]**
+		- **[[2011|2011]]**
 			- [[2011-02-25-on-student-debt|2011-02-25 on student debt]]
 			- [[2011-05-22-unabomber-critique-of-conference-fees|2011-05-22 unabomber critique of conference fees]]
 			- [[2011-05-30-on-the-rapture|2011-05-30 on the rapture]]
@@ -324,43 +324,43 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2011-07-24-to-on-aaron-swartz-jstor-and-mit-a-reply-to-david-golumbia|2011-07-24 to on aaron swartz jstor and mit a reply to david golumbia]]
 			- [[2011-11-23-on-student-debt|2011-11-23 on student debt]]
 			- [[2011|2011]]
-		- **[[2012]]**
+		- **[[2012|2012]]**
 			- [[2012-07-19-guns-and-history-a-reply-to-keith-sanborn|2012-07-19 guns and history a reply to keith sanborn]]
 			- [[2012|2012]]
-		- **[[2013]]**
+		- **[[2013|2013]]**
 			- [[2013-03-24-on-the-impact-of-desktop-publishing|2013-03-24 on the impact of desktop publishing]]
 			- [[2013-07-03-on-the-need-to-rethink-privacy-and-surveillance|2013-07-03 on the need to rethink privacy and surveillance]]
 			- [[2013|2013]]
-		- **[[2014]]**
+		- **[[2014|2014]]**
 			- [[2014-02-16-on-conjunctural-analysis|2014-02-16 on conjunctural analysis]]
 			- [[2014-05-13-on-delanda-war-in-the-age-of-intelligent-machines-a-reply-to-brian-holmes|2014-05-13 on delanda war in the age of intelligent machines a reply to brian holmes]]
 			- [[2014-05-15-can-corporations-be-good-or-evil|2014-05-15 can corporations be good or evil]]
 			- [[2014-10-16-morozov-medina-and-the-new-yorker|2014-10-16 morozov medina and the new yorker]]
 			- [[2014|2014]]
-		- **[[2015]]**
+		- **[[2015|2015]]**
 			- [[2015-09-25-thoughts-on-the-vw-scandal|2015-09-25 thoughts on the vw scandal]]
 			- [[2015|2015]]
-		- **[[2016]]**
+		- **[[2016|2016]]**
 			- [[2016-04-06-on-the-panama-papers-a-reply-to-patrice-riemens|2016-04-06 on the panama papers a reply to patrice riemens]]
 			- [[2016-04-07-on-responsible-data|2016-04-07 on responsible data]]
 			- [[2016-05-25-on-stylometry|2016-05-25 on stylometry]]
 			- [[2016-11-18-europeans-on-americans-and-trump|2016-11-18 europeans on americans and trump]]
 			- [[2016|2016]]
-		- **[[2017]]**
+		- **[[2017|2017]]**
 			- [[2017-06-18-can-the-left-meme|2017-06-18 can the left meme]]
 			- [[2017-10-04-on-micro-generations|2017-10-04 on micro generations]]
 			- [[2017-11-26-critical-corporate-studies|2017-11-26 critical corporate studies]]
 			- [[2017-12-28-whence-and-whither-btc|2017-12-28 whence and whither btc]]
 			- [[2017-12-31-btc-and-austrian-theory|2017-12-31 btc and austrian theory]]
 			- [[2017|2017]]
-		- **[[2018]]**
+		- **[[2018|2018]]**
 			- [[2018-01-01-dual-use-tech|2018-01-01 dual use tech]]
 			- [[2018-04-05-memes-mushrooms-and-walter-benjamin|2018-04-05 memes mushrooms and walter benjamin]]
 			- [[2018-07-13-shadow-libraries-in-the-washington-post|2018-07-13 shadow libraries in the washington post]]
 			- [[2018-10-16-opinion-polling|2018-10-16 opinion polling]]
 			- [[2018-12-30-on-scaling|2018-12-30 on scaling]]
 			- [[2018|2018]]
-		- **[[2019]]**
+		- **[[2019|2019]]**
 			- [[2019-01-28-on-sortition|2019-01-28 on sortition]]
 			- [[2019-03-18-plane-crashes-in-theory-and-practice|2019-03-18 plane crashes in theory and practice]]
 			- [[2019-03-23-abstraction-and-labor|2019-03-23 abstraction and labor]]
@@ -372,26 +372,25 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2019-05-29-choirs-were-always-virtual|2019-05-29 choirs were always virtual]]
 			- [[2019-10-31-twitter-typing-bug|2019-10-31 twitter typing bug]]
 			- [[2019|2019]]
-		- **[[2020]]**
+		- **[[2020|2020]]**
 			- [[2020-03-27-michael-sorkin-rip|2020-03-27 michael sorkin rip]]
 			- [[2020-06-04-rightist-signification|2020-06-04 rightist signification]]
 			- [[2020-09-01-is-this-even-an-election-really|2020-09-01 is this even an election really]]
 			- [[2020|2020]]
-		- **[[2021]]**
+		- **[[2021|2021]]**
 			- [[2021-01-25-on-de-supremacizing|2021-01-25 on de supremacizing]]
 			- [[2021-03-14-recent-visual-mutations|2021-03-14 recent visual mutations]]
 			- [[2021-03-18-on-NFTs|2021-03-18 on NFTs]]
 			- [[2021|2021]]
 		- [[nettime|nettime]]
-	- [[old|old]]
-	- **[[social-media]]**
-		- **[[2009]]**
+	- **[[social-media|social media]]**
+		- **[[2009|2009]]**
 			- [[2009-10-07-use-no-hooks|2009-10-07 use no hooks]]
 			- [[2009-10-10-computer-center|2009-10-10 computer center]]
 			- [[2009-10-24-what-does-it-do|2009-10-24 what does it do]]
 			- [[2009-11-22-no|2009-11-22 no]]
 			- [[2009|2009]]
-		- **[[2010]]**
+		- **[[2010|2010]]**
 			- [[2010-01-22-commodity|2010-01-22 commodity]]
 			- [[2010-02-11-mbox-zero|2010-02-11 mbox zero]]
 			- [[2010-03-03-revs|2010-03-03 revs]]
@@ -409,7 +408,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2010-10-23-Assange -on-reading|2010-10-23 Assange  on reading]]
 			- [[2010-11-27-Oregon|2010-11-27 Oregon]]
 			- [[2010|2010]]
-		- **[[2011]]**
+		- **[[2011|2011]]**
 			- [[2011-02-03-04-busload-of-lamers|20112 03 04 busload of lamers]]
 			- [[2011-08-06-scabby-vs-the-arts|2011-08-06 scabby vs the arts]]
 			- [[2011-09-08-new-communications|2011-09-08 new communications]]
@@ -418,14 +417,14 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2011-12-29-fauxccupy|2011-12-29 fauxccupy]]
 			- [[2011-12-29-stylometry|2011-12-29 stylometry]]
 			- [[2011|2011]]
-		- **[[2012]]**
+		- **[[2012|2012]]**
 			- [[2012-03-10-potlatch-comparison|2012-03-10 potlatch comparison]]
 			- [[2012-03-19-zeppelin-over-london|2012-03-19 zeppelin over london]]
 			- [[2012-10-31-Hurricane-Sandy-and-art-criticism|2012-10-31 Hurricane Sandy and art criticism]]
 			- [[2012-11-04-media-leadership|2012-11-04 media leadership]]
 			- [[2012-12-27-printing-and-fabbing|2012-12-27 printing and fabbing]]
 			- [[2012|2012]]
-		- **[[2013]]**
+		- **[[2013|2013]]**
 			- [[2013-01-22-weev-before-and-after|2013-01-22 weev before and after]]
 			- [[2013-01-24-syllabus-boilerplate|2013-01-24 syllabus boilerplate]]
 			- [[2013-02-03-ed-koch-and-aids|2013-02-03 ed koch and aids]]
@@ -434,7 +433,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2013-03-29-strict-constructionism|2013-03-29 strict constructionism]]
 			- [[2013-04-03-late-capitalism|2013-04-03 late capitalism]]
 			- [[2013|2013]]
-		- **[[2016]]**
+		- **[[2016|2016]]**
 			- [[2016-03-31-more-than-four-years-more|2016-03-31 more than four years more]]
 			- [[2016-04-10-nyt-photo-of-ackman|2016-04-10 nyt photo of ackman]]
 			- [[2016-04-10-on-the-need-for-apocalypse|2016-04-10 on the need for apocalypse]]
@@ -572,7 +571,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2016-12-27-how-culture-wars-work|2016-12-27 how culture wars work]]
 			- [[2016-12-30-church-committee-on-snowden|2016-12-30 church committee on snowden]]
 			- [[2016|2016]]
-		- **[[2017]]**
+		- **[[2017|2017]]**
 			- [[2017-01-01-pigeon-droppings-and-semantics|2017-01-01 pigeon droppings and semantics]]
 			- [[2017-01-02-who-likes-what-i-say|2017-01-02 who likes what i say]]
 			- [[2017-01-04-architecture-critics-on-trump-tower|2017-01-04 architecture critics on trump tower]]
@@ -687,7 +686,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2017-12-20-what-the-us-left-needs|2017-12-20 what the us left needs]]
 			- [[2017-12-29-on-youtube-search|2017-12-29 on youtube search]]
 			- [[2017|2017]]
-		- **[[2018]]**
+		- **[[2018|2018]]**
 			- [[2018-01-01-USMCA-and-IP|2018-01-01 USMCA and IP]]
 			- [[2018-03-16-suspicion on too-much science-oriented-civilization|2018-03-16 suspicion on too much science oriented civilization]]
 			- [[2018-03-17-on-david-bowie-is|2018-03-17 on david bowie is]]
@@ -749,7 +748,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2018-11-10-metadata-vs-the-constitution|2018-11-10 metadata vs the constitution]]
 			- [[2018-11-15-dinner-in-brussels|2018-11-15 dinner in brussels]]
 			- [[2018|2018]]
-		- **[[2019]]**
+		- **[[2019|2019]]**
 			- [[2019-01-03-we-are-everywhere|2019-01-03 we are everywhere]]
 			- [[2019-01-17-jo-andres-rip|2019-01-17 jo andres rip]]
 			- [[2019-01-29-i-didnt-do-anything-wrong|2019-01-29 i didnt do anything wrong]]
@@ -867,7 +866,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2019-12-24-unclear-on-the-concept-of-history|2019-12-24 unclear on the concept of history]]
 			- [[2019-12-27-timeless-nonsense-about-art-school|2019-12-27 timeless nonsense about art school]]
 			- [[2019|2019]]
-		- **[[2020]]**
+		- **[[2020|2020]]**
 			- [[2020-01-02-absence-as-authenticity|2020-01-02 absence as authenticity]]
 			- [[2020-01-02-alt-empire-covers|2020-01-02 alt empire covers]]
 			- [[2020-01-02-young-geezers|2020-01-02 young geezers]]
@@ -1047,7 +1046,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2020-12-30-mdc|2020-12-30 mdc]]
 			- [[2020-0512-on-bidens-and-harriss-prospects|2020-05-12 on bidens and harriss prospects]]
 			- [[2020|2020]]
-		- **[[2021]]**
+		- **[[2021|2021]]**
 			- [[2021-01-06-stacey-abrams-hero|2021-01-06 stacey abrams hero]]
 			- [[2021-01-11-new-meme-format|2021-01-11 new meme format]]
 			- [[2021-01-12-anti-antifa|2021-01-12 anti antifa]]
@@ -1139,17 +1138,17 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2021-08-06-eery-and-eerily|2021-08-6 eery and eerily]]
 			- [[2021|2021]]
 			- [[202105-10-one-of-those-sentences|2021-05-10-one of those sentences]]
-		- **[[2022]]**
+		- **[[2022|2022]]**
 			- [[2022-09-11-scalar-model|2022-09-11 scalar model]]
 			- [[2022-09-23-french-theory-american-reception|2022-09-23 french theory american reception]]
 			- [[2022|2022]]
-		- **[[2023]]**
+		- **[[2023|2023]]**
 			- [[2023-03-11-nyts-five-stages-of-acceptance|2023-03-11 NYT’s five stages of acceptance]]
 			- [[2023-05-09-leave-no-author-behind|2023-05-09 leave no author behind]]
 			- [[2023-06-06-icloud-is-full|2023-06-06 icloud is full]]
 			- [[2023-08-29-manic-pixie-ai-critics|2023-08-29 manic pixie ai critics]]
 			- [[2023|2023]]
-		- **[[2024]]**
+		- **[[2024|2024]]**
 			- [[2024-08-10-on-ethics-and-robotics|2024-08-10 on ethics and robotics]]
 			- [[2024-08-18-so-many-new-moons|2024-08-18 so many new moons]]
 			- [[2024-08-19-third-parties-and-doing-good|2024-08-19 third parties and doing good]]
@@ -1189,6 +1188,27 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2024-11-24-crime-is-the-new-governance|2024-11-24 crime is the new governance]]
 			- [[2024|2024]]
 		- **FB_images**
+			- **newport_ads**
+				- [[newport-fountain.jpg]]
+				- [[newport-hockey-fountain.jpg]]
+				- [[newport-hose.jpg]]
+				- [[newport-pickup-melons.jpg]]
+				- [[newport-pumpkin.jpg]]
+				- [[newport-wineskin.jpg]]
+			- **streaming-cinema**
+				- [[streaming_alien.jpg]]
+				- [[streaming_bergman.jpg]]
+				- [[streaming_blade-runner.jpg]]
+				- [[streaming_clockwork.jpg]]
+				- [[streaming_fellini.jpg]]
+				- [[streaming_godard-2.jpg]]
+				- [[streaming_kubrick.jpg]]
+				- [[streaming_shoah.jpg]]
+				- [[streaming_tin-drum.jpg]]
+				- [[streaming-godard.jpg]]
+				- [[streaming-melies.jpg]]
+				- [[streaming-tarkovsky.jpg]]
+				- [[streaming-warriors.jpg]]
 			- [[17th-C-conceptual-art-reverse-of-a-framed-painting.jpg]]
 			- [[26-year-challenge.jpg]]
 			- [[51st-state.jpg]]
@@ -1362,13 +1382,6 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[nettime-nea.jpg]]
 			- [[new-directions-in-memery.jpg]]
 			- [[new-ubu.jpg]]
-			- **newport_ads**
-				- [[newport-fountain.jpg]]
-				- [[newport-hockey-fountain.jpg]]
-				- [[newport-hose.jpg]]
-				- [[newport-pickup-melons.jpg]]
-				- [[newport-pumpkin.jpg]]
-				- [[newport-wineskin.jpg]]
 			- [[nfts-anyone.jpeg]]
 			- [[nils-bohlin.jpg]]
 			- [[no-taz-4-u.jpg]]
@@ -1418,20 +1431,6 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[spider-web.jpg]]
 			- [[steinberg-city-73.jpg]]
 			- [[straubs-rain.jpg]]
-			- **streaming-cinema**
-				- [[streaming_alien.jpg]]
-				- [[streaming_bergman.jpg]]
-				- [[streaming_blade-runner.jpg]]
-				- [[streaming_clockwork.jpg]]
-				- [[streaming_fellini.jpg]]
-				- [[streaming_godard-2.jpg]]
-				- [[streaming_kubrick.jpg]]
-				- [[streaming_shoah.jpg]]
-				- [[streaming_tin-drum.jpg]]
-				- [[streaming-godard.jpg]]
-				- [[streaming-melies.jpg]]
-				- [[streaming-tarkovsky.jpg]]
-				- [[streaming-warriors.jpg]]
 			- [[tailgunner.jpg]]
 			- [[thanks-for-the-photoshop.jpg]]
 			- [[the-avalanches.jpg]]
@@ -1489,5 +1488,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[zuck.jpg]]
 			- [[zwardial.jpg]]
 		- [[social-media|social media]]
+	- [[old|old]]
+- [[blg|blg]]
 
 %% End Waypoint %%
