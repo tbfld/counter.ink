@@ -31,6 +31,7 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2026-01-19:*** [Scavenged Luxury](https://scavengedluxury.tumblr.com/) on Tumblr (🎩TM)
 ***2026-01-19:*** [same actress, same play for forty years](https://www.thetimes.com/us/news-today/article/perfect-crime-off-broadway-catherine-russell-w5wckfkkb)
 ***2026-01-19:*** [poetics of the periodic table](https://www.chemistryworld.com/features/the-art-of-the-periodic-table/3010202.article)
 ***
