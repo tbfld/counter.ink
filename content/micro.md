@@ -31,6 +31,8 @@ yaml_end: true
 
 > [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-11 – 2025-03-24)|3]], [[images (2025-03-03 – 2025-03-10)|2]], [[images (2025-02-23 – 2025-03-03)|1]]
 
+***2026-01-19:*** [poetics of the periodic table](https://www.chemistryworld.com/features/the-art-of-the-periodic-table/3010202.article)
+***
 ***2026-01-18:*** interview with the [graffiti artist Sluto](https://www.bombingscience.com/sluto-interview/)
 
 ***2026-01-18:*** David French on [the normative vs prerogative states](http://archive.today/GcR4e)
