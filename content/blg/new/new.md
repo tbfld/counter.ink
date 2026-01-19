@@ -25,6 +25,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-01-19-making-an-example-of-the-twin-cities|2026-01-19 making an example of the twin cities]]
+> not working out too well for Trump & Co
+
 > [!note]+ [[2026-01-16-lowering-the-bar-in-FL-etc|2026-01-16-lowering the bar in FL etc]]
 > FL SC says FU to ABA over JD EDU
 
