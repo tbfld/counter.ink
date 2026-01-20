@@ -1,0 +1,30 @@
+---
+yaml_begin: true
+enableToc: 
+permalink: 
+title: image stream
+description: a stream of pix that pique my interest
+extract: 
+created: 2025-08-13 10:15
+updated: 2025-08-13 10:15
+author: tb
+images: "true"
+tags:
+  - image
+  - media
+draft: "false"
+order: 
+aliases: 
+publish: "true"
+yaml_end: true
+---
+
+![[monet-recovering-from-cataract-surgery.jpg|wmed relative|center]]
+
+*See also:*
+
+- [[images (2025-02-23 – 2025-03-03)| image stream 1 (2025-02-23 – 2025-03-03)]]
+- [[images (2025-03-03 – 2025-03-10)| image stream 2 (2025-03-03 – 2025-03-10)]]
+-  [[images (2025-03-11 – 2025-03-24)| image stream 3 (2025-03-11 – 2025-03-24)]]
+- [[images (2025-03-24 – 2025-05-07)|image stream 4 (2025-03-24 – 2025-05-07)]]
+- [image stream 5 (2025-03-03 – 2025-03-10)](images (2025-03-03 – 2025-03-10)
