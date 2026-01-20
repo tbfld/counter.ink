@@ -23,17 +23,19 @@ status: published
 RSS: "false"
 yaml_end: true
 ---
-> [!tip]+ For nimbler things, see [[micro]]
-
-> [!error]+ Or if you’re more of a visual type, check out the image streams: [[images (2025-03-24 – 2025-05-07)|4]] ~ [[images (2025-03-11 – 2025-03-24)|3]] ~ [[images (2025-03-03 – 2025-03-10)|2]] ~ [[images (2025-02-23 – 2025-03-03)|1]] ~ [[images (2025-05-08 – 2025-08-12)|current]]
-
-> [!success] And there’s *35 years* of stuff here, so try searching for something you like
+> [!info]+ More...
+> 
+> For nimbler things, see [[micro]]
+> 
+> Or if you're more of a visual type, check out the image streams: [[images (2025-03-24 – 2025-05-07)|4]] ~ [[images (2025-03-11 – 2025-03-24)|3]] ~ [[images (2025-03-03 – 2025-03-10)|2]] ~ [[images (2025-02-23 – 2025-03-03)|1]] ~ [[images (2025-05-08 – 2025-08-12)|current]]
+> 
+> And there's *35 years* of stuff here, so try searching for something you like
 
 <!-- RECENT_POSTS_START -->
 
 
 > [!note]+ [[2026-01-20-viruses-are-people-too|2026-01-20 viruses are people too]]
-> history, humor, science, law — this one’s got it all
+> history, humor, science, law — this one's got it all
 
 > [!note]+ [[2026-01-19-making-an-example-of-the-twin-cities|2026-01-19 making an example of the twin cities]]
 > not working out too well for Trump & Co
@@ -54,7 +56,7 @@ yaml_end: true
 > analysis and metanalysis of TrumpRX etc
 
 > [!note]+ [[2025-10-07-no-more-acab-thanks|2025-10-07 no more acab thanks]]
-> “ACAB” was never a good idea, but now it’s a bad one
+> "ACAB" was never a good idea, but now it's a bad one
 
 > [!note]+ [[2025-09-21-where-do-you-draw-the-line|2025-09-21 where do you draw the line]]
 > a para on ethics
@@ -87,25 +89,25 @@ yaml_end: true
 > fake book reviews
 
 > [!note]+ [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
-> two madmen — liberal and left
+> two madmen — liberal and left
 
 > [!note]+ [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
-> An NYT “videtorial” (or whatever) on Yale scholars fleeing fascism seem kinda problematic
+> An NYT "videtorial" (or whatever) on Yale scholars fleeing fascism seem kinda problematic
 
 > [!note]+ [[2025-05-13-emem|2025-05-13 emem]]
 > rationalizing the orientation of a meme
 
 > [!note]+ [[2025-05-06-plutocratic-psychosis|2025 05 06 plutocratic psychosis]]
-> a short, ‘found’ essay on wealth-induced madness
+> a short, 'found' essay on wealth-induced madness
 
-> [!note]+ [[2025-05-05-worlds-third-greatest-footnote|2025 05 05 world’s third greatest footnote]]
+> [!note]+ [[2025-05-05-worlds-third-greatest-footnote|2025 05 05 world's third greatest footnote]]
 > exactly what it says
 
 > [!note]+ [[2025-04-08-fox-gender-theory|2025 04 08 fox gender theory]]
-> a dumping ground for Fox’s greatest gender theory hits
+> a dumping ground for Fox's greatest gender theory hits
 
-> [!note]+ [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can’t buy their way out of fascism]]
-> . . . and if they did it, a lot of other schools would go ballistic, particularly those that aren’t wealthy
+> [!note]+ [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can't buy their way out of fascism]]
+> . . . and if they did it, a lot of other schools would go ballistic, particularly those that aren't wealthy
 
 > [!note]+ [[2025-03-25-dod-says-signal-is-a-no-no|2025-0325 dod says signal is a no-no]]
 > this kind of signaling and maneuvering is how bureaucracies work
@@ -123,19 +125,19 @@ yaml_end: true
 > a plaster maquette for our times
 
 > [!note]+ [[2025-03-21-big-law-and-big-moralism|2025-03-21 big law and big moralism]]
-> a rant about the left’s descent into bombastic moralism
+> a rant about the left's descent into bombastic moralism
 
 > [!note]+ [[2025-03-21-super-bon-voyage-jonathan-sterne|2025-03-21 super bon voyage jonathan sterne]]
-> “You only get one chance to show your integrity — your entire life.” That was Jonathan.
+> "You only get one chance to show your integrity — your entire life." That was Jonathan.
 
 > [!warning]+ [[2025-02-25-how-nih-cuts-will-defund-edus|2025-02-25 how nih cuts will defund edus]]
-> I wrote this when the conventional wisdom held that NIH cuts’ impact would be limited to those fields. Yes, really — most academics really believed that. 
+> I wrote this when the conventional wisdom held that NIH cuts' impact would be limited to those fields. Yes, really — most academics really believed that. 
 
 > [!success]+ [[2016-07-08-edurant|BONUS CONTENT: 2016-07-08 edurant]]
-> An eight-year-old rant warning academics to organize — “because history will move much more quickly than your CV”
+> An eight-year-old rant warning academics to organize — "because history will move much more quickly than your CV"
 
 > [!note]+ [[2025-03-13-this-is-not-an-an-attack-on-science|2025-03-13 this is not an an attack on science]]
-> Scientists need to stop reflexively calling what Trump is doing is “an attack on science.” It *includes* that, yes, but it isn’t limited to it — not even close. 
+> Scientists need to stop reflexively calling what Trump is doing is "an attack on science." It *includes* that, yes, but it isn't limited to it — not even close. 
 
 > [!warning]+ [[2025-03-04-an-offer-edus-cant-refuse|2025-03-04 an offer edus cant refuse]]
 > My 🔮 about what Trump & Co. would do to CU were 🎯
@@ -147,7 +149,7 @@ yaml_end: true
 > What Germans should have done in the 1930s but for US citizens now
 
 > [!success]+ [[2020-07-08-distributed-criminality|BONUS CONTENT: 2020-07-08 distributed criminality]]
-> “Not a day goes by without Trump or one of his associates explicitly acknowledging that their polices will kill large numbers of people, and that they’re doing it for electoral advantage,”
+> "Not a day goes by without Trump or one of his associates explicitly acknowledging that their polices will kill large numbers of people, and that they're doing it for electoral advantage,"
 
 > [!note]+ [[2025-03-09-columbia–vs-feds-timeline|2025-03-09 columbia vs feds timeline]]
 > Exactly what it says on the label
@@ -178,25 +180,25 @@ yaml_end: true
 > [!note]+ [[2025-02-08-what-keeps-mankind-alive|2025 02 08 what keeps mankind alive]]
 > Good question! Bestial acts.
 
-> [!note]+ [[2025-02-06-ringling-bothers|2025 02 06 ringling bothers (no, that’s not a typo)]]
-> An exegesis of a detail in DeSantis’s proposed budget and a how it relates to “deconstructing the administrative state”
+> [!note]+ [[2025-02-06-ringling-bothers|2025 02 06 ringling bothers (no, that's not a typo)]]
+> An exegesis of a detail in DeSantis's proposed budget and a how it relates to "deconstructing the administrative state"
 
 > [!note]+ [[2025-02-05-the-prompt|25 02 05 the prompt]]
 > How to read an AI prompt
 
 > [!note]+ [[2025-02-02-the-liberal-denialist-complex|2025 02 02 the liberal denialist complex]]
-> How Gregory Bateson can help us to figure out who’s to blame for Trump’s election, and what that means for activism
+> How Gregory Bateson can help us to figure out who's to blame for Trump's election, and what that means for activism
 
 ### 2025-01
 
 > [!note]+ [[2025-01-30-but-never-a-thing-that-simply-is|2025 01 30 but never a thing that simply is]]
-> Whether “AI” is conscious really doesn’t matter
+> Whether "AI" is conscious really doesn't matter
 
 > [!note]+ [[2025-01-30-on-bsky-and-mastodon|2025 01 30 on bsky and mastodon]]
 > Some delicately contrarian thoughts on this stuff
 
 > [!note]+ [[2025-01-29-the reign-of-terror-heritage-style|2025 01 29 the reign of terror heritage style]]
-> The media hasn’t quite figured out how Trump is eviscerating the federal civil service, so let me help you out.
+> The media hasn't quite figured out how Trump is eviscerating the federal civil service, so let me help you out.
 
 > [!note]+ [[2025-01-24-outsider-art-and-sharing|2025 01 24 outsider art and sharing]]
 > An embroidered dress from the late 1940s, then and now
@@ -208,25 +210,25 @@ yaml_end: true
 > A short, deep dive into the culture of English translations of modern lit
 
 > [!note]+ [[2025-01-18-why-no-one-can-quite-capture-what-david-lynch-did|2025 01 18 why no one can quite capture what david lynch did]]
-> The Spanish writer Roy Galàn on Lynch’s work (and a meta-meme)
+> The Spanish writer Roy Galàn on Lynch's work (and a meta-meme)
 
 > [!note]+ [[2025-01-16-schrodingers-razor|2025 01 16 schrodingers razor]]
 > found meme
 
 > [!note]+ [[2025-01-15-hi-def-history|2025 01 15 hi-def history]]
-> A few thoughts about “AI”
+> A few thoughts about "AI"
 
 > [!note]+ [[2025-01-12-trump-and-greenland-a-timeline|2025 01 12 trump and greenland a timeline]]
-> You won’t find a more detailed or better-sourced chronology about this *anywhere*.
+> You won't find a more detailed or better-sourced chronology about this *anywhere*.
 
 > [!note]+ [[2025-01-11-thielology|2025 01 11 thielology]]
-> On Peter Thiel’s *Financial Times* opinion piece
+> On Peter Thiel's *Financial Times* opinion piece
 
 > [!note]+ [[2025-01-07-facebook-faces-the-factlessness|2025 01 07 facebook faces the factlessness]]
-> What’s Meta up to?
+> What's Meta up to?
 
 > [!note]+ [[2025-01-05-richard-foreman-rip|2025 01 05 richard foreman rip]]
-> “If you let the rhythm of his rocking enter you, he’ll remind you what it feels like to be ecstatic, what it is to be hysterical, what it means to circle the meaningless void that is the wellspring of all meaning.”
+> "If you let the rhythm of his rocking enter you, he'll remind you what it feels like to be ecstatic, what it is to be hysterical, what it means to circle the meaningless void that is the wellspring of all meaning."
 
 ##### *BONUS CONTENT!* 2018
 
@@ -237,7 +239,7 @@ yaml_end: true
 > Is Cinema really that much greater than iPad?
 
 > [!note]+ [[2025-01-03-free-art-and-technology|2025 01 03 free art and technology]]
-> The “cultural discount” is alive and well.
+> The "cultural discount" is alive and well.
 
 ## 2024
 
@@ -264,7 +266,7 @@ yaml_end: true
 > A multi-FOAF just named Marc Campbell [posted](https://www.facebook.com/marc.campbell/posts/pfbid0exH7ys6LSL9rbHN5nxe3rKSq2qyFit5BQDSBezji1AKzbgomuupGR1uHAtL58pfFl) some album covers designed for the Prestige label by the cartoonist Don Martin. 
 
 > [!note]+ [[2024-12-13-recorded-poetry-then-and-now|2024 12 13: recorded poetry then and now]]
-> Amanda Gorman, who shot to fame when she recited her poem “The Hill We Climb” for Biden’s inauguration in 2021, just dropped a new poem that riffs heavily on the movie *Wicked*, and *I think* it’s pretty amazing.
+> Amanda Gorman, who shot to fame when she recited her poem "The Hill We Climb" for Biden's inauguration in 2021, just dropped a new poem that riffs heavily on the movie *Wicked*, and *I think* it's pretty amazing.
 
 ##### *BONUS CONTENT!* 1988
 
@@ -272,36 +274,36 @@ yaml_end: true
 > A short note about working with SRL way back when, to be elaborated into something more interesting at some point soon.
 
 > [!note]+ [[2024-12-05-preemptive-pardons|2024 12 05: preemptive pardons]]
-> The WP is reporting that the White House is considering “preemptive pardons to figures who might face the hostility of the incoming Trump administration.” I’d have to think hard — _very_ hard — to imagine anything more emblematic of the Biden admin’s abject failure to grasp the threat Trump poses...
+> The WP is reporting that the White House is considering "preemptive pardons to figures who might face the hostility of the incoming Trump administration." I'd have to think hard — _very_ hard — to imagine anything more emblematic of the Biden admin's abject failure to grasp the threat Trump poses...
 
 > [!note]+ [[blg/new/2024-12-04-genocide-vs-ethnic-cleansing.md|2024 12 04: genocide vs ethnic cleansing]]
-> One underappreciated aspect of the news about Israel’s ex–MoD and IDF CoS Moshe Ya'alon is his use of ethnic cleansing rather than “genocide.” As we’ve...
+> One underappreciated aspect of the news about Israel's ex–MoD and IDF CoS Moshe Ya'alon is his use of ethnic cleansing rather than "genocide." As we've...
 
 > [!note]+ [[blg/new/2024-12-04-desantis-and-the-dod.md|2024 12 04: desantis and the dod]]
-> If the rumors about DeSantis for Sec Def turns out to be serious, the media flap will focus on his “anti-woke” noise and jokes about his white boots e...
+> If the rumors about DeSantis for Sec Def turns out to be serious, the media flap will focus on his "anti-woke" noise and jokes about his white boots e...
 
 ### 2024-11
 
 > [!note]+ [[blg/new/2024-11-27-escaping-criticism.md|2024 11 27: escaping criticism]]
-> (image) Pere Borrell del Caso, “Escaping Criticism” (1874).
+> (image) Pere Borrell del Caso, "Escaping Criticism" (1874).
 
 > [!note]+ [[blg/new/2024-11-27-just-say-no-to-santayana.md|2024 11 27: just say no to santayana]]
-> My new year’s resolution for 2025 will be to consign George Santayana to the same dustbin as Godwin’s “Law” and “future historians.” Ritually reciting...
+> My new year's resolution for 2025 will be to consign George Santayana to the same dustbin as Godwin's "Law" and "future historians." Ritually reciting...
 
 > [!note]+ [[blg/new/2024-11-27-all-creatures-terrible-and-fabulous.md|2024 11 27: all creatures terrible and fabulous]]
 > (image) Photo: Irish Centre for Poetry Studies.[^1]
 
 > [!note]+ [[blg/new/2024-11-26-second-greatest-footnote-ever.md|2024 11 26: second greatest footnote ever]]
-> (image) Footnote 2, from Gregory Bateson, “The Growth of Paradigms for Psychiatry” (ca. 1976), orig. “Epilogue: The Growth of Paradigms for Psychiatry,” in P....
+> (image) Footnote 2, from Gregory Bateson, "The Growth of Paradigms for Psychiatry" (ca. 1976), orig. "Epilogue: The Growth of Paradigms for Psychiatry," in P....
 
 > [!note]+ [[blg/old/social-media/2024/2024-11-24-crime-is-the-new-governance.md|2024 11 24: crime is the new governance]]
-> Not sure I’ve seen anyone say it so bluntly, but it’s becoming clearer that criminality is the new governance. I can think of several reasons that’d h...
+> Not sure I've seen anyone say it so bluntly, but it's becoming clearer that criminality is the new governance. I can think of several reasons that'd h...
 
 > [!note]+ [[blg/old/social-media/2024/2024-08-10-on-ethics-and-robotics.md|2024 08 10: on ethics and robotics]]
-> (image) FB has decided this is one of those images I need to see again and again and again, via various “unsolicited pix” groups that claim to be about this o...
+> (image) FB has decided this is one of those images I need to see again and again and again, via various "unsolicited pix" groups that claim to be about this o...
 
 > [!note]+ [[blg/old/social-media/2024/2024-08-18-so-many-new-moons.md|2024 08 18: so many new moons]]
-> Apparently there’s a whole series of big moons coming up, and I saw my first claim that so-and-so Native American tribe called this a “\[such-and-such...
+> Apparently there's a whole series of big moons coming up, and I saw my first claim that so-and-so Native American tribe called this a "\[such-and-such...
 
 > [!note]+ [[blg/old/social-media/2024/2024-08-19-third-parties-and-doing-good.md|2024 08 19: third parties and doing good]]
 > (image) This sounds like a soundbite, i.e., a short statement extracted from a larger context, but 18YO \[i.e., my eighteen-year-old daughter] has tuned me on...
