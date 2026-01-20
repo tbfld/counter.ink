@@ -25,6 +25,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-01-20-viruses-are-people-too|2026-01-20 viruses are people too]]
+> history, humor, science, law — this one’s got it all
+
 > [!note]+ [[2026-01-19-making-an-example-of-the-twin-cities|2026-01-19 making an example of the twin cities]]
 > not working out too well for Trump & Co
 

@@ -199,6 +199,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-01-08-Trump-and-residential-rackets|2026-01-08 Trump and residential rackets]]
 	- [[2026-01-16-lowering-the-bar-in-FL-etc|2026-01-16-lowering the bar in FL etc]]
 	- [[2026-01-19-making-an-example-of-the-twin-cities|2026 01 19]]
+	- [[2026-01-20-viruses-are-people-too|2026-01-20 viruses are people too]]
 	- [[new|new]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**
