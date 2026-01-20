@@ -4,6 +4,6 @@ quartz/package-lock.json
 quartz/package.json
 .obsidian/
 node_modules/
+.quartz-cache/
 quartz/.quartz-cache/
 quartz/node_modules/
-
