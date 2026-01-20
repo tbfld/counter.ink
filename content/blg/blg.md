@@ -172,17 +172,17 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-03-24-i-claudius]]
 	- [[2025-03-25-dod-says-signal-is-a-no-no]]
 	- [[2025-03-25-trump-and-nuclear-codes-round-2]]
-	- [[2025-03-25-vice-signaling]]
-	- [[2025-04-01-doge-and-the-wages-of-sin]]
-	- [[2025-04-01-edus-cant-buy-their-way-out-of-fascism]]
-	- [[2025-04-08-fox-gender-theory]]
-	- [[2025-05-05-worlds-third-greatest-footnote]]
-	- [[2025-05-06-plutocratic-psychosis]]
-	- [[2025-05-13-emem]]
-	- [[2025-05-14-on-yale-and-fascism]]
-	- [[2025-05-18-cervantes-owns-the-libs]]
+	- [[2025-03-25-vice-signaling|2025-03-25 vice signaling]]
+	- [[2025-04-01-doge-and-the-wages-of-sin|2025-04-01 DOGE and the wages of sin]]
+	- [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can’t buy their way out of fascism]]
+	- [[2025-04-08-fox-gender-theory|2025-04-08 fox gender theory]]
+	- [[2025-05-05-worlds-third-greatest-footnote|2025-05-05 world’s third greatest footnote]]
+	- [[2025-05-06-plutocratic-psychosis|2025-05-06 plutocratic psychosis]]
+	- [[2025-05-13-emem|2025-05-13-emem]]
+	- [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
+	- [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
 	- [[2025-05-20-a-modest-book-proposal|2025-05-20 a modest book proposal]]
-	- [[2025-05-22-the-silence-of-the-lames]]
+	- [[2025-05-22-the-silence-of-the-lames|2025-05-22 the silence of the lames]]
 	- [[2025-05-23-genocide-genocides-and-trump|2025-05-23 genocide, genocides, and Trump]]
 	- [[2025-05-27-a-bleak-prospect|2025-05-27 a bleak prospect]]
 	- [[2025-05-27-biden-and-student-debt|2025-05-27 biden and student debt]]
@@ -200,7 +200,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-01-19-making-an-example-of-the-twin-cities|2026 01 19]]
 	- [[2026-01-20-viruses-are-people-too|2026-01-20 viruses are people too]]
 	- [[new|new]]
-- **[[old|old]]**
+- **[[old]]**
 	- **[[nettime|nettime]]**
 		- **[[1995|1995]]**
 			- [[1995-12-27-art-r-us|1995-12-27 art r us]]
@@ -1488,7 +1488,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[zuck.jpg]]
 			- [[zwardial.jpg]]
 		- [[social-media|social media]]
-	- [[old|old]]
-- [[blg]]
+	- [[old]]
+- [[blg|blg]]
 
 %% End Waypoint %%

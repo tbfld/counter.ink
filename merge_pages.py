@@ -62,15 +62,15 @@ def extract_recent_entries(content):
     return entries
 
 def main():
-    # Read files
-    micro_path = Path('content/micro.md')
+    # Read files - use current recent.md since it has all the content
+    # We'll just re-read it and add headers
     recent_path = Path('content/recent.md')
-    
-    with open(micro_path, 'r') as f:
-        micro_content = f.read()
     
     with open(recent_path, 'r') as f:
         recent_content = f.read()
+    
+    # Extract both micro and recent entries from the current merged file
+    micro_content = recent_content  # Both types are now in recent.md
     
     # Extract header from recent.md (up to More... box)
     header_end = recent_content.find('<!-- RECENT_POSTS_START -->')
@@ -82,20 +82,44 @@ def main():
     micro_entries = extract_micro_entries(micro_content)
     recent_entries = extract_recent_entries(recent_content)
     
-    # Combine and sort by date (newest first)
-    all_entries = micro_entries + recent_entries
+    # Combine and deduplicate by content
+    seen_content = set()
+    all_entries = []
+    for entry in micro_entries + recent_entries:
+        # Use first 100 chars as key for deduplication
+        content_key = entry['content'][:100]
+        if content_key not in seen_content:
+            seen_content.add(content_key)
+            all_entries.append(entry)
+    
+    # Sort by date (newest first)
     all_entries.sort(key=lambda x: x['date'], reverse=True)
     
     # Build merged content
     merged = [header, '', '<!-- RECENT_POSTS_START -->', '', '']
     
-    current_date = None
+    current_month = None
+    current_year = None
+    
     for entry in all_entries:
-        # Add separator between dates if needed
-        entry_date = entry['date'].strftime('%Y-%m-%d')
-        if current_date and current_date != entry_date:
-            merged.append('***')
-        current_date = entry_date
+        entry_date = entry['date']
+        entry_month = entry_date.strftime('%Y-%m')
+        entry_year = entry_date.strftime('%Y')
+        
+        # Add year header if year changes
+        if current_year != entry_year:
+            if current_year is not None:
+                merged.append('')
+            merged.append(f'## {entry_year}')
+            merged.append('')
+            current_year = entry_year
+            current_month = None  # Reset month when year changes
+        
+        # Add month header if month changes
+        if current_month != entry_month:
+            merged.append(f'### {entry_month}')
+            merged.append('')
+            current_month = entry_month
         
         merged.append(entry['content'])
         merged.append('')
