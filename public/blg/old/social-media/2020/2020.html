@@ -1,0 +1,1309 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>2020</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&amp;family=Lora:ital,wght@0,400;0,600;1,400;1,600&amp;family=Inconsolata:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="generator" content="Quartz"/><link href="../../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL1VzZXJzL3RieWZpZWxkL2dpdGh1Yi9jb3VudGVyLmluay9xdWFydHovY29tcG9uZW50cy9zdHlsZXMiLCJzb3VyY2VzIjpbIm1lcm1haWQuaW5saW5lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUdGO0VBQ0U7OztBQUtGO0VBQ0U7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcGFkZGluZzogMnJlbTtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDAgMDtcbiAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjFzIGVhc2U7XG4gICAgICBvdmVyZmxvdzogdmlzaWJsZTtcbiAgICAgIG1pbi1oZWlnaHQ6IDIwMHB4O1xuICAgICAgbWluLXdpZHRoOiAyMDBweDtcblxuICAgICAgcHJlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBib3JkZXI6IG5vbmU7XG4gICAgICB9XG5cbiAgICAgIHN2ZyB7XG4gICAgICAgIG1heC13aWR0aDogbm9uZTtcbiAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgfVxuICAgIH1cblxuICAgICYgPiAubWVybWFpZC1jb250cm9scyB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBib3R0b206IDIwcHg7XG4gICAgICByaWdodDogMjBweDtcbiAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICBnYXA6IDhweDtcbiAgICAgIHBhZGRpbmc6IDhweDtcbiAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICBib3JkZXItcmFkaXVzOiA2cHg7XG4gICAgICBib3gtc2hhZG93OiAwIDJweCA0cHggcmdiYSgwLCAwLCAwLCAwLjEpO1xuICAgICAgei1pbmRleDogMjtcblxuICAgICAgLm1lcm1haWQtY29udHJvbC1idXR0b24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgd2lkdGg6IDMycHg7XG4gICAgICAgIGhlaWdodDogMzJweDtcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgICBjb2xvcjogdmFyKC0tZGFyayk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICBmb250LXNpemU6IDE2cHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1ib2R5Rm9udCk7XG4gICAgICAgIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2U7XG5cbiAgICAgICAgJjpob3ZlciB7XG4gICAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgfVxuXG4gICAgICAgICY6YWN0aXZlIHtcbiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTtcbiAgICAgICAgfVxuXG4gICAgICAgIC8vIFN0eWxlIHRoZSByZXNldCBidXR0b24gZGlmZmVyZW50bHlcbiAgICAgICAgJjpudGgtY2hpbGQoMikge1xuICAgICAgICAgIHdpZHRoOiBhdXRvO1xuICAgICAgICAgIHBhZGRpbmc6IDAgMTJweDtcbiAgICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cbiJdfQ== */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../../../static/contentIndex.json").then(data => data.json())</script><script defer data-domain="counter.ink" src="https://plausible.io/js/script.file-downloads.hash.outbound-links.js"></script><script>window.plausible = window.plausible || function() { 
+            (window.plausible.q = window.plausible.q || []).push(arguments) 
+          }</script></head><body data-slug="blg/old/social-media/2020/2020"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../../../..">ted byfield</a></h2><div class="spacer mobile-only"></div><div class="search"><button class="search-button"><p>Search</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>{console.log(`Sorting item: ${a.name} (${a.isFolder?\&quot;Folder\&quot;:\&quot;File\&quot;}) vs ${b.name} (${b.isFolder?\&quot;Folder\&quot;:\&quot;File\&quot;})`);let nameOrderMap={about:1,recent_notes:2,microblog:3,blg:4,txt:5,obj:6},datePattern=/^(19|20)\\d{2}(-\\d{2})?(-\\d{2})?/;if(!a?.name||!b?.name)return 0;let orderA=nameOrderMap[a.name]||1e3,orderB=nameOrderMap[b.name]||1e3;if(orderA!==1e3&amp;&amp;orderB!==1e3)return console.log(`Sorting top-level: ${a.name} (${orderA}) vs ${b.name} (${orderB})`),orderA-orderB;let isYearA=datePattern.test(a.name),isYearB=datePattern.test(b.name);return isYearA&amp;&amp;isYearB?(console.log(`Sorting year folders: ${b.name} vs ${a.name}`),b.name.localeCompare(a.name)):a.isFolder&amp;&amp;!b.isFolder?-1:!a.isFolder&amp;&amp;b.isFolder?1:a.name.localeCompare(b.name)}&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-1273"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-1273" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../blg/">blg</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../blg/old/">old</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../blg/old/social-media/">social media</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../blg/old/social-media/2020/">2020</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>2020</a></div></nav><h1 class="article-title">2020</h1><p show-comma="true" class="content-meta"><time datetime="2024-11-19T17:26:00.000Z">Nov 19, 2024</time><span>4 min read</span></p><ul class="tags"><li><a href="../../../../tags/" class="internal tag-link">index</a></li></ul></div></div><article class="popover-hint"><blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-02 <a href="../../../../blg/old/social-media/2020/2020-01-02-absence-as-authenticity" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-02-absence-as-authenticity">absence as authenticity</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-02 <a href="../../../../blg/old/social-media/2020/2020-01-02-alt-empire-covers" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-02-alt-empire-covers">alt empire covers</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-02 <a href="../../../../blg/old/social-media/2020/2020-01-02-young-geezers" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-02-young-geezers">young geezers</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-06 <a href="../../../../blg/old/social-media/2020/2020-01-06-inherent-vice" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-06-inherent-vice">inherent vice</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-08 <a href="../../../../blg/old/social-media/2020/2020-01-08-liberal-hegemon" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-08-liberal-hegemon">liberal hegemon</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-09 <a href="../../../../blg/old/social-media/2020/2020-01-09-ios-and-intersectionality" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-09-ios-and-intersectionality">ios and intersectionality</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-11 <a href="../../../../blg/old/social-media/2020/2020-01-11-my-new-bud" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-11-my-new-bud">my new bud</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-11 <a href="../../../../blg/old/social-media/2020/2020-01-11-on-student-debt" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-11-on-student-debt">on student debt</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-11 <a href="../../../../blg/old/social-media/2020/2020-01-11-thieving-scholars" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-11-thieving-scholars">thieving scholars</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-12 <a href="../../../../blg/old/social-media/2020/2020-01-12-nyt-discovers-there-isnt-one-history" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-12-nyt-discovers-there-isnt-one-history">nyt discovers there isnt one history</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-17 <a href="../../../../blg/old/social-media/2020/2020-01-17-on-stud-finders-and-moral-compases" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-17-on-stud-finders-and-moral-compases">on stud finders and moral compases</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-22 <a href="../../../../blg/old/social-media/2020/2020-01-22-both-sides-now" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-22-both-sides-now">both sides now</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-22 <a href="../../../../blg/old/social-media/2020/2020-01-22-everything-that-trends-must-converge" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-22-everything-that-trends-must-converge">everything that trends must converge</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-23 <a href="../../../../blg/old/social-media/2020/2020-01-23-midsommar" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-23-midsommar">midsommar</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-27 <a href="../../../../blg/old/social-media/2020/2020-01-27-centrist-rally" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-27-centrist-rally">centrist rally</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-01-27 <a href="../../../../blg/old/social-media/2020/2020-01-27-on-emptywheel" class="internal alias" data-slug="blg/old/social-media/2020/2020-01-27-on-emptywheel">on emptywheel</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-02 <a href="../../../../blg/old/social-media/2020/2020-02-02-artificial-traffic-jams" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-02-artificial-traffic-jams">artificial traffic jams</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-04 <a href="../../../../blg/old/social-media/2020/2020-02-04-parent-typology" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-04-parent-typology">parent typology</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-06 <a href="../../../../blg/old/social-media/2020/2020-02-06-buttigiegs-thesis" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-06-buttigiegs-thesis">buttigiegs thesis</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-06 <a href="../../../../blg/old/social-media/2020/2020-02-06-how-to-talk-about-pete-buttigieg" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-06-how-to-talk-about-pete-buttigieg">how to talk about pete buttigieg</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-09 <a href="../../../../blg/old/social-media/2020/2020-02-09-flashback" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-09-flashback">flashback</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-17 <a href="../../../../blg/old/social-media/2020/2020-02-17-scopic-regimes" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-17-scopic-regimes">scopic regimes</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-18 <a href="../../../../blg/old/social-media/2020/2020-02-18-recent-intellectual-history-in-a-meme" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-18-recent-intellectual-history-in-a-meme">recent intellectual history in a meme</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-19 <a href="../../../../blg/old/social-media/2020/2020-02-19-saturn-would-float" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-19-saturn-would-float">saturn would float</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-20 <a href="../../../../blg/old/social-media/2020/2020-02-20-globies" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-20-globies">globies</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-22 <a href="../../../../blg/old/social-media/2020/2020-02-22-cruel-technologies" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-22-cruel-technologies">cruel technologies</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-25 <a href="../../../../blg/old/social-media/2020/2020-02-25-blessed-are-the-drowsy" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-25-blessed-are-the-drowsy">blessed are the drowsy</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-25 <a href="../../../../blg/old/social-media/2020/2020-02-25-the-weight-of-black-history" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-25-the-weight-of-black-history">the weight of black history</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-02-29 <a href="../../../../blg/old/social-media/2020/2020-02-29-on-the-vu" class="internal alias" data-slug="blg/old/social-media/2020/2020-02-29-on-the-vu">on the vu</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-04 <a href="../../../../blg/old/social-media/2020/2020-03-04-jim-tyre-rip" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-04-jim-tyre-rip">jim tyre rip</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-04 <a href="../../../../blg/old/social-media/2020/2020-03-04-out-damned-virus" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-04-out-damned-virus">out damned virus</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-09 <a href="../../../../blg/old/social-media/2020/2020-03-09-edus-and-covid" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-09-edus-and-covid">edus and covid</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-09 <a href="../../../../blg/old/social-media/2020/2020-03-09-the-price-of-purell" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-09-the-price-of-purell">the price of purell</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-12 <a href="../../../../blg/old/social-media/2020/2020-03-12-libs" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-12-libs">libs</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-13 <a href="../../../../blg/old/social-media/2020/2020-03-13-hobby-lobby-vintage-not-antique" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-13-hobby-lobby-vintage-not-antique">hobby lobby vintage not antique</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-18 <a href="../../../../blg/old/social-media/2020/2020-03-18-the-mobile-center" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-18-the-mobile-center">the mobile center</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-19 <a href="../../../../blg/old/social-media/2020/2020-03-19-curve-flattening" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-19-curve-flattening">curve flattening</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-22 <a href="../../../../blg/old/social-media/2020/2020-03-22-king-emdash" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-22-king-emdash">king emdash</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-24 <a href="../../../../blg/old/social-media/2020/2020-03-24-on-ubi" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-24-on-ubi">on ubi</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-25 <a href="../../../../blg/old/social-media/2020/2020-03-25-covid-classics" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-25-covid-classics">covid classics</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-26 <a href="../../../../blg/old/social-media/2020/2020-03-26-nyt-dataviz" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-26-nyt-dataviz">nyt dataviz</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-29 <a href="../../../../blg/old/social-media/2020/2020-03-29-my-dog-the-movie-star" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-29-my-dog-the-movie-star">my dog the movie star</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-30 <a href="../../../../blg/old/social-media/2020/2020-03-30-the-literal-end-of-critical-theory" class="internal alias" data-slug="blg/old/social-media/2020/2020-03-30-the-literal-end-of-critical-theory">the literal end of critical theory</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-01 <a href="../../../../blg/old/social-media/2020/2020-04-01-covid-and-magic-numbers" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-01-covid-and-magic-numbers">covid and magic numbers</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-01 <a href="../../../../blg/old/social-media/2020/2020-04-01-zlast-zupper" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-01-zlast-zupper">zlast zupper</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-02 <a href="../../../../blg/old/social-media/2020/2020-04-02-zwardial" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-02-zwardial">zwardial</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-03 <a href="../../../../blg/old/social-media/2020/2020-04-03-federal-haircut-typology" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-03-federal-haircut-typology">federal haircut typology</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-04 <a href="../../../../blg/old/social-media/2020/2020-04-04-on-planting-trees" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-04-on-planting-trees">on planting trees</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-06 <a href="../../../../blg/old/social-media/2020/2020-04-06-facebooks-fake-vpn" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-06-facebooks-fake-vpn">facebooks fake vpn</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-08 <a href="../../../../blg/old/social-media/2020/2020-04-08-we-can-do-better-than-herd-immunity" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-08-we-can-do-better-than-herd-immunity">we can do better than herd immunity</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-10 <a href="../../../../blg/old/social-media/2020/2020-04-10-on-opening" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-10-on-opening">on opening</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-10 <a href="../../../../blg/old/social-media/2020/2020-04-10-salads" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-10-salads">salads</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-11 <a href="../../../../blg/old/social-media/2020/2020-04-11-humanizing-healthcare" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-11-humanizing-healthcare">humanizing healthcare</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-12 <a href="../../../../blg/old/social-media/2020/2020-04-12-on-stigmatization" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-12-on-stigmatization">on stigmatization</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-13 <a href="../../../../blg/old/social-media/2020/2020-04-13-eugenics-by-another-name" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-13-eugenics-by-another-name">eugenics by another name</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-15 <a href="../../../../blg/old/social-media/2020/2020-04-15-covid-predictions" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-15-covid-predictions">covid predictions</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-16 <a href="../../../../blg/old/social-media/2020/2020-04-16-on-doing-shots-on-tv" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-16-on-doing-shots-on-tv">on doing shots on tv</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-19 <a href="../../../../blg/old/social-media/2020/2020-04-19-and-our-policy-is" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-19-and-our-policy-is">and our policy is</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-21 <a href="../../../../blg/old/social-media/2020/2020-04-21-like-a-ghost-in-the-sunlight" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-21-like-a-ghost-in-the-sunlight">like a ghost in the sunlight</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-27 <a href="../../../../blg/old/social-media/2020/2020-04-27-cosplaying-typhoid-mary" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-27-cosplaying-typhoid-mary">cosplaying typhoid mary</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-29 <a href="../../../../blg/old/social-media/2020/2020-04-29-chamber-of-commerce-and-economic-leftists" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-29-chamber-of-commerce-and-economic-leftists">chamber of commerce and economic leftists</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-29 <a href="../../../../blg/old/social-media/2020/2020-04-29-crazy-covid-viz" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-29-crazy-covid-viz">crazy covid viz</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-04-30 <a href="../../../../blg/old/social-media/2020/2020-04-30-viral-aesthetics" class="internal alias" data-slug="blg/old/social-media/2020/2020-04-30-viral-aesthetics">viral aesthetics</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-05-02 <a href="../../../../blg/old/social-media/2020/2020-05-02-multigenerational-households" class="internal alias" data-slug="blg/old/social-media/2020/2020-05-02-multigenerational-households">multigenerational households</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-05-04 <a href="../../../../blg/old/social-media/2020/2020-05-04-a-libertarian-is-a-socialist-who-hasnt-been-infected-yet" class="internal alias" data-slug="blg/old/social-media/2020/2020-05-04-a-libertarian-is-a-socialist-who-hasnt-been-infected-yet">a libertarian is a socialist who hasnt been infected yet</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-05-04 <a href="../../../../blg/old/social-media/2020/2020-05-04-covid-and-the-disunited-states" class="internal alias" data-slug="blg/old/social-media/2020/2020-05-04-covid-and-the-disunited-states">covid and the disunited states</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-05-14 <a href="../../../../blg/old/social-media/2020/2020-05-14-grades-above-all" class="internal alias" data-slug="blg/old/social-media/2020/2020-05-14-grades-above-all">grades above all</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-05-24 <a href="../../../../blg/old/social-media/2020/2020-05-24-models-of-community" class="internal alias" data-slug="blg/old/social-media/2020/2020-05-24-models-of-community">models of community</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-05-27 <a href="../../../../blg/old/social-media/2020/2020-05-27-covid-and-aids" class="internal alias" data-slug="blg/old/social-media/2020/2020-05-27-covid-and-aids">covid and aids</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-05-27 <a href="../../../../blg/old/social-media/2020/2020-05-27-covid-and-rents" class="internal alias" data-slug="blg/old/social-media/2020/2020-05-27-covid-and-rents">covid and rents</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-05-31 <a href="../../../../blg/old/social-media/2020/2020-05-31-51st-state" class="internal alias" data-slug="blg/old/social-media/2020/2020-05-31-51st-state">51st state</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-05-31 <a href="../../../../blg/old/social-media/2020/2020-05-31-sample-graffiti" class="internal alias" data-slug="blg/old/social-media/2020/2020-05-31-sample-graffiti">sample graffiti</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-01 <a href="../../../../blg/old/social-media/2020/2020-06-01-artifacts-and-data" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-01-artifacts-and-data">artifacts and data</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-06 <a href="../../../../blg/old/social-media/2020/2020-06-06-rhetoric-and-expertise" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-06-rhetoric-and-expertise">rhetoric and expertise</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-07 <a href="../../../../blg/old/social-media/2020/2020-06-07-no-tv" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-07-no-tv">no tv</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-15 <a href="../../../../blg/old/social-media/2020/2020-06-15-donut-strike" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-15-donut-strike">donut strike</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-17 <a href="../../../../blg/old/social-media/2020/2020-06-17-getty-images" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-17-getty-images">getty images</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-19 <a href="../../../../blg/old/social-media/2020/2020-06-19-gem-spa" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-19-gem-spa">gem spa</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-20 <a href="../../../../blg/old/social-media/2020/2020-06-20-seven-levels-of-negation" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-20-seven-levels-of-negation">seven levels of negation</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-21 <a href="../../../../blg/old/social-media/2020/2020-06-21-tuftsplaining" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-21-tuftsplaining">tuftsplaining</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-23 <a href="../../../../blg/old/social-media/2020/2020-06-23-no-taz-for-you" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-23-no-taz-for-you">no taz for you</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-26 <a href="../../../../blg/old/social-media/2020/2020-06-26-fairway-closing" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-26-fairway-closing">fairway closing</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-28 <a href="../../../../blg/old/social-media/2020/2020-06-28-revenue-driven-health-policy" class="internal alias" data-slug="blg/old/social-media/2020/2020-06-28-revenue-driven-health-policy">revenue driven health policy</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-03 <a href="../../../../blg/old/social-media/2020/2020-07-03-state-data" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-03-state-data">state data</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-04 <a href="../../../../blg/old/social-media/2020/2020-07-04-peace-talks-with-police" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-04-peace-talks-with-police">peace talks with police</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-05 <a href="../../../../blg/old/social-media/2020/2020-07-05-angriest-dog-in-the-world" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-05-angriest-dog-in-the-world">angriest dog in the world</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-06 <a href="../../../../blg/old/social-media/2020/2020-07-06-disregard-for-younger-lives" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-06-disregard-for-younger-lives">disregard for younger lives</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-07 <a href="../../../../blg/old/social-media/2020/2020-07-07-incels-and-think-tanks" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-07-incels-and-think-tanks">incels and think tanks</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-07 <a href="../../../../blg/old/social-media/2020/2020-07-07-passive-faculties" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-07-passive-faculties">passive faculties</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-08 <a href="../../../../blg/old/social-media/2020/2020-07-08-distributed-criminality" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-08-distributed-criminality">distributed criminality</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-08 <a href="../../../../blg/old/social-media/2020/2020-07-08-good-and-bad-speech" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-08-good-and-bad-speech">good and bad speech</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-09 <a href="../../../../blg/old/social-media/2020/2020-07-09-what-data-cant-predict" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-09-what-data-cant-predict">what data cant predict</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-11 <a href="../../../../blg/old/social-media/2020/2020-07-11-facebook-ad" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-11-facebook-ad">facebook ad</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-12 <a href="../../../../blg/old/social-media/2020/2020-07-12-tree-of-liberty" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-12-tree-of-liberty">tree of liberty</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-13 <a href="../../../../blg/old/social-media/2020/2020-07-13-self-absorption-of-the-intellectual-elite" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-13-self-absorption-of-the-intellectual-elite">self absorption of the intellectual elite</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-14 <a href="../../../../blg/old/social-media/2020/2020-07-14-international-students" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-14-international-students">international students</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-15 <a href="../../../../blg/old/social-media/2020/2020-07-15-adapting-kremlinology" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-15-adapting-kremlinology">adapting kremlinology</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-15 <a href="../../../../blg/old/social-media/2020/2020-07-15-no-more-negation" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-15-no-more-negation">no more negation</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-16 <a href="../../../../blg/old/social-media/2020/2020-07-16-endless-loop-of-hypocrisy" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-16-endless-loop-of-hypocrisy">endless loop of hypocrisy</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-17 <a href="../../../../blg/old/social-media/2020/2020-07-17-on-teachers-unions" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-17-on-teachers-unions">on teachers unions</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-18 <a href="../../../../blg/old/social-media/2020/2020-07-18-on-the-carnivalesque-and-its-abuses" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-18-on-the-carnivalesque-and-its-abuses">on the carnivalesque and its abuses</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-18 <a href="../../../../blg/old/social-media/2020/2020-07-18-unserious-journalism" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-18-unserious-journalism">unserious journalism</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-19 <a href="../../../../blg/old/social-media/2020/2020-07-19-design-ethics" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-19-design-ethics">design ethics</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-19 <a href="../../../../blg/old/social-media/2020/2020-07-19-i-have-to-see" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-19-i-have-to-see">i have to see</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-19 <a href="../../../../blg/old/social-media/2020/2020-07-19-karen-as-kategory" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-19-karen-as-kategory">karen as kategory</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-20 <a href="../../../../blg/old/social-media/2020/2020-07-20-on-epistemic-bubbles" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-20-on-epistemic-bubbles">on epistemic bubbles</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-20 <a href="../../../../blg/old/social-media/2020/2020-07-20-on-southern-crackers" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-20-on-southern-crackers">on southern crackers</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-22 <a href="../../../../blg/old/social-media/2020/2020-07-22-premature-antifascists" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-22-premature-antifascists">premature antifascists</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-22 <a href="../../../../blg/old/social-media/2020/2020-07-22-what-wont-you-stand-for" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-22-what-wont-you-stand-for">what wont you stand for</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-23 <a href="../../../../blg/old/social-media/2020/2020-07-23-covid-and-architecture" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-23-covid-and-architecture">covid and architecture</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-24 <a href="../../../../blg/old/social-media/2020/2020-07-24-big-boxes-and-masks" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-24-big-boxes-and-masks">big boxes and masks</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-24 <a href="../../../../blg/old/social-media/2020/2020-07-24-faculty-need-to-organize" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-24-faculty-need-to-organize">faculty need to organize</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-25 <a href="../../../../blg/old/social-media/2020/2020-07-25-outrage-cycles" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-25-outrage-cycles">outrage cycles</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-25 <a href="../../../../blg/old/social-media/2020/2020-07-25-text-spamming-and-trump" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-25-text-spamming-and-trump">text spamming and trump</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-25 <a href="../../../../blg/old/social-media/2020/2020-07-25-the-solution-to-outrage-is-more-outrage" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-25-the-solution-to-outrage-is-more-outrage">the solution to outrage is more outrage</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-07-31 <a href="../../../../blg/old/social-media/2020/2020-07-31-comma-of-course-comma" class="internal alias" data-slug="blg/old/social-media/2020/2020-07-31-comma-of-course-comma">comma of course comma</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-08-01 <a href="../../../../blg/old/social-media/2020/2020-08-01-constitutional-phun" class="internal alias" data-slug="blg/old/social-media/2020/2020-08-01-constitutional-phun">constitutional phun</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-08-01 <a href="../../../../blg/old/social-media/2020/2020-08-01-open-universities" class="internal alias" data-slug="blg/old/social-media/2020/2020-08-01-open-universities">open universities</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-08-05 <a href="../../../../blg/old/social-media/2020/2020-08-05-waiving-accreditation-and-covid" class="internal alias" data-slug="blg/old/social-media/2020/2020-08-05-waiving-accreditation-and-covid">waiving accreditation and covid</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-08-06 <a href="../../../../blg/old/social-media/2020/2020-08-06-on-the-beirut-explosion" class="internal alias" data-slug="blg/old/social-media/2020/2020-08-06-on-the-beirut-explosion">on the beirut explosion</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-08-07 <a href="../../../../blg/old/social-media/2020/2020-08-07-student-advising" class="internal alias" data-slug="blg/old/social-media/2020/2020-08-07-student-advising">student advising</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-08-16 <a href="../../../../blg/old/social-media/2020/2020-08-16-how-edus-handle-covid" class="internal alias" data-slug="blg/old/social-media/2020/2020-08-16-how-edus-handle-covid">how edus handle covid</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-08-16 <a href="../../../../blg/old/social-media/2020/2020-08-16-performative-editing" class="internal alias" data-slug="blg/old/social-media/2020/2020-08-16-performative-editing">performative editing</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-09-02 <a href="../../../../blg/old/social-media/2020/2020-09-02-what-we-call-armed-people" class="internal alias" data-slug="blg/old/social-media/2020/2020-09-02-what-we-call-armed-people">what we call armed people</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-09-05 <a href="../../../../blg/old/social-media/2020/2020-09-05-enjoy-it-at-your-own-risk" class="internal alias" data-slug="blg/old/social-media/2020/2020-09-05-enjoy-it-at-your-own-risk">enjoy it at your own risk</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-09-11 <a href="../../../../blg/old/social-media/2020/2020-09-11-choose-your-own-reality-tv-timeline" class="internal alias" data-slug="blg/old/social-media/2020/2020-09-11-choose-your-own-reality-tv-timeline">choose your own reality tv timeline</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-09-22 <a href="../../../../blg/old/social-media/2020/2020-09-22-og-bank-robbers" class="internal alias" data-slug="blg/old/social-media/2020/2020-09-22-og-bank-robbers">og bank robbers</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-09-26 <a href="../../../../blg/old/social-media/2020/2020-09-26-crazy-piranesi" class="internal alias" data-slug="blg/old/social-media/2020/2020-09-26-crazy-piranesi">crazy piranesi</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-09-28 <a href="../../../../blg/old/social-media/2020/2020-09-28-which-part-of-the-ballot-was-stolen" class="internal alias" data-slug="blg/old/social-media/2020/2020-09-28-which-part-of-the-ballot-was-stolen">which part of the ballot was stolen</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-10-04 <a href="../../../../blg/old/social-media/2020/2020-10-04-mandemic" class="internal alias" data-slug="blg/old/social-media/2020/2020-10-04-mandemic">mandemic</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-10-13 <a href="../../../../blg/old/social-media/2020/2020-10-13-anti-protest-curricula" class="internal alias" data-slug="blg/old/social-media/2020/2020-10-13-anti-protest-curricula">anti protest curricula</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-10-16 <a href="../../../../blg/old/social-media/2020/2020-10-16-dancing-your-way-to-solvency" class="internal alias" data-slug="blg/old/social-media/2020/2020-10-16-dancing-your-way-to-solvency">dancing your way to solvency</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-10-22 <a href="../../../../blg/old/social-media/2020/2020-10-22-google-deleuzians" class="internal alias" data-slug="blg/old/social-media/2020/2020-10-22-google-deleuzians">google deleuzians</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-10-28 <a href="../../../../blg/old/social-media/2020/2020-10-28-slow-experts-fast-events" class="internal alias" data-slug="blg/old/social-media/2020/2020-10-28-slow-experts-fast-events">slow experts fast events</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-10-30 <a href="../../../../blg/old/social-media/2020/2020-10-30-what-we-can-learn-from-turkey" class="internal alias" data-slug="blg/old/social-media/2020/2020-10-30-what-we-can-learn-from-turkey">what we can learn from turkey</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-10-31 <a href="../../../../blg/old/social-media/2020/2020-10-31-in-as-much-as" class="internal alias" data-slug="blg/old/social-media/2020/2020-10-31-in-as-much-as">in as much as</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-01 <a href="../../../../blg/old/social-media/2020/2020-11-01-always-make-new-expert-mistakes" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-01-always-make-new-expert-mistakes">always make new expert mistakes</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-02 <a href="../../../../blg/old/social-media/2020/2020-11-02-dont-quit-your-day-job" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-02-dont-quit-your-day-job">dont quit your day job</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-02 <a href="../../../../blg/old/social-media/2020/2020-11-02-facial-tattoos-and-diplomacy" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-02-facial-tattoos-and-diplomacy">facial tattoos and diplomacy</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-02 <a href="../../../../blg/old/social-media/2020/2020-11-02-glossy-structuralism" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-02-glossy-structuralism">glossy structuralism</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-07 <a href="../../../../blg/old/social-media/2020/2020-11-07-johnny-nash-rip" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-07-johnny-nash-rip">johnny nash rip</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-09 <a href="../../../../blg/old/social-media/2020/2020-11-09-on-biden-and-harris" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-09-on-biden-and-harris">on biden and harris</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-09 <a href="../../../../blg/old/social-media/2020/2020-11-09-on-trump-and-nuclear-control" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-09-on-trump-and-nuclear-control">on trump and nuclear control</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-10 <a href="../../../../blg/old/social-media/2020/2020-11-10-such-considerate-leaders" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-10-such-considerate-leaders">such considerate leaders</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-11 <a href="../../../../blg/old/social-media/2020/2020-11-11-arendtsplaining-and-coupsplaining" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-11-arendtsplaining-and-coupsplaining">arendtsplaining and coupsplaining</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-15 <a href="../../../../blg/old/social-media/2020/2020-11-15-more-on-zeynep-tufekcis-approach" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-15-more-on-zeynep-tufekcis-approach">more on zeynep tufekcis approach</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-15 <a href="../../../../blg/old/social-media/2020/2020-11-15-on-zeynep-tufekcis-approach" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-15-on-zeynep-tufekcis-approach">on zeynep tufekcis approach</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-15 <a href="../../../../blg/old/social-media/2020/2020-11-15-pr-as-an-evolutionary-strategy" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-15-pr-as-an-evolutionary-strategy">pr as an evolutionary strategy</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-17 <a href="../../../../blg/old/social-media/2020/2020-11-17-on-fox-news-and-the-electoral-college" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-17-on-fox-news-and-the-electoral-college">on fox news and the electoral college</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-20 <a href="../../../../blg/old/social-media/2020/2020-11-20-at-the-intersection-of" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-20-at-the-intersection-of">at the intersection of</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-11-23 <a href="../../../../blg/old/social-media/2020/2020-11-23-not-really-a-crisis-anymore" class="internal alias" data-slug="blg/old/social-media/2020/2020-11-23-not-really-a-crisis-anymore">not really a crisis anymore</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-12-07 <a href="../../../../blg/old/social-media/2020/2020-12-07-autonomous-zone-sorta" class="internal alias" data-slug="blg/old/social-media/2020/2020-12-07-autonomous-zone-sorta">autonomous zone sorta</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-12-07 <a href="../../../../blg/old/social-media/2020/2020-12-07-nyc-businesses-and-landlords" class="internal alias" data-slug="blg/old/social-media/2020/2020-12-07-nyc-businesses-and-landlords">nyc businesses and landlords</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-12-09 <a href="../../../../blg/old/social-media/2020/2020-12-09-noitaicnunna" class="internal alias" data-slug="blg/old/social-media/2020/2020-12-09-noitaicnunna">noitaicnunna</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-12-10 <a href="../../../../blg/old/social-media/2020/2020-12-10-how-to-break-up-facebook" class="internal alias" data-slug="blg/old/social-media/2020/2020-12-10-how-to-break-up-facebook">how to break up facebook</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-12-19 <a href="../../../../blg/old/social-media/2020/2020-12-19-on-the-turkish-pseudo-coup-and-zeynep-tufekci" class="internal alias" data-slug="blg/old/social-media/2020/2020-12-19-on-the-turkish-pseudo-coup-and-zeynep-tufekci">on the turkish pseudo coup and zeynep tufekci</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-12-20 <a href="../../../../blg/old/social-media/2020/2020-12-20-the-whatever-aesthetic" class="internal alias" data-slug="blg/old/social-media/2020/2020-12-20-the-whatever-aesthetic">the whatever aesthetic</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-12-30 <a href="../../../../blg/old/social-media/2020/2020-12-30-mdc" class="internal alias" data-slug="blg/old/social-media/2020/2020-12-30-mdc">mdc</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-03-23 <a href="../../../../blg/old/social-media/2021/2021-03-23-we-can-and-must-trace-pollution" class="internal alias" data-slug="blg/old/social-media/2021/2021-03-23-we-can-and-must-trace-pollution">we can and must trace pollution</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-04-01 <a href="../../../../blg/old/social-media/2021/2021-04-01-nyc-is-constantly-getting-lost" class="internal alias" data-slug="blg/old/social-media/2021/2021-04-01-nyc-is-constantly-getting-lost">nyc is constantly getting lost</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-04-03 <a href="../../../../blg/old/social-media/2021/2021-04-03-nyc-is-never-coming-back-because-it-never-left" class="internal alias" data-slug="blg/old/social-media/2021/2021-04-03-nyc-is-never-coming-back-because-it-never-left">nyc is never coming back because it never left</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-04-14 <a href="../../../../blg/old/social-media/2021/2021-04-14-worlds-leading-expert-on-wheel-well-stowaways" class="internal alias" data-slug="blg/old/social-media/2021/2021-04-14-worlds-leading-expert-on-wheel-well-stowaways">worlds leading expert on wheel well stowaways</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-04-15 <a href="../../../../blg/old/social-media/2021/2021-04-15-on-william-gaddis" class="internal alias" data-slug="blg/old/social-media/2021/2021-04-15-on-william-gaddis">on william gaddis</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-04-18 <a href="../../../../blg/old/social-media/2021/2021-04-18-harriet-scott-rip" class="internal alias" data-slug="blg/old/social-media/2021/2021-04-18-harriet-scott-rip">harriet scott rip</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-04-23 <a href="../../../../blg/old/social-media/2021/2021-04-23-foreign-policy-and-climate-change" class="internal alias" data-slug="blg/old/social-media/2021/2021-04-23-foreign-policy-and-climate-change">foreign policy and climate change</a></p></div>
+                  
+                </div>
+</blockquote>
+<blockquote class="callout note" data-callout="note">
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-04-26 <a href="../../../../blg/old/social-media/2021/2021-04-26-nfts-yawn-stretch" class="internal alias" data-slug="blg/old/social-media/2021/2021-04-26-nfts-yawn-stretch">nfts yawn stretch</a></p></div>
+                  
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div></div><footer class><p><a href="https://counter.ink/index.xml">RSS</a>; <a href="https://counter.ink/tags">tags</a>. © 2026 TB. If you want something, just ask. 👍🏼</p><ul></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../../../../postscript.js" type="module"></script></html>

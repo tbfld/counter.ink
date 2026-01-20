@@ -1,0 +1,1315 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>nettime</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&amp;family=Lora:ital,wght@0,400;0,600;1,400;1,600&amp;family=Inconsolata:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="generator" content="Quartz"/><link href="../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL1VzZXJzL3RieWZpZWxkL2dpdGh1Yi9jb3VudGVyLmluay9xdWFydHovY29tcG9uZW50cy9zdHlsZXMiLCJzb3VyY2VzIjpbIm1lcm1haWQuaW5saW5lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUdGO0VBQ0U7OztBQUtGO0VBQ0U7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcGFkZGluZzogMnJlbTtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDAgMDtcbiAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjFzIGVhc2U7XG4gICAgICBvdmVyZmxvdzogdmlzaWJsZTtcbiAgICAgIG1pbi1oZWlnaHQ6IDIwMHB4O1xuICAgICAgbWluLXdpZHRoOiAyMDBweDtcblxuICAgICAgcHJlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBib3JkZXI6IG5vbmU7XG4gICAgICB9XG5cbiAgICAgIHN2ZyB7XG4gICAgICAgIG1heC13aWR0aDogbm9uZTtcbiAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgfVxuICAgIH1cblxuICAgICYgPiAubWVybWFpZC1jb250cm9scyB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBib3R0b206IDIwcHg7XG4gICAgICByaWdodDogMjBweDtcbiAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICBnYXA6IDhweDtcbiAgICAgIHBhZGRpbmc6IDhweDtcbiAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICBib3JkZXItcmFkaXVzOiA2cHg7XG4gICAgICBib3gtc2hhZG93OiAwIDJweCA0cHggcmdiYSgwLCAwLCAwLCAwLjEpO1xuICAgICAgei1pbmRleDogMjtcblxuICAgICAgLm1lcm1haWQtY29udHJvbC1idXR0b24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgd2lkdGg6IDMycHg7XG4gICAgICAgIGhlaWdodDogMzJweDtcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgICBjb2xvcjogdmFyKC0tZGFyayk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICBmb250LXNpemU6IDE2cHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1ib2R5Rm9udCk7XG4gICAgICAgIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2U7XG5cbiAgICAgICAgJjpob3ZlciB7XG4gICAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgfVxuXG4gICAgICAgICY6YWN0aXZlIHtcbiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTtcbiAgICAgICAgfVxuXG4gICAgICAgIC8vIFN0eWxlIHRoZSByZXNldCBidXR0b24gZGlmZmVyZW50bHlcbiAgICAgICAgJjpudGgtY2hpbGQoMikge1xuICAgICAgICAgIHdpZHRoOiBhdXRvO1xuICAgICAgICAgIHBhZGRpbmc6IDAgMTJweDtcbiAgICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cbiJdfQ== */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../../static/contentIndex.json").then(data => data.json())</script><script defer data-domain="counter.ink" src="https://plausible.io/js/script.file-downloads.hash.outbound-links.js"></script><script>window.plausible = window.plausible || function() { 
+            (window.plausible.q = window.plausible.q || []).push(arguments) 
+          }</script></head><body data-slug="blg/old/nettime/nettime"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../../..">ted byfield</a></h2><div class="spacer mobile-only"></div><div class="search"><button class="search-button"><p>Search</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>{console.log(`Sorting item: ${a.name} (${a.isFolder?\&quot;Folder\&quot;:\&quot;File\&quot;}) vs ${b.name} (${b.isFolder?\&quot;Folder\&quot;:\&quot;File\&quot;})`);let nameOrderMap={about:1,recent_notes:2,microblog:3,blg:4,txt:5,obj:6},datePattern=/^(19|20)\\d{2}(-\\d{2})?(-\\d{2})?/;if(!a?.name||!b?.name)return 0;let orderA=nameOrderMap[a.name]||1e3,orderB=nameOrderMap[b.name]||1e3;if(orderA!==1e3&amp;&amp;orderB!==1e3)return console.log(`Sorting top-level: ${a.name} (${orderA}) vs ${b.name} (${orderB})`),orderA-orderB;let isYearA=datePattern.test(a.name),isYearB=datePattern.test(b.name);return isYearA&amp;&amp;isYearB?(console.log(`Sorting year folders: ${b.name} vs ${a.name}`),b.name.localeCompare(a.name)):a.isFolder&amp;&amp;!b.isFolder?-1:!a.isFolder&amp;&amp;b.isFolder?1:a.name.localeCompare(b.name)}&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-521"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-521" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../blg/">blg</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../blg/old/">old</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../blg/old/nettime/">nettime</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>nettime</a></div></nav><h1 class="article-title">nettime</h1><p show-comma="true" class="content-meta"><time datetime="2024-11-20T20:10:00.000Z">Nov 20, 2024</time><span>2 min read</span></p></div></div><article class="popover-hint"><p>*This is a compilation of many of the message I sent to the mailing list I co-ran for twenty-five years. You can (a) read more about it <a href="../../../obj/nettime/nettime" class="internal alias" data-slug="obj/nettime/nettime">here</a>, (b) see <a href="../../../obj/nettime/nettime-alumni-and-alumnae" class="internal alias" data-slug="obj/nettime/nettime-alumni-and-alumnae">who else was on the list</a>, and/or (c) see <a href="../../../obj/nettime/nettime-nyms" class="internal alias" data-slug="obj/nettime/nettime-nyms">a list of 700+ “nyms” we used to manage traffic on the list</a>.</p>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-03-18 <a href="../../../blg/old/nettime/2021/2021-03-18-on-NFTs" class="internal alias" data-slug="blg/old/nettime/2021/2021-03-18-on-NFTs">on-NFTs</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-03-14 <a href="../../../blg/old/nettime/2021/2021-03-14-recent-visual-mutations" class="internal alias" data-slug="blg/old/nettime/2021/2021-03-14-recent-visual-mutations">recent-visual-mutations</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2021-01-25 <a href="../../../blg/old/nettime/2021/2021-01-25-on-de-supremacizing" class="internal alias" data-slug="blg/old/nettime/2021/2021-01-25-on-de-supremacizing">on-de-supremacizing</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-09-01 <a href="../../../blg/old/nettime/2020/2020-09-01-is-this-even-an-election-really" class="internal alias" data-slug="blg/old/nettime/2020/2020-09-01-is-this-even-an-election-really">is-this-even-an-election-really</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-06-04 <a href="../../../blg/old/nettime/2020/2020-06-04-rightist-signification" class="internal alias" data-slug="blg/old/nettime/2020/2020-06-04-rightist-signification">rightist-signification</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2020-03-27 <a href="../../../blg/old/nettime/2020/2020-03-27-michael-sorkin-rip" class="internal alias" data-slug="blg/old/nettime/2020/2020-03-27-michael-sorkin-rip">michael-sorkin-rip</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2019 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2019-05-29 <a href="../../../blg/old/nettime/2019/2019-05-29-choirs-were-always-virtual" class="internal alias" data-slug="blg/old/nettime/2019/2019-05-29-choirs-were-always-virtual">choirs-were-always-virtual</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2019-04-29 <a href="../../../blg/old/nettime/2019/2019-04-29-on-NYC-telecom-monoliths" class="internal alias" data-slug="blg/old/nettime/2019/2019-04-29-on-NYC-telecom-monoliths">on-NYC-telecom-monoliths</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2019-04-12 <a href="../../../blg/old/nettime/2019/2019-04-12-assange-wikileaks" class="internal alias" data-slug="blg/old/nettime/2019/2019-04-12-assange-wikileaks">assange-wikileaks</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2019-04-11 <a href="../../../blg/old/nettime/2019/2019-04-11-assange-live" class="internal alias" data-slug="blg/old/nettime/2019/2019-04-11-assange-live">assange-live</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2019-03-30 <a href="../../../blg/old/nettime/2019/2019-03-30-on-the-history-of-complexity" class="internal alias" data-slug="blg/old/nettime/2019/2019-03-30-on-the-history-of-complexity">on-the-history-of-complexity</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2019-03-26 <a href="../../../blg/old/nettime/2019/2019-03-26-on-aviation-a-reply-to-brian-holmes" class="internal alias" data-slug="blg/old/nettime/2019/2019-03-26-on-aviation-a-reply-to-brian-holmes">on-aviation-a-reply-to-brian-holmes</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2019-03-23 <a href="../../../blg/old/nettime/2019/2019-03-23-abstraction-and-labor" class="internal alias" data-slug="blg/old/nettime/2019/2019-03-23-abstraction-and-labor">abstraction-and-labor</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2019-03-18 <a href="../../../blg/old/nettime/2019/2019-03-18-plane-crashes-in-theory-and-practice" class="internal alias" data-slug="blg/old/nettime/2019/2019-03-18-plane-crashes-in-theory-and-practice">plane-crashes-in-theory-and-practice</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2019-01-28 <a href="../../../blg/old/nettime/2019/2019-01-28-on-sortition" class="internal alias" data-slug="blg/old/nettime/2019/2019-01-28-on-sortition">on-sortition</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2018 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2018-12-30 <a href="../../../blg/old/nettime/2018/2018-12-30-on-scaling" class="internal alias" data-slug="blg/old/nettime/2018/2018-12-30-on-scaling">on-scaling</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2018-10-16 <a href="../../../blg/old/nettime/2018/2018-10-16-opinion-polling" class="internal alias" data-slug="blg/old/nettime/2018/2018-10-16-opinion-polling">opinion-polling</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2018-07-13 <a href="../../../blg/old/nettime/2018/2018-07-13-shadow-libraries-in-the-washington-post" class="internal alias" data-slug="blg/old/nettime/2018/2018-07-13-shadow-libraries-in-the-washington-post">shadow-libraries-in-the-washington-post</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2018-04-05 <a href="../../../blg/old/nettime/2018/2018-04-05-memes-mushrooms-and-walter-benjamin" class="internal alias" data-slug="blg/old/nettime/2018/2018-04-05-memes-mushrooms-and-walter-benjamin">memes-mushrooms-and-walter-benjamin</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2018-01-01 <a href="../../../blg/old/nettime/2018/2018-01-01-dual-use-tech" class="internal alias" data-slug="blg/old/nettime/2018/2018-01-01-dual-use-tech">dual-use-tech</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2017 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2017-12-31 <a href="../../../blg/old/nettime/2017/2017-12-31-btc-and-austrian-theory" class="internal alias" data-slug="blg/old/nettime/2017/2017-12-31-btc-and-austrian-theory">btc-and-austrian-theory</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2017-12-28 <a href="../../../blg/old/nettime/2017/2017-12-28-whence-and-whither-btc" class="internal alias" data-slug="blg/old/nettime/2017/2017-12-28-whence-and-whither-btc">whence-and-whither-btc</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2017-11-26 <a href="../../../blg/old/nettime/2017/2017-11-26-critical-corporate-studies" class="internal alias" data-slug="blg/old/nettime/2017/2017-11-26-critical-corporate-studies">critical-corporate-studies</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2017-10-04 <a href="../../../blg/old/nettime/2017/2017-10-04-on-micro-generations" class="internal alias" data-slug="blg/old/nettime/2017/2017-10-04-on-micro-generations">on-micro-generations</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2017-06-18 <a href="../../../blg/old/nettime/2017/2017-06-18-can-the-left-meme" class="internal alias" data-slug="blg/old/nettime/2017/2017-06-18-can-the-left-meme">can-the-left-meme</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2016 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2016-11-18 <a href="../../../blg/old/nettime/2016/2016-11-18-europeans-on-americans-and-trump" class="internal alias" data-slug="blg/old/nettime/2016/2016-11-18-europeans-on-americans-and-trump">europeans-on-americans-and-trump</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2016-05-25 <a href="../../../blg/old/nettime/2016/2016-05-25-on-stylometry" class="internal alias" data-slug="blg/old/nettime/2016/2016-05-25-on-stylometry">on-stylometry</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2016-04-07 <a href="../../../blg/old/nettime/2016/2016-04-07-on-responsible-data" class="internal alias" data-slug="blg/old/nettime/2016/2016-04-07-on-responsible-data">on-responsible-data</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2016-04-06 <a href="../../../blg/old/nettime/2016/2016-04-06-on-the-panama-papers-a-reply-to-patrice-riemens" class="internal alias" data-slug="blg/old/nettime/2016/2016-04-06-on-the-panama-papers-a-reply-to-patrice-riemens">on-the-panama-papers-a-reply-to-patrice-riemens</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2015 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2015-09-25 <a href="../../../blg/old/nettime/2015/2015-09-25-thoughts-on-the-vw-scandal" class="internal alias" data-slug="blg/old/nettime/2015/2015-09-25-thoughts-on-the-vw-scandal">thoughts-on-the-vw-scandal</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2014 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2014-10-16 <a href="../../../blg/old/nettime/2014/2014-10-16-morozov-medina-and-the-new-yorker" class="internal alias" data-slug="blg/old/nettime/2014/2014-10-16-morozov-medina-and-the-new-yorker">morozov-medina-and-the-new-yorker</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2014-05-15 <a href="../../../blg/old/nettime/2014/2014-05-15-can-corporations-be-good-or-evil" class="internal alias" data-slug="blg/old/nettime/2014/2014-05-15-can-corporations-be-good-or-evil">can-corporations-be-good-or-evil</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2014-05-13 <a href="../../../blg/old/nettime/2014/2014-05-13-on-delanda-war-in-the-age-of-intelligent-machines-a-reply-to-brian-holmes" class="internal alias" data-slug="blg/old/nettime/2014/2014-05-13-on-delanda-war-in-the-age-of-intelligent-machines-a-reply-to-brian-holmes">on-delanda-war-in-the-age-of-intelligent-machines-a-reply-to-brian-holmes</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2014-02-16 <a href="../../../blg/old/nettime/2014/2014-02-16-on-conjunctural-analysis" class="internal alias" data-slug="blg/old/nettime/2014/2014-02-16-on-conjunctural-analysis">on-conjunctural-analysis</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2013 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2013-07-03 <a href="../../../blg/old/nettime/2013/2013-07-03-on-the-need-to-rethink-privacy-and-surveillance" class="internal alias" data-slug="blg/old/nettime/2013/2013-07-03-on-the-need-to-rethink-privacy-and-surveillance">on-the-need-to-rethink-privacy-and-surveillance</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2013-03-24 <a href="../../../blg/old/nettime/2013/2013-03-24-on-the-impact-of-desktop-publishing" class="internal alias" data-slug="blg/old/nettime/2013/2013-03-24-on-the-impact-of-desktop-publishing">on-the-impact-of-desktop-publishing</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2012 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2012-07-19 <a href="../../../blg/old/nettime/2012/2012-07-19-guns-and-history-a-reply-to-keith-sanborn" class="internal alias" data-slug="blg/old/nettime/2012/2012-07-19-guns-and-history-a-reply-to-keith-sanborn">guns-and-history-a-reply-to-keith-sanborn</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2011 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2011-11-23 <a href="../../../blg/old/nettime/2011/2011-11-23-on-student-debt" class="internal alias" data-slug="blg/old/nettime/2011/2011-11-23-on-student-debt">on-student-debt</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2011-07-24 <a href="../../../blg/old/nettime/2011/2011-07-24-to-on-aaron-swartz-jstor-and-mit-a-reply-to-david-golumbia" class="internal alias" data-slug="blg/old/nettime/2011/2011-07-24-to-on-aaron-swartz-jstor-and-mit-a-reply-to-david-golumbia">to-on-aaron-swartz-jstor-and-mit-a-reply-todavid-golumbia</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2011-07-24 <a href="../../../blg/old/nettime/2011/2011-07-24-on-david-golumbia-leaving-the-list" class="internal alias" data-slug="blg/old/nettime/2011/2011-07-24-on-david-golumbia-leaving-the-list">on-david-golumbia-leaving-the-list</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2011-05-30 <a href="../../../blg/old/nettime/2011/2011-05-30-on-the-rapture" class="internal alias" data-slug="blg/old/nettime/2011/2011-05-30-on-the-rapture">on-the-rapture</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2011-05-22 <a href="../../../blg/old/nettime/2011/2011-05-22-unabomber-critique-of-conference-fees" class="internal alias" data-slug="blg/old/nettime/2011/2011-05-22-unabomber-critique-of-conference-fees">unabomber-critique-of-conference-fees</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2011-02-25 <a href="../../../blg/old/nettime/2011/2011-02-25-on-student-debt" class="internal alias" data-slug="blg/old/nettime/2011/2011-02-25-on-student-debt">on-student-debt</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2010 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2010-12-07 <a href="../../../blg/old/nettime/2010/2010-12-07-on-cryptome-and-how-the-net-has-changed" class="internal alias" data-slug="blg/old/nettime/2010/2010-12-07-on-cryptome-and-how-the-net-has-changed">on-cryptome-and-how-the-net-has-changed</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2010-02-22 <a href="../../../blg/old/nettime/2010/2010-02-22-do-the-f-what-you-want-license" class="internal alias" data-slug="blg/old/nettime/2010/2010-02-22-do-the-f-what-you-want-license">do-the-f-what-you-want-license</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2010-01-13 <a href="../../../blg/old/nettime/2010/2010-01-13-google-new-approach-to-china" class="internal alias" data-slug="blg/old/nettime/2010/2010-01-13-google-new-approach-to-china">google-new-approach-to-china</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2009 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2009-11-18 <a href="../../../blg/old/nettime/2009/2009-11-18-on-phil-agre" class="internal alias" data-slug="blg/old/nettime/2009/2009-11-18-on-phil-agre">on-phil-agre</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2008 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2008-12-04 <a href="../../../blg/old/nettime/2008/2008-12-04-on-the-history-of-rightist-terror-in-the-us-2" class="internal alias" data-slug="blg/old/nettime/2008/2008-12-04-on-the-history-of-rightist-terror-in-the-us-2">on-the-history-of-rightist-terror-in-the-us-2</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2008-12-04 <a href="../../../blg/old/nettime/2008/2008-12-04-on-the-history-of-rightist-terror-in-the-us-1" class="internal alias" data-slug="blg/old/nettime/2008/2008-12-04-on-the-history-of-rightist-terror-in-the-us-1">on-the-history-of-rightist-terror-in-the-us-1</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2008-09-20 <a href="../../../blg/old/nettime/2008/2008-09-20-on-financial-and-governance-crises" class="internal alias" data-slug="blg/old/nettime/2008/2008-09-20-on-financial-and-governance-crises">on-financial-and-governance-crises</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2008-07-14 <a href="../../../blg/old/nettime/2008/2008-07-14-dj-spooky-on-stanislaw-lem" class="internal alias" data-slug="blg/old/nettime/2008/2008-07-14-dj-spooky-on-stanislaw-lem">dj-spooky-on-stanislaw-lem</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2008-05-20 <a href="../../../blg/old/nettime/2008/2008-05-20-steve-cisler-rip" class="internal alias" data-slug="blg/old/nettime/2008/2008-05-20-steve-cisler-rip">steve-cisler-rip</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2007 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2007-12-27 <a href="../../../blg/old/nettime/2007/2007-12-27-on-the-semantic-web-and-taxonomies" class="internal alias" data-slug="blg/old/nettime/2007/2007-12-27-on-the-semantic-web-and-taxonomies">on-the-semantic-web-and-taxonomies</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2007-02-17 <a href="../../../blg/old/nettime/2007/2007-02-17-bird-flu-and-intellectual-property" class="internal alias" data-slug="blg/old/nettime/2007/2007-02-17-bird-flu-and-intellectual-property">bird-flu-and-intellectual-property</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2004 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2004-10-02 <a href="../../../blg/old/nettime/2004/2004-10-02-on-polling-and-cellphones" class="internal alias" data-slug="blg/old/nettime/2004/2004-10-02-on-polling-and-cellphones">on-polling-and-cellphones</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2003 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2003-12-27 <a href="../../../blg/old/nettime/2003/2003-12-27-semantic-web-for-beginners" class="internal alias" data-slug="blg/old/nettime/2003/2003-12-27-semantic-web-for-beginners">semantic-web-for-beginners</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2003-10-06 <a href="../../../blg/old/nettime/2003/2003-10-06-on-american-anti-intellectualism" class="internal alias" data-slug="blg/old/nettime/2003/2003-10-06-on-american-anti-intellectualism">on-american-anti-intellectualism</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2003-05-18 <a href="../../../blg/old/nettime/2003/2003-05-18-sars-the-economy-and-hiv" class="internal alias" data-slug="blg/old/nettime/2003/2003-05-18-sars-the-economy-and-hiv">sars-the-economy-and-hiv</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2003-03-29 <a href="../../../blg/old/nettime/2003/2003-03-29-on-geert-lovink-dark-fibre" class="internal alias" data-slug="blg/old/nettime/2003/2003-03-29-on-geert-lovink-dark-fibre">on-geert-lovink-dark-fibre</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2003-01-19 <a href="../../../blg/old/nettime/2003/2003-01-19-on-the-prehistory-of-rhizome" class="internal alias" data-slug="blg/old/nettime/2003/2003-01-19-on-the-prehistory-of-rhizome">on-the-prehistory-of-rhizome</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2002 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2002-09-28 <a href="../../../blg/old/nettime/2002/2002-09-28-patrice-riemens-and-gaston-roberge" class="internal alias" data-slug="blg/old/nettime/2002/2002-09-28-patrice-riemens-and-gaston-roberge">patrice-riemens-and-gaston-roberge</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2002-07-24 <a href="../../../blg/old/nettime/2002/2002-07-24-on-wtc-redevelopment" class="internal alias" data-slug="blg/old/nettime/2002/2002-07-24-on-wtc-redevelopment">on-wtc-redevelopment</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2002-03-27 <a href="../../../blg/old/nettime/2002/2002-03-27-on-intellectual-property-and-indigenous-sovereignty" class="internal alias" data-slug="blg/old/nettime/2002/2002-03-27-on-intellectual-property-and-indigenous-sovereignty">on-intellectual-property-and-indigenous-sovereignty</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2001 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2001-09-15 <a href="../../../blg/old/nettime/2001/2001-09-15-nyc-media-post-911" class="internal alias" data-slug="blg/old/nettime/2001/2001-09-15-nyc-media-post-911">nyc-media-post-911</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2001-06-27 <a href="../../../blg/old/nettime/2001/2001-06-27-dark-fiber-under-and-over-supply-a-reply-to-michael-gurstein" class="internal alias" data-slug="blg/old/nettime/2001/2001-06-27-dark-fiber-under-and-over-supply-a-reply-to-michael-gurstein">dark-fiber-under-and-over-supply-a-reply-to-michael-gurstein</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2001-03-16 <a href="../../../blg/old/nettime/2001/2001-03-16-on-defense-shields-a-reply-to-pit-schultz" class="internal alias" data-slug="blg/old/nettime/2001/2001-03-16-on-defense-shields-a-reply-to-pit-schultz">on-defense-shields-a-reply-to-pit-schultz</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2001-03-14 <a href="../../../blg/old/nettime/2001/2001-03-14-on-defense-shields-a-reply-to-jordan-crandall" class="internal alias" data-slug="blg/old/nettime/2001/2001-03-14-on-defense-shields-a-reply-to-jordan-crandall">on-defense-shields-a-reply-to-jordan-crandall</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2001-02-16 <a href="../../../blg/old/nettime/2001/2001-02-16-on-dejanews-and-usenet-archives-a-reply-to-drazen-pantic" class="internal alias" data-slug="blg/old/nettime/2001/2001-02-16-on-dejanews-and-usenet-archives-a-reply-to-drazen-pantic">on-dejanews-and-usenet-archives-a-reply-to-drazen-pantic</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2001-02-14 <a href="../../../blg/old/nettime/2001/2001-02-14-on-dejanews-and-usenet-archives-a-reply-to-geert-lovink" class="internal alias" data-slug="blg/old/nettime/2001/2001-02-14-on-dejanews-and-usenet-archives-a-reply-to-geert-lovink">on-dejanews-and-usenet-archives-a-reply-to-geert-lovink</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2001-02-07 <a href="../../../blg/old/nettime/2001/2001-02-07-on-spam-and-scaling" class="internal alias" data-slug="blg/old/nettime/2001/2001-02-07-on-spam-and-scaling">on-spam-and-scaling</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-10-08 <a href="../../../blg/old/nettime/2000/2000-10-08-on-streaming-participation-and-history" class="internal alias" data-slug="blg/old/nettime/2000/2000-10-08-on-streaming-participation-and-history">on-streaming-participation-and-history</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-10-03 <a href="../../../blg/old/nettime/2000/2000-10-03-on-isoc-and-icann" class="internal alias" data-slug="blg/old/nettime/2000/2000-10-03-on-isoc-and-icann">on-isoc-and-icann</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-09-28 <a href="../../../blg/old/nettime/2000/2000-09-28-on-bablefish-and-machine-translation" class="internal alias" data-slug="blg/old/nettime/2000/2000-09-28-on-bablefish-and-machine-translation">on-bablefish-and-machine-translation</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-09-19 <a href="../../../blg/old/nettime/2000/2000-09-19-on-moderation-and-kosov@" class="internal alias" data-slug="blg/old/nettime/2000/2000-09-19-on-moderation-and-kosov@">on-moderation-and-kosov@</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-07-25 <a href="../../../blg/old/nettime/2000/2000-07-25-on-kings-pipes-and-icann" class="internal alias" data-slug="blg/old/nettime/2000/2000-07-25-on-kings-pipes-and-icann">on-kings-pipes-and-icann</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-07-25 <a href="../../../blg/old/nettime/2000/2000-07-25-are-mp3s-theft" class="internal alias" data-slug="blg/old/nettime/2000/2000-07-25-are-mp3s-theft">are-mp3s-theft</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-06-14 <a href="../../../blg/old/nettime/2000/2000-06-14-on-photocopying-a-reply-to-wark-3" class="internal alias" data-slug="blg/old/nettime/2000/2000-06-14-on-photocopying-a-reply-to-wark-3">on-photocopying-a-reply-to-wark-3</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-06-13 <a href="../../../blg/old/nettime/2000/2000-06-13-on-photocopying-a-reply-to-wark-2" class="internal alias" data-slug="blg/old/nettime/2000/2000-06-13-on-photocopying-a-reply-to-wark-2">on-photocopying-a-reply-to-wark-2</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-06-12 <a href="../../../blg/old/nettime/2000/2000-06-12-on-photocopying-a-reply-to-wark-1" class="internal alias" data-slug="blg/old/nettime/2000/2000-06-12-on-photocopying-a-reply-to-wark-1">on-photocopying-a-reply-to-wark-1</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-05-18 <a href="../../../blg/old/nettime/2000/2000-05-18-richard-delgado-imperial-scholar" class="internal alias" data-slug="blg/old/nettime/2000/2000-05-18-richard-delgado-imperial-scholar">richard-delgado-imperial-scholar</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-05-15 <a href="../../../blg/old/nettime/2000/2000-05-15-on-nettime-histories-and-archives" class="internal alias" data-slug="blg/old/nettime/2000/2000-05-15-on-nettime-histories-and-archives">on-nettime-histories-and-archives</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-05-11 <a href="../../../blg/old/nettime/2000/2000-05-11-reply-to-bruce-perens" class="internal alias" data-slug="blg/old/nettime/2000/2000-05-11-reply-to-bruce-perens">reply-to-bruce-perens</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-03-31 <a href="../../../blg/old/nettime/2000/2000-03-31-interview-with-a-search-engine" class="internal alias" data-slug="blg/old/nettime/2000/2000-03-31-interview-with-a-search-engine">interview-with-a-search-engine</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-03-22 <a href="../../../blg/old/nettime/2000/2000-03-22-.ps-for-palestine" class="internal alias" data-slug="blg/old/nettime/2000/2000-03-22-.ps-for-palestine">.ps-for-palestine</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>2000-03-10 <a href="../../../blg/old/nettime/2000/2000-03-10-icann-compilation" class="internal alias" data-slug="blg/old/nettime/2000/2000-03-10-icann-compilation">icann-compilation</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-12-28 <a href="../../../blg/old/nettime/1999/1999-12-28-dvd-css-analysis-and-comments" class="internal alias" data-slug="blg/old/nettime/1999/1999-12-28-dvd-css-analysis-and-comments">dvd-css-analysis-and-comments</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-12-23 <a href="../../../blg/old/nettime/1999/1999-12-23-on-various-leonardos" class="internal alias" data-slug="blg/old/nettime/1999/1999-12-23-on-various-leonardos">on-various-leonardos</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-12-12 <a href="../../../blg/old/nettime/1999/1999-12-12-on-etoys-market-cap-reply-to-declan-mccullagh" class="internal alias" data-slug="blg/old/nettime/1999/1999-12-12-on-etoys-market-cap-reply-to-declan-mccullagh">on-etoys-market-cap-reply-to-declan-mccullagh</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-11-27 <a href="../../../blg/old/nettime/1999/1999-11-27-kids-today" class="internal alias" data-slug="blg/old/nettime/1999/1999-11-27-kids-today">kids-today</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-11-10 <a href="../../../blg/old/nettime/1999/1999-11-10-on-the-cybersquatting-bill" class="internal alias" data-slug="blg/old/nettime/1999/1999-11-10-on-the-cybersquatting-bill">on-the-cybersquatting-bill</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-10-21 <a href="../../../blg/old/nettime/1999/1999-10-21-on-jam-echelon-day-and-nsa-keywords" class="internal alias" data-slug="blg/old/nettime/1999/1999-10-21-on-jam-echelon-day-and-nsa-keywords">on-jam-echelon-day-and-nsa-keywords</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-10-08 <a href="../../../blg/old/nettime/1999/1999-10-08-on-bezroukov-on-esr" class="internal alias" data-slug="blg/old/nettime/1999/1999-10-08-on-bezroukov-on-esr">on-bezroukov-on-esr</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-09-29 <a href="../../../blg/old/nettime/1999/1999-09-29-on-icann-a-reply-to-ronda-hauben" class="internal alias" data-slug="blg/old/nettime/1999/1999-09-29-on-icann-a-reply-to-ronda-hauben">on-icann-a-reply-to-ronda-hauben</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-09-22 <a href="../../../blg/old/nettime/1999/1999-09-22-yucca-as-investor" class="internal alias" data-slug="blg/old/nettime/1999/1999-09-22-yucca-as-investor">yucca-as-investor</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-09-18 <a href="../../../blg/old/nettime/1999/1999-09-18-schneier-cryptogram-and-comments" class="internal alias" data-slug="blg/old/nettime/1999/1999-09-18-schneier-cryptogram-and-comments">schneier-cryptogram-and-comments</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-04-23 <a href="../../../blg/old/nettime/1999/1999-04-23-NYT-no-obits-today" class="internal alias" data-slug="blg/old/nettime/1999/1999-04-23-NYT-no-obits-today">NYT-no-obits-today</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-04-17 <a href="../../../blg/old/nettime/1999/1999-04-17-some-thoughts-on-war-and-language" class="internal alias" data-slug="blg/old/nettime/1999/1999-04-17-some-thoughts-on-war-and-language">some-thoughts-on-war-and-language</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-04-13 <a href="../../../blg/old/nettime/1999/1999-04-13-dns-and-handedness" class="internal alias" data-slug="blg/old/nettime/1999/1999-04-13-dns-and-handedness">dns-and-handedness</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-04-07 <a href="../../../blg/old/nettime/1999/1999-04-07-grundmann-a-letter-from-amsterdam" class="internal alias" data-slug="blg/old/nettime/1999/1999-04-07-grundmann-a-letter-from-amsterdam">grundmann-a-letter-from-amsterdam</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-04-04 <a href="../../../blg/old/nettime/1999/1999-04-04-on-genocide-in-kosov@" class="internal alias" data-slug="blg/old/nettime/1999/1999-04-04-on-genocide-in-kosov@">on-genocide-in-kosov@</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-02-28 <a href="../../../blg/old/nettime/1999/1999-02-28-cybersitter-filter-list" class="internal alias" data-slug="blg/old/nettime/1999/1999-02-28-cybersitter-filter-list">cybersitter-filter-list</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1999-02-24 <a href="../../../blg/old/nettime/1999/1999-02-24-MIT-hostnames" class="internal alias" data-slug="blg/old/nettime/1999/1999-02-24-MIT-hostnames">MIT-hostnames</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1998 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1998-03-30 <a href="../../../blg/old/nettime/1998/1998-03-30-on-scamizdat-anon.penet.fi" class="internal alias" data-slug="blg/old/nettime/1998/1998-03-30-on-scamizdat-anon.penet.fi">on-scamizdat-anon.penet.fi</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1998-03-29 <a href="../../../blg/old/nettime/1998/1998-03-29-esr-cathedral-and-the-bazaar" class="internal alias" data-slug="blg/old/nettime/1998/1998-03-29-esr-cathedral-and-the-bazaar">esr-cathedral-and-the-bazaar</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1998-03-14 <a href="../../../blg/old/nettime/1998/1998-03-14-four-allegories" class="internal alias" data-slug="blg/old/nettime/1998/1998-03-14-four-allegories">four-allegories</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1998-03-08 <a href="../../../blg/old/nettime/1998/1998-03-08-on-adaweb-demise" class="internal alias" data-slug="blg/old/nettime/1998/1998-03-08-on-adaweb-demise">on-adaweb-demise</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1998-03-07 <a href="../../../blg/old/nettime/1998/1998-03-07-reply-to-keith-sanborn" class="internal alias" data-slug="blg/old/nettime/1998/1998-03-07-reply-to-keith-sanborn">reply-to-keith-sanborn</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1998-03-02 <a href="../../../blg/old/nettime/1998/1998-03-02-europanto-five-year-plan" class="internal alias" data-slug="blg/old/nettime/1998/1998-03-02-europanto-five-year-plan">europanto-five-year-plan</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1998-02-05 <a href="../../../blg/old/nettime/1998/1998-02-05-on-barbrook-and-dery" class="internal alias" data-slug="blg/old/nettime/1998/1998-02-05-on-barbrook-and-dery">on-barbrook-and-dery</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-12-02 <a href="../../../blg/old/nettime/1997/1997-12-02-on-richard-barbrook-and-luther-blissett" class="internal alias" data-slug="blg/old/nettime/1997/1997-12-02-on-richard-barbrook-and-luther-blissett">on-richard-barbrook-and-luther-blissett</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-11-09 <a href="../../../blg/old/nettime/1997/1997-11-09-eugene-kashpureff-jailed" class="internal alias" data-slug="blg/old/nettime/1997/1997-11-09-eugene-kashpureff-jailed">eugene-kashpureff-jailed</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-08-17 <a href="../../../blg/old/nettime/1997/1997-08-17-on-namespace-and-art" class="internal alias" data-slug="blg/old/nettime/1997/1997-08-17-on-namespace-and-art">on-namespace-and-art</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-08-07 <a href="../../../blg/old/nettime/1997/1997-08-07-on-punctuation-a-reply-to-josephine-bosma" class="internal alias" data-slug="blg/old/nettime/1997/1997-08-07-on-punctuation-a-reply-to-josephine-bosma">on-punctuation-a-reply-to-josephine-bosma</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-07-12 <a href="../../../blg/old/nettime/1997/1997-07-12-MOMA-and-net-art" class="internal alias" data-slug="blg/old/nettime/1997/1997-07-12-MOMA-and-net-art">MOMA-and-net-art</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-06-05 <a href="../../../blg/old/nettime/1997/1997-06-05-post-structuralism-a-reply-to-stahlman" class="internal alias" data-slug="blg/old/nettime/1997/1997-06-05-post-structuralism-a-reply-to-stahlman">post-structuralism-a-reply-to-stahlman</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-06-03 <a href="../../../blg/old/nettime/1997/1997-06-03-another-reply-to-jp-barlow" class="internal alias" data-slug="blg/old/nettime/1997/1997-06-03-another-reply-to-jp-barlow">another-reply-to-jp-barlow</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-06-02 <a href="../../../blg/old/nettime/1997/1997-06-02-on-revolution-a-reply-to-richard-barbrook" class="internal alias" data-slug="blg/old/nettime/1997/1997-06-02-on-revolution-a-reply-to-richard-barbrook">on-revolution-a-reply-to-richard-barbrook</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-05-27 <a href="../../../blg/old/nettime/1997/1997-05-27-a-reply-to-jp-barlow" class="internal alias" data-slug="blg/old/nettime/1997/1997-05-27-a-reply-to-jp-barlow">a-reply-to-jp-barlow</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-04-06 <a href="../../../blg/old/nettime/1997/1997-04-06-on-jim-bell-and-more" class="internal alias" data-slug="blg/old/nettime/1997/1997-04-06-on-jim-bell-and-more">on-jim-bell-and-more</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-03-20 <a href="../../../blg/old/nettime/1997/1997-03-20-Europanto" class="internal alias" data-slug="blg/old/nettime/1997/1997-03-20-Europanto">Europanto</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-03-02 <a href="../../../blg/old/nettime/1997/1997-03-02-on-world-wealth-a-reply-jesse-hirsh" class="internal alias" data-slug="blg/old/nettime/1997/1997-03-02-on-world-wealth-a-reply-jesse-hirsh">on-world-wealth-a-reply-jesse-hirsh</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-02-12 <a href="../../../blg/old/nettime/1997/1997-02-12-a-reply-to-cook-and-gonggrijp" class="internal alias" data-slug="blg/old/nettime/1997/1997-02-12-a-reply-to-cook-and-gonggrijp">a-reply-to-cook-and-gonggrijp</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1997-01-06 <a href="../../../blg/old/nettime/1997/1997-01-06-nonlinearity-a-reply-to-hari-kunzru" class="internal alias" data-slug="blg/old/nettime/1997/1997-01-06-nonlinearity-a-reply-to-hari-kunzru">nonlinearity-a-reply-to-hari-kunzru</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1996 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1996-09-25 <a href="../../../blg/old/nettime/1996/1996-09-25-on-pkd-and-gnosticism-a-reply-to-erik-davis" class="internal alias" data-slug="blg/old/nettime/1996/1996-09-25-on-pkd-and-gnosticism-a-reply-to-erik-davis">on-pkd-and-gnosticism-a-reply-to-erik-davis</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1996-07-29 <a href="../../../blg/old/nettime/1996/1996-07-29-net-commercialization" class="internal alias" data-slug="blg/old/nettime/1996/1996-07-29-net-commercialization">net-commercialization</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1996-03-22 <a href="../../../blg/old/nettime/1996/1996-03-22-three-questions-about-nettime" class="internal alias" data-slug="blg/old/nettime/1996/1996-03-22-three-questions-about-nettime">three-questions-about-nettime</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1996-02-19 <a href="../../../blg/old/nettime/1996/1996-02-19-a-reply-to-jp-barlow" class="internal alias" data-slug="blg/old/nettime/1996/1996-02-19-a-reply-to-jp-barlow">a-reply-to-jp-barlow</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1996-01-06 <a href="../../../blg/old/nettime/1996/1996-01-06-forward-stolen-poetry" class="internal alias" data-slug="blg/old/nettime/1996/1996-01-06-forward-stolen-poetry">forward-stolen-poetry</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote>
+<blockquote class="callout note is-collapsible is-collapsed" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1995 </p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+<div class="callout-content">
+<div class="callout-content-inner">
+<blockquote class="callout note is-collapsible" data-callout="note" data-callout-fold>
+<div class="callout-title">
+                  <div class="callout-icon"></div>
+                  <div class="callout-title-inner"><p>1995-12-27 <a href="../../../blg/old/nettime/1995/1995-12-27-art-r-us" class="internal alias" data-slug="blg/old/nettime/1995/1995-12-27-art-r-us">art-r-us</a></p></div>
+                  <div class="fold-callout-icon"></div>
+                </div>
+</blockquote>
+</div>
+</div>
+</blockquote></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="../../../about" class="internal">about</a></li><li><a href="../../../blg/old/social-media/2016/2016-12-07-fb-as-food-court" class="internal">2016-12-07 fb as food court</a></li><li><a href="../../../blg/old/social-media/2017/2017-02-28-armin-medosch-rip" class="internal">2017-02-28 armin medosch rip</a></li><li><a href="../../../blg/old/social-media/2017/2017-10-05-michael-gurstein-rip" class="internal">2017-10-05 michael gurstein rip</a></li><li><a href="../../../blg/old/social-media/2019/2019-06-18-on-makerism" class="internal">2019-06-18 on makerism</a></li><li><a href="../../../blg/old/social-media/2021/2021-04-26-nfts-yawn-stretch" class="internal">2021-04-26 nfts yawn stretch</a></li><li><a href="../../../blg/old/social-media/2021/2021-07-02-nice-to-be-acknowledged" class="internal">2021-07-02 nice to be acknowledged</a></li><li><a href="../../../blg/old/social-media/2024/2024-09-25-chronic-onlinification-of-the-right" class="internal">2024-09-25 chronic onlinification of the right</a></li><li><a href="../../../obj/nettime/nettime-alumni-and-alumnae" class="internal">nettime alumni and alumnae</a></li><li><a href="../../../obj/nettime/nettime" class="internal">nettime</a></li><li class="overflow-end"></li></ul></div></div><footer class><p><a href="https://counter.ink/index.xml">RSS</a>; <a href="https://counter.ink/tags">tags</a>. © 2026 TB. If you want something, just ask. 👍🏼</p><ul></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../../../postscript.js" type="module"></script></html>
