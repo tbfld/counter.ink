@@ -31,7 +31,11 @@ yaml_end: true
 
 <!-- RECENT_POSTS_START -->
 
-***2026-01-20:*** # ASCII [characters are not pixels](https://alexharri.com/blog/ascii-rendering
+## 2026
+
+### 2026-01
+
+***2026-01-20:*** # [ASCII characters are not pixels](https://alexharri.com/blog/ascii-rendering
 
 > [!note]+ [[2026-01-20-viruses-are-people-too|2026-01-20 viruses are people too]]
 > history, humor, science, law — this one's got it all
@@ -72,7 +76,7 @@ yaml_end: true
 ***2026-01-10:*** [automating medieval manuscript transcription](https://www.inria.fr/en/comma-medieval-manuscripts-transcribed)
 
 ***
-***2026-01-09:*** VZ: “[The cash waterfall operates upstream of sovereignty itself](https://substack.com/home/post/p-183664310)”
+***2026-01-09:*** VZ: [The cash waterfall is upstream of sovereignty itself](https://substack.com/home/post/p-183664310)
 
 ***
 ***2026-01-08:*** neatocal for [planning an entire year](https://abetusk.github.io/neatocal/)
@@ -83,6 +87,11 @@ yaml_end: true
 > WTFJHT, DJT, PE, and RE
 
 ***
+
+## 2025
+
+### 2025-12
+
 > [!note]+ [[2025-12-31-obey-in-advance|2025-12-31 obey in advance]]
 > not obeying is not enough
 
@@ -112,6 +121,8 @@ yaml_end: true
 ***2025-12-01:*** [the best font ever](https://www.fontspace.com/pramo-font-f4878)
 
 ***
+### 2025-11
+
 ***2025-11-29:*** [Poor Theory](https://uchri.org/foundry/poor-theory/) (🎩 SXW)
 
 ***
@@ -162,6 +173,8 @@ yaml_end: true
 ***2025-11-03:*** [Chi-town saying no to predatory stadium financing](https://www.fieldofschemes.com/2025/11/03/23308/sportswriters-alarmed-as-bears-again-do-not-get-1b-in-tax-money-toward-new-stadium/)
 
 ***
+### 2025-10
+
 ***2025-10-31:*** [Cop Sculpture](1993–94 > Cop Sculpture) is on [IG](https://www.instagram.com/cop.sculpture/)
 
 ***2025-10-31:*** [wtfjusthappenedtoday](https://whatthefuckjusthappenedtoday.com/)
@@ -183,6 +196,8 @@ yaml_end: true
 ***2025-10-06:*** Dollar General Carl Schmitt, Curtis Yarvin, has “[think realistically about how to flee the country](https://www.thenerdreich.com/panicked-curtis-yarvin-jd-vance-guru-plans-to-flee-usa/)”
 
 ***
+### 2025-09
+
 ***2025-09-26:*** [Complete History of the Soviet Union, Arranged to the Melody of Tetris](https://youtu.be/hWTFG3J1CP8)
 
 ***2025-09-26:*** [De l’émancipation des toons](https://lestempsquirestent.org/fr/numeros/numero-6/de-l-emancipation-des-toons)
@@ -223,6 +238,8 @@ yaml_end: true
 ***2025-09-03:*** Western Cell Division, [“Opening Gaps and Filling Them Up...WESTERN CELL DIVISION and You”](https://archive.org/details/western_cell_division_and_you/) (Baltimore, MD: Dialectical Immaterialism Press, 1987)
 
 ***
+### 2025-08
+
 > [!note]+ [[2025-08-25-what-isnt-happening|2025-08-25 what isnt happening]]
 > a litany of what left-leaning society needs to do to counter Trump & Co
 
@@ -255,6 +272,8 @@ yaml_end: true
 ***2025-08-08:*** A+ explanation of the [sinking market for US bonds](https://www.facebook.com/permalink.php?story_fbid=pfbid0rH6MQg2YYqhqJeSCttM3uDGCGse6WH98MJW9BFbB6DvwhFpUN9nJmw6BtDMgjAX4l&id=100014591748791)
 
 ***
+### 2025-05
+
 > [!note]+ [[2025-05-31-science-is-what-scientists-do]]
 > scientists should respond to Trump's destruction with construction
 
@@ -326,6 +345,8 @@ yaml_end: true
 (🎩CT)
 
 ***
+### 2025-04
+
 ***2025-04-30:*** “five nuns fled a northern Italian convent after the abbess was sacked amid [‘grave vicissitudes’](https://www.msn.com/en-us/news/world/nuns-flee-convent-after-abbess-sacked/ar-AA1DVvF8)”
 
 ***
@@ -360,6 +381,8 @@ yaml_end: true
 > . . . and if they did it, a lot of other schools would go ballistic, particularly those that aren't wealthy
 
 ***
+### 2025-03
+
 ***2025-03-30:*** The Rutgers faculty senate did what faculty senates everywhere *should have been doing* — passing [resolutions demanding positive, collective action from the admin](https://senate.rutgers.edu/wp-content/uploads/2025/03/Resolution-to-Establish-a-Mutual-Defense-Compact-for-the-Universities-of-the-Big-Ten-Academic-Alliance-in-Defense-of-Academic-Freedom-Institutional-Integrity-and-the-Research.pdf)
 
 ***2025-03-30:*** The architect [Kazys Varnelis](https://varnelis.net/) drops an excellent neologism: [*Ghiblification*](https://bsky.app/profile/kazys.bsky.social/post/3llmcko77hz2r)
@@ -497,6 +520,8 @@ yaml_end: true
 ***2025-03-03:*** Gregg Gonsalves gets warmer than most — [the Trump admin wants to destroy universties](https://www.thenation.com/article/society/trump-universities-research-cuts-reaction/) — but his analysis still focuses on science, which is a mistake.
 
 ***
+### 2025-02
+
 ***2025-02-27:*** Steve Vladeck notes Big Law partners worry [“they could jeopardize their economic future by protecting the rule of law”](https://www.stevevladeck.com/p/bonus-126-chill-all-the-lawyers) 🎻 🔬 😭 🌊
 
 ***
@@ -615,6 +640,8 @@ yaml_end: true
 ***2025-02-01:*** the PPRuNe (Professional Pilots Rumor Network) [thread devoted to the DC crash](https://www.pprune.org/accidents-close-calls/663888-aa5342-down-dca.html)
 
 ***
+### 2025-01
+
 > [!note]+ [[2025-01-30-but-never-a-thing-that-simply-is|2025 01 30 but never a thing that simply is]]
 > Whether "AI" is conscious really doesn't matter
 
@@ -749,6 +776,11 @@ An epic list of [“Awesome MacOS Software”](https://github.com/phmullins/awes
 ### 2024-12
 
 ***
+
+## 2024
+
+### 2024-12
+
 > [!note]+ [[2024-12-31-statistics-and-patriarchy|2024 12 31 statistics and patriarchy]]
 > A few thoughts on an 18th-C pair of dice.
 
@@ -788,9 +820,19 @@ An epic list of [“Awesome MacOS Software”](https://github.com/phmullins/awes
 > The WP is reporting that the White House is considering "preemptive pardons to figures who might face the hostility of the incoming Trump administration." I'd have to think hard — _very_ hard — to imagine anything more emblematic of the Biden admin's abject failure to grasp the threat Trump poses...
 
 ***
+
+## 2020
+
+### 2020-07
+
 > [!success]+ [[2020-07-08-distributed-criminality|BONUS CONTENT: 2020-07-08 distributed criminality]]
 > "Not a day goes by without Trump or one of his associates explicitly acknowledging that their polices will kill large numbers of people, and that they're doing it for electoral advantage,"
 
 ***
+
+## 2016
+
+### 2016-07
+
 > [!success]+ [[2016-07-08-edurant|BONUS CONTENT: 2016-07-08 edurant]]
 > An eight-year-old rant warning academics to organize — "because history will move much more quickly than your CV"
