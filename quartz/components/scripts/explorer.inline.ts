@@ -220,13 +220,8 @@ async function setupExplorer(currentSlug: FullSlug) {
     const scrollTop = sessionStorage.getItem("explorerScrollTop")
     if (scrollTop) {
       explorerUl.scrollTop = parseInt(scrollTop)
-    } else {
-      // try to scroll to the active element if it exists
-      const activeElement = explorerUl.querySelector(".active")
-      if (activeElement) {
-        activeElement.scrollIntoView({ behavior: "smooth" })
-      }
     }
+    // Note: Removed auto-scroll to active element to prevent page from jumping on load
 
     // Set up event handlers
     const explorerButtons = explorer.getElementsByClassName(
