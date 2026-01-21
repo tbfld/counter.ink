@@ -34,9 +34,17 @@ yaml_end: true
 
 ### 2026-01
 
+***2026-01-21:*** “[the real reasons new yorkers’ groceries cost so much](https://www.vitalcitynyc.org/articles/nyc-grocery-cost-explained)” (🎩JK)
+
+***2026-01-21:*** Redditor says [MMS patch brought Verizon down](https://www.reddit.com/r/verizon/comments/1qdsc0g/i_think_i_found_what_caused_yesterdays_outage/) (🎩IRR)
+
+***2026-01-21:*** End of an era: [Gmail dropping POP3 support](https://support.google.com/mail/answer/16604719) (🎩IRR)
+
+***
 ***2026-01-20:*** [sage, nomad, demon — just not an assistant](https://x.com/aiamblichus/status/2013379529771790553) (🎩RL)
 
 ***2026-01-20:*** # [ASCII characters are not pixels](https://alexharri.com/blog/ascii-rendering)
+
 > [!note]+ [[2026-01-20-viruses-are-people-too|2026-01-20 viruses are people too]]
 > history, humor, science, law — this one's got it all
 
