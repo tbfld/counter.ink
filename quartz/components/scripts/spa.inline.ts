@@ -147,11 +147,6 @@ window.spaNavigate = navigate
 
 function createRouter() {
   if (typeof window !== "undefined") {
-    // Disable automatic scroll restoration
-    if ("scrollRestoration" in history) {
-      history.scrollRestoration = "manual"
-    }
-    
     window.addEventListener("click", async (event) => {
       const { url } = getOpts(event) ?? {}
       // dont hijack behaviour, just let browser act normally
