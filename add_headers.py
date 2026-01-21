@@ -5,10 +5,18 @@ Add month/year headers to recent.md for TOC
 
 import re
 from datetime import datetime
+from pathlib import Path
 
 def main():
-    with open('content/recent_old.md', 'r') as f:
-        content = f.read()
+    # Check if the old file exists, otherwise use the current recent.md
+    old_file = Path('content/recent_old.md')
+    if old_file.exists():
+        with open(old_file, 'r') as f:
+            content = f.read()
+    else:
+        # File doesn't exist - recent.md already has headers, so just exit
+        print("Note: recent_old.md not found. Recent.md already has headers.")
+        return
     
     # Extract header
     header_end = content.find('<!-- RECENT_POSTS_START -->')
