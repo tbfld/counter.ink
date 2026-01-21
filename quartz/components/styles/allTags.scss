@@ -1,0 +1,28 @@
+@use "../../styles/variables.scss" as *;
+
+.all-tags {
+  flex-direction: column;
+
+  & > h3 {
+    font-size: 1rem;
+    margin: 0;
+  }
+
+  & > .tag-cloud {
+    margin: 0.5em 0;
+    
+    & a.tag-link {
+      font-size: 0.85rem; // Reduced by approximately 3 points
+      background-color: transparent;
+      
+      // Remove the # symbol styling that might be added elsewhere
+      &::before {
+        content: none;
+      }
+    }
+    
+    & > span {
+      font-size: 0.85rem;
+    }
+  }
+}

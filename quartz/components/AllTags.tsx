@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/backlinks.scss"
+import style from "./styles/allTags.scss"
 import { resolveRelative } from "../util/path"
 import { classNames } from "../util/lang"
 
@@ -27,7 +27,7 @@ const AllTags: QuartzComponent = ({
   }
 
   return (
-    <div class={classNames(displayClass, "backlinks")}>
+    <div class={classNames(displayClass, "all-tags")}>
       <h3>Tags</h3>
       <div class="tag-cloud" style="max-height: 400px; overflow-y: auto;">
         {sortedTags.map((tag, index) => (
