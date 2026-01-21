@@ -29,7 +29,7 @@ const AllTags: QuartzComponent = ({
   return (
     <div class={classNames(displayClass, "all-tags")}>
       <h3>Tags</h3>
-      <div class="tag-cloud">
+      <div class="tag-cloud" style="max-height: 70vh; overflow-y: auto;">
         {sortedTags.map((tag, index) => (
           <>
             <a href={resolveRelative(fileData.slug!, `tags/${tag}` as any)} class="internal tag-link">
