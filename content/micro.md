@@ -4,7 +4,7 @@ title: micros (redirected)
 description: This page has been merged with recent
 aliases:
   - micros
-permalink: /recent
+permalink:
 draft: "false"
 publish: "true"
 yaml_end: true
