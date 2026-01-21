@@ -37,8 +37,7 @@ yaml_end: true
 
 ***2026-01-20:*** [sage, nomad, demon — just not an assistant](https://x.com/aiamblichus/status/2013379529771790553) (🎩RL)
 
-***2026-01-20:*** # [ASCII characters are not pixels](https://alexharri.com/blog/ascii-rendering
-
+***2026-01-20:*** # [ASCII characters are not pixels](https://alexharri.com/blog/ascii-rendering)
 > [!note]+ [[2026-01-20-viruses-are-people-too|2026-01-20 viruses are people too]]
 > history, humor, science, law — this one's got it all
 
