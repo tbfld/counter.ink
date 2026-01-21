@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Rebuild recent.md from backups with month headers for TOC
+Note: This script is deprecated as recent.md is now the primary source.
 """
 
 import re
@@ -9,6 +10,8 @@ from pathlib import Path
 
 def extract_micro_entries(filepath):
     """Extract timestamped entries from original micro backup"""
+    if not Path(filepath).exists():
+        return []
     with open(filepath, 'r') as f:
         content = f.read()
     
@@ -32,6 +35,8 @@ def extract_micro_entries(filepath):
 
 def extract_recent_entries(filepath):
     """Extract blog post entries from recent backup"""
+    if not Path(filepath).exists():
+        return []
     with open(filepath, 'r') as f:
         content = f.read()
     
@@ -54,6 +59,13 @@ def extract_recent_entries(filepath):
     return entries
 
 def main():
+    # Check if backup file exists - if not, script is deprecated
+    backup_file = Path('content/recent_backup.md')
+    if not backup_file.exists():
+        print("Note: This script is deprecated. recent_backup.md not found.")
+        print("The recent.md file is now maintained directly.")
+        return
+    
     # Check for original micro file or use a marker file
     micro_file = Path('content/micro_original.md')
     if not micro_file.exists():
