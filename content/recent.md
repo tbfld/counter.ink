@@ -97,7 +97,6 @@ yaml_end: true
 > WTFJHT, DJT, PE, and RE
 
 ***
-
 ## 2025
 
 ### 2025-12
@@ -284,17 +283,11 @@ yaml_end: true
 ***
 ### 2025-05
 
-***
 ***2025-05-30:*** high school graduation [hit with fake ticket DOS attack](https://www.newsbreak.com/worcester-telegram-gazette-1590723/4029532153183-counterfeit-ticket-scam-leads-to-parents-missing-worcester-high-school-graduation)
 
 ***
-***
 ***2025-05-25:*** “I Was Targeted by a Hostile Crypto Spambot Swarm That Revealed [How X’s Algorithm Has Been Truly Broken](https://bylinetimes.com/2025/05/20/x-spam-algorithm-elon-musk-bots/)”
 
-***
-***
-***
-***
 ***
 ***2025-05-14:*** the [Big Boy graveyard on Google Maps or scene from *The Matrix?*](https://www.google.com/maps/place/Big+Boy+Graveyard/@39.1298382,-84.4879424,3a,48.9y/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICf-YyldA!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4nq8nfuKXRiBsx4G4DiAr42MB85vM6lRTndibgDuxcOZYvRpW4UmqrlmhsGFvOOD6ymafzckVdte3EfpGYtUTfFbzNWvyjGK_oESdvaL-XbrWC1Y2Yi7haKA5kxTUqLn09ztNvPf%3Dw203-h152-k-no!7i4032!8i3024!4m15!1m7!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!2sBig+Boy+Graveyard!8m2!3d39.1297008!4d-84.4876367!16s%2Fg%2F11vy7trg56!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!8m2!3d39.1297008!4d-84.4876367!10e5!16s%2Fg%2F11vy7trg56?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D)
 
@@ -305,7 +298,6 @@ yaml_end: true
 ***2025-05-14:*** big props to *The Verge*’s for using [“supposed" and "putative" to describe Trump's minions who were named without qualification or process to replace people who were illegally fired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
 
 ***
-***
 ***2025-05-08:*** find who owns a publisher [from a book’s barcode](https://whoisbn.net/fr/) (🎩 NTT)
 
 ***2025-05-08:*** poem [“For a Student Who Used AI to Write a Paper”](https://poets.org/poem/student-who-used-ai-write-paper)
@@ -313,8 +305,6 @@ yaml_end: true
 ***
 ***2025-05-07:*** this guy says John Fetterman’s [always been a mess](https://paydayreport.com/fettermans-long-history-of-toxic-relationships-in-braddock/) (🎩 RP)
 
-***
-***
 ***
 ***2025-05-01:*** an exoplanet whose [“atmosphere is thick with clouds of vaporized metal, and it rains liquid sapphires and rubies”](https://www.sciencealert.com/planets-record-smashing-iron-wind-hides-a-climate-unlike-anything-weve-seen) (🎩CT)
 
@@ -394,7 +384,6 @@ yaml_end: true
 ***2025-03-13:*** MFA Houston’s page for [Alexey Titarenko’s photographs](https://emuseum.mfah.org/people/16608/alexey-titarenko/objects)
 
 ***
-***
 ***2025-03-11:*** Marian Zazeela and La Monte Young’s Music and Light Box [on display in NYC Mar 27 – Apr 12](https://melafoundation.org/music-light-box-2025.html)
 
 ***2025-03-11:*** Columbia’s own James Schamus [on Trump’s attacks on the university](https://lithub.com/a-columbia-professors-message-to-his-fellow-jewish-faculty-members/)
@@ -423,7 +412,6 @@ yaml_end: true
 
 ### 2025-02
 
-***
 ***2025-03-07:*** [“the empathy exploit”](https://www.cnn.com/2025/03/05/politics/elon-musk-rogan-interview-empathy-doge) is quite a phrase
 
 ***
@@ -459,7 +447,6 @@ yaml_end: true
 
 ***2025-02-26:*** on [Christian support for Trump and liberal denialism](https://www.liberalcurrents.com/trump-the-redeemer/) (🎩 Mike McG)
 
-***
 ***
 ***2025-02-24:*** 40% of the glaciers in Central Europe [melted between 2000 and 2023](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Glacier_melt_intensifying_freshwater_loss_and_accelerating_sea-level_rise)
 
@@ -515,9 +502,6 @@ yaml_end: true
 ***2025-02-10:*** [“far center”](https://nymag.com/intelligencer/article/pamela-paul-goodbye-to-the-new-york-times-opinion-columnist.html) seems like a useful political category, and this piece on that op-ed pest Pamela Paul is hilarious ~
 
 ***
-***
-***
-***
 ***2025-02-05:*** Yessssssss a [Facebook skullpaper](https://imgflip.com/memegenerator/360192240/Facebook-Skulls-Background) meme generator!
 
 ***2025-02-05:*** Gil Duran’s Nerd Reich on [the blueprint for Musk’s coup](https://www.thenerdreich.com/the-network-state-coup-is-happening-right-now/)
@@ -531,7 +515,6 @@ yaml_end: true
 ***
 ### 2025-01
 
-***
 ***2025-02-01:*** James Fallows offer the kind of [high-level, well-informed context for the DC plane crash](https://fallows.substack.com/p/it-had-been-16-years-since-a-fatal) we need more of
 
 ***2025-02-01:*** Someone named Danyelle Thomas on people who [“were counting on a status quo election where \[they\] could make a morally superior protest vote without serious consequence”](https://www.facebook.com/ddanyellethomas/posts/pfbid0ukG3hqb9bkZMmXZjUZh1A7q1rZsYycLkCqXLiPMa95pui6ScgZyH6LaW4ut7uTadl) and “expected enough voters to do the heavy lifting of a pragmatic choice that would defeat Cheeto Christ Stupid Czar while \[they] get to say \[they] voted morally”
@@ -543,7 +526,6 @@ yaml_end: true
 ***
 ### 2025-01
 
-***
 ***2025-01-29:*** *Really* interesting Bsky thread](https://bsky.app/profile/dorsaamir.bsky.social/post/3lglw6iefus2g) on the whether the [Müller-Lyer illusion](https://en.wikipedia.org/wiki/M%C3%BCller-Lyer_illusion) is culturally informed
 
 ***2025-01-29:*** “During 1965–66, *Mad* magazine attempted a French edition and hired \[Melvin] Van Peebles as editor-in-chief during its run of only five issues.” ([Wikipedia](https://en.wikipedia.org/wiki/Melvin_Van_Peebles))
@@ -562,7 +544,6 @@ yaml_end: true
 ***2025-01-24:*** [a new issue of *The Diagram* is out!](https://thediagram.com/24_4/)
 
 ***
-***
 ***2025-01-16:*** Matt Stoller’s Jan 13 issue of his anti/trust-related newsletter “Big” has a [jaw-dropping list of the regulatory issues “Meta” faces](https://www.thebignewsletter.com/p/monopoly-round-up-la-fires-change) (does anyone really believe in that name?), i.e., why Zuck is groveling up a storm at Mar-a-Lago
 
 ***2025-01-16:*** Jim Henson’s muppets [weren’t always so peace-loving](https://youtu.be/cvXYOFoOzZ4)
@@ -571,8 +552,6 @@ yaml_end: true
 
 ***2025-01-16:*** [a site with zillions of links to English-language literary magazines](https://thepagename.blogspot.com/), with short excerpts of pieces recently ran (🎩SB)
 
-***
-***
 ***
 ***2025-01-11:*** Las Vegas Cybertruck bomber Matthew Livelsberger’s [two “minifestoes,”](https://nevadacurrent.com/wp-content/uploads/2025/01/PO-003a-01-03-25-Livelsbergers-Letters.pdf) less than a page each, basically advocate exterminating half the US population (guess which half!)
 
@@ -587,10 +566,6 @@ yaml_end: true
 ***2025-01-11:*** Robert Luxemburg’s unnverving video [“UNTITLED (2025-01-08)…”](https://www.facebook.com/robert.luxemburg/videos/616193861091272)
 
 ***2025-01-11:*** Will Stancil’s Bluesky thread on our [“massive information infrastructure which privileges conspiracy theories, demagoguery, bigotry, lies, and hysteria”](https://bsky.app/profile/whstancil.bsky.social/post/3lfczzpptz22j) is *well* worth reading (as is his whole feed)
-
-***
-***
-##### *BONUS CONTENT!* 2018
 
 ***
 ***2025-01-04:*** Via the amazing [FIG Projects](http://www.fig-projects.com/) on [Facebook](https://www.facebook.com/figprojects), an intriguing site on [Housing Standardization](https://housingstandardisation.com/)
@@ -631,14 +606,6 @@ An epic list of [“Awesome MacOS Software”](https://github.com/phmullins/awes
 
 ### 2024-12
 
-***
-
-## 2024
-
-### 2024-12
-
-***
-***
 ***2024-12-13:*** Nathan Newman](https://www.researchgate.net/profile/Nathan-Newman-6) on “[The Crisis of Elite Indifference to Corporate Mass Murder](https://nathannewman.substack.com/p/the-crisis-of-elite-indifference),” complete with a “modest proposal” (i.e., *a parody*) to “[l]icense no more than ten CEO murders per year.”
 
 ***2024-12-13:*** *[The Grauniad](https://www.theguardian.com/media/2021/may/12/guardian-200-typo-negative-best-worst-grauniad-mistakes)*’s piece on [synthesizing “mirror microbes” ](https://www.theguardian.com/science/2024/dec/12/unprecedented-risk-to-life-on-earth-scientists-call-for-halt-on-mirror-life-microbe-research) is moderately terrifying.
@@ -648,19 +615,3 @@ An epic list of [“Awesome MacOS Software”](https://github.com/phmullins/awes
 ***2024-12-13:*** This new book on [diagrams in anthropological discourse](https://punctumbooks.com/titles/burning-diagrams-in-anthropology-an-inverse-museum/) is both interesting and ‘‘interesting’’ — the kind of coy, artsy rhetorical style feel verrry late ’80s / early ’90s, and not in a good way.
 
 ***2024-12-13:*** [NYU declared Andrew Ross, one of its finest faculty members, persona non grata](https://www.middleeasteye.net/news/two-nyu-faculty-members-arrested-pro-palestine-protest) after he was arrested at a pro-Pal demo.
-
-##### *BONUS CONTENT!* 1988
-
-***
-***
-
-## 2020
-
-### 2020-07
-
-***
-
-## 2016
-
-### 2016-07
-
