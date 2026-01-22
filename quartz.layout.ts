@@ -35,11 +35,10 @@ export const defaultContentPageLayout: PageLayout = {
 //  Tagline(), // Add tagline below title
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    Component.Graph(),
     Component.Explorer({ sortFn: customSortFn }), // Use external sorting function
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.AllTags(),
   ],
@@ -52,7 +51,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
+    Component.Graph(),
     Component.Explorer({ sortFn: customSortFn }), // Use external sorting function
   ],
   right: [],
