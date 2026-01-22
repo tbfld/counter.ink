@@ -5,9 +5,9 @@ description: This page has been merged with recent
 aliases:
   - micros
 permalink:
-
 publish: true
 yaml_end: true
+enableToc: false
 ---
 
 This page has been merged with [[recent]]. You will be redirected automatically.
