@@ -26,7 +26,7 @@ button.toc-header {
   }
 }
 
-ul.toc-content.overflow {
+ul.toc-content {
   list-style: none;
   position: relative;
   margin: 0.5rem 0;
@@ -34,7 +34,6 @@ ul.toc-content.overflow {
   max-height: 70vh;
   overflow-y: auto;
   overscroll-behavior: contain;
-  list-style: none;
 
   & > li > a {
     color: var(--dark);
