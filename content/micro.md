@@ -30,7 +30,6 @@ yaml_end: true
 ***2026-01-18:*** interview with the [graffiti artist Sluto](https://www.bombingscience.com/sluto-interview/)
 ***2026-01-18:*** David French on [the normative vs prerogative states](http://archive.today/GcR4e)
 ***
-***
 ***2026-01-14:*** “[Why I Will Not Cast My Electoral Vote for Donald Trump]()”
 ***2026-01-14:*** [The China Syndrome and American decline](www.patreon.com/posts/148151858)
 ***
@@ -45,8 +44,6 @@ yaml_end: true
 ***
 ***2026-01-08:*** neatocal for [planning an entire year](https://abetusk.github.io/neatocal/)
 ***2026-01-08:*** alleged Berlin group manifesto: deDOTindymediaDOTorg/nodeSLASH565575
-***
-***
 ***
 ***2025-12-23:*** [RAM price skyockets thanks to OpenAI](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)
 ***
@@ -97,9 +94,7 @@ yaml_end: true
 ***2025-10-31:*** [wtfjusthappenedtoday](https://whatthefuckjusthappenedtoday.com/)
 ***2025-10-31:*** “[Human Only Public License](https://vanderessen.com/posts/hopl/)” (🎩 US)
 ***
-***
 ***2025-10-10:*** [Bill Ayers on “sewer socialism” and free buses](https://www.dopemag.org/articles-1/free-buses-prr67) (🎩 JB)
-***
 ***
 ***2025-10-06:*** Dollar General Carl Schmitt, Curtis Yarvin, has “[think realistically about how to flee the country](https://www.thenerdreich.com/panicked-curtis-yarvin-jd-vance-guru-plans-to-flee-usa/)”
 ***
@@ -110,7 +105,6 @@ yaml_end: true
 ***2025-09-25:*** *Jacobin* as [“the politics of demoralization in service of the Dem Party”](https://www.wsws.org/en/articles/2025/09/25/qbcd-s25.html)
 ***2025-09-25:*** *Teen Vogue* on [rapture ideology](https://www.teenvogue.com/story/the-rapture-didnt-come-tiktok)
 ***2025-09-25:*** a pretty sharp [AI video about MAGA](https://youtu.be/nD_25aSMSFc)
-***
 ***
 ***2025-09-15:*** [kitsch is central to MAGA](https://cybelecanterel.substack.com/p/lost-in-the-kingdom-of-kitsch) (🎩 AO)
 ***
@@ -126,7 +120,6 @@ yaml_end: true
 ***
 ***2025-09-03:*** Western Cell Division, [“Opening Gaps and Filling Them Up...WESTERN CELL DIVISION and You”](https://archive.org/details/western_cell_division_and_you/) (Baltimore, MD: Dialectical Immaterialism Press, 1987)
 ***
-***
 ***2025-08-13:*** David Dayen sheds more light on the fund-raising machines that dominate the Democratic Party — [this time in California](https://prospect.org/politics/2025-08-13-establishment-struggles-control-california-governors-race/)
 ***
 ***2025-08-11:*** a great [Michael Tomasky column](https://newrepublic.com/article/198965/donald-trump-putin-europe-ukraine) on Trump, Putin, UA, and UE
@@ -140,28 +133,19 @@ yaml_end: true
 ***2025-08-08:*** *https://archive.ph/20250808131031/https://www.nytimes.com/2025/08/04/technology/rationalists-ai-lighthaven.html* mentions this [techno-volkish wannabe anthem](https://www.youtube.com/watch?v=aB3uTV5Pyz0
 ***2025-08-08:*** A+ explanation of the [sinking market for US bonds](https://www.facebook.com/permalink.php?story_fbid=pfbid0rH6MQg2YYqhqJeSCttM3uDGCGse6WH98MJW9BFbB6DvwhFpUN9nJmw6BtDMgjAX4l&id=100014591748791)
 ***
-***
 ***2025-05-30:*** high school graduation [hit with fake ticket DOS attack](https://www.newsbreak.com/worcester-telegram-gazette-1590723/4029532153183-counterfeit-ticket-scam-leads-to-parents-missing-worcester-high-school-graduation)
 ***
-***
 ***2025-05-25:*** “I Was Targeted by a Hostile Crypto Spambot Swarm That Revealed [How X’s Algorithm Has Been Truly Broken](https://bylinetimes.com/2025/05/20/x-spam-algorithm-elon-musk-bots/)”
-***
-***
-***
-***
 ***
 ***2025-05-14:*** the [Big Boy graveyard on Google Maps or scene from *The Matrix?*](https://www.google.com/maps/place/Big+Boy+Graveyard/@39.1298382,-84.4879424,3a,48.9y/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICf-YyldA!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4nq8nfuKXRiBsx4G4DiAr42MB85vM6lRTndibgDuxcOZYvRpW4UmqrlmhsGFvOOD6ymafzckVdte3EfpGYtUTfFbzNWvyjGK_oESdvaL-XbrWC1Y2Yi7haKA5kxTUqLn09ztNvPf%3Dw203-h152-k-no!7i4032!8i3024!4m15!1m7!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!2sBig+Boy+Graveyard!8m2!3d39.1297008!4d-84.4876367!16s%2Fg%2F11vy7trg56!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!8m2!3d39.1297008!4d-84.4876367!10e5!16s%2Fg%2F11vy7trg56?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D)
 ***2025-05-14:*** [a letter from concerned Palantir alumni to the tech workers of Silicon Valley](https://s3.documentcloud.org/documents/25930212/the-scouring-of-the-shire.pdf
 ***2025-05-14:*** Apparently, Robert Macfarlane (not sure which one) said “Despair is a luxury and hope is a discipline.”
 ***2025-05-14:*** big props to *The Verge*’s for using [“supposed" and "putative" to describe Trump's minions who were named without qualification or process to replace people who were illegally fired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
 ***
-***
 ***2025-05-08:*** find who owns a publisher [from a book’s barcode](https://whoisbn.net/fr/) (🎩 NTT)
 ***2025-05-08:*** poem [“For a Student Who Used AI to Write a Paper”](https://poets.org/poem/student-who-used-ai-write-paper)
 ***
 ***2025-05-07:*** this guy says John Fetterman’s [always been a mess](https://paydayreport.com/fettermans-long-history-of-toxic-relationships-in-braddock/) (🎩 RP)
-***
-***
 ***
 ***2025-05-01:*** an exoplanet whose [“atmosphere is thick with clouds of vaporized metal, and it rains liquid sapphires and rubies”](https://www.sciencealert.com/planets-record-smashing-iron-wind-hides-a-climate-unlike-anything-weve-seen) (🎩CT)
 ***2025-05-01:*** click whither: [a random website generator](https://randomgenerate.io/random-website-generator
@@ -208,7 +192,6 @@ yaml_end: true
 ***
 ***2025-03-13:*** MFA Houston’s page for [Alexey Titarenko’s photographs](https://emuseum.mfah.org/people/16608/alexey-titarenko/objects)
 ***
-***
 ***2025-03-11:*** Marian Zazeela and La Monte Young’s Music and Light Box [on display in NYC Mar 27 – Apr 12](https://melafoundation.org/music-light-box-2025.html)
 ***2025-03-11:*** Columbia’s own James Schamus [on Trump’s attacks on the university](https://lithub.com/a-columbia-professors-message-to-his-fellow-jewish-faculty-members/)
 ***2025-03-11:*** every US citizen should read [Malcolm Nance on Trump’s plans for #Canada](https://malcolmnance.substack.com/p/urgent-warning-trump-is-planning)
@@ -243,7 +226,6 @@ yaml_end: true
 ***2025-02-26:*** an awful squib about [N5N1 killing sand hill cranes in southern Indiana](https://www.facebook.com/marc.haggerty.3/posts/pfbid02iuYy6Ki5mWpR7ZjARTt149t5N3v3TqdGi6NCn86ieayQvNHyE6ASQgX85j7EskFRl)
 ***2025-02-26:*** on [Christian support for Trump and liberal denialism](https://www.liberalcurrents.com/trump-the-redeemer/) (🎩 Mike McG)
 ***
-***
 ***2025-02-24:*** 40% of the glaciers in Central Europe [melted between 2000 and 2023](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Glacier_melt_intensifying_freshwater_loss_and_accelerating_sea-level_rise)
 ***2025-02-24:*** Peter Sellers’s 1975 ads for TWA are brilliant ([this one](https://youtu.be/Wy26PYeP4aY&t=60) especially), but [the *meta-ad* he made](https://youtu.be/Wy26PYeP4aY?&t=179) is next-*next*-**next**-***next*** level
 ***2025-02-24:*** Wankpanzer vs Pinto [according to a hobbyist stats blog that looks great](https://www.someweekendreading.blog/cybertruck-vs-pinto/)
@@ -274,21 +256,16 @@ yaml_end: true
 ***2025-02-10:*** “[First they came for the cokeheads](https://www.thedailybeast.com/palantir-ceo-alex-karp-trashes-short-sellers-for-coke-habit/) and I did not speak out because I was not a cokehead...”
 ***2025-02-10:*** [“far center”](https://nymag.com/intelligencer/article/pamela-paul-goodbye-to-the-new-york-times-opinion-columnist.html) seems like a useful political category, and this piece on that op-ed pest Pamela Paul is hilarious ~
 ***
-***
-***
-***
 ***2025-02-05:*** Yessssssss a [Facebook skullpaper](https://imgflip.com/memegenerator/360192240/Facebook-Skulls-Background) meme generator!
 ***2025-02-05:*** Gil Duran’s Nerd Reich on [the blueprint for Musk’s coup](https://www.thenerdreich.com/the-network-state-coup-is-happening-right-now/)
 ***2025-02-05:*** [Canada’s tariff list](https://www.canada.ca/en/department-finance/news/2025/02/list-of-products-from-the-united-states-subject-to-25-per-cent-tariffs-effective-february-4-2025.html) included “Unmanned aircraft...Designed for the carriage of passengers” (8806.10.00), “Fitted cases for church bells” (4202.99.10), Catgut (4206.00.10), Burial shrouds (6307.90.10), “Pointe shoes or block toe shoes, for professional dancers employed by full-time dance companies which meet Canada Council standards of professionalism or for ballet students in full-time attendance at a ballet school which meets Canada Council curriculum standards” (6403.59.10), and sugar tongs (8215.10.10)
 ***2025-02-05:*** [Carl T. Bergstrom](https://carlbergstrom.com/) and [Jevin D. West](https://jevinwest.org/) [“spent the last eight months developing the course on large language models (LLMs) that we think every college freshman needs to take”](https://bsky.app/profile/carlbergstrom.com/post/3lheh5aezm22a), called “[Bullshit Machines](https://thebullshitmachines.com/)”
 ***2025-02-05:*** Newly minted AG Pam Bondi [issued a rule](https://news.bloomberglaw.com/antitrust/bondi-confirmed-as-trumps-attorney-general-to-lead-doj-shake-up) that requires spies to be caught doing “more traditional espionage” (tiny cameras and hand-cranked radios?), which is *literally* like saying that thieves have to be caught wearing a black-and-white striped shirt and carrying a canvas bag ovr their shoulder
 ***
-***
 ***2025-02-01:*** James Fallows offer the kind of [high-level, well-informed context for the DC plane crash](https://fallows.substack.com/p/it-had-been-16-years-since-a-fatal) we need more of
 ***2025-02-01:*** Someone named Danyelle Thomas on people who [“were counting on a status quo election where \[they\] could make a morally superior protest vote without serious consequence”](https://www.facebook.com/ddanyellethomas/posts/pfbid0ukG3hqb9bkZMmXZjUZh1A7q1rZsYycLkCqXLiPMa95pui6ScgZyH6LaW4ut7uTadl) and “expected enough voters to do the heavy lifting of a pragmatic choice that would defeat Cheeto Christ Stupid Czar while \[they] get to say \[they] voted morally”
 ***2025-02-01:*** [*Today in Tabs* on Krugman on Krugman leaving the *NYT*](https://www.todayintabs.com/p/goodbye-everybody)
 ***2025-02-01:*** the PPRuNe (Professional Pilots Rumor Network) [thread devoted to the DC crash](https://www.pprune.org/accidents-close-calls/663888-aa5342-down-dca.html)
-***
 ***
 ***2025-01-29:*** *Really* interesting Bsky thread](https://bsky.app/profile/dorsaamir.bsky.social/post/3lglw6iefus2g) on the whether the [Müller-Lyer illusion](https://en.wikipedia.org/wiki/M%C3%BCller-Lyer_illusion) is culturally informed
 ***2025-01-29:*** “During 1965–66, *Mad* magazine attempted a French edition and hired \[Melvin] Van Peebles as editor-in-chief during its run of only five issues.” ([Wikipedia](https://en.wikipedia.org/wiki/Melvin_Van_Peebles))
@@ -300,13 +277,10 @@ yaml_end: true
 ***2025-01-24:*** I don’t understand [how this is possible](https://www.daisukesamejima.com/flatball), but I also don’t understand how it would be impossible — [Jessica Valenti](https://en.wikipedia.org/wiki/Jessica_Valenti)’s *[Abortion, Every Day](https://jessica.substack.com/p/teenager-arrested-in-idaho-continuing)* substack will become more relevant to more people with every day that passes
 ***2025-01-24:*** [a new issue of *The Diagram* is out!](https://thediagram.com/24_4/)
 ***
-***
 ***2025-01-16:*** Matt Stoller’s Jan 13 issue of his anti/trust-related newsletter “Big” has a [jaw-dropping list of the regulatory issues “Meta” faces](https://www.thebignewsletter.com/p/monopoly-round-up-la-fires-change) (does anyone really believe in that name?), i.e., why Zuck is groveling up a storm at Mar-a-Lago
 ***2025-01-16:*** Jim Henson’s muppets [weren’t always so peace-loving](https://youtu.be/cvXYOFoOzZ4)
 ***2025-01-16:*** Steamed buns (yes, those ones) are helping Chinese weapons engineers [“turn the angry king of explosives into a beautiful queen”](https://www.scmp.com/news/china/science/article/3294159/scientists-create-queen-explosives-chinese-steamed-buns)
 ***2025-01-16:*** [a site with zillions of links to English-language literary magazines](https://thepagename.blogspot.com/), with short excerpts of pieces recently ran (🎩SB)
-***
-***
 ***
 ***2025-01-11:*** Las Vegas Cybertruck bomber Matthew Livelsberger’s [two “minifestoes,”](https://nevadacurrent.com/wp-content/uploads/2025/01/PO-003a-01-03-25-Livelsbergers-Letters.pdf) less than a page each, basically advocate exterminating half the US population (guess which half!)
 ***2025-01-11:*** Dennis Cooper has put together [a pretty epic set of images on his blog](https://denniscooperblog.com/lps/)
@@ -315,8 +289,6 @@ yaml_end: true
 ***2025-01-11:*** Meta’s [internal MAGA memo](https://www.cnbc.com/2025/01/10/read-the-memo-meta-announces-end-of-its-dei-programs.html) uses a slippery phrase we’ll be seeing more of, I think: “cognitive diversity”
 ***2025-01-11:*** Robert Luxemburg’s unnverving video [“UNTITLED (2025-01-08)…”](https://www.facebook.com/robert.luxemburg/videos/616193861091272)
 ***2025-01-11:*** Will Stancil’s Bluesky thread on our [“massive information infrastructure which privileges conspiracy theories, demagoguery, bigotry, lies, and hysteria”](https://bsky.app/profile/whstancil.bsky.social/post/3lfczzpptz22j) is *well* worth reading (as is his whole feed)
-***
-***
 ***
 ***2025-01-04:*** Via the amazing [FIG Projects](http://www.fig-projects.com/) on [Facebook](https://www.facebook.com/figprojects), an intriguing site on [Housing Standardization](https://housingstandardisation.com/)
 ***2025-01-04:*** [“Meet The Blind Birder Reimagining Accessibility In The Outdoors”](https://www.sciencefriday.com/segments/blind-birder-accessible-colombia/) (Science Friday)
@@ -334,14 +306,8 @@ yaml_end: true
 ***2025-01-04:*** [“The Cagots of France,”](https://www.picciolettabarca.com/posts/beyond-thought-the-cagots-of-france) persecuted for centuries then utterly forgotten (*La Piccioletta Barca*)
 ***2025-01-04:*** MIT Tech review on [how to pitch them](https://www.technologyreview.com/how-to-pitch-mit-technology-review/)
 ***
-***
-***
-***
 ***2024-12-13:*** Nathan Newman](https://www.researchgate.net/profile/Nathan-Newman-6) on “[The Crisis of Elite Indifference to Corporate Mass Murder](https://nathannewman.substack.com/p/the-crisis-of-elite-indifference),” complete with a “modest proposal” (i.e., *a parody*) to “[l]icense no more than ten CEO murders per year.”
 ***2024-12-13:*** *[The Grauniad](https://www.theguardian.com/media/2021/may/12/guardian-200-typo-negative-best-worst-grauniad-mistakes)*’s piece on [synthesizing “mirror microbes” ](https://www.theguardian.com/science/2024/dec/12/unprecedented-risk-to-life-on-earth-scientists-call-for-halt-on-mirror-life-microbe-research) is moderately terrifying.
 ***2024-12-13:*** As usual, [Astra Taylor is right](https://www.thenation.com/article/society/biden-deliver-debt-relief/).
 ***2024-12-13:*** This new book on [diagrams in anthropological discourse](https://punctumbooks.com/titles/burning-diagrams-in-anthropology-an-inverse-museum/) is both interesting and ‘‘interesting’’ — the kind of coy, artsy rhetorical style feel verrry late ’80s / early ’90s, and not in a good way.
 ***2024-12-13:*** [NYU declared Andrew Ross, one of its finest faculty members, persona non grata](https://www.middleeasteye.net/news/two-nyu-faculty-members-arrested-pro-palestine-protest) after he was arrested at a pro-Pal demo.
-***
-***
-***
