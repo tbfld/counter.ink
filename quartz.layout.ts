@@ -20,7 +20,10 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
+    Component.ConditionalRender({
+      component: Component.ArticleTitle(),
+      condition: (page) => page.fileData.slug !== "recent",
+    }),
     Component.ConditionalRender({
       component: Component.ContentMeta(),
       condition: (page) => page.fileData.slug !== "recent",
@@ -31,7 +34,13 @@ export const defaultContentPageLayout: PageLayout = {
     }),
   ],
   left: [
-    Component.PageTitle(),
+    Component.Flex({
+      direction: "row",
+      components: [
+        { Component: Component.Darkmode() },
+        { Component: Component.PageTitle(), grow: true },
+      ],
+    }),
 //  Tagline(), // Add tagline below title
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
