@@ -1,8 +1,14 @@
-# Archive Workflow for Recent.md
+# Content Management Workflow
 
 ## Overview
 
-This workflow maintains `content/recent.md` as a rolling 6-month window of content while archiving older micro entries to `content/micro.md`.
+This workflow manages your content across two pages:
+- **recent.md**: Rolling 6-month window of ALL entries (micro + boxed)
+- **micro.md**: Cumulative log of ALL micro entries (current + historical)
+
+Two scripts handle this:
+- **sync_micros.py**: Syncs current micros from recent.md → micro.md (run frequently)
+- **archive_old_entries.py**: Removes entries >6 months from recent.md (run monthly)
 
 ## Entry Types
 
@@ -27,27 +33,48 @@ Callout blocks that link to other pages:
 
 ## Usage
 
-### Test First (Recommended)
+### 1. Sync Micros (Run Frequently)
+Ensures all current micro entries from recent.md are in micro.md:
+```bash
+python3 sync_micros.py
+```
+Run this:
+- Whenever you add new micro entries to recent.md
+- As part of your Quartz build process
+- Daily via cron (safe to run repeatedly)
+
+### 2. Archive Old Entries (Run Monthly)
+
+**Test First (Recommended):**
 ```bash
 python3 archive_old_entries.py --dry-run
 ```
 This shows what would be done without making any changes.
 
-### Run Live
+**Run Live:**
 ```bash
 python3 archive_old_entries.py
 ```
 This will:
-1. Archive old micro entries to `content/micro.md`
-2. Remove old entries (both micro and boxed) from `content/recent.md`
-3. Preserve all recent entries (≤6 months old)
+1. Remove old entries (both micro and boxed) from `content/recent.md`
+2. Keep entries ≤6 months old
+3. Note: Micros are already in micro.md from sync_micros.py
 
-## Schedule
+## Automated Schedule
 
-Run this script periodically (e.g., monthly) to keep `recent.md` manageable:
 ```bash
-# Run on the 1st of each month
+# Sync micros daily
+0 0 * * * cd /Users/tbyfield/github/counter.ink && python3 sync_micros.py
+
+# Archive old entries monthly (1st of each month)
 0 0 1 * * cd /Users/tbyfield/github/counter.ink && python3 archive_old_entries.py
+```
+
+## Integration with Quartz Build
+
+To automatically sync micros during build, add to your build process:
+```bash
+python3 sync_micros.py && npx quartz build
 ```
 
 ## Safety
