@@ -4,15 +4,15 @@ title: 2021-07-20 economics as ur-discipline NOT
 description: the success and failure of Paul Krugman
 extract: am I tired of economism, i.e., the ideological belief that the field of economics is a magical baseline, foundational discipline
 created: 2025-03-04 15:28
-updated: 2025-03-04 15:28
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-07-20
 tags:
   - nyt
@@ -20,7 +20,7 @@ tags:
   - economics
   - disciplinarity
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

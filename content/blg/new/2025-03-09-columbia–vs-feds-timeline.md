@@ -6,13 +6,13 @@ extract: This is a quick-and-dirty timeline of events during 2025 leading up to 
 created: 2025-03-09 15:28
 updated: 2025-03-24 09:38
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-09
 tags:
   - timeline
@@ -21,7 +21,7 @@ tags:
   - israel
   - fascism
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 This is a quick-and-dirty / work-in-progress-until-it-isn’t timeline of events during 2025 leading up to (and to a lesser degree following) Trump & Co.’s decision to pull $400M in federal funding from Columbia University.

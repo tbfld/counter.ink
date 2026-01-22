@@ -4,15 +4,15 @@ title: neoligistical things
 description: misc words and phrases I’ve (thought I) coined
 extract: 
 created: 2025-08-08 14:24
-updated: 2025-08-08 14:24
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "true"
-publish: "false"
+
+publish: false
 date: 2025-08-10
 tags:
   - language

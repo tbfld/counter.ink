@@ -4,15 +4,15 @@ title: 2021-08-04 more than just an acknowledgment
 description: following through on land acks
 extract: land acknowledgments have become common among progressive arts and culture organizations, but do these organizations have actual follow-up procedures for responding to, say, someone at the door claiming Native American heritage and requesting free entry?
 created: 2025-03-04 14:18
-updated: 2025-03-04 14:18
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-08-04
 tags:
   - culture
@@ -21,7 +21,7 @@ tags:
   - performance
   - institution
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

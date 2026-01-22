@@ -6,13 +6,13 @@ extract:
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 tags:
   - culture
   - governance
@@ -20,7 +20,7 @@ tags:
   - law
   - media
   - technology
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 *[This piece](https://www.metamute.org/editorial/articles/exporting-apocalypse), a review of Lawrence Lessig’s then-newish book* Code and Other Laws of Cyberspace, *appeared in the London-based* [Mute *magazine](https://www.metamute.org/) (Vol. 1, No. 16 – [Art Wars](https://www.metamute.org/shop/magazine/mute-vol-1-no.-16-%E2%80%93-art-wars)).

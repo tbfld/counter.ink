@@ -4,15 +4,15 @@ title: 2023-03-11 NYT’s five stages of acceptance
 description: The NYT
 extract: We need a Kübler-Rossian scheme to describe the *NYT*’s gradual realization that [the “idea” of converting Manhattan office buildings to residential space is dead
 created: 2025-03-04 14:30
-updated: 2025-03-04 14:30
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2023-03-11
 tags:
   - urbanism
@@ -22,7 +22,7 @@ tags:
   - covid
   - economics
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

@@ -4,15 +4,15 @@ title: 2025-02-20 so many nazis so little time
 description: 
 extract: 
 created: 2025-02-20 21:25
-updated: 2025-02-20 21:25
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "true"
-publish: "false"
+
+publish: false
 date: 
 tags: 
 status: UNF

@@ -6,13 +6,13 @@ extract: you should introduce the idea of your school's "student–administrator
 created: 2025-03-10 00:45
 updated: 2025-03-10 00:45
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2020-04-22
 tags:
   - education
@@ -21,7 +21,7 @@ tags:
   - covid
   - finance
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 Dear faculty — In the coming months you'll hear "student–faculty ratio" mentioned, often in decisive ways. For example, administrators will tell you that, with dropping enrollments, the need to maintain some ratio will require laying off adjuncts or even full-timers. Before that happens, you should introduce the idea of your school's "student–administrator ratio." Do it early and often, and get it on agendas wherever you can. Good luck! Ted

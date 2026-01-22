@@ -4,15 +4,15 @@ title: 2021-04-12 why privatize now
 description: a few thoughts on privatization
 extract: privatize away, as long as the top 6 levels of execs understand the state can renationalize it on equivalent terms
 created: 2025-03-06 12:01
-updated: 2025-03-06 12:01
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-04-12
 tags:
   - governance
@@ -22,7 +22,7 @@ tags:
   - finance
   - ideology
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

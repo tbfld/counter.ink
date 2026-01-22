@@ -4,15 +4,15 @@ title: 2021-07-29 acab and police subjectivity
 description: a few thoughts on J6 police testimony
 extract: take a moment to sit with the wrenching testimony of the Capitol cops
 created: 2025-03-04 14:44
-updated: 2025-03-04 14:44
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-07-29
 tags:
   - police
@@ -20,7 +20,7 @@ tags:
   - j6
   - governance
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

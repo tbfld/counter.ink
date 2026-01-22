@@ -4,14 +4,14 @@ title: 2025-01-24 on internettisms and Elon
 description: 
 extract: 
 created: 2025-01-24 11:13
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: 
+
 publish: 
 date: 2025-01-24
 tags:

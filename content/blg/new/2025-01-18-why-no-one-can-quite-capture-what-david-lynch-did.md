@@ -4,14 +4,14 @@ title: 2025-01-18 why no one can quite capture what David Lynch did
 description: 
 extract: 
 created: 2025-01-18 10:48
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: 
+
 publish: 
 date: 2025-01-18
 tags:

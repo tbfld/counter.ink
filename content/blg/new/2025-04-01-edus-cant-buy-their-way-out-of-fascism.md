@@ -4,15 +4,15 @@ title: 2025-04-01 edus can’t buy their way out of fascism
 description: exactly what it says on the label
 extract: ...and if they did it, a lot of other schools would go ballistic, particularly those that aren’t wealthy
 created: 2025-04-01 10:56
-updated: 2025-04-01 10:56
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-04-01
 tags:
   - education
@@ -21,7 +21,7 @@ tags:
   - economics
   - left
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Now that Trump & Co. have made it clear they’re coming after Harvard too, it’s worth sharing [this squib I posted on Facebook last week](https://www.facebook.com/tbyfield/posts/pfbid0248ppuY7AemQ1BMidPRDTBfpW8uduqVoiVbW4nB2A7b55CcGFSwBpm2WpreUgqPG8l) (with a few edits and context):

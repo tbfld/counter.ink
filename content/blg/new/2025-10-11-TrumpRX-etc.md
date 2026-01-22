@@ -4,21 +4,21 @@ title: 2025-10-11 TrumpRX
 description: analysis and metanalysis of TrumpRX etc
 extract: an unusually crisp example of the the kind of “hypocrisy” that whiny-b rightists are constantly moaning about, and that Trump has a feral, predatory talent for exploiting
 created: 2025-10-11 07:58
-updated: 2025-10-11 08:02
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order:
-enableToc: "true"
+enableToc: true
 permalink:
 aliases:
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-10-11
 tags:
   - healthcare
   - policy
 status:
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Michael Kinnucan wrote ([on FB](https://www.facebook.com/michael.kinnucan/posts/pfbid0TwneWar9gUcavsLHg1qLg5coLxztJq2tHr3eW7gqguE4gEiz4UNFvoyF3J7doKnWl) at least):

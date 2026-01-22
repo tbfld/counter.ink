@@ -4,21 +4,21 @@ title: 2025-03-21 super bon voyage Jonathan Sterne
 description: a memorial for Jonathan Sterne
 extract: 
 created: 2025-03-21 11:02
-updated: 2025-03-21 11:02
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-21
 tags:
   - obituary
   - friends
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 ![[2025-03-21-jonathan-sterne.jpg|wmed relative|center]]

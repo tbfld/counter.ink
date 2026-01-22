@@ -4,22 +4,22 @@ title: 2025-05-22 the silence of the lames
 description: on the assassination of two Israeli diplomats
 extract: If you have the moral and ethical compass to call Israel’s actions genocidal, you have the moral and ethical compass to call assassinating diplomats *absolutely unacceptable*.
 created: 2025-05-22 10:20
-updated: 2025-05-22 10:20
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-05-22
 tags:
   - diplomacy
   - violence
   - israel
 status: final
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 I hope everyone, whatever their stance on Gaza and Israel, measures the responses to the assassination of the two Israeli embassy officials. I don’t mean everyone should get lost in the specifics like the particular merits of this or that detailed argument offered by so-and-so, but the generalities: how much people say, how often, how clearly, how committed they are, how loud or strident their language is, etc. My hunch: the overwhelming majority of people who present themselves as profoundly committed to the Palestinian cause won’t say a word. If so, I think that silence says a lot.  

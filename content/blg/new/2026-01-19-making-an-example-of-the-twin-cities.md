@@ -4,7 +4,7 @@ title: 2026 01 19
 description: Trump and the Twin Cities
 extract: here aren’t many more escalatory steps Trump & Co can take before they open fire on an unarmed crowd, and I think they’ll do that soon
 created: 2026-01-18 19:50
-updated: 2026-01-18 19:50
+updated: 2026-01-20 12:25
 author: tb
 images: false
 order:
@@ -17,7 +17,7 @@ tags:
   - politics
   - fascism
 status:
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 (original to [FB](https://www.facebook.com/tbyfield/posts/pfbid032KiBobukb5EiW2LFafin89gn4XMFYVxNS4aNZxahXUMR9h7tQ262JiUy847RX2cBl))

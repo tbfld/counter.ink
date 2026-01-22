@@ -6,19 +6,19 @@ extract:
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 tags:
   - architecture
   - theory
   - media-analysis
   - aesthetics
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 *This is a writeup of the three-day [Architecture and Situated Technologies](https://situatedtechnologies.net/index.html%3Fq=node%252F1.html) symposium held in New York on Oct. 19–21 2006. The piece [appeared](https://www.metamute.org/editorial/articles/what-we-have-here-failure-to-communicate-architecture-and-situated-technologies) in the London-based* [Mute *magazine](https://www.metamute.org/) (9 Jan. 2007).*

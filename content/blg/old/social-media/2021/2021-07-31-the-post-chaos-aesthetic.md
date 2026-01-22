@@ -4,15 +4,15 @@ title: 2021-07-31 the post-chaos aesthetic
 description: a few thoughts on the aesthetic that came after fractals etc
 extract: Has there been any serious critical writing about this kind post-chaos aesthetic?
 created: 2025-03-04 14:38
-updated: 2025-03-04 14:38
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2023-07-31
 tags:
   - aesthetics
@@ -20,7 +20,7 @@ tags:
   - criticism
   - psychedelics
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

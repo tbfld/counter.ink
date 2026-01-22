@@ -4,15 +4,15 @@ title: 2025-03-24 I Claudius
 description: a squib about the 1976 BBC series
 extract: made at the nadir (though I’d say height) of a certain moment in postwar British culture when everything that had been inherited and fallen into decay broke down all at once (the US equivlaent would be NYC ca. 1976)
 created: 2025-03-24 10:33
-updated: 2025-03-24 10:33
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-24
 tags:
   - media
@@ -21,7 +21,7 @@ tags:
   - politics
   - economics
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 From the 1976 BBC series *I, Claudius*: 

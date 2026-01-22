@@ -4,15 +4,15 @@ title: 2021-08-02 reading The Fifth Risk
 description: a short note on Michael Lewis’s book
 extract: a sort of redemptive aspect as the focus shifts from their destruction to what, in their ignorance and belligerence, they tried to destroy
 created: 2025-03-04 14:24
-updated: 2025-03-04 14:24
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-08-02
 tags:
   - books
@@ -20,7 +20,7 @@ tags:
   - right
   - institution
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

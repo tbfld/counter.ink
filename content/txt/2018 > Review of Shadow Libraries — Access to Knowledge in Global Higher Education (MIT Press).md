@@ -6,13 +6,13 @@ extract:
 created: 2025-01-05 00:22
 updated: 2025-02-14 22:04
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-01-05
 tags:
   - law
@@ -23,7 +23,7 @@ tags:
   - crime
   - intellectual-property
 status: final
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 [This review](https://link.springer.com/article/10.1007/s12109-018-9604-1) was an invited review of Joe Karaganis, ed., [*Shadow Libraries: Access to Knowledge in Global Higher Education*](https://mitpress.mit.edu/9780262535014/shadow-libraries/) (Cambridge, MA: MIT Press, 2018). Joe and I were and remain colleagues (we co-founded [Open Syllabus](https://www.opensyllabus.org/) and heads it up, while I serve on its board). I disclosed the potential conflict of interest to the journal, *Publishing Research Quarterly*; they felt that my deep knowledge of the interlocking fields — based on decades of experience, including [[1999–2001 > the roving_reporter|ICANN]], [[2002 > The Blur-Banff Project|Blur / Banff]], [[2010 > “Safe•Connect — A Report”|EFF]], Yale Law School (where I was a visiting fellow 2008–2010) and NYU (visiting scholar (2014–2015), and [advocacy efforts](https://custodians.online/) — far outweighed any concerns.

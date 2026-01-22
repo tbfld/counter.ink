@@ -4,23 +4,23 @@ title:
 description: recently recent (not recently posted but old)
 extract:
 created: 2025-11-03 20:20
-updated: 2025-12-25 09:48
+updated: 2026-01-21 14:51
 author: tb
-images: "false"
+images: false
 order: "55"
 enableToc:
 permalink:
-draft:
-publish: "true"
+
+publish: true
 date: 2025-12-29
 tags:
   - index
 aliases:
   - index
   - home
-notitle: "true"
+notitle: true
 status: published
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 > [!info]- More...

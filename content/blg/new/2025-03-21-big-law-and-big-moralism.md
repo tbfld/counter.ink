@@ -4,15 +4,15 @@ title: 2025-03-21 big law and big moralism
 description: a rant about the left’s descent into bombastic moralism
 extract: Every petty foible is inflated into the seed of some cosmic evil, every problematic association is treated as a terminal infection, every dubious word or deed is a stain that won’t wash out, everyone and everything is “complicit,” and every shred of skepticism is a revelation that someone “really” an unrepentant, unreconstructed revanchist orc bent on restoring an imaginary joyless, endless night.
 created: 2025-03-21 13:04
-updated: 2025-03-21 13:04
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-21
 tags:
   - law
@@ -21,7 +21,7 @@ tags:
   - fascism
   - institution
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Rachel Cohen, a third-year finance associate at Skadden, Arps, &c &c “posted screenshots on LinkedIn of the resignation email she said she sent to her entire firm,” [which included the following statement:](https://www.businessinsider.com/skadden-lawyer-resigns-firms-response-to-trump-paul-weiss-2025-3)

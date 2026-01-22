@@ -6,20 +6,20 @@ extract:
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 tags:
   - email
   - archives
   - internet
   - theory
   - history
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 This essay appeared in Clemens Apprich and Felix Stalder, eds.,*[Vergessene Zukunft: Radikale Netzkulturen in Europa](https://monoskop.org/images/f/fe/Apprich_Clemens_Stalder_Felix_Hg_Vergessene_Zukunft_Radikale_Netzkulturen_in_Europa_2012.pdf#page=35

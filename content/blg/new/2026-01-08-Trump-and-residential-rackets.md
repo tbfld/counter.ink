@@ -4,21 +4,21 @@ title: 2026-01-08 Trump and residential rackets
 description: a few thoughts on Trump’s noise about institutional RE investors
 extract: this ‘policy’ would be an effort to get his arms around affordability, but if he follows though at all the implications would be staggering*
 created: 2026-01-08 11:41
-updated: 2026-01-08 11:41
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order:
-enableToc: "true"
+enableToc: true
 permalink:
 aliases:
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2026-01-08
 tags:
   - politics
   - realestate
 status:
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 This stray news about Trump and residential housing is really curious, no? From [WTFJHT](https://whatthefuckjusthappenedtoday.com/2026/01/07/day-1814/):

@@ -4,14 +4,14 @@ title: 2025-01-16 Schrodinger’s razor
 description: 
 extract: 
 created: 2025-01-16 21:23
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: 
+
 publish: 
 date: 2025-01-16
 tags:

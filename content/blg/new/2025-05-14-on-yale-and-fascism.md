@@ -4,15 +4,15 @@ title: 2025-05-14 on yale and fascism
 description: a few thoughts on scholars fleeing fascism and Yale’s silence
 extract: Taking up that challenge should be seen as a badge of honor; and, by the same token, avoiding it might be seen many as a badge of shame. >
 created: 2025-05-14 10:35
-updated: 2025-05-14 10:35
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-05-14
 tags:
   - fascism
@@ -20,7 +20,7 @@ tags:
   - institution
   - education
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 I should write something more nuanced, but I’m feeling a bit busy and distracted, so here‘s what I [posted on FB](https://www.facebook.com/tbyfield/posts/pfbid02wTbBFcsn7rgJbnoi7bnALKChss8RvztvhMfAfxf4YgDsnL4AGADAf6QA67esuivBl) about today’s NYT piece [“We Study Fascism. And We’re Leaving the U.S.”](https://www.nytimes.com/2025/05/14/opinion/yale-canada-fascism.html)

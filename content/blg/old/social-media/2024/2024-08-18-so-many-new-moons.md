@@ -4,15 +4,15 @@ title: 2024-08-18 so many new moons
 description: 
 extract: 
 created: 2024-11-24 10:40
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2024-11-24
 tags:
   - language

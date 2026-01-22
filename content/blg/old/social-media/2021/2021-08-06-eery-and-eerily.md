@@ -4,15 +4,15 @@ title: 2021-08-6 eery and eerily
 description: 
 extract: “eerily” means “management is nervous about this statement”
 created: 2025-03-04 13:23
-updated: 2025-03-04 13:23
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-08-06
 tags:
   - media
@@ -20,7 +20,7 @@ tags:
   - language
   - anonymity
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 

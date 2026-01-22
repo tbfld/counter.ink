@@ -6,16 +6,16 @@ title: image stream
 description: a stream of pix that pique my interest
 extract: 
 created: 2025-08-13 10:15
-updated: 2025-08-13 10:15
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 tags:
   - image
   - media
-draft: "false"
+
 order: 
 aliases: 
-publish: "true"
+publish: true
 yaml_end: true
 ---
 

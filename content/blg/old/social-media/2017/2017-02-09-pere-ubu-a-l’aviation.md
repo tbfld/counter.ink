@@ -8,16 +8,16 @@ updated: 2025-02-14 22:04
 author: "tb" 
 images: “true”
 order: 
-enableToc: "true" 
+enableToc: true 
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+
+publish: true 
 date: 2017-02-09
 tags:
   - needs_tags
 status:
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 

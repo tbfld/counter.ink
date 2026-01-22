@@ -4,15 +4,15 @@ title: 2025-03-25 Trump and “nuclear codes” — round 2
 description: a few thoughts on rising nuclear anxieties
 extract: The US nuclear policy decision tree includes operational branches that assume civilian government is in dispute, unreachable, incompetent, unverifiable, or nonexistent — so civilian nuclear control isn’t so simple.
 created: 2025-03-25 09:50
-updated: 2025-03-25 09:50
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-25
 tags:
   - nuclear
@@ -22,7 +22,7 @@ tags:
   - left
   - Canada
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 A Canadian friend mentioned concerns about the likelihood that the Trump administration would use nuclear weapons, either deliberately (because they’re ignorant, belligerent lunatics) or accidentally (as CCing the editor of *The Atlantic* on war plans in Yemen made plain). This, with a few edits, was my response:

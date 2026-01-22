@@ -4,22 +4,22 @@ title: 2020-08-07 the sudden-not-sudden switch to a virtual semester
 description: edu admins suddenly realize what was obvious for months
 extract: Who could have imagined that a country full of people losing their shit with spring isolation would say f- it come summer?
 created: 2025-03-07 10:12
-updated: 2025-03-07 10:12
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2020-08-07
 tags:
   - covid
   - education
   - institution
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 

@@ -4,15 +4,15 @@ title: 2503-09 elite capitulation and popular resistance
 description: I’m shocked...shocked! that those with the most to lose are the first to give in
 extract: If you’re looking for how to capitulate to fascists, look up to “elites” and anyone else who wears the mantle of superiority. But if you’re looking for ways to fight them, look down.
 created: 2025-03-09 12:24
-updated: 2025-03-09 12:24
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-09
 tags:
   - media
@@ -22,7 +22,7 @@ tags:
   - institution
   - elites
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 As I skim the media to see how people, institutions, and networks are reacting to Trump’s mayhem, the striking thing isn’t that so many are capitulating — it’s how many outlets and people express shock that \<pearl_clutch> even *elites* are capitulating \</pearl_clutch>.

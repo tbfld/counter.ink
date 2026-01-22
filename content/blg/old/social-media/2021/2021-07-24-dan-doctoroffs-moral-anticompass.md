@@ -4,18 +4,18 @@ title: 2021-07-24 Dan Doctoroff’s moral anticompass
 description: Doctoroff on NYC’s dining sheds
 extract: if he’s for it you should be agin it
 created: 2025-03-04 15:24
-updated: 2025-03-04 15:24
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-07-24
 tags: 
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

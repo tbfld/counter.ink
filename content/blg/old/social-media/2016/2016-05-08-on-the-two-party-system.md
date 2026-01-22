@@ -4,15 +4,15 @@ title: 201605 08 on the two party system
 description: 
 extract: 
 created: 2024-11-17 17:08
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 tags:
   - institution
 status: 

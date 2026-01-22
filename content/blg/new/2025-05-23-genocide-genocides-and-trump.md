@@ -4,15 +4,15 @@ title: 2025-05-23 genocide, genocides, and Trump
 description: a few thoughts on where we’re at
 extract: Trump was and is perfectly willing— even eager — to kill vast numbers of people in order to achieve his dreams of revanchist power
 created: 2025-05-23 11:55
-updated: 2025-05-23 11:55
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-05-23
 tags:
   - politics
@@ -21,7 +21,7 @@ tags:
   - left
   - culture
 status: draft
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Over the last year and a half, the US left in particular has made a fetish of genocide, partly for reasons that are both painfully real — the Netanyahu regime’s cynical, systematic, and indiscriminate annihilation of an entire region and all the people in it — and partly for imaginary, related to the evolution of leftism in the US, which in some ways increasingly feels like a sort of counter-MAGA. The basic point is that, like every other word in the world, genocide has different meanings *and different ways of meaning*, which depend on context at every scale, from the personal histories of those speaking and listening to international legal structures and processes. It's my sense that the debates that have attended this tend to oscillate between three ways of talking about genocide: (1) legal definitions, (2) common-sense observations, and (3) emotional accusations. But there are other ways of talking about genocide that I think have gotten lost in the shuffle: (4) historical associations and (5) underlying logic.

@@ -4,15 +4,15 @@ title: 2021-03-04 mass murderer motives
 description: thoughts on why cops obsess over motives
 extract: It’s a way of deflecting from the plain facts of large-scale death
 created: 2025-03-06 13:21
-updated: 2025-03-06 13:21
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-03-04
 tags:
   - crime
@@ -20,7 +20,7 @@ tags:
   - police
   - media
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 ![[2021-03-04-nyt-mass-murder-motives.jpg|wmed relative|center]]

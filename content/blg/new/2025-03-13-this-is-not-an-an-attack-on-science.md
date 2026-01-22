@@ -4,15 +4,15 @@ title: 2025-03-13 this is not an an attack on science
 description: Trump is attacking higher ed, not “science,” and that misframing within academia is a catastrophic mistake
 extract: These aren’t attacks on science, they’re attacks on the secular, democratic, civil, progressive, meritocratic, knowledge-based ideals and institutions that made science possible.
 created: 2025-03-12 19:22
-updated: 2025-03-13 22:06
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-13
 tags:
   - fascism
@@ -21,7 +21,7 @@ tags:
   - science
   - governance
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Scientists need to stop reflexively calling what Trump is doing is “an attack on science.” It *includes* that, yes, but it isn’t limited to it — not even close. Widespread detentions of immigrants? *Not science.* Corrupt, incompetent appointments across the federal government? *Not science.* Book-burnings and library purges? *Not science.* Reactionary anti-DEI curricular diktats? *Not science.* Across-the-board cuts in federal funding? *Not science.* “Deconstructing the administrative state”? *Not science.* Exploiting “antisemitism”? *Not science.* Singling out Columbia for an increasingly ‘all-of-government’ assault? *Not science.* Issuing a watchlist to threaten sixty universities by name? *Not science.* Extrajudicial arrests? *Not science.* Corrupt exemptions for NYU, where Barron attends? *Not science.* These aren’t attacks on science, they’re attacks on the secular, democratic, civil, progressive, meritocratic, knowledge-based ideals and institutions that made science possible.

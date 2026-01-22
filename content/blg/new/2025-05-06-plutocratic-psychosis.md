@@ -4,21 +4,21 @@ title: 2025-05-06 plutocratic psychosis
 description: text-filtering a short essay about the madness of the rich
 extract: “Unlike delusional patients in a psychiatric ward who believe they should redesign global governance, billionaires with similar delusions can actually implement their vision”
 created: 2025-05-07 10:58
-updated: 2025-05-07 10:58
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-05-07
 tags:
   - wealth
   - psychology
 status: final
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Over on Facebook, [Richard David Hames](https://www.facebook.com/richard.d.hames) — that’s all I know about him — wrote [something pretty sharp](https://www.facebook.com/richard.d.hames/posts/pfbid023x9wFiWikVfYjor8t7Aicxw3mWzkXA3ySHibLdGFLD3WeN1ypFtfJU8EJF1jmXal). In particular, it does a better-than-average job of to addressing a genuinely urgent issues we face: how to navigate the messy boundaries between individual psychology and its concrete consequences. Hames’s analysis still suffers from an excessive interest in the inner life of authoritarians. But unlike most liberal-ish commentary — which obsessively accuses people of hypocrisy, “ironically” regurgitates liars’ talking points, and relies on trite internettisms (“I’ll just leave this here’) rather than analyze specific issues — he at least gestures toward the challenge of how to *solve* the problem of oligarchs leading the world over a cliff.

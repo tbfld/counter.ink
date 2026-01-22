@@ -6,16 +6,16 @@ extract:
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: "true"
-publish: "false"
+
+publish: false
 tags:
   - needs_tags
-RSS: "false"
+RSS: false
 status: UNF
 yaml_end: true
 ---

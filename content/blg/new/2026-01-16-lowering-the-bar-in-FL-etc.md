@@ -4,11 +4,11 @@ title: 2026-01-16-lowering the bar in FL etc
 description: a few thoughts the move to end ABA control of law school accreditation
 extract: a witches’ brew of MAGA spoor, Christian Dominionists, assorted influencers and cryptobros, and miskellaneous krackpot konspiracy types
 created: 2026-01-16 11:11
-updated: 2026-01-16 11:11
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order:
-enableToc: "true"
+enableToc: true
 permalink:
 aliases:
 publish: true
@@ -17,7 +17,7 @@ tags:
   - law
   - education
 status:
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 This is much more serious than 99% of the daily provocations the left-leaning half of the US consumes daily with relish and ketchup.

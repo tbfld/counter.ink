@@ -6,13 +6,13 @@ extract: For several years I had haphazardly clipped newspaper and magazine imag
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
 author: "tb"
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: copsculpture
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 1993-01-01
 tags:
   - art
@@ -24,7 +24,7 @@ tags:
   - media-analysis
   - media-analysis
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 “Cop Sculpture” was an exhibition I mounted with Lincoln Tobier in 1993 — or, as the poster said, “one project, two installations,” at two galleries across the street from each other.
