@@ -6,13 +6,13 @@ extract: “Gloss” was the first exhibition I made with my then-collaborator, 
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
 author: "tb"
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: gloss
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 1991-09-06
 tags:
   - art
@@ -22,7 +22,7 @@ tags:
   - media-analysis
   - collaboration
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 ![[gloss.jpeg|relative wmed|left]]

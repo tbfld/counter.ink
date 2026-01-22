@@ -4,15 +4,15 @@ title: 2025-03-25 DOD says signal is a no-no
 description: another quickie on the Signal / Atlantic thing
 extract: this kind of signaling is how bureaucracies actually work
 created: 2025-03-25 14:43
-updated: 2025-03-25 14:43
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-25
 tags:
   - security
@@ -20,7 +20,7 @@ tags:
   - law
   - communication
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 ![[2025-03-25-signal-opsec-email.jpeg|wmed relaytive|center]]

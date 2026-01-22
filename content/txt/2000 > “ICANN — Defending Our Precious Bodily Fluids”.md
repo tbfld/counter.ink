@@ -6,19 +6,19 @@ extract:
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 tags:
   - international
   - governance
   - language
   - institution
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 *This piece appeared in Heise’s online journal* Telepolis, *edited by my late friend [Armin Medosch](https://en.wikipedia.org/wiki/Armin_Medosch), *on 28 November 2001 ([link](https://www.telepolis.de/features/ICANN-Defending-Our-Precious-Bodily-Fluids-3422697.html)).

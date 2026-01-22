@@ -4,22 +4,22 @@ title: 2020-05-30 trumpian necropolitics
 description: a stream of tweets says a lot about Trump’s desire for bloodshed
 extract: Does he want to see chaos spread and more cities burn?
 created: 2025-03-09 23:14
-updated: 2025-03-09 23:14
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2020-05-30
 tags:
   - violence
   - governance
   - fascism
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 ![[2020-05-30-trump-tweets.jpg|wmed relative|center]]

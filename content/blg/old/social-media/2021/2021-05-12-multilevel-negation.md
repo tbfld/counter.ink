@@ -4,15 +4,15 @@ title: 2021-05-12 multilevel negation
 description: cognitive training for liberal denialism
 extract: A headline that consists of a half-dozen levels of negation
 created: 2025-03-04 21:46
-updated: 2025-03-04 21:46
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-05-12
 tags:
   - nyt

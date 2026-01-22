@@ -4,22 +4,22 @@ title: 2025-03-13 relic of a simpler time
 description: a relic of a simpler time
 extract: ...not even a year ago, when Trump was convicted of 34 felonies.
 created: 2025-03-13 10:44
-updated: 2025-03-13 10:44
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2024-05-31
 tags:
   - law
   - governance
   - nostalgia
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 ...not even a year ago, when Trump was convicted of 34 felonies.

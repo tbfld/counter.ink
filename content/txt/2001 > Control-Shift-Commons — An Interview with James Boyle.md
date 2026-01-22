@@ -6,19 +6,19 @@ extract:
 created: 2024-11-17 17:07
 updated: 2025-02-14 22:04
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 tags:
   - law
   - theory
   - activism
   - academia
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 *This interview with [James Boyle](http://www.law.duke.edu/boylesite/boylebio.htm) [appeared](https://www.metamute.org/editorial/articles/control-shift-commons) in the July 2001 London-based* [Mute *magazine](https://www.metamute.org/) (Vol. 1, No. 18 — [I Am The Network](https://www.metamute.org/shop/magazine/mute-vol-1-no.-18-%E2%80%93-i-am-network)).*

@@ -4,15 +4,15 @@ title: 2021-04-23 Interview with Nabil Ahmed
 description: Ecocide as an international crime
 extract: 
 created: 2025-03-04 22:04
-updated: 2025-03-04 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-04-23
 tags:
   - ecocide
@@ -20,7 +20,7 @@ tags:
   - law
   - international
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

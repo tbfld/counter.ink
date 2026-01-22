@@ -4,20 +4,20 @@ title: software
 description: interesting software, maybe
 extract: 
 created: 2025-03-10 23:15
-updated: 2025-03-10 23:15
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-10
 tags:
   - software
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 - [RSS Lookup](https://www.rsslookup.com/) (added 2026-01-19): exactly what it says on the label

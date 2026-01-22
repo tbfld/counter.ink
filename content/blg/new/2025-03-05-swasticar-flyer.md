@@ -4,25 +4,25 @@ title: 2025-03-05 swasticar flyer
 description: a convenient pdf for flyering Teslas
 extract: 
 created: 2025-03-05 11:32
-updated: 2025-03-29 21:36
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: swasticar
 aliases:
   - swasticar
   - wankpanzer
   - incelcamino
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2024-03-05
 tags:
   - activism
   - print
   - antifascism
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 ***

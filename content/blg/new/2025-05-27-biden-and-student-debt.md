@@ -4,15 +4,15 @@ title: 2025-05-27 biden and student debt
 description: Biden never got credit for one of his signature policies
 extract: he could and should have waved his magic wand and said "SHAZAM! NO SUCH THING ANYMORE!"
 created: 2025-05-27 10:21
-updated: 2025-05-27 10:21
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-05-27
 tags:
   - education
@@ -20,7 +20,7 @@ tags:
   - democrats
   - age
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 A friend shared a meme about student debt that pointed out something obvious but rarely noted. Many borrowers have long since paid off the principle and even quite a bit of interest; the debt they continue to struggle under is often just a result of the spread between sane and insane interest rates. My reply:

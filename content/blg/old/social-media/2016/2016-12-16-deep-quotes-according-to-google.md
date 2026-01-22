@@ -4,15 +4,15 @@ title: 2016-12-16 deep quotes according to google
 description: 
 extract: 
 created: 2024-11-17 17:08
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb" 
-images: "true"
+images: true
 order: 
-enableToc: "true" 
+enableToc: true 
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+
+publish: true 
 date: 2016-12-16
 tags:
   - needs_tags

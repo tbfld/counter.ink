@@ -4,22 +4,22 @@ title: 2025-08-11 learning to read corruption
 description: what we can learn from an ICE raid in Tallahassee in late May
 extract: if corruption is the norm, we need to sharpen our skills in terms of how we read it
 created: 2025-08-11 09:50
-updated: 2025-08-11 09:50
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-08-11
 tags:
   - corruption
   - immigration
   - politics
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Imma up this from a comment because it seems like a useful model for how to think about the evolution of corruption around Trump:  

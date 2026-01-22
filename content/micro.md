@@ -5,8 +5,8 @@ description: This page has been merged with recent
 aliases:
   - micros
 permalink:
-draft: "false"
-publish: "true"
+
+publish: true
 yaml_end: true
 ---
 

@@ -6,14 +6,14 @@ extract:
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases:
   - cablegate
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2011-11-02
 tags:
   - art
@@ -23,7 +23,7 @@ tags:
   - publishing
   - books
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 In December 2010, when Amazon booted Wikileaks off of AWS (Amazon Web Services) without any clear or credible explanation, I decided to look into whether their decision was mainly technical or political. At the time, Amazon’s dominance over the *book* trade was becoming a cause for serious concern — and their acquisition of a print-on-demand service, which they rebranded as Createspace and folded into their Kindle operations (then just a few years old), added fuel to the fire. Amazon met these concerns with broad claims that its various operations operated independently of each other, so — in theory — whatever AWS “policy” justified cutting off Wikileaks should not be a factor for Createspace. To test that, I created a book that purported to contain Wikileaks’s so-called “Cablegate” leaks. I used the open-source application [Image Magick](https://imagemagick.org/index.php) to generate hundreds of pages of random pixels, a bit like full-page QR Codes, and uploaded them along with all the relevant materials for a book — a cover, a blurb, and so on. The blurb was carefully worded to invite that interpretation without engaging in false advertising:

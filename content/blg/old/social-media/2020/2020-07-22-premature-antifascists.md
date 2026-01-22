@@ -4,15 +4,15 @@ title: 2020-07-22 premature antifascists
 description: thoughts on the struggle of Serious People to use Serious Words
 extract: It’s un/fun to watch Serious People learn to use the word ‘fascist.’
 created: 2024-11-17 17:08
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: tb
 images: 
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2020-07-22
 tags:
   - culture
@@ -21,7 +21,7 @@ tags:
   - left
   - right
 yaml_end: true
-RSS: "true"
+RSS: true
 ---
 [This is long but, hopefully, worth it.](https://eand.co/is-it-fascism-yet-402c2ec44723)
 

@@ -4,15 +4,15 @@ title: 2021-04-03 structural aholes
 description: two great landlords imply the existence of hundreds of thousands of not great landlords
 extract: the overwhelming majority of landlords are structural *ssholes
 created: 2025-03-06 12:12
-updated: 2025-03-06 12:12
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-04-03
 tags:
   - nyt
@@ -21,7 +21,7 @@ tags:
   - media
   - cultural-commentary
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 

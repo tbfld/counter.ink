@@ -4,14 +4,14 @@ title: 2008-07-14 dj spooky on stanislaw lem
 description: 
 extract: 
 created: 2024-11-17 17:08
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: 
+
 publish: 
 date: 2008-07-14
 tags:

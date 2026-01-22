@@ -4,15 +4,15 @@ title: 2020-05-27 covid and aids
 description:
 extract:
 created: 2024-11-17 17:08
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
 images:
 order:
-enableToc: "true"
+enableToc: true
 permalink:
 aliases:
-draft: "false"
-publish: "true"
+
+publish: true
 tags: 1980s, healthcare
 yaml_end: true
 ---

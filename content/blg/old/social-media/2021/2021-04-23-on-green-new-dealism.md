@@ -4,15 +4,15 @@ title: 2021-04-23 on green new dealism
 description: what the US needs to do first
 extract: “Does the White House want to helm a spaceship or a lifeboat?”
 created: 2025-03-04 22:45
-updated: 2025-03-04 22:45
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-04-23
 tags:
   - nyt
@@ -21,7 +21,7 @@ tags:
   - internet
   - environmentalism
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

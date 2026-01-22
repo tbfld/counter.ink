@@ -4,15 +4,15 @@ title: 25-03-09 Trump, higher ed, and Judaism
 description: on framing Trump's attack on Columbia in terms of “Judaism”
 extract: If the fires that were set and continue to be stoked every day by ultraists like Hamas and Netanyahu consume US higher ed, the entire sector — all of it — will burn to the ground.
 created: 2025-03-09 11:07
-updated: 2025-03-09 11:07
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-09
 tags:
   - education
@@ -23,7 +23,7 @@ tags:
   - protest
   - activism
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Robert Scott Horton, who lots of people follow on social media (and with good reason) occasionally makes semi-spectacular blunders, and this — [framing Trump's attack on higher ed as an attack on Jews](https://www.facebook.com/scott.horton.5648/posts/pfbid0MKuHmJBkkSCdJFA2BjsMa9H6BMWbw3cCKxjCYwsVebWZWAuwdKVWdE3H1uA29y7rl) — is a *big* one. [The *NYT* article in question](http://archive.today/2025.03.09-055235/https://www.nytimes.com/2025/03/08/us/columbia-trump-colleges-antisemitism.html) lists the targets as Columbia, Harvard, GWU, JHU, NYU, Northwestern, UCLA, UCB, U Minn, USC. Here are more accurate lists of schools with the highest proportion of Jewish students: 

@@ -6,13 +6,13 @@ extract:
 created: 2025-02-26 09:20
 updated: 2025-02-26 09:20
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-02-26
 tags:
   - academia

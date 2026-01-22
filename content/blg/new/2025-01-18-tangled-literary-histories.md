@@ -4,14 +4,14 @@ title: 2025-01-18 tangled literary histories
 description: 
 extract: 
 created: 2025-01-18 11:50
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: 
+
 publish: 
 date: 2025-01-18
 tags:

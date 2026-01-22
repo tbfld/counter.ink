@@ -4,15 +4,15 @@ title: 2025-03-21 alma mater
 description: "Daniel Chester French's plaster maquette for “Alma Mater” at Columbia:"
 extract: "Daniel Chester French's plaster maquette for “Alma Mater” at Columbia:"
 created: 2025-03-21 22:08
-updated: 2025-03-21 22:08
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-21
 tags:
   - art
@@ -20,7 +20,7 @@ tags:
   - academia
   - columbia
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Via [Michael Lobel](https://bsky.app/profile/mlobelart.bsky.social) on Bsky, Daniel Chester French's plaster maquette for his “Alma Mater” sculpture at Columbia ([link](https://bsky.app/profile/mlobelart.bsky.social/post/3lkw6aji75k2g)):

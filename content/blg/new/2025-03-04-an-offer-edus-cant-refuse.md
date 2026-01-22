@@ -4,22 +4,22 @@ title: 2025-03-04 an offer edus can’t refuse
 description: Trump & Co will give Columbia and other edus a very stark choice
 extract: "the Trump admin will give schools the option of continuing to operate on a probationary basis if they agree to go into a form of receivership. If so, leadership will face a very stark choice: either accept these state-imposed leaders or wind down operations."
 created: 2025-03-13 21:14
-updated: 2025-03-13 21:14
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-04
 tags:
   - education
   - academia
   - fascism
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 ([Original on FB](https://www.facebook.com/tbyfield/posts/pfbid028m9MT5n7M2vMBMTLd7Mqi8V2gewWH13UFDDqKcPGW9WsiYEYvhVvLMWNnXQh6cARl))

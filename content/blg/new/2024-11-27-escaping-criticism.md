@@ -4,14 +4,14 @@ title: 2024-11-27 escaping criticism
 description: 
 extract: 
 created: 2024-11-27 21:29
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: 
+
 publish: 
 date: 2024-11-27
 tags:

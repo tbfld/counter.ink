@@ -4,15 +4,15 @@ title: 2025-05-20 a modest book proposal
 description: AI is comic not tragic
 extract: It’s a pity that we’re at a point, historically speaking, when — justified or not — we view everything through the lens of tragedy rather than comedy.
 created: 2025-05-20 11:35
-updated: 2025-05-20 11:35
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-05-20
 tags:
   - publishing
@@ -21,7 +21,7 @@ tags:
   - tragedy
   - fiction
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 ![[chicago-fake-books.jpeg|wmed relative|center]]

@@ -4,11 +4,11 @@ title: 2025-12-31 obey in advance
 description: HCR’s 2025 wrap-up and a few thoughts
 extract: a shrieking, howling train wreck of imperatives, ambiguities, negations, and contradictions, ideally suited to a cultural of rudderless liberal denialism
 created: 2025-12-31 11:19
-updated: 2025-12-31 11:25
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order:
-enableToc: "true"
+enableToc: true
 permalink:
 aliases:
 publish: true
@@ -17,7 +17,7 @@ tags:
   - politics
   - 
 status:
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Heather Cox Richardson’s [year-end wrap-up](https://www.facebook.com/heathercoxrichardson/posts/pfbid0xzqTN2xQXiqcWozhnAqHvRx5GqofTdVt3wi1ETzqrLDTXxty3ek1h766BTxdC5x8l?__cft__[0]=AZa1Eg_u75zX_iT1E5hXJUJ0L0imTUc1VlOa29bHrXRqW7s1NbhMxdYxXXwU6Jo9OpLJRPN4TAfwJH7BGEY4ae8S60OaUKIOHVe7OkROSBX2J1A32x6xP0Ng5usSWGJNNZM-bEnSQ42yICXdXl7GtqGSG_0_tgpegJk-hYa_tUcanSGmdXOqT6y8pQvU_07KssA&__tn__=%2CO%2CP-y-R) (below) is stunning, but it felt like it was missing something, so I added this on FB:

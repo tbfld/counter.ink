@@ -4,15 +4,15 @@ title: 2025 10 07 no more acab thanks
 description: thoghts about an old protest photo circulating under the claim that it’s ICE
 extract: As blue-vs-green conflicts become more common, one side will always be worse than the other — but which will be unpredictable.
 created: 2025-10-07 09:32
-updated: 2025-10-07 09:33
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order:
-enableToc: "true"
+enableToc: true
 permalink:
 aliases:
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-10-07
 tags:
   - protest
@@ -21,7 +21,7 @@ tags:
   - civil-society
   - activism
 status: final
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 ![[2025-10-07-not-an-ice-protest.jpg| wmed | center]]

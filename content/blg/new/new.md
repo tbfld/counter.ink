@@ -4,22 +4,22 @@ title: new
 description: things written for this site
 extract:
 created: 2024-11-27 19:37
-updated: 2025-12-29 09:52
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order:
-enableToc: "true"
+enableToc: true
 permalink:
 aliases:
   - index
   - home
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-12-29
 tags:
   - index
 status:
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 #### Recent posts

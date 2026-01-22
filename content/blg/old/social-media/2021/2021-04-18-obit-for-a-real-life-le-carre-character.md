@@ -4,15 +4,15 @@ title: 2021-04-18 obit for a real-life Le Carre character
 description: obit for a walking encyclopedia of Sovietica
 extract: basically Connie Sachs but working for the Cousins across the Pond
 created: 2025-03-04 22:09
-updated: 2025-03-04 22:09
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-04-18
 tags:
   - russia
@@ -20,7 +20,7 @@ tags:
   - espionage
   - literature
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

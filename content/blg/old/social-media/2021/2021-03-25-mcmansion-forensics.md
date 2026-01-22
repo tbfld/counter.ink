@@ -4,15 +4,15 @@ title: 2021-03-25 mcmansion forensics
 description: how to look at a photo of a collapsed McMansion
 extract: The lead picture for the NYT’s tornado story is a real study in McMansion forensics
 created: 2025-03-06 13:18
-updated: 2025-03-06 13:18
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-03-25
 tags:
   - architecture
@@ -22,7 +22,7 @@ tags:
   - climate
   - visual-culture
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 

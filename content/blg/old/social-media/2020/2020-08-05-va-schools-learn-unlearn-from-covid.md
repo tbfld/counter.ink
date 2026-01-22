@@ -4,15 +4,15 @@ title: 2020-08-05 VA schools learn/unlearn from covid
 description: VA K-12 scrap accreditation
 extract: "Upside: schools will have more autonomy. Downside: schools will have more autonomy."
 created: 2025-03-07 10:26
-updated: 2025-03-07 10:26
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 0202-08-05
 tags:
   - education
@@ -21,7 +21,7 @@ tags:
   - states
   - law
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

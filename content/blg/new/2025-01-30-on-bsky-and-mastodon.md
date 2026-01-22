@@ -4,14 +4,14 @@ title: 2025-01-30 on bsky and mastodon
 description: 
 extract: 
 created: 2025-01-30 10:08
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: false
+
 publish: false
 date: 2025-01-30
 tags:

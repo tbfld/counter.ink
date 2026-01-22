@@ -4,15 +4,15 @@ title: 2021-06-05 nonviolence is like relying on fossil fuels
 description: nonviolence maybe ain’t all it’s cracked up to be
 extract: "eschewing violence is like relying on fossil fuels: it only works for so long"
 created: 2025-03-04 18:36
-updated: 2025-03-04 18:36
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-06-06
 tags:
   - violence
@@ -20,7 +20,7 @@ tags:
   - politics
   - left
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

@@ -6,13 +6,13 @@ extract: "I wrote this essay in 1991/1992, which might seem a lifetime away, but
 created: 2024-12-01 00:01
 updated: 2024-12-01 00:01
 author: "tb"
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: ailes
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 1992-01-01
 tags:
   - art
@@ -23,7 +23,7 @@ tags:
   - politics
   - collaboration
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 *I wrote this essay in 1991/1992, which might seem a lifetime away, but it remains all too relevant. It first appeared in a pamphlet distributed at an exhibition called “Roger Ailes: A Retrospective in Context,” staged in 1992. At the time, [Ailes](https://en.wikipedia.org/wiki/Roger_Ailes) was just a freelance political media consultant; four years later, he went on to found Fox News.*

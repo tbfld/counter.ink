@@ -4,15 +4,15 @@ title: 2025-03-12 Trump, Canada, and real resistance
 description: Someone else’s excellent redux of Trump’s belligerent noise and some thoughts on direct action
 extract: “We’re angry. We’re really, really fucking angry. Open your eyes to what’s happening because we’re tired of trying to make you understand why and asking you why it seems like none of you care.”
 created: 2025-03-12 13:56
-updated: 2025-03-12 13:56
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-03-12
 tags:
   - Canada
@@ -20,7 +20,7 @@ tags:
   - war
   - activism
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 There’s a slowly growing recognition — far too slowly — that Trump’s imperialist ambitions for Canada and Greenland are more than just words. “Mugsy Margarit” (a/k/a “[gonzo.genealogist](https://www.facebook.com/gonzo.genealogist)”) posted this redux [on Facebook a few days ago](https://www.facebook.com/gonzo.genealogist/posts/pfbid0EWZdkac1Qk69eKTBiXu5LKfr9ysnPRKUy4HG6JFLgivzsbqFHcFtuXe4vLX4bz7el) (Mar 10, updated M 12), and it needs to circulate more widely. *We cannot risk passively allowing him to provoke a war with our closest and best ally.* 

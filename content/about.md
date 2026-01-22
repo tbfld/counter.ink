@@ -4,21 +4,21 @@ title: about
 description: you know, one of those about-this-site pages
 extract: a page about this site and myself
 created: 2025-02-16 23:53
-updated: 2025-02-16 23:53
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases:
   - about
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-01-01
 tags:
   - index
 status: 
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 

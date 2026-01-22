@@ -4,15 +4,15 @@ title: links
 description: a poorly maintained pile of links to maybe interesting sites
 extract: a poorly maintained pile of links to maybe interesting sites
 created: 2025-05-01 15:32
-updated: 2025-05-01 15:32
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-05-01
 tags:
   - misc

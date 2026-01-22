@@ -4,15 +4,15 @@ title: 2024-09-02 hopkins on krakatoa
 description: 
 extract: 
 created: 2024-11-17
-updated: 2025-02-14
+updated: 2026-01-20 12:25
 author: "tb" 
-images: "false"
+images: false
 order: 
-enableToc: "true" 
+enableToc: true 
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2024-09-02
 tags:
   - geology

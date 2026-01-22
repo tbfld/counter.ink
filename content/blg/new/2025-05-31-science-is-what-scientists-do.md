@@ -4,15 +4,15 @@ title: 2025-05-31 science is what scientists do
 description: scientists should respond to Trump’s destruction with construction
 extract: Gleick’s point may be true (I think it is, of course), but it also combines the directionaless retrospection of the Sanatayana clichés with what I’ve started criticizing as “modelism”...
 created: 2025-05-31 09:17
-updated: 2025-05-31 09:17
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-05-31
 tags:
   - science
@@ -20,7 +20,7 @@ tags:
   - gop
   - fascism
 status: final
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 ![[2025-05-31-gleick-chart.jpg|wmed relative|center]]

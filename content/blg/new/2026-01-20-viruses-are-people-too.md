@@ -4,7 +4,7 @@ title: 2026-01-20 viruses are people too
 description: What isn’t a person?
 extract: The idea of granting personhood to viruses is both completely ridiculous and also the logical conclusion of a major stream in leftist thinking
 created: 2026-01-20 11:10
-updated: 2026-01-20 11:10
+updated: 2026-01-20 12:25
 author: tb
 images: false
 order:
@@ -17,7 +17,7 @@ tags:
   - philosophy
   - biology
 status:
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 (Orig to [FB](https://www.facebook.com/tbyfield/posts/pfbid035WPKZYokJQy2ohKwbzWye4G8VLajvYtzHigRM5FNmaV78T5aeKmgup1C6PR55H3Ml))

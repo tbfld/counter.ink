@@ -4,15 +4,15 @@ title: 2025-04-01 DOGE and the wages of sin
 description: They know what they’re doing is wrong, but we shouldn’t care whether they know
 extract: yet another reason to not waste their time or distract others with bullsh\*t about the inner life of fascists
 created: 2025-04-01 14:14
-updated: 2025-04-01 14:14
+updated: 2026-01-20 20:36
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-04-01
 tags:
   - fascism
@@ -21,7 +21,7 @@ tags:
   - psychology
   - doge
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Boy oh boy are people going to be upset when they find out — as they surely will — that DOGE’s übermunchkins are in up your data deleting everything in sight to make restoring these institutions impossible. *Or do you doubt Musk would think of that?*

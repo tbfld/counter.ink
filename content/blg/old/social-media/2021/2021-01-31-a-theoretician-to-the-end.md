@@ -4,15 +4,15 @@ title: 2021-01-31 a theoretician to the end
 description: Ros Krauss defends theory
 extract: Ros Krauss defends theory
 created: 2025-03-06 23:27
-updated: 2025-03-06 23:27
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-01-31
 tags:
   - nyt
@@ -20,7 +20,7 @@ tags:
   - j6
   - language
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 Unwavering in her dedication to theory 😹

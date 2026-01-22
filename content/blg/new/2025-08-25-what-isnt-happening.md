@@ -4,22 +4,22 @@ title: 2025-08-25 what isn't happening
 description: a litany of what left-leaning society needs to do to counter Trump & Co
 extract: "The left ALSO needs to rediscover popular frontism: mass, coordinated action — the kind where everyone shows up with the same sign, not whatever clever quip they thought up, as if they were going to a Halloween parade and their message was their costume."
 created: 2025-08-25 09:10
-updated: 2025-08-25 09:12
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order:
-enableToc: "true"
+enableToc: true
 permalink:
 aliases:
-draft: false
-publish: "true"
+
+publish: true
 date: 2025-08-25
 tags:
   - activism
   - fascism
   - politics
 status:
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

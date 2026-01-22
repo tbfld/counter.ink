@@ -4,15 +4,15 @@ title: 2025-08-11-titles I through X
 description: some context for Title IX
 extract: "I know a fair amount about how education has evolved in the US, but I never knew this: the list of Education Amendments of 1972"
 created: 2025-08-11 10:24
-updated: 2025-08-11 10:24
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-08-11
 tags:
   - education
@@ -20,7 +20,7 @@ tags:
   - policy
   - language
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 *(From https://www.facebook.com/tbyfield/posts/pfbid05DNM3vshQ3JsetFu5uZ2F2cTw9B3YQbHXqSTCXw4WkwAD4253ioV4KrXBM9Fbutul*)*

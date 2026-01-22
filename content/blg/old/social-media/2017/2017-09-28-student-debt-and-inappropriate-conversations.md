@@ -4,21 +4,21 @@ title: 2017-09-28 student debt and inappropriate conversations
 description: 
 extract: 
 created: 2024-11-17 17:07
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb" 
-images: "false"
+images: false
 order: 
-enableToc: "true" 
+enableToc: true 
 permalink: 
 aliases: 
-draft: "false" 
-publish: "true" 
+
+publish: true 
 date: 2017-09-28
 tags:
   - academia
   - finance
 status:
-RSS: "false"
+RSS: false
 yaml_end: true
 ---
 

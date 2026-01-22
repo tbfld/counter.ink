@@ -4,15 +4,15 @@ title: 2025-02-25 how NIH cuts will defund edus
 description: how NIH cuts will defund edus
 extract: How Trump & Co. turned the mechanisms meant to support edus into vectors for attacking them.
 created: 2025-03-14 23:10
-updated: 2025-03-14 23:10
+updated: 2026-01-20 12:25
 author: tb
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2025-02-22
 tags:
   - academia
@@ -20,7 +20,7 @@ tags:
   - governance
   - fascism
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 [A Bsky thread I wrote on 22 Feb,](https://bsky.app/profile/tbfld.bsky.social/post/3lirrqbtzis2p) which continues to  proven to be frighteningly accurate.

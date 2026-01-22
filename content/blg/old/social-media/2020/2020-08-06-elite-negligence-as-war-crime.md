@@ -4,15 +4,15 @@ title: 2020-08-06 elite negligence as war crime
 description: The Beirut warehouse explosion was a crime not an accident
 extract: Crime ‘at scale’ requires deterrence at scale
 created: 2025-03-07 10:21
-updated: 2025-03-07 10:21
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2020-08-06
 tags:
   - law
@@ -21,7 +21,7 @@ tags:
   - deterrence
   - lebanon
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 

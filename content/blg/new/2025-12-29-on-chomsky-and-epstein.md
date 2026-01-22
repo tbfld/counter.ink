@@ -4,11 +4,11 @@ title: 2025-12-29 on chomsky and epstein
 description: a para on Chomsky’s fall
 extract: Kant was right that “out of the crooked timber of humanity, no straight thing was ever made,” and that’s before the timber meets the long and winding road of life, so to speak. Everyone goes wrong, many of us very wrong
 created: 2025-12-29 09:31
-updated: 2025-12-29 09:31
+updated: 2026-01-20 12:25
 author: tb
-images: "false"
+images: false
 order:
-enableToc: "true"
+enableToc: true
 permalink:
 aliases:
 publish: true
@@ -17,7 +17,7 @@ tags:
   - politics
   - intellectualism
 status:
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 A friend (JD) asked and excellent question:

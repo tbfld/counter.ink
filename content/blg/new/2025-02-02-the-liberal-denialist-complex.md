@@ -4,14 +4,14 @@ title: 2025-02-02 the liberal denialist complex
 description: 
 extract: 
 created: 2025-02-02 10:24
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "false"
+images: false
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: 
+
 publish: 
 date: 2025-02-02
 tags:

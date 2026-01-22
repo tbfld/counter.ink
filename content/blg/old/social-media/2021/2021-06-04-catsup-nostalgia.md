@@ -4,15 +4,15 @@ title: 2021-06-04 catsup nostalgia
 description: a photo of an OG British catsup dispenser
 extract: you can tell the art director was really chuffed to have it there
 created: 2025-03-04 19:07
-updated: 2025-03-04 19:07
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
-enableToc: "true"
+enableToc: true
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 date: 2021-06-04
 tags:
   - film
@@ -20,7 +20,7 @@ tags:
   - design
   - uk
 status: 
-RSS: "true"
+RSS: true
 yaml_end: true
 ---
 ![[2021-06-04-catsup-dispenser.jpg|wmed relative|center]]

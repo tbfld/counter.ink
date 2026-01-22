@@ -4,15 +4,15 @@ title: txt
 description: some things I've written
 extract: most of my writing are for a larger context — usually someone else's
 created: 2024-11-09 14:44
-updated: 2025-02-14 22:04
+updated: 2026-01-20 12:25
 author: "tb"
-images: "true"
+images: true
 order: 
 enableToc: 
 permalink: 
 aliases: 
-draft: "false"
-publish: "true"
+
+publish: true
 tags:
   
 - index
