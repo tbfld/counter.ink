@@ -23,7 +23,6 @@ status: published
 RSS: false
 yaml_end: true
 ---
-> [!info]- More...
 > 
 > If you're more of a visual type, check out the image streams: [[images (2025-03-24 – 2025-05-07)|4]] ~ [[images (2025-03-11 – 2025-03-24)|3]] ~ [[images (2025-03-03 – 2025-03-10)|2]] ~ [[images (2025-02-23 – 2025-03-03)|1]] ~ [[images (2025-05-08 – 2025-08-12)|current]]
 > 
@@ -285,38 +284,17 @@ yaml_end: true
 ***
 ### 2025-05
 
-> [!note]+ [[2025-05-31-science-is-what-scientists-do]]
-> scientists should respond to Trump's destruction with construction
-
 ***
 ***2025-05-30:*** high school graduation [hit with fake ticket DOS attack](https://www.newsbreak.com/worcester-telegram-gazette-1590723/4029532153183-counterfeit-ticket-scam-leads-to-parents-missing-worcester-high-school-graduation)
 
 ***
-> [!note]+ [[2025-05-27-a-bleak-prospect|2025-05-27 a bleak prospect]]
-> a bleak, bleak post mortem of the 2024 election
-
-> [!note]+ [[2025-05-27-biden-and-student-debt]]
-> one of the central tragedies of his presidency
-
 ***
 ***2025-05-25:*** “I Was Targeted by a Hostile Crypto Spambot Swarm That Revealed [How X’s Algorithm Has Been Truly Broken](https://bylinetimes.com/2025/05/20/x-spam-algorithm-elon-musk-bots/)”
 
 ***
-> [!note]+ [[2025-05-23-genocide-genocides-and-trump|2025-05-23 genocide genocides and trump]]
-> the underlying genocidal logic of Trumpian policies was clear many years ago
-
 ***
-> [!note]+ [[2025-05-22-the-silence-of-the-lames|2025-05-22 the silence of the lames]]
-> condemning the assassination of two Israeli diplomats is a no-brainer — but very few people have brains, it seems
-
 ***
-> [!note]+ [[2025-05-20-a-modest-book-proposal|2025-05-20 a modest book proposal]]
-> fake book reviews
-
 ***
-> [!note]+ [[2025-05-18-cervantes-owns-the-libs|2025-05-18 cervantes owns the libs]]
-> two madmen — liberal and left
-
 ***
 ***2025-05-14:*** the [Big Boy graveyard on Google Maps or scene from *The Matrix?*](https://www.google.com/maps/place/Big+Boy+Graveyard/@39.1298382,-84.4879424,3a,48.9y/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICf-YyldA!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4nq8nfuKXRiBsx4G4DiAr42MB85vM6lRTndibgDuxcOZYvRpW4UmqrlmhsGFvOOD6ymafzckVdte3EfpGYtUTfFbzNWvyjGK_oESdvaL-XbrWC1Y2Yi7haKA5kxTUqLn09ztNvPf%3Dw203-h152-k-no!7i4032!8i3024!4m15!1m7!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!2sBig+Boy+Graveyard!8m2!3d39.1297008!4d-84.4876367!16s%2Fg%2F11vy7trg56!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!8m2!3d39.1297008!4d-84.4876367!10e5!16s%2Fg%2F11vy7trg56?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D)
 
@@ -326,13 +304,7 @@ yaml_end: true
 
 ***2025-05-14:*** big props to *The Verge*’s for using [“supposed" and "putative" to describe Trump's minions who were named without qualification or process to replace people who were illegally fired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
 
-> [!note]+ [[2025-05-14-on-yale-and-fascism|2025-05-14 on yale and fascism]]
-> An NYT "videtorial" (or whatever) on Yale scholars fleeing fascism seem kinda problematic
-
 ***
-> [!note]+ [[2025-05-13-emem|2025-05-13 emem]]
-> rationalizing the orientation of a meme
-
 ***
 ***2025-05-08:*** find who owns a publisher [from a book’s barcode](https://whoisbn.net/fr/) (🎩 NTT)
 
@@ -342,13 +314,7 @@ yaml_end: true
 ***2025-05-07:*** this guy says John Fetterman’s [always been a mess](https://paydayreport.com/fettermans-long-history-of-toxic-relationships-in-braddock/) (🎩 RP)
 
 ***
-> [!note]+ [[2025-05-06-plutocratic-psychosis|2025 05 06 plutocratic psychosis]]
-> a short, 'found' essay on wealth-induced madness
-
 ***
-> [!note]+ [[2025-05-05-worlds-third-greatest-footnote|2025 05 05 world's third greatest footnote]]
-> exactly what it says
-
 ***
 ***2025-05-01:*** an exoplanet whose [“atmosphere is thick with clouds of vaporized metal, and it rains liquid sapphires and rubies”](https://www.sciencealert.com/planets-record-smashing-iron-wind-hides-a-climate-unlike-anything-weve-seen) (🎩CT)
 
@@ -367,9 +333,6 @@ yaml_end: true
 
 ***2025-04-08:*** [“the tariffs are another tool for Trump to compel loyalty from industries in the US”](https://thelastbillionaires.com/why-the-plan-behind-trumps-tyranny-by-tariff-matters/)
 
-> [!note]+ [[2025-04-08-fox-gender-theory|2025 04 08 fox gender theory]]
-> a dumping ground for Fox's greatest gender theory hits
-
 ***
 ***2025-04-06:*** amazing rundown of [Trump’s penchant for cheating at golf](https://www.palmbeachpost.com/story/sports/2023/02/03/trump-and-golf-fancy-resorts-a-list-partners-cheating-at-highest-level/69857594007/)
 
@@ -387,9 +350,6 @@ yaml_end: true
 ***2025-04-01:*** Facebook seems to be [f\*ing with Heather Cox Richardson’s daily posts](https://www.facebook.com/FearAndLoathingCloserToTheEdge/posts/pfbid02NAWghKLKdTyZXYKhYh2hSrjLupBhuvSa8j7bngLzyTTMPvZLRQuFbM2GsmtLjSYVl)(additional report by [Mark Lemley](https://www.facebook.com/mark.lemley/posts/pfbid0mbR2QLQAmEqsQoNaKn3vjJDo2FokYzEtz9k3ethdzPUyLAhXN8YGvrBSuuBnmHG2l))
 
 ***2025-04-01:*** Laura Kipnis on [the history “weaponization” of federal funding](https://www.facebook.com/laura.kipnis/posts/pfbid02KbfBw5dWG7HLqHWgy9pqJXd9CinE3Gnucx7sHMgdvgo1JGUFvwnhjFEZ7DJypvfql)
-
-> [!note]+ [[2025-04-01-edus-cant-buy-their-way-out-of-fascism|2025-04-01 edus can't buy their way out of fascism]]
-> . . . and if they did it, a lot of other schools would go ballistic, particularly those that aren't wealthy
 
 ***
 ### 2025-03
@@ -414,20 +374,8 @@ yaml_end: true
 ***
 ***2025-03-25:*** “Turd Reich” images [for download](https://mcusercontent.com/bd36014b9888db9081d204e78/files/27983e2f-9aa0-bf57-321f-53c4dbdeb252/the_turd_reich_A0_.pdf)
 
-> [!note]+ [[2025-03-25-dod-says-signal-is-a-no-no|2025-0325 dod says signal is a no-no]]
-> this kind of signaling and maneuvering is how bureaucracies work
-
-> [!note]+ [[2025-03-25-vice-signaling|2025-03-25 vice signaling]]
-> a squib about the Signal / Atlantic brouhaha
-
-> [!note]+ [[2025-03-25-trump-and-nuclear-codes-round-2|2025-03-25 trump and nukes round 2]]
-> Here we go again
-
 ***
 ***2025-03-24:*** [Letter to USC on edu transparency re natsec risks posed by Chinese nationals in STEM](https://selectcommitteeontheccp.house.gov/media/letters/letter-dr-carol-folt-president-usc-transparency-universities-national-security-risks)
-
-> [!note]+ [[2025-03-24-i-claudius|2025-03-24 i claudius]]
-> a squib about the 1976 BBC series (tl;dr: *watch it*)
 
 ***
 ***2025-03-23:*** For those of a certain age, [this clock design](https://social.yetzt.me/@yetzt/statuses/01JQ17NBRG9NH2N5BB6Q97T7R3) is a work of unsurpassed candor, wit, and genius. For others, its meaning will be lost, like tears in the rain.
@@ -439,31 +387,13 @@ yaml_end: true
 
 ***2025-03-21:*** I was sure that [Tesla coined](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/) the fabulous word “embrittlement,” [but it was far more popular in 1967 and 1983](https://books.google.com/ngrams/graph?content=embrittlement&year_start=1800&year_end=2022&corpus=en&smoothing=3)
 
-> [!note]+ [[2025-03-21-alma-mater|2025-03-21 alma mater]]
-> a plaster maquette for our times
-
-> [!note]+ [[2025-03-21-big-law-and-big-moralism|2025-03-21 big law and big moralism]]
-> a rant about the left's descent into bombastic moralism
-
-> [!note]+ [[2025-03-21-super-bon-voyage-jonathan-sterne|2025-03-21 super bon voyage jonathan sterne]]
-> "You only get one chance to show your integrity — your entire life." That was Jonathan.
-
 ***
 ***2025-03-16:*** I’m probably more familiar with arbitration than most people from spending several years following ICANN, but even so[ the International Centre for Dispute Resolution’s “Emergency International Arbitral Tribunal,” sounded a bit dystopian.](https://about.fb.com/wp-content/uploads/2025/03/Arbitration-Interim-Award.pdf)
 
 ***
 ***2025-03-13:*** MFA Houston’s page for [Alexey Titarenko’s photographs](https://emuseum.mfah.org/people/16608/alexey-titarenko/objects)
 
-> [!note]+ [[2025-03-13-this-is-not-an-an-attack-on-science|2025-03-13 this is not an an attack on science]]
-> Scientists need to stop reflexively calling what Trump is doing is "an attack on science." It *includes* that, yes, but it isn't limited to it — not even close.
-
-> [!note]+ [[2025-03-13-relic-of-a-simpler-time|2025-03-13 relic of a simpler time]]
-> *Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty! Guilty!*
-
 ***
-> [!note]+ [[2025-03-12-2025-03-12-trump-canada-and-real-resistance|2025-03-12 Trump Canada and Real Resistance]]
-> What Germans should have done in the 1930s but for US citizens now
-
 ***
 ***2025-03-11:*** Marian Zazeela and La Monte Young’s Music and Light Box [on display in NYC Mar 27 – Apr 12](https://melafoundation.org/music-light-box-2025.html)
 
@@ -489,16 +419,6 @@ yaml_end: true
 
 ***2025-03-09:*** Nina Burleigh (a/k/a American Freakshow) on [MAGA’s Heart of Darkness](https://www.americanfreakshow.news/p/magas-heart-of-darkness
 
-> [!note]+ [[2025-03-09-columbia–vs-feds-timeline|2025-03-09 columbia vs feds timeline]]
-> Exactly what it says on the label
-
-> [!note]+ [[2025-03-09-elite-capitulation-and-popular-resistance|2025-03-09 elite capitulation and popular resistance]]
-> When Trump & Co. attack elites, look down not up
-
-> [!note]+ [[2025-03-09-trump-higher-ed-and-judaism|2025-03-09 trump, higher ed, and judaism]]
-> If the fires that were set and continue to be stoked every day by ultraists like Hamas and Netanyahu consume US higher ed, the entire sector — all of it — will burn to the ground.
-
-  > [!note]+ [[2025-03-05-swasticar-flyer|25-03-05 swasticar flyer]]
  > A helpful PDF that you can print out and leave on every Tesla you see!
 
 ### 2025-02
@@ -520,9 +440,6 @@ yaml_end: true
 
 ***2025-03-04:*** Dictionary.com doesn’t know how to pronounce [the singular word *interstice*](https://www.dictionary.com/browse/interstice)
 
-> [!warning]+ [[2025-03-04-an-offer-edus-cant-refuse|2025-03-04 an offer edus cant refuse]]
-> My 🔮 about what Trump & Co. would do to CU were 🎯
-
 ***
 ***2025-03-03:*** not enough people understand that [*Musk’s goal is to exterminate multitudes*](https://medium.com/age-of-awareness/a-unifying-theory-of-elon-musk-66b841ee0f71) — and Trump is cool with that because that’d make him a Great Man
 
@@ -542,13 +459,7 @@ yaml_end: true
 
 ***2025-02-26:*** on [Christian support for Trump and liberal denialism](https://www.liberalcurrents.com/trump-the-redeemer/) (🎩 Mike McG)
 
-> [!note]+ [[2025-02-26-Niemöller-for-today|2025-02-26-Niemöller for today]]
-> Maybe a GOP bill raising endowment taxes by 1500% will wake academics up?
-
 ***
-> [!warning]+ [[2025-02-25-how-nih-cuts-will-defund-edus|2025-02-25 how nih cuts will defund edus]]
-> I wrote this when the conventional wisdom held that NIH cuts' impact would be limited to those fields. Yes, really — most academics really believed that.
-
 ***
 ***2025-02-24:*** 40% of the glaciers in Central Europe [melted between 2000 and 2023](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Glacier_melt_intensifying_freshwater_loss_and_accelerating_sea-level_rise)
 
@@ -590,9 +501,6 @@ yaml_end: true
 
 ***2025-02-12:*** Trump wants to [cancel 50% of the office space leased by the federal government](https://www.arnoldporter.com/en/perspectives/advisories/2025/02/doge-and-gsa-officials-pledge-acceleration)
 
-> [!warning]+ [[2025-02-12-maybe-too-prophetic]]
-> I wrote this on Facebook on 7 Nov 2024, barely a day after the election, and it seems a little *too* prescient.
-
 ***
 ***2025-02-10:*** Feb 10 is the anniversary of [the first (reported) collision involving an active and a dead satellite](https://en.wikipedia.org/wiki/2009_satellite_collision)
 
@@ -606,21 +514,9 @@ yaml_end: true
 
 ***2025-02-10:*** [“far center”](https://nymag.com/intelligencer/article/pamela-paul-goodbye-to-the-new-york-times-opinion-columnist.html) seems like a useful political category, and this piece on that op-ed pest Pamela Paul is hilarious ~
 
-> [!note]+ [[2025-02-10-a-handful-of-emoji|2025 02 10 a handful of emoji]]
-> Somewhere between amazing and terrifying
-
 ***
-> [!note]+ [[2025-02-09-alphabetical-art|2025 02 09 alphabetical art]]
-> Rutherford Chang, RIP
-
 ***
-> [!note]+ [[2025-02-08-what-keeps-mankind-alive|2025 02 08 what keeps mankind alive]]
-> Good question! Bestial acts.
-
 ***
-> [!note]+ [[2025-02-06-ringling-bothers|2025 02 06 ringling bothers (no, that's not a typo)]]
-> An exegesis of a detail in DeSantis's proposed budget and a how it relates to "deconstructing the administrative state"
-
 ***
 ***2025-02-05:*** Yessssssss a [Facebook skullpaper](https://imgflip.com/memegenerator/360192240/Facebook-Skulls-Background) meme generator!
 
@@ -632,13 +528,7 @@ yaml_end: true
 
 ***2025-02-05:*** Newly minted AG Pam Bondi [issued a rule](https://news.bloomberglaw.com/antitrust/bondi-confirmed-as-trumps-attorney-general-to-lead-doj-shake-up) that requires spies to be caught doing “more traditional espionage” (tiny cameras and hand-cranked radios?), which is *literally* like saying that thieves have to be caught wearing a black-and-white striped shirt and carrying a canvas bag ovr their shoulder
 
-> [!note]+ [[2025-02-05-the-prompt|25 02 05 the prompt]]
-> How to read an AI prompt
-
 ***
-> [!note]+ [[2025-02-02-the-liberal-denialist-complex|2025 02 02 the liberal denialist complex]]
-> How Gregory Bateson can help us to figure out who's to blame for Trump's election, and what that means for activism
-
 ### 2025-01
 
 ***
@@ -653,12 +543,6 @@ yaml_end: true
 ***
 ### 2025-01
 
-> [!note]+ [[2025-01-30-but-never-a-thing-that-simply-is|2025 01 30 but never a thing that simply is]]
-> Whether "AI" is conscious really doesn't matter
-
-> [!note]+ [[2025-01-30-on-bsky-and-mastodon|2025 01 30 on bsky and mastodon]]
-> Some delicately contrarian thoughts on this stuff
-
 ***
 ***2025-01-29:*** *Really* interesting Bsky thread](https://bsky.app/profile/dorsaamir.bsky.social/post/3lglw6iefus2g) on the whether the [Müller-Lyer illusion](https://en.wikipedia.org/wiki/M%C3%BCller-Lyer_illusion) is culturally informed
 
@@ -670,9 +554,6 @@ yaml_end: true
 
 ***2025-01-29:*** “Raging Misogynist” Now Federal Government H.R.’s Top Lawyer” is [quite a headline
 
-> [!note]+ [[2025-01-29-the reign-of-terror-heritage-style|2025 01 29 the reign of terror heritage style]]
-> The media hasn't quite figured out how Trump is eviscerating the federal civil service, so let me help you out.
-
 ***
 ***2025-01-24:*** Why do “AIs” default to the condescending voice middle-school textbook Q&As, [like this Anne Franke bot?](https://fedihum.org/@lavaeolus/113842459724961937)
 
@@ -680,19 +561,7 @@ yaml_end: true
 
 ***2025-01-24:*** [a new issue of *The Diagram* is out!](https://thediagram.com/24_4/)
 
-> [!note]+ [[2025-01-24-outsider-art-and-sharing|2025 01 24 outsider art and sharing]]
-> An embroidered dress from the late 1940s, then and now
-
-> [!note]+ [[2025-01-24-on-internettisms-and-elon|2025 01 24 on internettisms and elon]]
-> Musk has a chat with an acolyte, and I have a few thoughts about habitual internet expressions manufacture alienation
-
 ***
-> [!note]+ [[2025-01-18-tangled-literary-histories|2025 01 18 tangled literary histories]]
-> A short, deep dive into the culture of English translations of modern lit
-
-> [!note]+ [[2025-01-18-why-no-one-can-quite-capture-what-david-lynch-did|2025 01 18 why no one can quite capture what david lynch did]]
-> The Spanish writer Roy Galàn on Lynch's work (and a meta-meme)
-
 ***
 ***2025-01-16:*** Matt Stoller’s Jan 13 issue of his anti/trust-related newsletter “Big” has a [jaw-dropping list of the regulatory issues “Meta” faces](https://www.thebignewsletter.com/p/monopoly-round-up-la-fires-change) (does anyone really believe in that name?), i.e., why Zuck is groveling up a storm at Mar-a-Lago
 
@@ -702,17 +571,8 @@ yaml_end: true
 
 ***2025-01-16:*** [a site with zillions of links to English-language literary magazines](https://thepagename.blogspot.com/), with short excerpts of pieces recently ran (🎩SB)
 
-> [!note]+ [[2025-01-16-schrodingers-razor|2025 01 16 schrodingers razor]]
-> found meme
-
 ***
-> [!note]+ [[2025-01-15-hi-def-history|2025 01 15 hi-def history]]
-> A few thoughts about "AI"
-
 ***
-> [!note]+ [[2025-01-12-trump-and-greenland-a-timeline|2025 01 12 trump and greenland a timeline]]
-> You won't find a more detailed or better-sourced chronology about this *anywhere*.
-
 ***
 ***2025-01-11:*** Las Vegas Cybertruck bomber Matthew Livelsberger’s [two “minifestoes,”](https://nevadacurrent.com/wp-content/uploads/2025/01/PO-003a-01-03-25-Livelsbergers-Letters.pdf) less than a page each, basically advocate exterminating half the US population (guess which half!)
 
@@ -728,17 +588,8 @@ yaml_end: true
 
 ***2025-01-11:*** Will Stancil’s Bluesky thread on our [“massive information infrastructure which privileges conspiracy theories, demagoguery, bigotry, lies, and hysteria”](https://bsky.app/profile/whstancil.bsky.social/post/3lfczzpptz22j) is *well* worth reading (as is his whole feed)
 
-> [!note]+ [[2025-01-11-thielology|2025 01 11 thielology]]
-> On Peter Thiel's *Financial Times* opinion piece
-
 ***
-> [!note]+ [[2025-01-07-facebook-faces-the-factlessness|2025 01 07 facebook faces the factlessness]]
-> What's Meta up to?
-
 ***
-> [!note]+ [[2025-01-05-richard-foreman-rip|2025 01 05 richard foreman rip]]
-> "If you let the rhythm of his rocking enter you, he'll remind you what it feels like to be ecstatic, what it is to be hysterical, what it means to circle the meaningless void that is the wellspring of all meaning."
-
 ##### *BONUS CONTENT!* 2018
 
 ***
@@ -775,13 +626,7 @@ An epic list of [“Awesome MacOS Software”](https://github.com/phmullins/awes
 
 ***2025-01-04:*** MIT Tech review on [how to pitch them](https://www.technologyreview.com/how-to-pitch-mit-technology-review/)
 
-> [!note]+ [[2025-01-04-user-generated-brechtian-distancing|2025 01 04 user generated Brechtian distancing]]
-> Is Cinema really that much greater than iPad?
-
 ***
-> [!note]+ [[2025-01-03-free-art-and-technology|2025 01 03 free art and technology]]
-> The "cultural discount" is alive and well.
-
 ## 2024
 
 ### 2024-12
@@ -792,21 +637,7 @@ An epic list of [“Awesome MacOS Software”](https://github.com/phmullins/awes
 
 ### 2024-12
 
-> [!note]+ [[2024-12-31-statistics-and-patriarchy|2024 12 31 statistics and patriarchy]]
-> A few thoughts on an 18th-C pair of dice.
-
 ***
-> [!note]+ [[2024-12-30-whipped-cream-and-other-delights|2024 12 30 whipped cream and other delights]]
-> If you were wondering where all those used copies went, now you know.
-
-> [!note]+ [[2024-12-30-&&&|2024 12 30 &&&]]
-> A squib about those...
->X&
->Y&
->Z&
->A
->...t-shirts
-
 ***
 ***2024-12-13:*** Nathan Newman](https://www.researchgate.net/profile/Nathan-Newman-6) on “[The Crisis of Elite Indifference to Corporate Mass Murder](https://nathannewman.substack.com/p/the-crisis-of-elite-indifference),” complete with a “modest proposal” (i.e., *a parody*) to “[l]icense no more than ten CEO murders per year.”
 
@@ -818,26 +649,14 @@ An epic list of [“Awesome MacOS Software”](https://github.com/phmullins/awes
 
 ***2024-12-13:*** [NYU declared Andrew Ross, one of its finest faculty members, persona non grata](https://www.middleeasteye.net/news/two-nyu-faculty-members-arrested-pro-palestine-protest) after he was arrested at a pro-Pal demo.
 
-> [!note]+ [[2024-12-13-don-martin-jazz-covers|2024 12 13: don martin jazz covers]]
-> A multi-FOAF just named Marc Campbell [posted](https://www.facebook.com/marc.campbell/posts/pfbid0exH7ys6LSL9rbHN5nxe3rKSq2qyFit5BQDSBezji1AKzbgomuupGR1uHAtL58pfFl) some album covers designed for the Prestige label by the cartoonist Don Martin.
-
-> [!note]+ [[2024-12-13-recorded-poetry-then-and-now|2024 12 13: recorded poetry then and now]]
-> Amanda Gorman, who shot to fame when she recited her poem "The Hill We Climb" for Biden's inauguration in 2021, just dropped a new poem that riffs heavily on the movie *Wicked*, and *I think* it's pretty amazing.
-
 ##### *BONUS CONTENT!* 1988
 
 ***
-> [!note]+ [[2024-12-05-preemptive-pardons|2024 12 05: preemptive pardons]]
-> The WP is reporting that the White House is considering "preemptive pardons to figures who might face the hostility of the incoming Trump administration." I'd have to think hard — _very_ hard — to imagine anything more emblematic of the Biden admin's abject failure to grasp the threat Trump poses...
-
 ***
 
 ## 2020
 
 ### 2020-07
-
-> [!success]+ [[2020-07-08-distributed-criminality|BONUS CONTENT: 2020-07-08 distributed criminality]]
-> "Not a day goes by without Trump or one of his associates explicitly acknowledging that their polices will kill large numbers of people, and that they're doing it for electoral advantage,"
 
 ***
 
@@ -845,5 +664,3 @@ An epic list of [“Awesome MacOS Software”](https://github.com/phmullins/awes
 
 ### 2016-07
 
-> [!success]+ [[2016-07-08-edurant|BONUS CONTENT: 2016-07-08 edurant]]
-> An eight-year-old rant warning academics to organize — "because history will move much more quickly than your CV"
