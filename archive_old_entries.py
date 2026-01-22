@@ -44,6 +44,63 @@ def extract_date_from_entry(line):
         return match.group(1)
     return None
 
+def is_boxed_entry_start(line):
+    """Check if line starts a boxed entry (callout)"""
+    return line.strip().startswith("> [!")
+
+def process_entries(lines, cutoff_date):
+    """Process entries and return filtered content and archived micros"""
+    kept_lines = []
+    archived_micros = []
+    
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        
+        # Check for boxed entry (callout)
+        if is_boxed_entry_start(line):
+            # Extract date from the callout title
+            # Format: > [!note]+ [[2026-01-20-title|2026-01-20 title]]
+            date_match = re.search(r'\[\[(\d{4}-\d{2}-\d{2})', line)
+            if date_match:
+                entry_date_str = date_match.group(1)
+                entry_date = parse_date(entry_date_str)
+                
+                # Collect the entire boxed entry (until next non-indented line)
+                boxed_lines = [line]
+                i += 1
+                while i < len(lines) and (lines[i].startswith(">") or lines[i].strip() == ""):
+                    boxed_lines.append(lines[i])
+                    i += 1
+                
+                # Check age and keep/discard
+                if entry_date and entry_date < cutoff_date:
+                    print(f"  Deleting boxed entry from {entry_date_str}")
+                    # Don't add to kept_lines (delete it)
+                else:
+                    kept_lines.extend(boxed_lines)
+                continue
+        
+        # Check for micro entry
+        elif is_micro_entry(line):
+            date_str = extract_date_from_entry(line)
+            if date_str:
+                entry_date = parse_date(date_str)
+                if entry_date and entry_date < cutoff_date:
+                    print(f"  Archiving micro entry from {date_str}")
+                    archived_micros.append(line)
+                    # Don't add to kept_lines (delete from recent)
+                else:
+                    kept_lines.append(line)
+            else:
+                kept_lines.append(line)
+        else:
+            kept_lines.append(line)
+        
+        i += 1
+    
+    return kept_lines, archived_micros
+
 def main():
     parser = argparse.ArgumentParser(description='Archive old entries from recent.md')
     parser.add_argument('--dry-run', action='store_true', 
@@ -60,25 +117,58 @@ def main():
     # Calculate 6 months ago
     cutoff_date = datetime.now() - timedelta(days=180)
     print(f"Cutoff date: {cutoff_date.strftime('%Y-%m-%d')}")
+    print(f"Mode: {'DRY RUN' if args.dry_run else 'LIVE'}")
+    print()
     
     # Read recent.md
     with open(recent_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     
-    # TODO: Implement the filtering logic
-    # This is a skeleton - you'll need to:
-    # 1. Find the <!-- RECENT_POSTS_START --> marker
-    # 2. Process each entry, checking its date
-    # 3. Collect old micro entries for archiving
-    # 4. Build new content without old entries
-    # 5. Append old micros to micro.md
-    # 6. Write updated recent.md
+    # Find YAML header end
+    yaml_end = 0
+    in_yaml = False
+    for i, line in enumerate(lines):
+        if line.strip() == '---' and not in_yaml:
+            in_yaml = True
+        elif line.strip().startswith('yaml_end:') and in_yaml:
+            yaml_end = i + 1
+            break
     
-    print("Script skeleton created. Implementation needed:")
-    print("1. Parse entries between YAML and identify dates")
-    print("2. Filter entries by age")
-    print("3. Archive micros to micro.md")
-    print("4. Write filtered recent.md")
+    # Split into header and content
+    header_lines = lines[:yaml_end]
+    content_lines = lines[yaml_end:]
+    
+    # Process entries
+    print("Processing entries...")
+    kept_content, archived_micros = process_entries(content_lines, cutoff_date)
+    
+    print(f"\nSummary:")
+    print(f"  Archived {len(archived_micros)} micro entries")
+    print(f"  Kept {len([l for l in kept_content if is_micro_entry(l)])} recent micro entries")
+    
+    if args.dry_run:
+        print("\n[DRY RUN] No files modified")
+        if archived_micros:
+            print("\nWould archive these micros to micro.md:")
+            for micro in archived_micros[:5]:  # Show first 5
+                print(f"  {micro.strip()[:80]}...")
+    else:
+        # Append archived micros to micro.md
+        if archived_micros:
+            print(f"\nAppending {len(archived_micros)} micros to {micro_path}...")
+            with open(micro_path, 'a', encoding='utf-8') as f:
+                if micro_path.exists() and micro_path.stat().st_size > 0:
+                    f.write("\n")  # Add newline before appending
+                for micro in archived_micros:
+                    f.write(micro)
+        
+        # Write updated recent.md
+        print(f"Writing updated {recent_path}...")
+        with open(recent_path, 'w', encoding='utf-8') as f:
+            f.writelines(header_lines)
+            f.writelines(kept_content)
+        
+        print("Done!")
 
 if __name__ == "__main__":
     main()
