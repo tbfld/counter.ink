@@ -34,6 +34,9 @@ yaml_end: true
 
 ### 2026-01
 
+***2026-01-22:*** F/LOSS CLI tool for “optimizing” Macs (incl. TouchID for sudo!): [mole](https://github.com/tw93/Mole)
+
+***
 ***2026-01-21:*** “[the real reasons new yorkers’ groceries cost so much](https://www.vitalcitynyc.org/articles/nyc-grocery-cost-explained)” (🎩JK)
 
 ***2026-01-21:*** Redditor says [MMS patch brought Verizon down](https://www.reddit.com/r/verizon/comments/1qdsc0g/i_think_i_found_what_caused_yesterdays_outage/) (🎩IRR)
