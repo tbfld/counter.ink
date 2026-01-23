@@ -810,6 +810,15 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     window.addCleanup(() => button.removeEventListener("click", toggleGridLayout))
   })
 
+  // Auto-expand global graph on index/landing page
+  const currentSlug = simplifySlug(slug)
+  if (currentSlug === "index" || currentSlug === "") {
+    // Small delay to ensure DOM is ready
+    setTimeout(() => {
+      void renderGlobalGraph()
+    }, 100)
+  }
+
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => {
     document.removeEventListener("keydown", shortcutHandler)
