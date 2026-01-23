@@ -53,6 +53,8 @@ type NodeRenderData = GraphicsInfo & {
 }
 
 const localStorageKey = "graph-visited"
+const gridLayoutKey = "graph-grid-layout"
+
 function getVisited(): Set<SimpleSlug> {
   return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
 }
@@ -61,6 +63,14 @@ function addToVisited(slug: SimpleSlug) {
   const visited = getVisited()
   visited.add(slug)
   localStorage.setItem(localStorageKey, JSON.stringify([...visited]))
+}
+
+function getGridLayoutEnabled(): boolean {
+  return localStorage.getItem(gridLayoutKey) === "true"
+}
+
+function setGridLayoutEnabled(enabled: boolean) {
+  localStorage.setItem(gridLayoutKey, String(enabled))
 }
 
 type TweenNode = {
@@ -173,6 +183,23 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const radius = (Math.min(width, height) / 2) * 0.8
   if (enableRadial) simulation.force("radial", forceRadial(radius).strength(0.2))
+
+  // Grid snapping configuration
+  let gridLayoutEnabled = getGridLayoutEnabled()
+  const gridSize = 20 // Size of grid cells in pixels
+
+  // Add custom tick handler for grid snapping
+  simulation.on("tick", () => {
+    if (gridLayoutEnabled) {
+      // Snap nodes to grid
+      graphData.nodes.forEach((n) => {
+        if (n.x !== undefined && n.y !== undefined) {
+          n.x = Math.round(n.x / gridSize) * gridSize
+          n.y = Math.round(n.y / gridSize) * gridSize
+        }
+      })
+    }
+  })
 
   // precompute style prop strings as pixi doesn't support css variables
   const cssVars = [
@@ -638,6 +665,25 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   Array.from(containerIcons).forEach((icon) => {
     icon.addEventListener("click", renderGlobalGraph)
     window.addCleanup(() => icon.removeEventListener("click", renderGlobalGraph))
+  })
+
+  // Grid layout toggle handler
+  const layoutToggleButtons = document.getElementsByClassName("graph-layout-toggle")
+  Array.from(layoutToggleButtons).forEach((button) => {
+    const toggleGridLayout = () => {
+      const currentState = getGridLayoutEnabled()
+      setGridLayoutEnabled(!currentState)
+      button.classList.toggle("active", !currentState)
+      
+      // Re-render graphs to apply new layout
+      void renderLocalGraph()
+    }
+    
+    // Set initial button state
+    button.classList.toggle("active", getGridLayoutEnabled())
+    
+    button.addEventListener("click", toggleGridLayout)
+    window.addCleanup(() => button.removeEventListener("click", toggleGridLayout))
   })
 
   document.addEventListener("keydown", shortcutHandler)
