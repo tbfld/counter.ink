@@ -51,4 +51,4 @@ Now this prompt bothers me less and is off my desktop. 👍🏼
 
 **EDIT:** Vaguely related, Facebook’s we-can-remember-it-for–you-wholesale bot coughed this up:
 
-![[content/blg/new/new_images/nag-hammadi-meme.jpeg]]
+![[blg/new/new_images/nag-hammadi-meme.jpeg]]

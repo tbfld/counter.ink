@@ -81,5 +81,5 @@ You bought your Tesla in good faith, thinking it was the future. It’s not your
 
 Bonus graphic (added 2025-03-23):
 
-![[content/blg/new/new_images/swasticar.png]]
+![[blg/new/new_images/swasticar.png]]
 

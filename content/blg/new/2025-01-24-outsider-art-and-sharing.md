@@ -23,7 +23,7 @@ status: final
 yaml_end: true
 ---
 
-![[content/blg/new/new_images/dress/alice-eugenia-ligon-1.jpg|wmed relative|left]]
+![[blg/new/new_images/dress/alice-eugenia-ligon-1.jpg|wmed relative|left]]
 
 Outsider art has become thoroughly commodified in my lifetime, often despite the best efforts of principled people who took great care to preserve its contextual aspects and, really, auras. I’m thinking of John Maizels, who publishes *[Raw Vision](https://rawvision.com/)*, though I don’t really know him, or [Mike McGonigal](https://www.instagram.com/mike.mcgonigal/?hl=en), who I do really know: more than anyone else, Mike showed me how to appreciate those dimensions. I was fortunate in that respect, which implies that most people aren’t. But we all share one thing in common: appreciation takes place *through* commodification. We’re all a part of it (or “complicit,” as the moral fanatics like to say these days). 
 

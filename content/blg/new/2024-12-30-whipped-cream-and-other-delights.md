@@ -32,5 +32,5 @@ yaml_end: true
 >Record collectors are weird.
 
 
-![[content/blg/new/new_images/christopher-bickel-does-herb-alpert.jpeg|relative wmed|left]]
+![[blg/new/new_images/christopher-bickel-does-herb-alpert.jpeg|relative wmed|left]]
 

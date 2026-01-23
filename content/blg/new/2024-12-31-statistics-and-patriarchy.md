@@ -23,10 +23,10 @@ tags:
 status: final
 yaml_end: true
 ---
-![[content/blg/new/new_images/18C-erotic-dice-1.jpg|wmed relative|left]]
-![[content/blg/new/new_images/18C-erotic-dice-2.jpg|wmed relative|left]]
-![[content/blg/new/new_images/18C-erotic-dice-3.jpg|wmed relative|left]]
-![[content/blg/new/new_images/18C-erotic-dice-4.jpg|wmed relative|left]]
+![[blg/new/new_images/18C-erotic-dice-1.jpg|wmed relative|left]]
+![[blg/new/new_images/18C-erotic-dice-2.jpg|wmed relative|left]]
+![[blg/new/new_images/18C-erotic-dice-3.jpg|wmed relative|left]]
+![[blg/new/new_images/18C-erotic-dice-4.jpg|wmed relative|left]]
 
 These dice — [billed](https://www.facebook.com/permalink.php?story_fbid=pfbid0366u3h7nWTVDCpcVAqTnBKUXowP5DNYrj3JrSuwvGvpyS8xzhBmnjXiYsTXhKJuWNl&id=100015558369404) as a “Pair of erotic dice in Ivory, Germany, early 18th century” — coincide pretty neatly with the, let’s say, birth of statistics. And not just chronologically: setting aside that field’s ambitious truth claims, feeble efforts to historicize itself (but not *too* much because contingency), and its basically occult pretensions, these dice also neatly, let’s say, embody the field’s patriarchal approach the world. If anything, stats and patriarchy became deeply intertwingled over the last few centuries that a lot of what we now identify as patriarchy might be better understood primarily as stats, rather than vice versa.
 

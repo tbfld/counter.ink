@@ -35,4 +35,4 @@ yaml_end: true
 
 And, like his films but in a different and much more modest way, I feel like this image will never stop giving:
 
-![[content/blg/new/new_images/lynch-historical-hairdos.jpeg|wmed relative|center]]
+![[blg/new/new_images/lynch-historical-hairdos.jpeg|wmed relative|center]]
