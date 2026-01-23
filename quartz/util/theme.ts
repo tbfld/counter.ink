@@ -16,6 +16,7 @@ interface Colors {
   ftMode: ColorScheme
   slateMode: ColorScheme
   sageMode: ColorScheme
+  amberMode: ColorScheme
 }
 
 export type FontSpecification =
@@ -210,6 +211,18 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.sageMode.tertiary};
   --highlight: ${theme.colors.sageMode.highlight};
   --textHighlight: ${theme.colors.sageMode.textHighlight};
+}
+
+:root[saved-theme="amber"] {
+  --light: ${theme.colors.amberMode.light};
+  --lightgray: ${theme.colors.amberMode.lightgray};
+  --gray: ${theme.colors.amberMode.gray};
+  --darkgray: ${theme.colors.amberMode.darkgray};
+  --dark: ${theme.colors.amberMode.dark};
+  --secondary: ${theme.colors.amberMode.secondary};
+  --tertiary: ${theme.colors.amberMode.tertiary};
+  --highlight: ${theme.colors.amberMode.highlight};
+  --textHighlight: ${theme.colors.amberMode.textHighlight};
 }
 `
 }
