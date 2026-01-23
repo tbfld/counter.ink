@@ -38,24 +38,24 @@
   --callout-icon-fold: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpolyline points="6 9 12 15 18 9"%3E%3C/polyline%3E%3C/svg%3E');
 
   &[data-callout] {
-    --color: #448aff;
-    --border: #448aff44;
-    --bg: #448aff10;
+    --color: #6b6b6b;
+    --border: #6b6b6b44;
+    --bg: #6b6b6b10;
     --callout-icon: var(--callout-icon-note);
   }
 
   &[data-callout="abstract"] {
-    --color: #00b0ff;
-    --border: #00b0ff44;
-    --bg: #00b0ff10;
+    --color: #7a7a7a;
+    --border: #7a7a7a44;
+    --bg: #7a7a7a10;
     --callout-icon: var(--callout-icon-abstract);
   }
 
   &[data-callout="info"],
   &[data-callout="todo"] {
-    --color: #00b8d4;
-    --border: #00b8d444;
-    --bg: #00b8d410;
+    --color: #7e7e7e;
+    --border: #7e7e7e44;
+    --bg: #7e7e7e10;
     --callout-icon: var(--callout-icon-info);
   }
 
@@ -64,39 +64,39 @@
   }
 
   &[data-callout="tip"] {
-    --color: #00bfa5;
-    --border: #00bfa544;
-    --bg: #00bfa510;
+    --color: #868686;
+    --border: #86868644;
+    --bg: #86868610;
     --callout-icon: var(--callout-icon-tip);
   }
 
   &[data-callout="success"] {
-    --color: #09ad7a;
-    --border: #09ad7144;
-    --bg: #09ad7110;
+    --color: #7b7b7b;
+    --border: #7b7b7b44;
+    --bg: #7b7b7b10;
     --callout-icon: var(--callout-icon-success);
   }
 
   &[data-callout="question"] {
-    --color: #dba642;
-    --border: #dba64244;
-    --bg: #dba64210;
+    --color: #a5a5a5;
+    --border: #a5a5a544;
+    --bg: #a5a5a510;
     --callout-icon: var(--callout-icon-question);
   }
 
   &[data-callout="warning"] {
-    --color: #db8942;
-    --border: #db894244;
-    --bg: #db894210;
+    --color: #8f8f8f;
+    --border: #8f8f8f44;
+    --bg: #8f8f8f10;
     --callout-icon: var(--callout-icon-warning);
   }
 
   &[data-callout="failure"],
   &[data-callout="danger"],
   &[data-callout="bug"] {
-    --color: #db4242;
-    --border: #db424244;
-    --bg: #db424210;
+    --color: #6d6d6d;
+    --border: #6d6d6d44;
+    --bg: #6d6d6d10;
     --callout-icon: var(--callout-icon-failure);
   }
 
@@ -109,9 +109,9 @@
   }
 
   &[data-callout="example"] {
-    --color: #7a43b5;
-    --border: #7a43b544;
-    --bg: #7a43b510;
+    --color: #5e5e5e;
+    --border: #5e5e5e44;
+    --bg: #5e5e5e10;
     --callout-icon: var(--callout-icon-example);
   }
 
