@@ -36,6 +36,40 @@
         background-color: var(--lightgray);
       }
     }
+
+    & > .graph-layout-toggle {
+      cursor: pointer;
+      background: none;
+      border: none;
+      color: var(--dark);
+      opacity: 0.5;
+      width: 24px;
+      height: 24px;
+      position: absolute;
+      padding: 0.2rem;
+      margin: 0.3rem;
+      bottom: 0;
+      left: 0;
+      border-radius: 4px;
+      background-color: transparent;
+      transition: all 0.3s ease;
+      cursor: pointer;
+      
+      &:hover {
+        background-color: var(--lightgray);
+        opacity: 0.8;
+      }
+      
+      &.active {
+        opacity: 1;
+        background-color: var(--secondary);
+        color: var(--light);
+        
+        &:hover {
+          background-color: var(--tertiary);
+        }
+      }
+    }
   }
 
   & > .global-graph-outer {
