@@ -18,7 +18,6 @@ aliases:
 publish: true
 yaml_end: true
 ---
-
 ![[monet-recovering-from-cataract-surgery.jpg|wmed relative|center]]
 
 ![[content/img/porcelain-eye-scoundrel.jpg]]
@@ -41,9 +40,8 @@ yaml_end: true
 
 
 *See also:*
-
-- [[images 1 (2025-02-23 – 2025-03-03)]]
+- [[images 1 (2025-02-23 – 2025-03-03)|image stream 1 (2025-02-23 – 2025-03-03)]]
 - [[images 2 (2025-03-03 – 2025-03-10)|image stream 2 (2025-03-03 – 2025-03-10)]]
 - [[images 3 (2025-03-11 – 2025-03-24)|image stream 3 (2025-03-11 – 2025-03-24)]]
 - [[images 4 (2025-03-24 – 2025-05-07)|image stream 4 (2025-03-24 – 2025-05-07)]]
-- [image stream 5 (2025-03-03 – 2025-03-10)](images (2025-03-03 – 2025-03-10)
+- [[images 5 (2025-05-08 – 2025-08-12)]|image stream 5 (2025-05-08 - 2025-05-12)]]
