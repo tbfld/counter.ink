@@ -19,7 +19,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Atkinson+Hyperlegible",
-        body: "Lora",
+        body: "Atkinson+Hyperlegible",
         code: "Inconsolata",
       },
       colors: {
