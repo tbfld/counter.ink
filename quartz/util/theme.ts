@@ -13,6 +13,7 @@ export interface ColorScheme {
 interface Colors {
   lightMode: ColorScheme
   darkMode: ColorScheme
+  ftMode: ColorScheme
 }
 
 export type FontSpecification =
@@ -171,6 +172,18 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
   --textHighlight: ${theme.colors.darkMode.textHighlight};
+}
+
+:root[saved-theme="ft"] {
+  --light: ${theme.colors.ftMode.light};
+  --lightgray: ${theme.colors.ftMode.lightgray};
+  --gray: ${theme.colors.ftMode.gray};
+  --darkgray: ${theme.colors.ftMode.darkgray};
+  --dark: ${theme.colors.ftMode.dark};
+  --secondary: ${theme.colors.ftMode.secondary};
+  --tertiary: ${theme.colors.ftMode.tertiary};
+  --highlight: ${theme.colors.ftMode.highlight};
+  --textHighlight: ${theme.colors.ftMode.textHighlight};
 }
 `
 }
