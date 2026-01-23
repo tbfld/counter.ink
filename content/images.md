@@ -20,23 +20,23 @@ yaml_end: true
 ---
 ![[monet-recovering-from-cataract-surgery.jpg|wmed relative|center]]
 
-![[content/img/porcelain-eye-scoundrel.jpg]]
+![[content/img/porcelain-eye-scoundrel.jpg|wmed relative|center]]
 
-![[shades-asphalt-byfield.jpeg|wmed relative|center]]
+![[2026-01-23-shades-asphalt-byfield.jpeg|wmed relative|center]]
 
-![[richard-long-nomad-circle-1996.png|wmed relative|center]]
+![[2026-01-23-richard-long-nomad-circle-1996.png|wmed relative|center]]
 
-![[nyc-aerial-photo-1930s-maybe.jpeg|wmed relative|center]]
+![[2026-01-23-nyc-aerial-photo-1930s-maybe.jpeg|wmed relative|center]]
 
-![[overgrown-hedge-maze.jpg]]
+![[2026-01-23-overgrown-hedge-maze.jpg|wmed relative|center]]
 
-![[concrete-atsorturf-forgot-where-byfield.jpeg|wmed relative|center]]
+![[2026-01-23-concrete-astrorturf-forgot-where-byfield.jpeg|wmed relative|center]]
 
-![[Date_not_visible_Rock_on_a_wooden_board.jpeg|wmed relative|center]]
+![[2026-01-23-rock_on_a_wooden_board.jpeg|wmed relative|center]]
 
-![[escalator-lga-byfield-2.jpeg]]
+![[2026-01-23-escalator-lga-byfield-2.jpeg|wmed relative|center]]
 
-![[2025-barbican-byfield.jpeg|wmed relative|center]]
+![[2026-01-23-barbican-byfield.jpeg|wmed relative|center]]
 
 
 *See also:*
