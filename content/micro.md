@@ -1,7 +1,7 @@
 ---
 yaml_begin: true
-title: micros (cumulative log)
-description: Cumulative log of all micro entries
+title: micro notes
+description: cumulative log of all micro notes
 aliases:
   - micros
 permalink:
