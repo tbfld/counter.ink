@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-01
 
+***2026-01-23:*** AI bots [are incompatible with democracy](https://garymarcus.substack.com/p/ai-bot-swarms-threaten-to-undermine)
+
 ***2026-01-23:*** satisfying lost-and-found story of [a Harry Bertoia sculpture](https://www.smithsonianmag.com/smart-news/forgotten-for-decades-in-a-dusty-mall-basement-a-long-lost-harry-bertoia-sculpture-is-back-on-display-180987968/)
 ***
 ***2026-01-22:*** F/LOSS CLI tool for “optimizing” Macs (incl. TouchID for sudo!): [mole](https://github.com/tw93/Mole)
