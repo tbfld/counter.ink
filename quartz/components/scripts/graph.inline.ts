@@ -75,6 +75,112 @@ function setGridLayoutEnabled(enabled: boolean) {
   localStorage.setItem(gridLayoutKey, String(enabled))
 }
 
+// Color utility functions for recency-based saturation
+function hexToRgb(hex: string): { r: number; g: number; b: number } | null {
+  const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex.trim())
+  return result
+    ? {
+        r: parseInt(result[1], 16),
+        g: parseInt(result[2], 16),
+        b: parseInt(result[3], 16),
+      }
+    : null
+}
+
+function rgbToHsl(r: number, g: number, b: number): { h: number; s: number; l: number } {
+  r /= 255
+  g /= 255
+  b /= 255
+  const max = Math.max(r, g, b)
+  const min = Math.min(r, g, b)
+  let h = 0
+  let s = 0
+  const l = (max + min) / 2
+
+  if (max !== min) {
+    const d = max - min
+    s = l > 0.5 ? d / (2 - max - min) : d / (max + min)
+    switch (max) {
+      case r:
+        h = ((g - b) / d + (g < b ? 6 : 0)) / 6
+        break
+      case g:
+        h = ((b - r) / d + 2) / 6
+        break
+      case b:
+        h = ((r - g) / d + 4) / 6
+        break
+    }
+  }
+
+  return { h: h * 360, s: s * 100, l: l * 100 }
+}
+
+function hslToRgb(h: number, s: number, l: number): { r: number; g: number; b: number } {
+  h /= 360
+  s /= 100
+  l /= 100
+  let r, g, b
+
+  if (s === 0) {
+    r = g = b = l
+  } else {
+    const hue2rgb = (p: number, q: number, t: number) => {
+      if (t < 0) t += 1
+      if (t > 1) t -= 1
+      if (t < 1 / 6) return p + (q - p) * 6 * t
+      if (t < 1 / 2) return q
+      if (t < 2 / 3) return p + (q - p) * (2 / 3 - t) * 6
+      return p
+    }
+    const q = l < 0.5 ? l * (1 + s) : l + s - l * s
+    const p = 2 * l - q
+    r = hue2rgb(p, q, h + 1 / 3)
+    g = hue2rgb(p, q, h)
+    b = hue2rgb(p, q, h - 1 / 3)
+  }
+
+  return { r: Math.round(r * 255), g: Math.round(g * 255), b: Math.round(b * 255) }
+}
+
+function rgbToHex(r: number, g: number, b: number): string {
+  return "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1)
+}
+
+function adjustSaturation(hexColor: string, saturationPercent: number): string {
+  const rgb = hexToRgb(hexColor)
+  if (!rgb) return hexColor
+
+  const hsl = rgbToHsl(rgb.r, rgb.g, rgb.b)
+  hsl.s = saturationPercent
+  const newRgb = hslToRgb(hsl.h, hsl.s, hsl.l)
+  return rgbToHex(newRgb.r, newRgb.g, newRgb.b)
+}
+
+function calculateRecencySaturation(modifiedDate: Date | undefined): number {
+  if (!modifiedDate) return 30 // Default to moderate saturation if no date
+
+  const now = new Date()
+  const daysSinceModified = (now.getTime() - modifiedDate.getTime()) / (1000 * 60 * 60 * 24)
+
+  // Saturation mapping:
+  // 0-30 days: 80-100% saturation (very recent = high saturation)
+  // 31-180 days: 40-80% saturation (medium age = medium saturation)
+  // 180+ days: 10-40% saturation (old = low saturation)
+
+  if (daysSinceModified <= 30) {
+    // Linear interpolation from 100% (0 days) to 80% (30 days)
+    return 100 - (daysSinceModified / 30) * 20
+  } else if (daysSinceModified <= 180) {
+    // Linear interpolation from 80% (30 days) to 40% (180 days)
+    return 80 - ((daysSinceModified - 30) / 150) * 40
+  } else {
+    // Linear interpolation from 40% (180 days) to 10% (365+ days)
+    const cappedDays = Math.min(daysSinceModified, 365)
+    return 40 - ((cappedDays - 180) / 185) * 30
+  }
+}
+
 type TweenNode = {
   update: (time: number) => void
   stop: () => void
@@ -222,16 +328,32 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
-  // calculate color
+  // calculate color with recency-based saturation
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
+    const isTagNode = d.id.startsWith("tags/")
+    
+    // Get base color based on node type
+    let baseColor: string
     if (isCurrent) {
-      return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
+      baseColor = computedStyleMap["--secondary"]
+    } else if (visited.has(d.id)) {
+      baseColor = computedStyleMap["--tertiary"]
+    } else if (isTagNode) {
+      baseColor = computedStyleMap["--tertiary"]
     } else {
-      return computedStyleMap["--gray"]
+      baseColor = computedStyleMap["--gray"]
     }
+    
+    // Apply recency-based saturation for non-tag content nodes
+    if (!isTagNode) {
+      const contentDetails = data.get(d.id)
+      const pageDate = contentDetails?.date ? new Date(contentDetails.date) : undefined
+      const saturation = calculateRecencySaturation(pageDate)
+      return adjustSaturation(baseColor, saturation)
+    }
+    
+    return baseColor
   }
 
   function nodeRadius(d: NodeData) {
