@@ -123,7 +123,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2024-11-27-escaping-criticism]]
 	- [[2024-11-27-just-say-no-to-santayana]]
 	- [[2024-12-04-desantis-and-the-dod]]
-	- [[2024-12-04-genocide-vs-ethnic-cleansing]]
+	- [[2024-12-04-genocide-vs-ethnic-cleansing|2024-12-04 genocide vs ethnic cleansing]]
 	- [[2024-12-05-preemptive-pardons]]
 	- [[2024-12-13-don-martin-jazz-covers]]
 	- [[2024-12-13-recorded-poetry-then-and-now]]
@@ -161,7 +161,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-03-04-an-offer-edus-cant-refuse]]
 	- [[2025-03-05-swasticar-flyer]]
 	- [[2025-03-09-columbia–vs-feds-timeline]]
-	- [[2025-03-09-elite-capitulation-and-popular-resistance]]
+	- [[2025-03-09-elite-capitulation-and-popular-resistance|2503-09 elite capitulation and popular resistance]]
 	- [[2025-03-09-trump-higher-ed-and-judaism]]
 	- [[2025-03-12-2025-03-12-trump-canada-and-real-resistance]]
 	- [[2025-03-13-relic-of-a-simpler-time]]
@@ -200,7 +200,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-01-19-making-an-example-of-the-twin-cities]]
 	- [[2026-01-20-viruses-are-people-too]]
 	- [[new|new]]
-- **[[old]]**
+- **[[old|old]]**
 	- **[[nettime|nettime]]**
 		- **[[1995|1995]]**
 			- [[1995-12-27-art-r-us|1995-12-27 art r us]]
@@ -1488,7 +1488,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[zuck.jpg]]
 			- [[zwardial.jpg]]
 		- [[social-media|social media]]
-	- [[old]]
-- [[blg]]
+	- [[old|old]]
+- [[blg|blg]]
 
 %% End Waypoint %%
