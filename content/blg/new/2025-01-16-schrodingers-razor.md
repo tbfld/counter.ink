@@ -22,4 +22,4 @@ status: final
 yaml_end: true
 ---
 
-![[content/blg/new/new_images/schrodingers-razor.jpg|wmed relative|center]]
+![[blg/new/new_images/schrodingers-razor.jpg|wmed relative|center]]
