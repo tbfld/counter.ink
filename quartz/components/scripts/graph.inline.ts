@@ -66,7 +66,9 @@ function addToVisited(slug: SimpleSlug) {
 }
 
 function getGridLayoutEnabled(): boolean {
-  return localStorage.getItem(gridLayoutKey) === "true"
+  const storedValue = localStorage.getItem(gridLayoutKey)
+  // Default to true (grid enabled) if no preference is saved
+  return storedValue === null ? true : storedValue === "true"
 }
 
 function setGridLayoutEnabled(enabled: boolean) {
