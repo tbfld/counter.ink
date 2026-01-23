@@ -14,6 +14,7 @@ interface Colors {
   lightMode: ColorScheme
   darkMode: ColorScheme
   ftMode: ColorScheme
+  slateMode: ColorScheme
 }
 
 export type FontSpecification =
@@ -184,6 +185,18 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.ftMode.tertiary};
   --highlight: ${theme.colors.ftMode.highlight};
   --textHighlight: ${theme.colors.ftMode.textHighlight};
+}
+
+:root[saved-theme="slate"] {
+  --light: ${theme.colors.slateMode.light};
+  --lightgray: ${theme.colors.slateMode.lightgray};
+  --gray: ${theme.colors.slateMode.gray};
+  --darkgray: ${theme.colors.slateMode.darkgray};
+  --dark: ${theme.colors.slateMode.dark};
+  --secondary: ${theme.colors.slateMode.secondary};
+  --tertiary: ${theme.colors.slateMode.tertiary};
+  --highlight: ${theme.colors.slateMode.highlight};
+  --textHighlight: ${theme.colors.slateMode.textHighlight};
 }
 `
 }
