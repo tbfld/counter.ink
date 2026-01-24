@@ -1,24 +1,23 @@
 ---
 yaml_begin: true
 title: 1997-02-12 a reply to cook and gonggrijp
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: false
-order: 
-enableToc: 
-permalink: 
-aliases: 
-
-publish: 
+order:
+enableToc:
+permalink:
+aliases:
+publish:
 date: 1997-02-12
 tags:
-  - needs_tags
+  - internet
+  - icann
 yaml_end: true
 ---
-
 To: nettime-l
 Subject: Re: nettime: \[Fwd: rewired Zeit- name.space]
 From: t byfield

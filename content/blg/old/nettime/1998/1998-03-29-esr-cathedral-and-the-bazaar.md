@@ -1,24 +1,25 @@
 ---
 yaml_begin: true
 title: 1998-03-29 esr cathedral and the bazaar
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: false
-order: 
-enableToc: 
-permalink: 
-aliases: 
-
-publish: 
+order:
+enableToc:
+permalink:
+aliases:
+publish:
 tags:
-  - needs_tags
+  - internet
+  - ideology
+  - theory
+  - libertarianism
 date: 1998-03-29
 yaml_end: true
 ---
-
 To: nettime-l
 Subject: <nettime> Eric S. Raymond: “The Cathedral and the Bazaar”
 From: t byfield
