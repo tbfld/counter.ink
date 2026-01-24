@@ -1,22 +1,22 @@
 ---
 yaml_begin: true
 title: 2016-09-27 american abuse
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: false
-order: 
+order:
 enableToc: true
-permalink: 
-aliases: 
-
+permalink:
+aliases:
 publish: true
 date: 2016-09-27
 tags:
-  - needs_tags
-status: 
+  - right
+  - gop
+status:
 RSS: “false”
 yaml_end: true
 ---

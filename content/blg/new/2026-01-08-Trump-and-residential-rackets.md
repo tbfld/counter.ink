@@ -11,12 +11,11 @@ order:
 enableToc: true
 permalink:
 aliases:
-
 publish: true
 date: 2026-01-08
 tags:
   - politics
-  - realestate
+  - real-estate
 status:
 RSS: true
 yaml_end: true

@@ -1,21 +1,22 @@
 ---
 yaml_begin: true
 title: 2017-03-06 george pitts rip
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:07
 updated: 2026-01-20 12:25
-author: "tb" 
+author: tb
 images: false
-order: 
-enableToc: true 
-permalink: 
-aliases: 
-
-publish: true 
+order:
+enableToc: true
+permalink:
+aliases:
+publish: true
 date: 2017-03-06
 tags:
-  - needs_tags
+  - friends
+  - photography
+  - obituary
 status:
 RSS: false
 yaml_end: true

@@ -1,22 +1,24 @@
 ---
 yaml_begin: true
 title: 2016-10-16 right wing noise sound effects
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: false
-order: 
+order:
 enableToc: true
-permalink: 
-aliases: 
-
+permalink:
+aliases:
 publish: true
 date: 2016-10-16
 tags:
-  - needs_tags
-status: 
+  - politics
+  - media
+  - journalism
+  - right
+status:
 RSS: “false”
 yaml_end: true
 ---
