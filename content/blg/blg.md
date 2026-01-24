@@ -24,7 +24,7 @@ Early online resources — dialup BBSes, discussion-oriented mailing lists, and 
 When social media came along, it more or less put an end to blogging. It’s got lots of problems, some of them *really* serious, but its weirdness and intensity reflect new stages in how we think about different ideas of community. This jawlog reflects these changing styles, and not the everyone’s-got-their-own-soapbox tone of blogs.
 
 %% Begin Waypoint %%
-- **[[new|new]]**
+- **[[new]]**
 	- **new_images**
 		- **dress**
 			- [[alice-eugenia-ligon-1.jpg]]
@@ -123,7 +123,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2024-11-27-escaping-criticism]]
 	- [[2024-11-27-just-say-no-to-santayana]]
 	- [[2024-12-04-desantis-and-the-dod]]
-	- [[2024-12-04-genocide-vs-ethnic-cleansing|2024-12-04 genocide vs ethnic cleansing]]
+	- [[2024-12-04-genocide-vs-ethnic-cleansing]]
 	- [[2024-12-05-preemptive-pardons]]
 	- [[2024-12-13-don-martin-jazz-covers]]
 	- [[2024-12-13-recorded-poetry-then-and-now]]
@@ -157,7 +157,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-02-12-maybe-too-prophetic]]
 	- [[2025-02-20-so-many-nazis-so-little-time]]
 	- [[2025-02-25-how-nih-cuts-will-defund-edus]]
-	- [[2025-02-26-Niemöller-for-today|2025-02-26 Niemöller for today]]
+	- [[2025-02-26-Niemöller-for-today]]
 	- [[2025-03-04-an-offer-edus-cant-refuse]]
 	- [[2025-03-05-swasticar-flyer]]
 	- [[2025-03-09-columbia–vs-feds-timeline]]
@@ -181,26 +181,26 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-05-13-emem]]
 	- [[2025-05-14-on-yale-and-fascism]]
 	- [[2025-05-18-cervantes-owns-the-libs]]
-	- [[2025-05-20-a-modest-book-proposal|2025-05-20 a modest book proposal]]
+	- [[2025-05-20-a-modest-book-proposal]]
 	- [[2025-05-22-the-silence-of-the-lames]]
 	- [[2025-05-23-genocide-genocides-and-trump]]
 	- [[2025-05-27-a-bleak-prospect]]
 	- [[2025-05-27-biden-and-student-debt]]
-	- [[2025-05-31-science-is-what-scientists-do|2025-05-31 science is what scientists do]]
+	- [[2025-05-31-science-is-what-scientists-do]]
 	- [[2025-08-11-learning-to-read-corruption]]
 	- [[2025-08-11-titles-i-through-x]]
-	- [[2025-08-25-what-isnt-happening|2025-08-25 what isn't happening]]
-	- [[2025-09-21-where-do-you-draw-the-line|2025-09-21 where do you draw the line]]
-	- [[2025-10-07-no-more-acab-thanks|2025 10 07 no more acab thanks]]
+	- [[2025-08-25-what-isnt-happening]]
+	- [[2025-09-21-where-do-you-draw-the-line]]
+	- [[2025-10-07-no-more-acab-thanks]]
 	- [[2025-10-11-TrumpRX-etc]]
-	- [[2025-12-29-on-chomsky-and-epstein|2025-12-29 on chomsky and epstein]]
-	- [[2025-12-31-obey-in-advance|2025-12-31 obey in advance]]
+	- [[2025-12-29-on-chomsky-and-epstein]]
+	- [[2025-12-31-obey-in-advance]]
 	- [[2026-01-08-Trump-and-residential-rackets]]
 	- [[2026-01-16-lowering-the-bar-in-FL-etc]]
 	- [[2026-01-19-making-an-example-of-the-twin-cities]]
-	- [[2026-01-20-viruses-are-people-too|2026-01-20 viruses are people too]]
-	- [[new|new]]
-- **[[old|old]]**
+	- [[2026-01-20-viruses-are-people-too]]
+	- [[new]]
+- **[[old]]**
 	- **[[nettime|nettime]]**
 		- **[[1995|1995]]**
 			- [[1995-12-27-art-r-us|1995-12-27 art r us]]
@@ -1488,7 +1488,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[zuck.jpg]]
 			- [[zwardial.jpg]]
 		- [[social-media|social media]]
-	- [[old|old]]
-- [[blg|blg]]
+	- [[old]]
+- [[blg]]
 
 %% End Waypoint %%
