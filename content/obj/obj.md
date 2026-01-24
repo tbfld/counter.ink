@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2025-01-01
 tags:
-  - index
+  - directory
 status: 
 RSS: false
 yaml_end: true

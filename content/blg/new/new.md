@@ -11,13 +11,13 @@ order:
 enableToc: true
 permalink:
 aliases:
-  - index
+  - directory
   - home
 
 publish: true
 date: 2025-12-29
 tags:
-  - index
+  - directory
 status:
 RSS: false
 yaml_end: true
