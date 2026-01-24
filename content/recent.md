@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-01
 
+***2026-01-24:*** *Chronicle of Higher Ed* [review](http://archive.today/2026.01.22-192641/https://www.chronicle.com/article/higher-eds-future-is-managed-decline) of Bryan Alexander’s new book [*Peak Higher Ed*](https://www.press.jhu.edu/books/title/53967/peak-higher-ed)
+
 ***2026-01-24:***  Steven Heller [interviews graphic novelist Jarrett Dapier](https://www.printmag.com/daily-heller/the-daily-heller-banning-the-right-to-read-in-chicago-a-novel/) about Chicago Public Schools Persepolis ban
 
 > [!note]+ [[2026-01-24-things-fall-apart|2026-01-24 things fall apart]]
