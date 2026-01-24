@@ -1,26 +1,27 @@
 ---
 yaml_begin: true
 title: 2018-07-09 streaming auteurs
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb" 
+author: tb
 images: true
-order: 
-enableToc: true 
-permalink: 
-aliases: 
-
-publish: true 
+order:
+enableToc: true
+permalink:
+aliases:
+publish: true
 date: 2018-07-09
 tags:
-  - needs_tags
+  - image
+  - cinema
+  - computation
+  - ui
 status:
 RSS: false
 yaml_end: true
 ---
-
 For me, the essence of cinema today is waiting for Apple’s gigantic volume icon to linger in the center of the screen for as long as possible.
 
 ![[streaming-godard.jpg]]

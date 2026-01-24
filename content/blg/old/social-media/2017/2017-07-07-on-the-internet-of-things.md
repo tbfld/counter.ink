@@ -5,18 +5,19 @@ description:
 extract:
 created: 2024-11-17 17:07
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: “true”
 order:
 enableToc: true
 permalink:
 aliases:
-
 publish: true
 date: 2017-07-07
 tags:
-  - needs_tags
+  - cartoons
+  - internet
+  - automation
+  - language
 yaml_end: true
 ---
-
 ![[the-internet-of-things.jpg]]
