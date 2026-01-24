@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-01
 
+***2026-01-23:*** [best indy / community radio stations in the US](https://www.ldial.org/)
+
+***2026-01-23:*** [poli-sci syllabus sourced from random internet posts](https://bsky.app/profile/mosheroperandi.bsky.social/post/3ltsooofgnk2k)
+
 ***2026-01-23:*** AI bots [are incompatible with democracy](https://garymarcus.substack.com/p/ai-bot-swarms-threaten-to-undermine)
 
 ***2026-01-23:*** satisfying lost-and-found story of [a Harry Bertoia sculpture](https://www.smithsonianmag.com/smart-news/forgotten-for-decades-in-a-dusty-mall-basement-a-long-lost-harry-bertoia-sculpture-is-back-on-display-180987968/)

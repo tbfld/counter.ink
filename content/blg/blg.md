@@ -121,10 +121,10 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2024-11-26-second-greatest-footnote-ever]]
 	- [[2024-11-27-all-creatures-terrible-and-fabulous]]
 	- [[2024-11-27-escaping-criticism]]
-	- [[2024-11-27-just-say-no-to-santayana]]
+	- [[2024-11-27-just-say-no-to-santayana|2024-11-27 just say no to Santayana]]
 	- [[2024-12-04-desantis-and-the-dod]]
-	- [[2024-12-04-genocide-vs-ethnic-cleansing]]
-	- [[2024-12-05-preemptive-pardons]]
+	- [[2024-12-04-genocide-vs-ethnic-cleansing|2024-12-04 genocide vs ethnic cleansing]]
+	- [[2024-12-05-preemptive-pardons|2024-12-05 preemptive pardons]]
 	- [[2024-12-13-don-martin-jazz-covers]]
 	- [[2024-12-13-recorded-poetry-then-and-now]]
 	- [[2024-12-30-&&&]]
@@ -141,7 +141,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-01-15-hi-def-history]]
 	- [[2025-01-16-schrodingers-razor]]
 	- [[2025-01-18-tangled-literary-histories]]
-	- [[2025-01-18-why-no-one-can-quite-capture-what-david-lynch-did]]
+	- [[2025-01-18-why-no-one-can-quite-capture-what-david-lynch-did|2025-01-18 why no one can quite capture what David Lynch did]]
 	- [[2025-01-24-on-internettisms-and-elon]]
 	- [[2025-01-24-outsider-art-and-sharing]]
 	- [[2025-01-25-found-novel]]
@@ -157,10 +157,10 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-02-12-maybe-too-prophetic]]
 	- [[2025-02-20-so-many-nazis-so-little-time]]
 	- [[2025-02-25-how-nih-cuts-will-defund-edus]]
-	- [[2025-02-26-Niemöller-for-today|2025-02-26 Niemöller for today]]
+	- [[2025-02-26-Niemöller-for-today]]
 	- [[2025-03-04-an-offer-edus-cant-refuse|2025-03-04 an offer edus can’t refuse]]
 	- [[2025-03-05-swasticar-flyer|2025-03-05 swasticar flyer]]
-	- [[2025-03-09-columbia–vs-feds-timeline|2025-03-09 columbia vs feds timeline]]
+	- [[2025-03-09-columbia–vs-feds-timeline]]
 	- [[2025-03-09-elite-capitulation-and-popular-resistance|2503-09 elite capitulation and popular resistance]]
 	- [[2025-03-09-trump-higher-ed-and-judaism|25-03-09 Trump, higher ed, and Judaism]]
 	- [[2025-03-12-2025-03-12-trump-canada-and-real-resistance|2025-03-12 Trump, Canada, and real resistance]]
@@ -170,7 +170,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2025-03-21-big-law-and-big-moralism|2025-03-21 big law and big moralism]]
 	- [[2025-03-21-super-bon-voyage-jonathan-sterne|2025-03-21 super bon voyage Jonathan Sterne]]
 	- [[2025-03-24-i-claudius|2025-03-24 I Claudius]]
-	- [[2025-03-25-dod-says-signal-is-a-no-no|2025-03-25 DOD says signal is a no-no]]
+	- [[2025-03-25-dod-says-signal-is-a-no-no]]
 	- [[2025-03-25-trump-and-nuclear-codes-round-2|2025-03-25 Trump and “nuclear codes” — round 2]]
 	- [[2025-03-25-vice-signaling|2025-03-25 vice signaling]]
 	- [[2025-04-01-doge-and-the-wages-of-sin|2025-04-01 DOGE and the wages of sin]]
@@ -200,7 +200,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-01-19-making-an-example-of-the-twin-cities|2026 01 19]]
 	- [[2026-01-20-viruses-are-people-too|2026-01-20 viruses are people too]]
 	- [[new|new]]
-- **[[old]]**
+- **[[old|old]]**
 	- **[[nettime|nettime]]**
 		- **[[1995|1995]]**
 			- [[1995-12-27-art-r-us|1995-12-27 art r us]]
@@ -1488,7 +1488,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[zuck.jpg]]
 			- [[zwardial.jpg]]
 		- [[social-media|social media]]
-	- [[old]]
-- [[blg]]
+	- [[old|old]]
+- [[blg|blg]]
 
 %% End Waypoint %%
