@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-01
 
+***2026-01-24:***  Steven Heller [interviews graphic novelist Jarrett Dapier](https://www.printmag.com/daily-heller/the-daily-heller-banning-the-right-to-read-in-chicago-a-novel/) about Chicago Public Schools Persepolis ban
+
+***
 ***2026-01-23:*** [best indy / community radio stations in the US](https://www.ldial.org/)
 
 ***2026-01-23:*** [poli-sci syllabus sourced from random internet posts](https://bsky.app/profile/mosheroperandi.bsky.social/post/3ltsooofgnk2k)

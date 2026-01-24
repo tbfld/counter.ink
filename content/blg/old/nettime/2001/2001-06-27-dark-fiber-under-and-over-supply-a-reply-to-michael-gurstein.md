@@ -1,24 +1,25 @@
 ---
 yaml_begin: true
 title: 2001-06-27 dark fiber under and over supply a reply to michael gurstein
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: false
-order: 
-enableToc: 
-permalink: 
-aliases: 
-
-publish: 
+order:
+enableToc:
+permalink:
+aliases:
+publish:
 date: 2001-06-27
 tags:
-  - needs_tags
+  - intellectual-property
+  - infrastructure
+  - internet
+  - education
 yaml_end: true
 ---
-
 To: nettime-l
 Subject: <nettime> Re: Only 5% of laid fibre is lit in USA
 From: t byfield

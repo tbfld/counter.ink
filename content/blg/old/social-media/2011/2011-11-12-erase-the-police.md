@@ -1,21 +1,22 @@
 ---
 yaml_begin: true
 title: 2011-11-12 erase the police
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb" 
+author: tb
 images: true
-order: 
-enableToc: true 
-permalink: 
-aliases: 
-
-publish: true 
+order:
+enableToc: true
+permalink:
+aliases:
+publish: true
 date: 2011-11-12
 tags:
-  - needs_tags
+  - protest
+  - art
+  - design
 status:
 RSS: “true”
 yaml_end: true

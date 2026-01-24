@@ -1,24 +1,23 @@
 ---
 yaml_begin: true
 title: 2008-07-14 dj spooky on stanislaw lem
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: false
-order: 
-enableToc: 
-permalink: 
-aliases: 
-
-publish: 
+order:
+enableToc:
+permalink:
+aliases:
+publish:
 date: 2008-07-14
 tags:
-  - needs_tags
+  - ideology
+  - cold-war
 yaml_end: true
 ---
-
 To: Nettime-l
 Subject: Re: <nettime> Soviet Antarctica: Ice, Ice, baby...
 From: t byfield

@@ -1,24 +1,23 @@
 ---
 yaml_begin: true
 title: 1999-09-22 yucca as investor
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: false
-order: 
-enableToc: 
-permalink: 
-aliases: 
-
-publish: 
+order:
+enableToc:
+permalink:
+aliases:
+publish:
 date: 1999-09-22
 tags:
-  - needs_tags
+  - economics
+  - art
 yaml_end: true
 ---
-
 To: Nettime
 Subject: <nettime> The Swedish Ideology
 From: t byfield

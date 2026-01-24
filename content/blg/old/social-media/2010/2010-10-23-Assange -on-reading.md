@@ -1,25 +1,25 @@
 ---
 yaml_begin: true
 title: 2010-10-23 Assange  on reading
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:07
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: false
-order: 
+order:
 enableToc: true
-permalink: 
-aliases: 
-
+permalink:
+aliases:
 publish: true
 date: 2010-10-23
 tags:
-  - needs_tags
-status: 
+  - prison
+  - books
+status:
 RSS: “true”
 yaml_end: true
 ---
 “When it comes to the point where you occasionally look forward to being in prison on the basis that you might be able to spend a day reading a book, the realization dawns that perhaps the situation has become a little more stressful than you would like.”
 
-([*NYT*](https://www.nytimes.com/2010/10/24/world/24assange.html))
+([*NYT*]([https://www.nytimes.com/2010/10/24/world/24assange.html](https://archive.ph/20120909041904/http://www.nytimes.com/2010/10/24/world/24assange.html)))

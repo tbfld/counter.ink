@@ -1,21 +1,21 @@
 ---
 yaml_begin: true
 title: 2011-05-22 unabomber critique of conference fees
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: false
-order: 
-enableToc: 
-permalink: 
-aliases: 
-
-publish: 
+order:
+enableToc:
+permalink:
+aliases:
+publish:
 date: 2011-05-22
 tags:
-  - needs_tags
+  - economics
+  - disciplinarity
 yaml_end: true
 ---
 

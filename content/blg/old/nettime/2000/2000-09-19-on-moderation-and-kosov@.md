@@ -1,21 +1,22 @@
 ---
 yaml_begin: true
 title: 2000-09-19 on moderation and kosov@
-description: 
-extract: 
+description:
+extract:
 created: 2024-11-17 17:08
 updated: 2026-01-20 12:25
-author: "tb"
+author: tb
 images: false
-order: 
-enableToc: 
-permalink: 
-aliases: 
-
-publish: 
+order:
+enableToc:
+permalink:
+aliases:
+publish:
 date: 2000-09-19
 tags:
-  - needs_tags
+  - email
+  - ethics
+  - history
 yaml_end: true
 ---
 
