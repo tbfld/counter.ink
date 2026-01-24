@@ -29,6 +29,9 @@ yaml_end: true
 
 ***2026-01-24:***  Steven Heller [interviews graphic novelist Jarrett Dapier](https://www.printmag.com/daily-heller/the-daily-heller-banning-the-right-to-read-in-chicago-a-novel/) about Chicago Public Schools Persepolis ban
 
+> [!note]+ [[2026-01-24-things-fall-apart|2026-01-24 things fall apart]]
+> learning from aviation accidents
+
 ***
 ***2026-01-23:*** [best indy / community radio stations in the US](https://www.ldial.org/)
 
@@ -77,7 +80,7 @@ yaml_end: true
 ***
 ***2026-01-14:*** “[Why I Will Not Cast My Electoral Vote for Donald Trump]()”
 
-***2026-01-14:*** [The China Syndrome and American decline](www.patreon.com/posts/148151858)
+***2026-01-14:*** [The China Syndrome and American decline](https://www.patreon.com/posts/148151858)
 
 ***
 ***2026-01-13:*** [Times Square FB group](https://www.facebook.com/groups/347911852086113/)
