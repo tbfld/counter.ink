@@ -15,7 +15,7 @@ date: 2025-12-29
 tags:
   - directory
 aliases:
-  - directory
+  - index
   - home
 notitle: true
 status: published
