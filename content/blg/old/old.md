@@ -14,7 +14,7 @@ aliases:
 
 publish: false
 tags:
-  - index
+  - directory
 yaml_end: true
 ---
 

@@ -1,18 +1,17 @@
 ---
 yaml_begin: true
-title: 2024-08-22 17th c conceptual art
-description: 
-extract: 
+title: 2024-08-22 17th-c conceptual art
+description: a seemingly inexplicable painting — and Lewis Mumford
+extract: maybe Conceptual Art wasn’t so great after all
 created: 2024-11-24 09:16
 updated: 2026-01-20 12:25
-author: "tb" 
+author: tb
 images: true
-order: 
-enableToc: true 
-permalink: 
-aliases: 
-
-publish: true 
+order:
+enableToc: true
+permalink:
+aliases:
+publish: true
 date: 2025-02-14
 tags:
   - art
