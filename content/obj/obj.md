@@ -11,7 +11,6 @@ order:
 enableToc: true
 permalink: 
 aliases: 
-
 publish: true
 date: 2025-01-01
 tags:
@@ -31,6 +30,8 @@ I’ve avoided calling myself an *artist* because I know lots of them and I’m 
 [[1993–94 > Cop Sculpture]]
 
 [[1997 > New Monkey City]]
+
+[[2009 > Critical Strategies in Art and Media]]
 
 [[2011 > Cablegate — The Complete Wikipedia Datadump, Vol. 1]]
 
