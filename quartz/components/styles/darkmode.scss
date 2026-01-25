@@ -4,17 +4,17 @@
   position: relative;
   background: none;
   border: none;
-  width: 60px;
-  height: 60px;
+  width: 45px;
+  height: 45px;
   margin: 0;
   text-align: inherit;
   flex-shrink: 0;
 
   & svg {
     position: absolute;
-    width: 60px;
-    height: 60px;
-    top: calc(50% - 30px);
+    width: 45px;
+    height: 45px;
+    top: calc(50% - 22.5px);
     fill: var(--darkgray);
     transition: opacity 0.1s ease;
   }
