@@ -10,7 +10,7 @@ export default {
       note: "Note",
       abstract: "Abstract",
       info: "Info",
-      todo: "Todo",
+      todo: "To-Do",
       tip: "Tip",
       success: "Success",
       question: "Question",
@@ -29,9 +29,6 @@ export default {
       lightMode: "Light mode",
       darkMode: "Dark mode",
     },
-    readerMode: {
-      title: "Reader mode",
-    },
     explorer: {
       title: "Explorer",
     },
@@ -39,7 +36,7 @@ export default {
       createdWith: "Created with",
     },
     graph: {
-      title: "Sitemap",
+      title: "Graph View",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -54,7 +51,10 @@ export default {
       searchBarPlaceholder: "Search for something",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "Index",
+    },
+    readerMode: {
+      title: "Reader Mode",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,
