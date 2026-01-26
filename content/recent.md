@@ -4,7 +4,7 @@ title: recent things
 description: exactly what it says on the label
 extract:
 created: 2025-11-03 20:20
-updated: 2026-01-21 14:51
+updated: 2026-01-26 13:09
 author: tb
 images: false
 order: "55"
@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-01
 
+> [!note]+ [[2026-01-26-postmature-antifascists|2026-01-26 postmature antifascists]]
+> we’re “on the brink” means it hasn’t “really” happened yet — but it has
+
+***
 ***2026-01-24:*** Bellingcat’s [online forensic toolkit](https://bellingcat.gitbook.io/toolkit)
 
 ***2026-01-24:*** *Chronicle of Higher Ed* [reviews](http://archive.today/2026.01.22-192641/https://www.chronicle.com/article/higher-eds-future-is-managed-decline) new Bryan Alexander book [*Peak Higher Ed*](https://www.press.jhu.edu/books/title/53967/peak-higher-ed)

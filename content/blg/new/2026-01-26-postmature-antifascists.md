@@ -2,7 +2,7 @@
 yaml_begin: true
 title: 2026-01-26 postmature antifascists
 description: subtle shifts, from fact to subjective impression, keep us from calling it what it is
-extract: When you say we’re “on the brink,Æ you’re saying it hasn’t “really” happened yet, which justifies passivity
+extract: When you say we’re “on the brink,” you’re saying it hasn’t “really” happened yet, which justifies passivity
 created: 2026-01-26 12:27
 updated: 2026-01-26 12:27
 author: tb

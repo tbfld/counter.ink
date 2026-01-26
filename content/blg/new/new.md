@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-01-26-postmature-antifascists|2026-01-26 postmature antifascists]]
+> we’re “on the brink” means it hasn’t “really” happened yet — but it has
+
 > [!note]+ [[2026-01-20-viruses-are-people-too|2026-01-20 viruses are people too]]
 > history, humor, science, law — this one’s got it all
 
