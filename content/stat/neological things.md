@@ -19,7 +19,6 @@ status:
 RSS:
 yaml_end: true
 ---
-
 **adhocumentation** (2012-05-30; xitter)
 
 **adult supremacy** ([2021-03-28](https://www.facebook.com/tbyfield/posts/pfbid035ayXghyzAkyLQ7JTe8XTrDymk7Vdxes5xgKEazReYSG9NMEBVfP48d81Bj9s2Q8al)): self-explanatory
@@ -59,6 +58,9 @@ yaml_end: true
 **penultiworst** (2022-12-20; xitter): next-to-worst
 
 **permadjunct** (2014-03-24 on Xitter): perpetual adjunct position, formed by analogy to *permatemp*
+
+**postmature antifascist** ([2020-07-22](https://www.facebook.com/tbyfield/posts/pfbid0wYDKvCRbRnuknSfkGhCTN8pWcvrWiiaTEMdSK1zduDRGxJiaeJkamPaTY5Ko3AEvl
+)): Arendtsplainers and other pedantic finger-waggers who argued that Trump wasn’t “really” a fascist (see, e.g.,  [Jonathan Rauch](https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/)). W. Sydney Robinson used the phrase just weeks later [in a book review](https://www.skjam.com/2020/09/01/book-review-the-last-victorians/).
 
 **preact** (n.d.): to react before something has happened
 

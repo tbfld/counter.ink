@@ -1,6 +1,6 @@
 ---
 yaml_begin: true
-title: new
+title: NEW!
 description: things written for this site
 extract:
 created: 2024-11-27 19:37
@@ -13,7 +13,6 @@ permalink:
 aliases:
   - directory
   - home
-
 publish: true
 date: 2025-12-29
 tags:
