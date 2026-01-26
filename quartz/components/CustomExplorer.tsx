@@ -14,7 +14,7 @@ export default (() => {
           data-mobile={false}
           aria-expanded={true}
         >
-          <h2>Navigation</h2>
+          <h2>Contents</h2>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="14"
