@@ -1,6 +1,6 @@
 ---
 yaml_begin: true
-title: micro notes
+title: small notes
 description: cumulative log of all micro notes
 aliases:
   - micros
