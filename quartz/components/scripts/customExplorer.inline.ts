@@ -2,20 +2,7 @@ document.addEventListener("nav", () => {
   const explorer = document.querySelector(".custom-explorer")
   if (!explorer) return
 
-  // Initialize all folders as collapsed first
-  const folderContainers = explorer.querySelectorAll(".folder-container")
-  folderContainers.forEach((container) => {
-    const folderLi = container.closest("li")
-    if (folderLi) {
-      folderLi.classList.add("collapsed")
-      const icon = folderLi.querySelector(".folder-icon")
-      if (icon) {
-        icon.classList.add("collapsed")
-      }
-    }
-  })
-
-  // Handle folder toggle buttons
+  // Handle folder toggle buttons - toggle the "open" class on .folder-outer
   const folderButtons = explorer.querySelectorAll(".folder-button")
   folderButtons.forEach((button) => {
     button.addEventListener("click", (e) => {
@@ -25,15 +12,11 @@ document.addEventListener("nav", () => {
       const folderLi = (button as HTMLElement).closest("li")
       if (!folderLi) return
 
-      const folderIcon = folderLi.querySelector(".folder-icon")
+      const folderOuter = folderLi.querySelector(".folder-outer")
       
-      // Toggle collapsed state
-      if (folderLi.classList.contains("collapsed")) {
-        folderLi.classList.remove("collapsed")
-        if (folderIcon) folderIcon.classList.remove("collapsed")
-      } else {
-        folderLi.classList.add("collapsed")
-        if (folderIcon) folderIcon.classList.add("collapsed")
+      if (folderOuter) {
+        // Toggle the "open" class which CSS uses to expand/collapse
+        folderOuter.classList.toggle("open")
       }
     })
   })
