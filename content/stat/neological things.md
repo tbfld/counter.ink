@@ -1,23 +1,22 @@
 ---
 yaml_begin: true
-title: neoligistical things
+title: neological things
 description: misc words and phrases I’ve (thought I) coined
-extract: 
+extract:
 created: 2025-08-08 14:24
 updated: 2026-01-20 12:25
 author: tb
 images: false
-order: 
+order:
 enableToc: true
-permalink: 
-aliases: 
-
+permalink:
+aliases:
 publish: false
 date: 2025-08-10
 tags:
   - language
-status: 
-RSS: 
+status:
+RSS:
 yaml_end: true
 ---
 

@@ -45,7 +45,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Graph()),
-    Component.Explorer({ sortFn: customSortFn }), // Use external sorting function
+    Component.ConditionalRender({
+      component: Component.CustomExplorer(),
+      condition: (page) => page.fileData.slug === "recent",
+    }),
+    Component.ConditionalRender({
+      component: Component.Explorer({ sortFn: customSortFn }),
+      condition: (page) => page.fileData.slug !== "recent",
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
