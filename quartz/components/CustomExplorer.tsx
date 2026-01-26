@@ -89,6 +89,7 @@ export default (() => {
               </div>
               <div class="folder-outer">
                 <ul class="content">
+                  <li><a href="/images">current</a></li>
                   <li><a href="/img/images-1-(starting-2025-03-13)">stream 1</a></li>
                   <li><a href="/img/images-2-(2025-02-25-to-2025-03-12)">stream 2</a></li>
                   <li><a href="/img/images-3-(2025-02-24)">stream 3</a></li>
@@ -130,6 +131,7 @@ export default (() => {
                 <ul class="content">
                   <li><a href="/txt">texts</a></li>
                   <li><a href="/obj">objects</a></li>
+                  <li><a href="/links">links</a></li>
                 </ul>
               </div>
             </li>
