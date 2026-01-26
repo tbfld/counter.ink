@@ -1155,7 +1155,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2024-08-19-third-parties-and-doing-good|2024-08-19 third parties and doing good]]
 			- [[2024-08-20-gramsci-stats-overflow|2024-08-20 gramsci stats overflow]]
 			- [[2024-08-20-phil-donahue-rip|2024-08-20 phil donahue rip]]
-			- [[2024-08-22-17th-c-conceptual-art|2024-08-22 17th c conceptual art]]
+			- [[2024-08-22-17th-c-conceptual-art|2024-08-22 17th-c conceptual art]]
 			- [[2024-08-23-illustration-and-computation|2024-08-23 illustration and computation]]
 			- [[2024-08-24-the-left-is-not-prepared-for-this|2024-08-24 the left is not prepared for this]]
 			- [[2024-08-27-two-toynbees|2024-08-27 two toynbees]]
