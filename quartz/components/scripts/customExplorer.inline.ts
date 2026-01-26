@@ -2,6 +2,19 @@ document.addEventListener("nav", () => {
   const explorer = document.querySelector(".custom-explorer")
   if (!explorer) return
 
+  // Initialize all folders as collapsed first
+  const folderContainers = explorer.querySelectorAll(".folder-container")
+  folderContainers.forEach((container) => {
+    const folderLi = container.closest("li")
+    if (folderLi) {
+      folderLi.classList.add("collapsed")
+      const icon = folderLi.querySelector(".folder-icon")
+      if (icon) {
+        icon.classList.add("collapsed")
+      }
+    }
+  })
+
   // Handle folder toggle buttons
   const folderButtons = explorer.querySelectorAll(".folder-button")
   folderButtons.forEach((button) => {
@@ -12,24 +25,17 @@ document.addEventListener("nav", () => {
       const folderLi = (button as HTMLElement).closest("li")
       if (!folderLi) return
 
-      const folderOuter = folderLi.querySelector(".folder-outer")
       const folderIcon = folderLi.querySelector(".folder-icon")
       
-      if (folderOuter && folderIcon) {
-        const isCollapsed = folderLi.classList.toggle("collapsed")
-        folderIcon.classList.toggle("collapsed", isCollapsed)
+      // Toggle collapsed state
+      if (folderLi.classList.contains("collapsed")) {
+        folderLi.classList.remove("collapsed")
+        if (folderIcon) folderIcon.classList.remove("collapsed")
+      } else {
+        folderLi.classList.add("collapsed")
+        if (folderIcon) folderIcon.classList.add("collapsed")
       }
     })
-  })
-
-  // Initialize all folders as collapsed
-  const folderItems = explorer.querySelectorAll("li:has(.folder-button)")
-  folderItems.forEach((item) => {
-    item.classList.add("collapsed")
-    const icon = item.querySelector(".folder-icon")
-    if (icon) {
-      icon.classList.add("collapsed")
-    }
   })
 
   // Handle main explorer toggle
