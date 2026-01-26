@@ -101,11 +101,6 @@ export default (() => {
 
             {/* and static things */}
             <li>
-              <a href="/links">and static things</a>
-            </li>
-
-            {/* texts and objects */}
-            <li>
               <div class="folder-container">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -123,15 +118,15 @@ export default (() => {
                 </svg>
                 <div>
                   <button class="folder-button">
-                    <span class="folder-title">texts and objects</span>
+                    <span class="folder-title">and static things</span>
                   </button>
                 </div>
               </div>
               <div class="folder-outer">
                 <ul class="content">
-                  <li><a href="/txt">texts</a></li>
                   <li><a href="/obj">objects</a></li>
-                  <li><a href="/links">links</a></li>
+                  <li><a href="/txt">texts</a></li>
+                  <li><a href="/links">and links</a></li>
                 </ul>
               </div>
             </li>
