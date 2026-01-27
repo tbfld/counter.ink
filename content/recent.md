@@ -26,6 +26,8 @@ yaml_end: true
 ## 2026
 
 ### 2026-01
+> [!note]+ [[2026-01-27-Alex-Pretti-and-guns|2026-01-27 Alex Pretti and guns]]
+> we need to address the role guns played in Pretti’s life, death, and the fallout
 
 > [!note]+ [[2026-01-27-do-trees-cause-forests|2026-01-27 do trees cause forests]]
 > me on Robin on Hall on etc
