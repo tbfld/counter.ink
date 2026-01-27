@@ -4,7 +4,7 @@ title: NEW!
 description: things written for this site
 extract:
 created: 2024-11-27 19:37
-updated: 2026-01-20 12:25
+updated: 2026-01-27 08:35
 author: tb
 images: true
 order:
@@ -23,6 +23,8 @@ yaml_end: true
 ---
 #### Recent posts
 <!-- RECENT_POSTS_START -->
+> [!note]+ [[2026-01-27-do-trees-cause-forests|2026-01-27 do trees cause forests]]
+> me on Robin on Hall on etc
 
 > [!note]+ [[2026-01-26-postmature-antifascists|2026-01-26 postmature antifascists]]
 > we’re “on the brink” means it hasn’t “really” happened yet — but it has
