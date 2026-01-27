@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-01
 
+> [!note]+ [[2026-01-27-do-trees-cause-forests|2026-01-27 do trees cause forests]]
+> me on Robin on Hall on etc
+
+***
+***2026-01-26:*** [Ruminations on that DHS Penguin Tweet](https://youtu.be/c7WqVx9x89s)
+
 > [!note]+ [[2026-01-26-postmature-antifascists|2026-01-26 postmature antifascists]]
 > we’re “on the brink” means it hasn’t “really” happened yet — but it has
 
