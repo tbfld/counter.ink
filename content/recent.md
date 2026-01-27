@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-01
 
+> [!note]+ [[2026-01-27-how-to-punish-ice|2026-01-27-how to punish ice]]
+> closing the book on (and throwing it at) ICE
+
 ***2026-01-27:*** [CERFI – Analysis Everywhere. Militancy, Research, Architecture and Psychiatry](https://www.minorcompositions.info/?p=1661)
 
 > [!note]+ [[2026-01-27-Alex-Pretti-and-guns|2026-01-27 Alex Pretti and guns]]

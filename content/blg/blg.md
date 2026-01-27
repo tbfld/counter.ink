@@ -203,6 +203,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-01-26-postmature-antifascists|2026-01-26 postmature antifascists]]
 	- [[2026-01-27-Alex-Pretti-and-guns|2026-01-27 Alex Pretti and guns]]
 	- [[2026-01-27-do-trees-cause-forests|2026-01-27 do trees cause forests]]
+	- [[2026-01-27-how-to-punish-ice|2026-01-27-how to punish ice]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**
