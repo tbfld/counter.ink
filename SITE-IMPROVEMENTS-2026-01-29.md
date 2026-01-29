@@ -42,8 +42,8 @@ This document summarizes privacy, security, and SEO improvements made to your Qu
 **CSP Policy:**
 ```
 default-src 'self';
-script-src 'self' 'unsafe-inline' plausible.io cdnjs.cloudflare.com;
-style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com;
+script-src 'self' 'unsafe-inline' 'unsafe-eval' plausible.io cdnjs.cloudflare.com cdn.jsdelivr.net;
+style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com cdn.jsdelivr.net;
 img-src 'self' data:;
 font-src 'self';
 connect-src 'self' plausible.io;
@@ -54,13 +54,16 @@ form-action 'self';
 **Allows:**
 - ✅ Site's own resources
 - ✅ Plausible Analytics (privacy-focused)
-- ✅ CDN resources (cdnjs.cloudflare.com)
+- ✅ CDN resources (cdnjs.cloudflare.com, cdn.jsdelivr.net)
 - ✅ Inline scripts/styles (required by Quartz)
+- ✅ unsafe-eval (required for PixiJS graph visualization)
+- ✅ KaTeX math rendering from jsdelivr CDN
 
 **Blocks:**
 - ❌ Unauthorized external resources
-- ❌ Inline event handlers
-- ❌ Eval() and similar unsafe JS
+- ❌ Resources from non-whitelisted domains
+
+**Note:** `unsafe-eval` is required for PixiJS (interactive graph component). While this reduces CSP protection slightly, it's necessary for site functionality.
 
 **Files Modified:**
 - `quartz/components/Head.tsx` - Added CSP meta tag
