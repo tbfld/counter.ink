@@ -84,6 +84,10 @@ export default (() => {
     const { css, js } = externalResources
 
     // Generate Schema.org structured data
+    // Manually clean the path: remove content/ prefix and .md extension
+    const rawSlug = fileData.slug || slug || ''
+    const canonicalPath = rawSlug.replace(/^content\//, '').replace(/\.md$/, '')
+    
     const schemaData = {
       "@context": "https://schema.org",
       "@type": "BlogPosting",
@@ -102,7 +106,7 @@ export default (() => {
       },
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": `https://${cfg.baseUrl}/${slug || ''}`
+        "@id": `https://${cfg.baseUrl}/${canonicalPath}`
       }
     }
 
