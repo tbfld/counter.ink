@@ -87,6 +87,10 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        <meta
+          httpEquiv="Content-Security-Policy"
+          content="default-src 'self'; script-src 'self' 'unsafe-inline' plausible.io cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com; img-src 'self' data:; font-src 'self'; connect-src 'self' plausible.io; base-uri 'self'; form-action 'self';"
+        />
         {cfg.theme.fontOrigin === "local" && (
           <link rel="stylesheet" href="/static/fonts.css" />
         )}
