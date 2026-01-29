@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-01
 
+***2026-01-28:*** [Linux running in a PDF](https://github.com/ading2210/linuxpdf)
+
+***
 ***2026-01-27:*** a [very smart approach](https://www.msaevolutionlab.com/blog-full/making-space-for-resistance-how-choate-rosemary-hall-built-ai-adoption-on-their-own-terms) to AI in education
 
 > [!note]+ [[2026-01-27-how-to-punish-ice|2026-01-27-how to punish ice]]

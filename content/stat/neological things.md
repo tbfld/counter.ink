@@ -62,6 +62,8 @@ yaml_end: true
 **postmature antifascist** ([2020-07-22](https://www.facebook.com/tbyfield/posts/pfbid0wYDKvCRbRnuknSfkGhCTN8pWcvrWiiaTEMdSK1zduDRGxJiaeJkamPaTY5Ko3AEvl
 )): Arendtsplainers and other pedantic finger-waggers who argued that Trump wasn’t “really” a fascist (see, e.g.,  [Jonathan Rauch](https://www.theatlantic.com/ideas/2026/01/america-fascism-trump-maga-ice/685751/)). W. Sydney Robinson used the phrase just weeks later [in a book review](https://www.skjam.com/2020/09/01/book-review-the-last-victorians/).
 
+**postor syndrome** (2025-12-23)
+
 **preact** (n.d.): to react before something has happened
 
 **progwashing** ([2024-09-02](https://www.facebook.com/tbyfield/posts/pfbid02JoePo6NbG1utct39etn6eSJq9NkwjTYo8oWkLippBJX1YeKDmDZr7Dn4n4zxyanRl)): 
