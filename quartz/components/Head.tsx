@@ -112,7 +112,7 @@ export default (() => {
         <meta charSet="utf-8" />
         <meta
           httpEquiv="Content-Security-Policy"
-          content="default-src 'self'; script-src 'self' 'unsafe-inline' plausible.io cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com; img-src 'self' data:; font-src 'self'; connect-src 'self' plausible.io; base-uri 'self'; form-action 'self';"
+          content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' plausible.io cdnjs.cloudflare.com cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com cdn.jsdelivr.net; img-src 'self' data:; font-src 'self'; connect-src 'self' plausible.io; base-uri 'self'; form-action 'self';"
         />
         {slug && (
           <script type="application/ld+json">
