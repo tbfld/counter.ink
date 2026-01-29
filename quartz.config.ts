@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "ted byfield",
-    pageTitleSuffix: "",
+    pageTitleSuffix: " | counter.ink",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
