@@ -83,6 +83,29 @@ export default (() => {
 
     const { css, js } = externalResources
 
+    // Generate Schema.org structured data
+    const schemaData = {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": fileData.frontmatter?.title ?? title.replace(titleSuffix, ''),
+      "description": description,
+      "author": {
+        "@type": "Person",
+        "name": fileData.frontmatter?.author || "ted byfield"
+      },
+      "datePublished": fileData.dates?.created,
+      "dateModified": fileData.dates?.modified || fileData.dates?.created,
+      "publisher": {
+        "@type": "Organization",
+        "name": cfg.pageTitle,
+        "url": `https://${cfg.baseUrl}`
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": `https://${cfg.baseUrl}/${slug || ''}`
+      }
+    }
+
     return (
       <head>
         <title>{title}</title>
@@ -91,6 +114,11 @@ export default (() => {
           httpEquiv="Content-Security-Policy"
           content="default-src 'self'; script-src 'self' 'unsafe-inline' plausible.io cdnjs.cloudflare.com; style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com; img-src 'self' data:; font-src 'self'; connect-src 'self' plausible.io; base-uri 'self'; form-action 'self';"
         />
+        {slug && (
+          <script type="application/ld+json">
+            {JSON.stringify(schemaData)}
+          </script>
+        )}
         {cfg.theme.fontOrigin === "local" && (
           <link rel="stylesheet" href="/static/fonts.css" />
         )}
