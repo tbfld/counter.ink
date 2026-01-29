@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-01
 
+***2026-01-28:*** older man who watches construction, gives unsolicited advice: [*umarall*](https://en.wikipedia.org/wiki/Umarell)
+
 ***2026-01-28:*** [Linux running in a PDF](https://github.com/ading2210/linuxpdf)
 
 ***
