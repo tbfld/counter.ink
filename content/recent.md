@@ -36,7 +36,7 @@ yaml_end: true
 
 ***2026-02-02:*** *Neural* [review](https://neural.it/2026/01/marina-hassapopoulou-interactive-cinema-the-ambiguous-ethics-of-media-participation/) of Marina Hassapopoulou, *Interactive Cinema: The Ambiguous Ethics of Media Participation* (U Minn Press, 2024)
 
-. 2026-02-02: ABC — Australian one — on the neoliberal Atlas Network
+***2026-02-02:*** ABC — Australian one — [on the neoliberal Atlas Network](www.abc.net.au/news/2026-01-26/atlas-network-mont-pelerin-society-neoliberal-think-tanks/105700628)
 
 ***2026-02-02:*** [the missing chapter](https://alvyray.com/DigitalLight/default.htm#Supplemental) from Alvy Ray Smith’s *The Pixel*
 
