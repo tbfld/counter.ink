@@ -23,6 +23,10 @@ yaml_end: true
 ---
 #### Recent posts
 <!-- RECENT_POSTS_START -->
+
+> [!note]+ [[2026-02-03-redaction-aesthetics|2026-02-03-redaction aesthetics]]
+> a legal strategy for limiting redactions
+
 > [!note]+ [[2026-01-27-how-to-punish-ice|2026-01-27-how to punish ice]]
 > closing the book on (and throwing it at) ICE
 

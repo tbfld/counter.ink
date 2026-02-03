@@ -2,7 +2,7 @@
 yaml_begin: true
 title: 2026-02-03-redaction aesthetics
 description: a legal strategy for limiting redactions
-extract: redactions are a roadmap for investogators
+extract: redactions are a roadmap for investigators
 created: 2026-02-03 12:22
 updated: 2026-02-03 12:22
 author: tb

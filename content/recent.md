@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-02
 
+> [!note]+ [[2026-02-03-redaction-aesthetics|2026-02-03-redaction aesthetics]]
+> a legal strategy for limiting redactions
+
+***
+
 ***2026-02-02:*** [Simone 0914 Flagship Store](https://www.trugroup.co.kr/simone-0914) (🎩 FiG)
 
 ***2026-02-02:*** *Neural* [review](https://neural.it/2026/01/marina-hassapopoulou-interactive-cinema-the-ambiguous-ethics-of-media-participation/) of Marina Hassapopoulou, *Interactive Cinema: The Ambiguous Ethics of Media Participation* (U Minn Press, 2024)
