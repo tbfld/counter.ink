@@ -1,6 +1,6 @@
 ---
 yaml_begin: true
-title: 2026 01 19
+title: 2026-01-19 making an example of the twin cities
 description: Trump and the Twin Cities
 extract: here aren’t many more escalatory steps Trump & Co can take before they open fire on an unarmed crowd, and I think they’ll do that soon
 created: 2026-01-18 19:50
