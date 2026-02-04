@@ -6,7 +6,7 @@ extract: reducing workers to the products they make and investing commodities wi
 created: 2026-02-04 09:50
 updated: 2026-02-04 09:50
 author: tb
-images: false
+images: true
 order:
 enableToc: true
 permalink:
@@ -15,6 +15,7 @@ publish: true
 date: 2026-02-04
 tags:
   - design
+  - history
   - environment
 status:
 RSS: "true"
