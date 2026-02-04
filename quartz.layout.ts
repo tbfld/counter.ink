@@ -44,7 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
 //  Tagline(), // Add tagline below title
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.Graph()),
+    // Component.DesktopOnly(Component.Graph()), // TEMPORARILY DISABLED FOR MOBILE TESTING
     Component.ConditionalRender({
       component: Component.CustomExplorer(),
       condition: (page) => page.fileData.slug === "recent",
@@ -67,7 +67,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.Graph()),
+    // Component.DesktopOnly(Component.Graph()), // TEMPORARILY DISABLED FOR MOBILE TESTING
     Component.Explorer({ sortFn: customSortFn }), // Use external sorting function
   ],
   right: [],
