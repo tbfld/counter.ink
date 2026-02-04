@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-02-04-a-brief-history-of-coalie|2026-02-04 a brief history of coalie]]
+> how a tongue-in-cheek mascot became a brain-dead ideologue
+
 > [!note]+ [[2026-02-03-redaction-aesthetics|2026-02-03-redaction aesthetics]]
 > a legal strategy for limiting redactions
 
