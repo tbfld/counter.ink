@@ -285,10 +285,17 @@ window.addEventListener("resize", function () {
   // Desktop explorer opens by default, and it stays open when the window is resized
   // to mobile screen size. Applies `no-scroll` to <html> in this edge case.
   const explorer = document.querySelector(".explorer")
-  if (explorer && !explorer.classList.contains("collapsed")) {
+  const mobileExplorer = explorer?.querySelector(".mobile-explorer")
+  
+  // Only apply mobile-no-scroll if we're actually on mobile (hamburger is visible)
+  // AND the explorer is not collapsed
+  if (explorer && !explorer.classList.contains("collapsed") && mobileExplorer?.checkVisibility()) {
     document.documentElement.classList.add("mobile-no-scroll")
     return
   }
+  
+  // Remove mobile-no-scroll if conditions aren't met
+  document.documentElement.classList.remove("mobile-no-scroll")
 })
 
 function setFolderState(folderElement: HTMLElement, collapsed: boolean) {
