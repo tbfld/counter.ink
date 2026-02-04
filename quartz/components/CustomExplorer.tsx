@@ -1,13 +1,38 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/explorer.scss"
 // @ts-ignore
-import script from "./scripts/customExplorer.inline"
+import explorerScript from "./scripts/explorer.inline"
+// @ts-ignore
+import customScript from "./scripts/customExplorer.inline"
 import { classNames } from "../util/lang"
 
 export default (() => {
   const CustomExplorer: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     return (
       <div class={classNames(displayClass, "explorer custom-explorer")}>
+        <button
+          type="button"
+          class="explorer-toggle mobile-explorer hide-until-loaded"
+          aria-label="Toggle explorer"
+          aria-expanded={false}
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="lucide lucide-menu"
+          >
+            <line x1="4" x2="20" y1="12" y2="12" />
+            <line x1="4" x2="20" y1="6" y2="6" />
+            <line x1="4" x2="20" y1="18" y2="18" />
+          </svg>
+        </button>
         <button
           type="button"
           class="title-button explorer-toggle desktop-explorer"
@@ -142,6 +167,9 @@ export default (() => {
   }
 
   CustomExplorer.css = style
-  CustomExplorer.afterDOMLoaded = script
+  CustomExplorer.afterDOMLoaded = `
+    ${explorerScript};
+    ${customScript};
+  `
   return CustomExplorer
 }) satisfies QuartzComponentConstructor
