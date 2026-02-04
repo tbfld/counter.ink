@@ -205,7 +205,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-01-27-do-trees-cause-forests|2026-01-27 do trees cause forests]]
 	- [[2026-01-27-how-to-punish-ice|2026-01-27-how to punish ice]]
 	- [[2026-02-03-redaction-aesthetics|2026-02-03-redaction aesthetics]]
-	- [[2026-02-04-a-brief-history-of-coalie|Untitled 1]]
+	- [[2026-02-04-a-brief-history-of-coalie|2026-02-04 a brief history of coalie]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**
