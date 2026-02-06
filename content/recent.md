@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-05:*** Joohn Choe’s predictions for [how the next election will unfold](https://www.facebook.com/choejoohn/posts/pfbid02LGbyE6YJTfikVXhDboVE6FYuhz3eCN22FGwDHcXE7cEGpTNw2d9HA8CPzoy6LGsPl)
+
+***2026-02-05:*** [Turkish m-reduplication](https://x.com/nxd1979/status/2018659987976040813)
+
+***2026-02-05:*** [anti-phonetic alphabet](https://www.panix.com/~vr/alphabet.html) ca. 2000 (🎩 ST)
+***
+
 ***2026-02-04:*** [The Moral Stupefaction of the American Public](https://www.bostonreview.net/articles/the-moral-stupefaction-of-the-american-public/) (🎩DL)
 
 > [!note]+ [[2026-02-04-a-brief-history-of-coalie|2026-02-04 a brief history of coalie]]
