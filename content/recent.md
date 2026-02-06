@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-06:*** Marci Rubio was [the acting archivist of the United States](https://www.reuters.com/world/us/marco-rubio-steps-down-acting-head-us-national-archives-2026-02-05/)?!
+***
 ***2026-02-05:*** Joohn Choe’s predictions for [how the next election will unfold](https://www.facebook.com/choejoohn/posts/pfbid02LGbyE6YJTfikVXhDboVE6FYuhz3eCN22FGwDHcXE7cEGpTNw2d9HA8CPzoy6LGsPl)
 
 ***2026-02-05:*** [Turkish m-reduplication](https://x.com/nxd1979/status/2018659987976040813)
