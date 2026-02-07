@@ -1,9 +1,22 @@
-ARC/
-quartz_CLEAN/
-quartz/package-lock.json
-quartz/package.json
-.obsidian/
+# Build artifacts and dependencies
 node_modules/
 .quartz-cache/
 quartz/.quartz-cache/
 quartz/node_modules/
+quartz/package-lock.json
+quartz/package.json
+
+# Obsidian
+.obsidian/
+
+# Archive directories
+ARC/
+quartz_CLEAN/
+
+# Internal documentation (not for public repo)
+SITE-IMPROVEMENTS-*.md
+README-*-workflow.md
+README-tailscale*.md
+README-qnap*.md
+*qnap*.sh
+*tailscale*.sh
