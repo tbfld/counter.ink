@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-07:*** [Epstein / Kubrick/ Led Zeppelin / Baldessari](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004012.pdf)
+
 ***2026-02-07:***  [Why your university has so many administrators](https://archive.ph/az57z#selection-2811.0-2811.46)
 ***
 ***2026-02-06:*** Marci Rubio was [the acting archivist of the United States](https://www.reuters.com/world/us/marco-rubio-steps-down-acting-head-us-national-archives-2026-02-05/)?!
