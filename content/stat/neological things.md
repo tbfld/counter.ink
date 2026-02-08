@@ -104,7 +104,7 @@ yaml_end: true
 
 **undecided edgelords** ([2024](https://www.facebook.com/tbyfield/posts/pfbid0WwPvd59MGL3jcRFSMTzA4oYbBSjWLQnfrrpSe8knL3X95MCVe6TrCVJVvE8gjzjTl)): fuck them
 
-**ur-splain** (n.d.; xitter)
+**ur-splain** ([2017-10-25](https://www.facebook.com/tbyfield/posts/pfbid02CYWstFnJsqToEAZXWVTuQLGUWpT5qh71uT4tUAf7TnrLhx6MXi5LKScCyGv8catjl)): the protean origin from which all splains derove
 
 **vizwashing** (n.d.; xitter)
 

@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-08:*** “[trauma-ridden vessels who least resist inhuman economic forces](https://www.asomo.co/p/the-green-room-epstein-elite-loneliness)”
+
+***2026-02-08:*** “[the most overwrought AI legal filings you will ever gaze upon](https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/)”
+***
 ***2026-02-07:*** [Epstein / Kubrick/ Led Zeppelin / Baldessari](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004012.pdf)
 
 ***2026-02-07:***  [Why your university has so many administrators](https://archive.ph/az57z#selection-2811.0-2811.46)
