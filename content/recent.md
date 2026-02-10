@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-10:*** [The Journey and Return of Elizabeth Fisher](https://newohioreview.org/2025/10/23/essay-the-journey-and-return-of-elizabeth-fisher/) (🎩JP)
+
+***2026-02-10:*** [For Cubans, surrender is not an option](https://peoplesdispatch.org/2026/02/07/for-the-cuban-people-surrender-is-not-an-option/) 🎩BB)
+
+***2026-02-10:*** Dominic Pettman [on the first lady and historian of the robocene](https://publicdomainreview.org/essay/some-remarks-on-the-legacy-of-madame-francine-descartes/)
+
 ***2026-02-10:*** “[How Close did we Come to Teaching Jeffrey Epstein?](https://tonykaron.substack.com/p/how-close-did-we-come-to-teaching)”
 ***
 ***2026-02-09:*** RFK Jr’s [heroin voice](https://crookedtimber.org/2026/01/24/a-very-short-post-about-heroin-voice/)
