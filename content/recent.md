@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-10:*** “[How Close did we Come to Teaching Jeffrey Epstein?](https://tonykaron.substack.com/p/how-close-did-we-come-to-teaching)”
+***
+***2026-02-09:*** RFK Jr’s [heroin voice](https://crookedtimber.org/2026/01/24/a-very-short-post-about-heroin-voice/)
+
 ***2026-02-09:*** Jim Biglan, [artist](https://www.jim-biglan.website/) (🎩 CH1)
 
 > [!note]+ [[2026-02-09-go-and-see-come-and-see|2026-02-09-go and see come and see]]
