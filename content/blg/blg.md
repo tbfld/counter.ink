@@ -82,6 +82,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[2025-03-25-signal-opsec-email.jpeg]]
 		- [[2025-05-31-gleick-chart.jpg]]
 		- [[2025-10-07-not-an-ice-protest.jpg]]
+		- [[2026-01-09come-and-see.jpg]]
 		- [[alphabetized-opt.jpeg]]
 		- [[alphabetized.jpg]]
 		- [[and-and-and-grid-sm.jpeg]]

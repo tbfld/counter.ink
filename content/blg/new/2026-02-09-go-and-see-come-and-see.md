@@ -6,7 +6,7 @@ extract: what more and more people are experiencing right now, all around us, am
 created: 2026-02-09 10:51
 updated: 2026-02-09 10:51
 author: tb
-images: false
+images: true
 order:
 enableToc: true
 permalink:
@@ -22,6 +22,9 @@ status:
 RSS: "true"
 yaml_end: true
 ---
+![[2026-01-09come-and-see.jpg|wmed relative|center]]
+*Still from Klimov’s 1985 film* Come and See
+
 NYT, “[A Raid in a Small Town Brings Trump’s Deportations to Deep-Red Idaho](https://www.nytimes.com/2026/02/09/us/politics/trump-deportation-idaho.html)” (dek: “Wilder, Idaho, prided itself on comity. Then federal agents stormed a racetrack outside of town in October, and the reverberations are still shaking the community”; alt link [here](http://archive.today/Yw3cA)):
 
 > Nikki Ramirez-Smith, an immigration lawyer in nearby Nampa, began receiving panicked calls.
