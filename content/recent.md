@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-09:*** Jim Biglan, [artist](https://www.jim-biglan.website/) (🎩 CH1)
+
+> [!note]+ [[2026-02-09-go-and-see-come-and-see|2026-02-09-go and see come and see]]
+> me on the NYT on ICE in Idaho
+
+***2026-02-09:***  👉🏼 [The Journey and Return of Elizabeth Fisher](https://newohioreview.org/2025/10/23/essay-the-journey-and-return-of-elizabeth-fisher/) (🎩 [JP](https://www.facebook.com/julie.phillips.7902/posts/pfbid0xRmUzrXvtZK5fnVRLmeG8SHdfCQPKXXQnxkwUcoRRbPQbMc5W1t5MjFJZPWnnGKZl))
+***
 ***2026-02-08:*** “[trauma-ridden vessels who least resist inhuman economic forces](https://www.asomo.co/p/the-green-room-epstein-elite-loneliness)”
 
 ***2026-02-08:*** “[the most overwrought AI legal filings you will ever gaze upon](https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/)”

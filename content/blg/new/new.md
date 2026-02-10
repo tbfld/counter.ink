@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-02-09-go-and-see-come-and-see|2026-02-09-go and see come and see]]
+> me on the NYT on ICE in Idaho
+
 > [!note]+ [[2026-02-04-a-brief-history-of-coalie|2026-02-04 a brief history of coalie]]
 > how a tongue-in-cheek mascot became a brain-dead ideologue
 
