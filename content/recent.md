@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-11:*** updated! [[images]]
+
+***
 ***2026-02-10:*** [Lit Crit in the Age of AI](https://newleftreview.org/issues/ii155/articles/nan-da-literary-criticism-in-the-age-of-ai) (🎩BB)
 
 ***2026-02-10:*** “[most of us barely noticed there was also a sports event](https://www.meditationsinanemergency.com/auspicious-omens-and-excellent-insubordination/)” (🎩RW)
