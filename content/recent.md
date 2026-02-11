@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-10:*** [Lit Crit in the Age of AI](https://newleftreview.org/issues/ii155/articles/nan-da-literary-criticism-in-the-age-of-ai) (🎩BB)
+
+***2026-02-10:*** “[most of us barely noticed there was also a sports event](https://www.meditationsinanemergency.com/auspicious-omens-and-excellent-insubordination/)” (🎩RW)
+
 ***2026-02-10:*** [The Journey and Return of Elizabeth Fisher](https://newohioreview.org/2025/10/23/essay-the-journey-and-return-of-elizabeth-fisher/) (🎩JP)
 
 ***2026-02-10:*** [For Cubans, surrender is not an option](https://peoplesdispatch.org/2026/02/07/for-the-cuban-people-surrender-is-not-an-option/) 🎩BB)
