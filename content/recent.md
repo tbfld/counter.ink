@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-11:*** RIP *Byte* mag illustrator [Robert Tinney](https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/)
+
+***2026-02-11:*** Mamdani [hired 39 people out of 80K applicants](https://www.thecity.nyc/2026/02/06/mamdani-hiring-portal-administration-jobs/)
+
+***2026-02-11:*** [How liminalism became our defining aesthetic](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
+
 ***2026-02-11:*** updated! [[images]]
 
 ***

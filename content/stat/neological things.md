@@ -25,6 +25,8 @@ yaml_end: true
 
 **banalogy** (2025-02-21)
 
+**Bildungshalftimeshow** ([2026-02-11](https://www.facebook.com/tbyfield/posts/pfbid0eWR8b1HCxVz9b1VDWUG6H4JGrnMfV8Q7m3RsLyi68fbgNpPafX8uoumb2UtzzYLql)): [this](https://youtu.be/G6FuWd4wNd8)
+
 **briconteur** (n.d.): a raconteur who relies on bricolage
 
 **brogrom** ([2019-07-14](https://www.facebook.com/tbyfield/posts/pfbid027X3Fq4rNmbV7eqMewipLznTEUxfR1LVaSHJWKLxvzHSQtNgBkQ1nRNFLkkiEFPqxl)): a pogrom by bros, as in: “ICE's anti-‘immigrant’ brogroms are the next step in the Trump administration’s embrace of white supremacy.”
