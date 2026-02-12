@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-12:*** [Will Manidis](https://x.com/willmanidis/status/2021655191901155534) takes down Schumer’s “something big”
+
+***2026-02-12:*** [Gary Marcus](https://garymarcus.substack.com/p/about-that-matt-shumer-post-that) takes down Schumer’s “something big”
+
+***
+
 ***2026-02-11:*** RIP *Byte* mag illustrator [Robert Tinney](https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/)
 
 ***2026-02-11:*** Mamdani [hired 39 people out of 80K applicants](https://www.thecity.nyc/2026/02/06/mamdani-hiring-portal-administration-jobs/)
