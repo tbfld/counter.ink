@@ -19,6 +19,7 @@ publish: true
 yaml_end: true
 ---
 ![[monet-recovering-from-cataract-surgery.jpg|wmed relative|center]]
+
 ![[content/img/2026-01-23-porcelain-eye-scoundrel.jpg|wmed relative|center]]
 
 ![[2026-01-23-shades-asphalt-byfield.jpeg|wmed relative|center]]
