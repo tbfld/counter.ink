@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-02-15-when-does-policy-become-conspiracy|2026-02-15-when does policy become conspiracy]]
+> how to think when government becomes organized crime
+
 > [!note]+ [[2026-02-09-go-and-see-come-and-see|2026-02-09-go and see come and see]]
 > me on the NYT on ICE in Idaho
 

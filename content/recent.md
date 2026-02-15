@@ -27,6 +27,16 @@ yaml_end: true
 
 ### 2026-02
 
+
+> [!note]+ [[2026-02-15-when-does-policy-become-conspiracy|2026-02-15-when does policy become conspiracy]]
+> how to think when government becomes organized crime
+
+***
+
+***2026-02-13:*** a miners / Sandinista football jersey [mystery](https://www.claptoncfc.co.uk/2026/02/07/searching-for-more-information-on-donated-sandinista-num-shirt/) 🎩SS)
+
+***
+
 ***2026-02-12:*** [Will Manidis](https://x.com/willmanidis/status/2021655191901155534) takes down Schumer’s “something big”
 
 ***2026-02-12:*** [Gary Marcus](https://garymarcus.substack.com/p/about-that-matt-shumer-post-that) takes down Schumer’s “something big”
