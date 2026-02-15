@@ -26,7 +26,7 @@ yaml_end: true
 ---
 [NPR reports](https://www.pbs.org/newshour/politics/nonprofit-libraries-ordered-by-state-department-to-stop-processing-passport-applications) “the State Department has ordered certain public libraries nationwide to cease processing passport applications, disrupting a long-standing service that librarians say their communities have come to rely on.”
 
-This move fits hand-in-glove with the SAVE Act, of course. The point isn’t that ever precinct will demand that every person show a passport. Instead, it’s that this kind of thing will introduce enough noise into the system that Trump’s DOJ can “curate” where to intervene in order to achieve the desired outcomes: GOP domination.
+This move fits hand-in-glove with the SAVE Act, of course. The point isn’t that every precinct will demand that every person show a passport. Instead, it’s the kind of thing will introduce enough noise into the system that Trump’s DOJ can “curate” where to intervene in order to achieve the desired outcomes: GOP domination.
 
 Has anyone made a serious effort to analyze how policy coordination (which we expect from government) mutates into conspiracies? I doubt it. I can’t imagine any field where those categories would be seen as commensurate. What policy wonk or serious poli-sci type would say policy ≈ conspiracy? Or, coming from the other direction, what “conspiracy theorist” (gawd I’ve hated that category for decades) does serious policy or, even better, administrative law?! 😹
 
@@ -34,7 +34,7 @@ So this mutation, from effective governance to organized criminality, will be mi
 
 The reason for that failure is pretty simple, imo: Academia won’t reward that inquiry but it will *definitely* punish it. How? What field would you do this in  — history, poli sci, sociology? What divisions would allow it  — public policy or law? What research path could take anyone from “policy” to “conspiracy” without every responsible mentor warning them away? What job openings would allow it? What search committee would invite it? What funders would encourage it? Nope nope nope nope.
 
-These aren’t abstract questions for me, I’ve been pondering them from the early ‘90s when I wanted to do a PhD on how the *idea* of the “conspiracy” emerged and became the dominant default mode of popular political critique. I’ll never forget when I went to my old mentor [David Damrosch](https://complit.fas.harvard.edu/people/damrosch-david/) with that idea. He loved it but said  — this is verbatim  — “*they* will never let you do it...” I was like WTAF?! He laughed and said: it’s a PhD  — you only get to do 5 years, not 500! 😹
+These aren’t abstract questions for me, I’ve been pondering them from the early ’90s when I wanted to do a PhD on how the *idea* of the “conspiracy” emerged and became the dominant default mode of popular political critique. I’ll never forget when I went to my old mentor [David Damrosch](https://complit.fas.harvard.edu/people/damrosch-david/) with that idea. He loved it but said  — this is verbatim  — “*they* will never let you do it...” I was like WTAF?! He laughed and said: it’s a PhD  — you only get to do 5 years, not 500! 😹
 
 And yet here we are: Trump & Co have transformed much of the federal government into an extortion racket, and they’re pursuing coordinated strategies, tactics, and plans to subvert the midterm elections and buy more time to end the US’s “actually existing” democracy.
 
