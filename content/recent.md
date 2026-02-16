@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-16:*** worth reading: [defunding is what’s ‘really’ killing the humanities](https://utotherescue.blogspot.com/2026/02/liner-note-47-did-atlantics-anti-woke.html) (🎩 EW)
+
+***
 
 > [!note]+ [[2026-02-15-when-does-policy-become-conspiracy|2026-02-15-when does policy become conspiracy]]
 > how to think when government becomes organized crime
