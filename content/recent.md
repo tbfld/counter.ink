@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-18:*** Paul Krugman: “[Now Trumpists Are Menacing Economists](https://youtu.be/lzZdxmSmBaM)”
+
+***
+
 ***2026-02-16:*** worth reading: [defunding is what’s ‘really’ killing the humanities](https://utotherescue.blogspot.com/2026/02/liner-note-47-did-atlantics-anti-woke.html) (🎩 EW)
 
 ***
