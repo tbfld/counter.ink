@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-19:*** [Epstein Helper](https://github.com/artmedlar/epstein-files-analyzer/tree/main
+
+***2026-02-19:*** Mamdani unpolicing advisor [Alex Vitale](https://en.wikipedia.org/wiki/Alex_S._Vitale)’s [review](https://link.springer.com/epdf/10.1007/s10612-026-09876-1?sharing_token=CnF5cuKuk9E5oQ6IuP5Dhfe4RwlQNchNByi7wbcMAY5r8QvNIOWgDKnRDAUKDfkHCFkKqIkMhEXThHzMQdMVh-g6vNm2kJ3eXoMMYTK7PCiOIUafnty9pHGwdV7up96D6-bFwnckAdmEwW0sLvqKOFKQsfvhiiMsnQgzvTO-wb4%3D) of [David Garland’s Law and Order Leviathan](https://press.princeton.edu/books/hardcover/9780691271194/law-and-order-leviathan)
+***
+
 ***2026-02-18:*** Paul Krugman: “[Now Trumpists Are Menacing Economists](https://youtu.be/lzZdxmSmBaM)”
 
 ***
