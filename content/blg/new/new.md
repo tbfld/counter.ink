@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-02-19-question-of-the-day|2026-02-19 question of the day]]
+> a group who systematically violate the Constitution has taken over — so *now what?*
+
 > [!note]+ [[2026-02-15-when-does-policy-become-conspiracy|2026-02-15-when does policy become conspiracy]]
 > how to think when government becomes organized crime
 
