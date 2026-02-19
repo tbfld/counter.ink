@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-19:*** Marcin Wichary blog on [software craft and quality](https://unsung.aresluna.org/)
+
 > [!note]+ [[2026-02-19-question-of-the-day|2026-02-19 question of the day]]
 > a group who systematically violate the Constitution has taken over — so *now what?*
 
