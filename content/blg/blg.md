@@ -209,7 +209,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-02-04-a-brief-history-of-coalie|2026-02-04 a brief history of coalie]]
 	- [[2026-02-09-go-and-see-come-and-see|2026-02-09-go and see come and see]]
 	- [[2026-02-15-when-does-policy-become-conspiracy|2026-02-15 when does policy become conspiracy?]]
-	- [[2026-02-19-question-of-the-day|2026-02-19-question of the day]]
+	- [[2026-02-19-question-of-the-day|2026-02-19 question of the day]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**
