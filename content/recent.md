@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-20:*** [Institute for the Study of War’s Russian Offensive Campaign Assessment](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-19-2026/)
+
+***2026-02-20:*** Toney Karon asks [if a proper World Cup is even possible in the US in 2026](https://tonykaron.substack.com/p/is-it-possible-to-hold-a-proper-world)
+
+***
+
 ***2026-02-19:*** Marcin Wichary blog on [software craft and quality](https://unsung.aresluna.org/)
 
 > [!note]+ [[2026-02-19-question-of-the-day|2026-02-19 question of the day]]
