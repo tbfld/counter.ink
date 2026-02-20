@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-02
 
+> [!note]+ [[2026-02-20two-thoughts-on-ethics|2026-02-20 two thoughts on ethics]]
+> if we’ve given up on ethics, we might as well just give up
+
 ***2026-02-20:*** [Institute for the Study of War’s Russian Offensive Campaign Assessment](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-19-2026/)
 
 ***2026-02-20:*** Toney Karon asks [if a proper World Cup is even possible in the US in 2026](https://tonykaron.substack.com/p/is-it-possible-to-hold-a-proper-world)

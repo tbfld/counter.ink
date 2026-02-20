@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-02-20two-thoughts-on-ethics|2026-02-20 two thoughts on ethics]]
+> if we’ve given up on ethics, we might as well just give up
+
 > [!note]+ [[2026-02-19-question-of-the-day|2026-02-19 question of the day]]
 > a group who systematically violate the Constitution has taken over — so *now what?*
 
