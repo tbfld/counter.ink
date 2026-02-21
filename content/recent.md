@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-21:*** [How the LA Review of Books destroyed itself](https://nobaddaysinla.substack.com/p/how-the-la-review-of-books-destroyed)
+***
+
 > [!note]+ [[2026-02-20two-thoughts-on-ethics|2026-02-20 two thoughts on ethics]]
 > if we’ve given up on ethics, we might as well just give up
 
