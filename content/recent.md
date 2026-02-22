@@ -27,6 +27,16 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-22:*** amazing explanation for [why Trump sent a hospital ship to Greenland](https://www.facebook.com/granny.grue/posts/pfbid0kJMSBhoNNm8YXDfQ72rRz8G7kDhD31WAwGSgncRzTh4fa5Fm8aH4UkRmSCLEzfwRl)
+
+***2026-02-22:*** Kenneth Lonergan’s 3’6” [director / extended cut of *Margaret*](https://www.amazon.com/gp/video/detail/B0G6R1F7VK) (2011) (🎩 JH)
+
+***2026-02-22:*** the actor Stellan Skarsgård was a [teen pop sensation](https://youtu.be/2bSpPfSnEp0)
+
+***2026-02-22:*** Wesley Willis’s [outsider Chicago landscapes](https://rawvision.com/blogs/articles/wesley-willis) (🎩 MM)
+
+***2026-02-22:*** the [wit and wisdom](https://www.artforum.com/lists/artforum-dossier-wit-alex-jovanovich/) of *Artforum*
+
 ***2026-02-22:*** *Telegraph* (India) [reviews](https://www.telegraphindia.com/books/trains-and-trajectories-the-social-life-of-indian-trains-runs-like-a-bakhtinian-chronotope-prnt/cid/2148127) Amitava Kumar’s *Social Life of Indian Trains*
 
 > [!note]+ [[2026-02-22-an-epidemic-of-pseudo-suicides|2026-02-22 an epidemic of pseudo-suicides]]
@@ -37,7 +47,7 @@ yaml_end: true
 ***2026-02-22:*** [Rodney Graham’s inverted portraits of trees](https://observer.co.uk/culture/photography/article/the-grid-rodney-grahams-inverted-trees)
 ***
 
-***2026-02-21:*** [How the LA Review of Books destroyed itself](https://nobaddaysinla.substack.com/p/how-the-la-review-of-books-destroyed)
+***2026-02-21:*** [How the *LA Review of Books* destroyed itself](https://nobaddaysinla.substack.com/p/how-the-la-review-of-books-destroyed)
 ***
 
 > [!note]+ [[2026-02-20two-thoughts-on-ethics|2026-02-20 two thoughts on ethics]]
@@ -54,7 +64,7 @@ yaml_end: true
 > [!note]+ [[2026-02-19-question-of-the-day|2026-02-19 question of the day]]
 > a group who systematically violate the Constitution has taken over — so *now what?*
 
-***2026-02-19:*** [Epstein Helper](https://github.com/artmedlar/epstein-files-analyzer/tree/main
+***2026-02-19:*** [Epstein Helper](https://github.com/artmedlar/epstein-files-analyzer/tree/main)
 
 ***2026-02-19:*** Mamdani unpolicing advisor [Alex Vitale](https://en.wikipedia.org/wiki/Alex_S._Vitale)’s [review](https://link.springer.com/epdf/10.1007/s10612-026-09876-1?sharing_token=CnF5cuKuk9E5oQ6IuP5Dhfe4RwlQNchNByi7wbcMAY5r8QvNIOWgDKnRDAUKDfkHCFkKqIkMhEXThHzMQdMVh-g6vNm2kJ3eXoMMYTK7PCiOIUafnty9pHGwdV7up96D6-bFwnckAdmEwW0sLvqKOFKQsfvhiiMsnQgzvTO-wb4%3D) of [David Garland’s Law and Order Leviathan](https://press.princeton.edu/books/hardcover/9780691271194/law-and-order-leviathan)
 ***
@@ -120,7 +130,7 @@ yaml_end: true
 
 ***2026-02-07:***  [Why your university has so many administrators](https://archive.ph/az57z#selection-2811.0-2811.46)
 ***
-***2026-02-06:*** Marci Rubio was [the acting archivist of the United States](https://www.reuters.com/world/us/marco-rubio-steps-down-acting-head-us-national-archives-2026-02-05/)?!
+***2026-02-06:*** Marco Rubio was [the acting archivist of the United States](https://www.reuters.com/world/us/marco-rubio-steps-down-acting-head-us-national-archives-2026-02-05/)?!
 ***
 ***2026-02-05:*** Joohn Choe’s predictions for [how the next election will unfold](https://www.facebook.com/choejoohn/posts/pfbid02LGbyE6YJTfikVXhDboVE6FYuhz3eCN22FGwDHcXE7cEGpTNw2d9HA8CPzoy6LGsPl)
 
