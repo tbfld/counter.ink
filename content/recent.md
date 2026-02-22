@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-22:*** *Telegraph* (India) [reviews](https://www.telegraphindia.com/books/trains-and-trajectories-the-social-life-of-indian-trains-runs-like-a-bakhtinian-chronotope-prnt/cid/2148127) Amitava Kumar’s *Social Life of Indian Trains*
+
+> [!note]+ [[2026-02-22-an-epidemic-of-pseudo-suicides|2026-02-22 an epidemic of pseudo-suicides]]
+> when police say a lynching is a suicide
+
 ***2026-02-22:*** Letters to the *Grauniad* about [men shoving women](https://www.theguardian.com/society/2026/feb/20/theres-an-epidemic-of-men-pushing-women-and-it-needs-to-stop)
 
 ***2026-02-22:*** [Rodney Graham’s inverted portraits of trees](https://observer.co.uk/culture/photography/article/the-grid-rodney-grahams-inverted-trees)
