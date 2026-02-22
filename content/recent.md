@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-22:*** Letters to the *Grauniad* about [men shoving women](https://www.theguardian.com/society/2026/feb/20/theres-an-epidemic-of-men-pushing-women-and-it-needs-to-stop)
+
+***2026-02-22:*** [Rodney Graham’s inverted portraits of trees](https://observer.co.uk/culture/photography/article/the-grid-rodney-grahams-inverted-trees)
+***
+
 ***2026-02-21:*** [How the LA Review of Books destroyed itself](https://nobaddaysinla.substack.com/p/how-the-la-review-of-books-destroyed)
 ***
 
