@@ -34,7 +34,7 @@ There’s an epidemic of young African-American men being lynched across the sou
 
 - *appeal:* there’s always another forum that’ll hew to convention
 
-But the one that matters most is *consequence*: a regime that focuses on _mens rea_ creates incentives to not “know.” That feedback loop contributes heavily to the endless rivers of passive “mistakes were made” language, all the smarmy “I wasd only kidding” pseudo-denials, the trollish bad-faith appropriations of progressive language, and so on.
+But the one that matters most is *consequence*: a regime that focuses on _mens rea_ creates incentives to not “know.” That feedback loop contributes heavily to the endless rivers of passive “mistakes were made” language, all the smarmy “I was only kidding” pseudo-denials, the trollish bad-faith appropriations of progressive language, and so on.
 
 When it comes to criminality, the spaces of subjectivity are heavily weighted toward those whose crimes mesh neatly with the structural and systemic violence of the state and para-state. That’s why we should disregard it.
 

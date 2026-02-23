@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-22:*** [Poseidon taking chocolate from Mexico to Europe](https://publicdomainreview.org/essay/when-chocolate-was-medicine-colmenero-wadsworth-and-dufour/)
+
+***2026-02-22:*** a bluntly [old-school cover-up](https://www.thetimes.com/uk/politics/article/antonia-romeo-civil-service-cabinet-office-2gfc2x536) in the UK
+
 ***2026-02-22:*** amazing explanation for [why Trump sent a hospital ship to Greenland](https://www.facebook.com/granny.grue/posts/pfbid0kJMSBhoNNm8YXDfQ72rRz8G7kDhD31WAwGSgncRzTh4fa5Fm8aH4UkRmSCLEzfwRl)
 
 ***2026-02-22:*** Kenneth Lonergan’s 3’6” [director / extended cut of *Margaret*](https://www.amazon.com/gp/video/detail/B0G6R1F7VK) (2011) (🎩 JH)
