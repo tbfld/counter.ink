@@ -4,7 +4,7 @@ title: NEW!
 description: things written for this site
 extract:
 created: 2024-11-27 19:37
-updated: 2026-01-27 08:35
+updated: 2026-02-23 12:15
 author: tb
 images: true
 order:
@@ -23,6 +23,12 @@ yaml_end: true
 ---
 #### Recent posts
 <!-- RECENT_POSTS_START -->
+
+> [!note]+ [[2026-02-23-the-worst-pandering-to-the-worse|2026-02-23 the worst pandering to the worse]]
+> on hanging a photo of Andrew in the Louvre
+
+> [!note]+ [[2026-02-23-the-worst-pandering-to-the-worse|2026-02-23 the worst pandering to the worse]]
+> on hanging a photo of Andrew in the Louvre
 
 > [!note]+ [[2026-02-23-one-sick-sailor|2026-02-23 one sick sailor]]
 > covering the cover story of the submarine and Greenland

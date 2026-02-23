@@ -4,7 +4,7 @@ title: recent things
 description: exactly what it says on the label
 extract:
 created: 2025-11-03 20:20
-updated: 2026-02-23 11:31
+updated: 2026-02-23 12:15
 author: tb
 images: false
 order: "55"
@@ -26,6 +26,9 @@ yaml_end: true
 ## 2026
 
 ### 2026-02
+
+> [!note]+ [[2026-02-23-the-worst-pandering-to-the-worse|2026-02-23 the worst pandering to the worse]]
+> on hanging a photo of Andrew in the Louvre
 
 > [!note]+ [[2026-02-23-one-sick-sailor|2026-02-23 one sick sailor]]
 > covering the cover story of the submarine and Greenland

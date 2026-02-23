@@ -83,6 +83,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[2025-05-31-gleick-chart.jpg]]
 		- [[2025-10-07-not-an-ice-protest.jpg]]
 		- [[2026-01-09come-and-see.jpg]]
+		- [[2026-02-23-andrew-by-todd-alcott.jpg]]
 		- [[alphabetized-opt.jpeg]]
 		- [[alphabetized.jpg]]
 		- [[and-and-and-grid-sm.jpeg]]
@@ -213,6 +214,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-02-20two-thoughts-on-ethics|2026-02-20 two thoughts on ethics]]
 	- [[2026-02-22-an-epidemic-of-pseudo-suicides|2026-02-22 an epidemic of pseudo-suicides]]
 	- [[2026-02-23-one-sick-sailor|2026-02-23 one sick sailor]]
+	- [[2026-02-23-the-worst-pandering-to-the-worse|2026-02-23-the worst pandering to the worse]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**
