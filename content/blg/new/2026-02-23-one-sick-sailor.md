@@ -1,7 +1,7 @@
 ---
 yaml_begin: true
-title: 2026-02-23-one sick sailor
-description:
+title: 2026-02-23 one sick sailor
+description: covering the cover story of the submarine and Greenland
 extract: "Trump gave away the game: there are *many* sick people in Greenland. What kind of “sick” is anyone’s guess."
 created: 2026-02-23 10:46
 updated: 2026-02-23 10:46

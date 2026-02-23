@@ -4,7 +4,7 @@ title: recent things
 description: exactly what it says on the label
 extract:
 created: 2025-11-03 20:20
-updated: 2026-01-26 13:09
+updated: 2026-02-23 11:31
 author: tb
 images: false
 order: "55"
@@ -26,6 +26,11 @@ yaml_end: true
 ## 2026
 
 ### 2026-02
+
+> [!note]+ [[2026-02-23-one-sick-sailor|2026-02-23 one sick sailor]]
+> covering the cover story of the submarine and Greenland
+
+***
 
 ***2026-02-22:*** [Poseidon taking chocolate from Mexico to Europe](https://publicdomainreview.org/essay/when-chocolate-was-medicine-colmenero-wadsworth-and-dufour/)
 

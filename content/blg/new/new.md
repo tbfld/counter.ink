@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-02-23-one-sick-sailor|2026-02-23 one sick sailor]]
+> covering the cover story of the submarine and Greenland
+
 > [!note]+ [[2026-02-22-an-epidemic-of-pseudo-suicides|2026-02-22 an epidemic of pseudo-suicides]]
 > when police say a lynching is a suicide
 
