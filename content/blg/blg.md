@@ -214,7 +214,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-02-20two-thoughts-on-ethics|2026-02-20 two thoughts on ethics]]
 	- [[2026-02-22-an-epidemic-of-pseudo-suicides|2026-02-22 an epidemic of pseudo-suicides]]
 	- [[2026-02-23-one-sick-sailor|2026-02-23 one sick sailor]]
-	- [[2026-02-23-the-worst-pandering-to-the-worse|2026-02-23-the worst pandering to the worse]]
+	- [[2026-02-23-the-worst-pandering-to-the-worse|2026-02-23 the worst pandering to the worse]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**

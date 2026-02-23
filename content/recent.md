@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-23:*** *Byte* magazine [visual archive](https://byte.tsundoku.io/) (🎩 KH)
+
 > [!note]+ [[2026-02-23-the-worst-pandering-to-the-worse|2026-02-23 the worst pandering to the worse]]
 > on hanging a photo of Andrew in the Louvre
 
