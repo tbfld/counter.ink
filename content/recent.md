@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-24:*** autocorrect the autocrats with the [Times New Resistance](https://www.abbyhaddican.com/times-new-resistance) font
+
+***2026-02-24:*** Varvara Nedeoglo’s “[La petite mort des filles russes en terre libre](https://lestempsquirestent.org/fr/numeros/numero-8/omme-aux-yeux-de-poisson)” in *TQR*
+
+***2026-02-24:*** [x86 CPU made in CSS](https://lyra.horse/x86css/) (🎩 IRR)
+***
 ***2026-02-23:*** *Byte* magazine [visual archive](https://byte.tsundoku.io/) (🎩 KH)
 
 > [!note]+ [[2026-02-23-the-worst-pandering-to-the-worse|2026-02-23 the worst pandering to the worse]]
