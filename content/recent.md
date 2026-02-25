@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-02
 
+***2026-02-24:*** NBER working paper, “[Building Pro-Worker Artificial Intelligence](https://www.nber.org/papers/w34854)” (🎩 TU)
+
 ***2026-02-24:*** autocorrect the autocrats with the [Times New Resistance](https://www.abbyhaddican.com/times-new-resistance) font
 
 ***2026-02-24:*** Varvara Nedeoglo’s “[La petite mort des filles russes en terre libre](https://lestempsquirestent.org/fr/numeros/numero-8/omme-aux-yeux-de-poisson)” in *TQR*
