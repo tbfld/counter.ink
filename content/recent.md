@@ -25,6 +25,15 @@ yaml_end: true
 <!-- RECENT_POSTS_START -->
 ## 2026
 
+### 2026-03
+
+***2026-03-01:*** [In edus, AI isn’t the real threat. It’s just the mirror](https://kylesaunders.substack.com/p/why-higher-educations-ai-backlash)
+
+***2026-03-01:*** [Russian vs Ukrainian army modernization](https://www.thebulwark.com/p/i-commanded-u-s-army-europe-heres-what-i-saw-in-the-russian-and-ukrainian-armies)
+
+***2026-03-01:*** [the parlance of hyper-online misanthropes](https://www.gq.com/story/inside-the-psl-scale-the-looksmaxxer-rating-system)
+
+***
 ### 2026-02
 
 ***2026-02-25:*** [the 80% bill](https://the80percentbill.com/bill/)
