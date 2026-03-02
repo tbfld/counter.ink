@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-02:*** "[forensic dystopianism](https://tldr.nettime.org/@tb/116161479355640524)"
+
+***
+
 ***2026-03-01:*** [In edus, AI isn’t the real threat. It’s just the mirror](https://kylesaunders.substack.com/p/why-higher-educations-ai-backlash)
 
 ***2026-03-01:*** [Russian vs Ukrainian army modernization](https://www.thebulwark.com/p/i-commanded-u-s-army-europe-heres-what-i-saw-in-the-russian-and-ukrainian-armies)
