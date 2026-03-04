@@ -27,9 +27,11 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-03:*** [“The law firms opposed the motions to withdraw the motion to dismiss.”](https://joycevance.substack.com/p/doj-changes-course)
+
 ***2026-03-02:*** [Who loses from the Anthropic fight? Maybe Elon Musk and Alex Karp](https://www.programmablemutter.com/p/who-loses-from-the-anthropic-fight)
 
-***2026-03-02:*** # [The Man in Seat 61](https://www.seat61.com/) is said to be an A+ source for train travel
+***2026-03-02:*** [The Man in Seat 61](https://www.seat61.com/) is said to be an A+ source for train travel
 
 ***2026-03-02:*** "[forensic dystopianism](https://tldr.nettime.org/@tb/116161479355640524)"
 
