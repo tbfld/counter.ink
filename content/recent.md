@@ -27,6 +27,19 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-07:*** S&P “[stealth correction](https://www.charlotteobserver.com/news/business/article314892295.html)”
+
+***2026-03-07:*** Claude solved a graph theory problem so [Knuth rethinks AI](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) (🎩 DM)
+
+***2026-03-07:*** the new Swiss non-exploitative LLM, [Apertus](https://www.swiss-ai.org/apertus) (🎩 DM)
+
+***
+
+***2026-03-06:*** Ervand Abrahamian, “[Iran Under Fire](https://newleftreview.org/issues/ii157/articles/ervand-abrahamian-iran-under-fire)”
+***
+
+***2026-03-03:*** Apple’s Pages UI 2009–2026 [just gets worse and worse](https://pxlnv.com/blog/window-chrome-of-our-discontent)
+
 ***2026-03-03:*** [“The law firms opposed the motions to withdraw the motion to dismiss.”](https://joycevance.substack.com/p/doj-changes-course)
 
 ***2026-03-02:*** [Who loses from the Anthropic fight? Maybe Elon Musk and Alex Karp](https://www.programmablemutter.com/p/who-loses-from-the-anthropic-fight)
