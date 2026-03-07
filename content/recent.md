@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-03
 
+> [!note]+ [[2026-03-07-russian-techno-aesethetic-manifesto-of-the-day|2026-03-07 Russian techno-aesethetic manifesto of the day]]
+> a short, sharp techno-aesthetic manifesto from A. Shulgin
+
 ***2026-03-07:*** S&P “[stealth correction](https://www.charlotteobserver.com/news/business/article314892295.html)”
 
 ***2026-03-07:*** Claude solved a graph theory problem so [Knuth rethinks AI](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) (🎩 DM)
