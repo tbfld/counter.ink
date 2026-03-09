@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-09:*** [Post-War Prosperity to “Lifeboat Economics”?](https://fourthfloorreview.substack.com/p/post-war-prosperity-to-lifeboat-economics) (🎩 RP)
+
+***2026-03-09:*** [a tribute to Sylvère Lotringer](https://brooklynrail.org/2022/03/in-memoriam/A-Tribute-to-Sylvre-Lotringer/) (2022, 🎩 MW)
+
+***2026-03-09:*** “[second hand zero-day](https://archive.ph/20260304113529/https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/#selection-1777.80-1777.101)” is not a phrase we want to see
+***
+
 > [!note]+ [[2026-03-07-russian-techno-aesethetic-manifesto-of-the-day|2026-03-07 Russian techno-aesethetic manifesto of the day]]
 > a short, sharp techno-aesthetic manifesto from A. Shulgin
 

@@ -216,7 +216,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-02-22-an-epidemic-of-pseudo-suicides|2026-02-22 an epidemic of pseudo-suicides]]
 	- [[2026-02-23-one-sick-sailor|2026-02-23 one sick sailor]]
 	- [[2026-02-23-the-worst-pandering-to-the-worse|2026-02-23 the worst pandering to the worse]]
-	- [[2026-03-07-russian-techno-aesethetic-manifesto-of-the-day|2026-03-07 russian techno-aesethetic manifesto of the day]]
+	- [[2026-03-07-russian-techno-aesethetic-manifesto-of-the-day|2026-03-07 Russian techno-aesethetic manifesto of the day]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**
