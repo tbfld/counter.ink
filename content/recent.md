@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-03
 
+> [!note]+ [[2026-03-09-leonard-cohen-mark-rowland-interview-1988|2026-03-09 leonard cohen mark rowland interview 1988]]
+> 
+> OCRed interview of Mark Rowland’s interview with LC (*Musician* mag, July 1988)
+
 ***2026-03-09:*** [Post-War Prosperity to “Lifeboat Economics”?](https://fourthfloorreview.substack.com/p/post-war-prosperity-to-lifeboat-economics) (🎩 RP)
 
 ***2026-03-09:*** [a tribute to Sylvère Lotringer](https://brooklynrail.org/2022/03/in-memoriam/A-Tribute-to-Sylvre-Lotringer/) (2022, 🎩 MW)
