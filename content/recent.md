@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-10:*** support the [Bivens Act](https://www.whitehouse.senate.gov/news/release/whitehouse-johnson-introduce-pair-of-bills-to-hold-federal-law-enforcement-accountable-for-constitutional-violations/#:~:text=Bivens%20Act%20would,Constitutional%20Accountability%20Act) — for starters
+
+***2026-03-10:*** RIP [Tony Hoare](https://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
+
+***
+
 > [!note]+ [[2026-03-09-leonard-cohen-mark-rowland-interview-1988|2026-03-09 leonard cohen mark rowland interview 1988]]
 > 
 > OCRed interview of Mark Rowland’s interview with LC (*Musician* mag, July 1988)
