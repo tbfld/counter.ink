@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-11:*** # “[I built a spy satellite simulator in a browser](https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator)”
+
+***
+
 ***2026-03-10:*** support the [Bivens Act](https://www.whitehouse.senate.gov/news/release/whitehouse-johnson-introduce-pair-of-bills-to-hold-federal-law-enforcement-accountable-for-constitutional-violations/#:~:text=Bivens%20Act%20would,Constitutional%20Accountability%20Act) — for starters
 
 ***2026-03-10:*** RIP [Tony Hoare](https://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
