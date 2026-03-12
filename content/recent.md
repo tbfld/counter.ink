@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-12:*** [Sycophantic AI decreases prosocial intentions and promotes dependence](decreases prosocial intentions and promotes dependence)
+
+***
+
 > [!note]+ [[2026-03-11-kessler-syndrome|2026-03-11 kessler syndrome]]
 > actor–network theory is just another name for Rube Goldberg
 
