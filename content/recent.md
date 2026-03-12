@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-03
 
+> [!note]+ [[2026-03-11-kessler-syndrome|2026-03-11 kessler syndrome]]
+> actor–network theory is just another name for Rube Goldberg
+
 ***2026-03-11:*** # “[I built a spy satellite simulator in a browser](https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator)”
 
 ***
