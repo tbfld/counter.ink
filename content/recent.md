@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-13:*** [the whole zodiac is off](https://www.scientificamerican.com/article/your-zodiac-sign-is-likely-wrong-heres-how-to-find-the-correct-one/)
+
+***2026-03-13:*** the [Great Wall of Memes](https://www.greatwallofmemes.com/)
+***
+
 ***2026-03-12:*** [Sycophantic AI decreases prosocial intentions and promotes dependence](decreases prosocial intentions and promotes dependence)
 
 ***
