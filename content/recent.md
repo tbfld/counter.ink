@@ -27,6 +27,19 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-16:*** Sirantos Fotopoulos: [two ways to disappear a people](https://www.facebook.com/sirantos.fotopoulos/posts/pfbid0zKDUakCjjieoTqmLsB8M2a6sKAMU8DFsf3JUv299vF7JWmog2WeFP2TMPmV7NRABl)
+
+***2026-03-16:*** Perry Anderson, “[Arms and Rights](https://newleftreview.org/issues/ii31/articles/perry-anderson-arms-and-rights)” in NLR (2005)
+
+***2026-03-16:*** [dark money lobbying for age-verifying OSes](https://tboteproject.com/)
+
+***2026-03-16:*** Hamid Dabashi’s unsentimental take on Euro philosophy: “[ethically bankrupt](https://www.middleeasteye.net/opinion/war-gaza-european-philosophy-ethically-bankrupt-exposed)”
+
+***2026-03-16:*** Trump insider [thinks Israel May use nukes](https://archive.ph/U7TYJ) (I agree)
+***
+
+***2026-03-13:*** jigsaw puzzles [invented by a cartographer](https://en.wikipedia.org/wiki/John_Spilsbury_(cartographer)) (and [by a woman earlier](https://en.wikipedia.org/wiki/Jeanne-Marie_Leprince_de_Beaumont), ofc)
+
 ***2026-03-13:*** [the whole zodiac is off](https://www.scientificamerican.com/article/your-zodiac-sign-is-likely-wrong-heres-how-to-find-the-correct-one/)
 
 ***2026-03-13:*** the [Great Wall of Memes](https://www.greatwallofmemes.com/)
