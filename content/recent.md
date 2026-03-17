@@ -27,6 +27,33 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-17:***  [every name the money touched](https://randallscott25-star.github.io/epstein-forensic-finance/narratives/19_grand_opus_narrative.html)
+
+***2026-03-17:*** [Iran Resources](https://www.weavingourworlds.ca/iran-resources/)
+
+***2026-03-17:*** Renee Reizman, “[Mail Art Takes On the World](https://www.getty.edu/news/transgresoras-mail-art-and-messages/)’
+
+***2026-03-17:*** Charles P. Pierce, “[The Next Democratic President Better Be Merciless](https://archive.ph/QacAp#selection-563.0-563.49)”
+
+***2026-03-17:*** T. J. Clark, “[A Brief Guide to Trump and the Spectacle](https://www.lrb.co.uk/the-paper/v47/n01/t.j.-clark/a-brief-guide-to-trump-and-the-spectacle)”
+
+***2026-03-17:*** [A Russian esoteric sect goes west](https://vsquare.org/a-russian-esoteric-sect-goes-west-with-a-putinist-running-its-hub-in-poland/)
+
+***2026-03-17:*** Cade Diehm, ”[Who Will Remember Us When The Servers Go Dark?](https://newdesigncongress.org/en/pub/who-will-remember-us-when-the-servers-go-dark/)“
+
+***2026-03-17:*** Brian Reffin Smith, “[On Pedantry: A Cultural History of the Know-it-All](https://leonardo.info/review/2026/01/on-pedantry-a-cultural-history-of-the-know-it-all)”
+
+***2026-03-17:*** Natan Dubovitsky’s (a/k/a Vladislav Surkov’s) short story “[Without Sky](https://www.bewilderingstories.com/issue582/without_sky.html)” (🎩 FS)
+
+***2026-03-17:*** [Why do cultural execs go mad?](https://www.lemonde.fr/en/opinion/article/2026/02/27/the-louvre-director-s-resignation-raises-an-old-question-why-do-cultural-execs-go-mad_6750939_23.html)
+
+***2026-03-17:*** [gone (almost) phishin’](https://ma.tt/2026/03/gone-almost-phishin/)
+
+***2026-03-17:*** couldn’t see that coming... “[crappy luxury](https://gothamist.com/news/crappy-luxury-inside-nycs-brand-new-apartment-buildings-that-are-falling-apart)”
+
+***2026-03-17:*** [U+237C ⍼ RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://ionathan.ch/2022/04/09/angzarr.html)
+***
+
 ***2026-03-16:*** Sirantos Fotopoulos: [two ways to disappear a people](https://www.facebook.com/sirantos.fotopoulos/posts/pfbid0zKDUakCjjieoTqmLsB8M2a6sKAMU8DFsf3JUv299vF7JWmog2WeFP2TMPmV7NRABl)
 
 ***2026-03-16:*** Perry Anderson, “[Arms and Rights](https://newleftreview.org/issues/ii31/articles/perry-anderson-arms-and-rights)” in NLR (2005)
