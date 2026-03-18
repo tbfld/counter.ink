@@ -19,6 +19,9 @@ status:
 RSS:
 yaml_end: true
 ---
+> [**HASH**](https://www.thedevilsdictionary.com/h.html#HASH_ "permalink"), _x._ There is no definition for this word — nobody knows what hash is.
+> — [Ambrose Bierce](https://www.gutenberg.org/files/972/972-h/972-h.htm#link2H_4_0009)
+
 **adhocumentation** (2012-05-30; xitter)
 
 **adult supremacy** ([2021-03-28](https://www.facebook.com/tbyfield/posts/pfbid035ayXghyzAkyLQ7JTe8XTrDymk7Vdxes5xgKEazReYSG9NMEBVfP48d81Bj9s2Q8al)): self-explanatory
@@ -77,6 +80,8 @@ yaml_end: true
 **radical fleek** (2025-08-07): when “radical chic” feels too nostalgic
 
 **reality government show** (n.d.; xitter)
+
+**rereification** (by [Eric Hofftsten](https://www.instagram.com/eerowen/); [2026-03-18](https://www.facebook.com/tbyfield/posts/pfbid02RubqQM7sVfWCSTJoJ13HTQr2an3TJN6onRq2LdA7R1juEZUzqVBvs8yaj3zb6X94l)): maybe what you get when you pop reification in the microwave, or something like that (*cf* “[hash](https://www.gutenberg.org/files/972/972-h/972-h.htm#link2H_4_0009)”)
 
 **retreat capital** (“RC”; [2010-04-23](https://www.facebook.com/tbyfield/posts/113456165354416)): when venture capital flees
 
