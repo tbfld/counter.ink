@@ -24,7 +24,8 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
-***2026-03-11:*** [How to shoot a screen using a board of keys](https://unsung.aresluna.org/how-to-shoot-a-screen-using-a-board-of-keys/) (MacOS)
+> [!note]+ [[2026-03-18-sirantos-fotopoulos-on-israel-and-iran|2026-03-18 sirantos fotopoulos on israel and iran]]
+> the sharpest, densest commentaries I’ve seen yet
 
 > [!note]+ [[2026-03-11-kessler-syndrome|2026-03-11 kessler syndrome]]
 > actor–network theory is just another name for Rube Goldberg

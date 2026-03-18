@@ -27,6 +27,17 @@ yaml_end: true
 
 ### 2026-03
 
+> [!note]+ [[2026-03-18-sirantos-fotopoulos-on-israel-and-iran|2026-03-18 sirantos fotopoulos on israel and iran]]
+> the sharpest, densest commentaries I’ve seen yet
+
+***2026-03-18:*** Fotopoulos on “[Iran, the Western Left, and the ambiguity of allies](https://blog.uvm.edu/aivakhiv-ukrtaz/2026/03/09/fotopoulos-on-iran-the-western-left-the-ambiguity-of-allies/)”
+
+***2026-03-18:*** [How to shoot a screen using a board of keys](https://unsung.aresluna.org/how-to-shoot-a-screen-using-a-board-of-keys/) (MacOS)
+
+***
+
+***2026-03-17:*** still kinda horrifying after 25 years: Jon Haddock’s [isometric historical events](https://whitelead.com/jrh/screenshots/)
+
 ***2026-03-17:***  [every name the money touched](https://randallscott25-star.github.io/epstein-forensic-finance/narratives/19_grand_opus_narrative.html)
 
 ***2026-03-17:*** [Iran Resources](https://www.weavingourworlds.ca/iran-resources/)
@@ -79,7 +90,7 @@ yaml_end: true
 > [!note]+ [[2026-03-11-kessler-syndrome|2026-03-11 kessler syndrome]]
 > actor–network theory is just another name for Rube Goldberg
 
-***2026-03-11:*** # “[I built a spy satellite simulator in a browser](https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator)”
+***2026-03-11:*** “[I built a spy satellite simulator in a browser](https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator)”
 
 ***
 
