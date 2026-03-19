@@ -27,6 +27,20 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-19:*** “[the city owns no roads, land, or buildings](https://www.404media.co/mapping-googles-unmappable-city/)”
+
+***2026-03-19:*** [How can Canadians unite in their own defence?](http://archive.today/2026.03.18-114927/https://www.theglobeandmail.com/canada/article-how-canadians-can-unite-in-their-own-defence/)
+
+***2026-03-19:*** [The 49MB web page](https://thatshubham.com/blog/news-audit) (🎩 IRR)
+
+***2026-03-19:*** Rough Trade’s 50th anniversary: [Essential: Post-punk](https://blog.roughtrade.com/gb/rough-trade-essential-post-punk/)
+
+***
+
+***2026-03-18:*** [[neological things]] updated: *rereification* (credit: Eric Hoffsten)
+
+***2026-03-18:*** [Snowflake Cortex AI escapes sandbox and executes malware](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+
 > [!note]+ [[2026-03-18-sirantos-fotopoulos-on-israel-and-iran|2026-03-18 sirantos fotopoulos on israel and iran]]
 > the sharpest, densest commentaries I’ve seen yet
 
