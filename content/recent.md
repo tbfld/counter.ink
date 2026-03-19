@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-19:*** the [Scully Effect](https://www.sfu.ca/wwest/WWEST_blog/the-scully-effect.html)
+
 ***2026-03-19:*** “[the city owns no roads, land, or buildings](https://www.404media.co/mapping-googles-unmappable-city/)”
 
 ***2026-03-19:*** [How can Canadians unite in their own defence?](http://archive.today/2026.03.18-114927/https://www.theglobeandmail.com/canada/article-how-canadians-can-unite-in-their-own-defence/)
