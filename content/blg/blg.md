@@ -814,7 +814,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2019-07-05-on-mocking-trump|2019-07-05 on mocking trump]]
 			- [[2019-07-07-who-or-what-is-to-blame|2019-07-07 who or what is to blame]]
 			- [[2019-07-12-not-everywhere-is-queens|2019-07-12 not everywhere is queens]]
-			- [[2019-07-17-stellar-new-journalism|2019-07-17 stellar new journalism]]
+			- [[2019-07-17-stellar-new-journalism]]
 			- [[2019-07-18-how-to-talk-about-evangelicals|2019-07-18 how to talk about evangelicals]]
 			- [[2019-07-18-newport-ads|2019-07-18 newport ads]]
 			- [[2019-07-19-math-equation-predicts-end-of-humanity|2019-07-19 math equation predicts end of humanity]]
@@ -857,7 +857,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[2019-10-28-local-apocalypse|2019-10-28 local apocalypse]]
 			- [[2019-10-28-our-changing-sense-of-time|2019-10-28 our changing sense of time]]
 			- [[2019-10-31-embarking-and-debarking|2019-10-31 embarking and debarking]]
-			- [[2019-11-05-foreshortened-photos-and-web-design|2019-11-05 foreshortened photos and web design]]
+			- [[2019-11-05-foreshortened-photos-and-web-design]]
 			- [[2019-11-07-on-asset-taxes|2019-11-07 on asset taxes]]
 			- [[2019-11-10-just-say-how|2019-11-10 just say how]]
 			- [[2019-11-11-alienable-rights|2019-11-11 alienable rights]]
@@ -1510,6 +1510,6 @@ When social media came along, it more or less put an end to blogging. It’s got
 			- [[zwardial.jpg]]
 		- [[social-media|social media]]
 	- [[old|old]]
-- [[blg|blg]]
+- [[blg]]
 
 %% End Waypoint %%
