@@ -27,6 +27,14 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-20:*** [Bari Weiss shuts down CBS News Radio](https://radioinsight.com/headlines/343855/cbs-news-radio-to-shut-down-in-may/)
+
+***2026-03-20:*** “[NATO Mission Iraq posture adjusted](https://shape.nato.int/news-releases/nato-mission-iraq-posture-adjusted)” (translation: *we’re outta here!*)
+
+***2026-03-20:*** [Christian Kerez car parks in Bahrain facing demolition](https://afasiaarchzine.com/2026/03/car-parks-in-bahrain-facing-demolition-christian-kerez/) ([more](https://archithese.ch/ansicht/sinnlose-zerstoerung.html))
+
+***2026-03-20:***  “[We Don’t Need More Lawyers in Congress](https://archive.ph/20260320093742/https://www.nytimes.com/2026/03/20/opinion/democrats-midterms-iran-future.html#selection-505.0-505.40)” (*NYT* 🎩 PA)
+
 ***2026-03-20:*** Mack Hagood, [Oral Residue: A Zombie Media Theory Rises Again](https://www.mackhagood.com/oral-residue-a-zombie-media-theory-rises-again/)
 
 ***
