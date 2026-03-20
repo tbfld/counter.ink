@@ -25,6 +25,7 @@ yaml_end: true
 
 ![[2026-03-xx-c-chavez-canceled.jpg|wmed relative|center]]
 
+
 ![[2026-03-20-AI-GEN-Christian-Kerez-Car-parks-in-Bahrain-facing-demolition-AI-generated-images-afasia-1.jpg|wmed relative|center]]
 
 
