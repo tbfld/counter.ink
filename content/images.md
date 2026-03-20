@@ -18,6 +18,7 @@ aliases:
 publish: true
 yaml_end: true
 ---
+
 ![[vivian-selbo-2026-01-26.jpg|wmed relative|center]]
 
 ![[2025-07-09-hotel-tbyfield.jpeg|wmed relative|center]]
@@ -26,8 +27,8 @@ yaml_end: true
 
 ![[2026-03-20-AI-GEN-Christian-Kerez-Car-parks-in-Bahrain-facing-demolition-AI-generated-images-afasia-1.jpg|wmed relative|center]]
 
-![[2025010-25-london-und-tbyfield.jpeg|wmed relative|center]]
 
+![[2025010-25-london-und-tbyfield.jpeg|wmed relative|center]]
 
 ![[2025-10-26-london-hall-tbyfield.jpeg|wmed relative|center]]
 
