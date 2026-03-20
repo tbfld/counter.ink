@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-20:*** Mack Hagood, [Oral Residue: A Zombie Media Theory Rises Again](https://www.mackhagood.com/oral-residue-a-zombie-media-theory-rises-again/)
+
+***
+
 ***2026-03-19:***  [Why Some Catholics Want Peter Thiel Burned at the Stake](https://www.themonastery.org/blog/why-some-catholics-want-peter-thiel-burned-at-the-stake)
 
 ***2026-03-19:*** the [Scully Effect](https://www.sfu.ca/wwest/WWEST_blog/the-scully-effect.html)
