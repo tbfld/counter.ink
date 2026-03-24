@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-24:*** # Pankaj Mishra, “[The Authority of Thought](https://harpers.org/archive/2026/04/the-authority-of-thought-pankaj-mishra/)” (🎩 RW)
+
+***
+
 ***2026-03-22:*** [RIP Agosto Machado](https://mailchi.mp/b27af82587a3/agosto-machado-in-memoriam)
 
 ***
