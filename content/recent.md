@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-27:*** Sarah Schulman’s [list of useful Iran-related resources for 27 March](https://www.facebook.com/sarah.schulman.56/posts/pfbid02nviesYuExZRvYoFkjKP73aGAhgLxVtkXxBdYQaiXQXj3eryHJncNAxgnsradmReil)
+
+***2026-03-27:*** [Track AIPAC](https://www.trackaipac.com/)
+
 ***2026-03-27:*** Naghmeh Sohrabi, “[The Catastrophe That Has Befallen All of Us](https://www.bostonreview.net/articles/the-catastrophe-that-has-befallen-all-of-us/)” (🎩 JK)
 
 ***2026-03-27:*** [Error 417 Expectation Failed](https://tldr.nettime.org/@Error417), the newsletter
