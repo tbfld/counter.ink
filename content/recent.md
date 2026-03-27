@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-27:*** [Consumer Aesthetics Research Institute](https://cari.institute/)
+
 ***2026-03-27:*** Sarah Schulman’s [list of useful Iran-related resources for 27 March](https://www.facebook.com/sarah.schulman.56/posts/pfbid02nviesYuExZRvYoFkjKP73aGAhgLxVtkXxBdYQaiXQXj3eryHJncNAxgnsradmReil)
 
 ***2026-03-27:*** [Track AIPAC](https://www.trackaipac.com/)
