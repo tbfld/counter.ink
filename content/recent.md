@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-28:*** Todd Field’s *Tár* according to [Wolfson](https://web.archive.org/web/20250910193151/https://waste.typepad.com/waste/2023/04/on-lydia-t%C3%A1rs-egot.html), [Millman](https://collider.com/tar-horror-movie/), and [Kearns](https://idyllopuspress.com/idyllopus/film/tar.htm) (all 🎩 MB)
+
+***2026-03-28:*** [Ben Wolfson reads Philip Larkin](https://web.archive.org/web/20250623101736/waste.typepad.com/waste/2005/11/this_be_close_r.html) (from 2005! — 🎩 MB)
+***
+
+***2026-03-27:*** [Trump gave Iran a sanctions regime against the US](Trump just helped Iran to impose a sanctions regime on the US.)
+
 ***2026-03-27:*** [Consumer Aesthetics Research Institute](https://cari.institute/)
 
 ***2026-03-27:*** Sarah Schulman’s [list of useful Iran-related resources for 27 March](https://www.facebook.com/sarah.schulman.56/posts/pfbid02nviesYuExZRvYoFkjKP73aGAhgLxVtkXxBdYQaiXQXj3eryHJncNAxgnsradmReil)
