@@ -58,6 +58,8 @@ yaml_end: true
 
 **nihilization** (n.d.): the reduction of everything to nothing
 
+**notwithstanning** (2026-03-28): admiration unrelated to obsessive fascination, as in “they loved her acting notwithstanning”
+
 **occam’s chainsaw** ([2023-10-24](https://www.facebook.com/tbyfield/posts/pfbid036GcqeGxBAdKJPepRFh8h9Xc2aYa2NERcsXi9SVVa36rfUEs6V75g2wVhcPQFdF6ql)): like occam’s razor but for heavier jobs. Variation: *occam’s guillotine* (2021-04-02?)
 
 **oligarchocene** ([2025-08-08](https://bsky.app/profile/did:plc:robotenuzg6w4takznzjsxtb/post/3lvvngdgkqk2s)): like *anthropocene* but correctly identiifies the problem as corrupt wealthy people rather than humans or “capital”
