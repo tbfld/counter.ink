@@ -6,14 +6,12 @@ aliases:
   - micros
 permalink:
 publish: true
-date: 2026-01-22
+date: 2026-03-31
 tags:
   - archive
 enableToc: false
 yaml_end: true
 ---
-
-
 ---
 ***2026-03-31:*** meet [Proton Meet](https://proton.me/business/blog/introducing-proton-meet)
 
@@ -538,7 +536,7 @@ yaml_end: true
 
 ***2025-03-11:*** Columbia’s own James Schamus [on Trump’s attacks on the university](https://lithub.com/a-columbia-professors-message-to-his-fellow-jewish-faculty-members/)
 
-***2025-03-11:*** every US citizen should read [Malcolm Nance on Trump’s plans for #Canada](https://malcolmnance.substack.com/p/urgent-warning-trump-is-planning)
+***2025-03-11:*** every US citizen should read [Malcolm Nance on Trump’s plans for Canada](https://malcolmnance.substack.com/p/urgent-warning-trump-is-planning)
 
 ***2025-03-11:*** AFA-CWA’s [promo video for its C.H.A.O.S. approach to striking](https://www.youtube.com/watch?v=6K2tL2sSpA4&t=22s) is 🏆 (background [here](https://ourcontract.org/chaos/))
 
