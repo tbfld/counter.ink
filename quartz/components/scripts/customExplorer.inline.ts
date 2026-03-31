@@ -1,35 +1,44 @@
 document.addEventListener("nav", () => {
-  const explorer = document.querySelector(".custom-explorer")
+  const explorer = document.querySelector(".custom-explorer") as HTMLElement | null
   if (!explorer) return
 
-  // Handle folder toggle buttons - toggle the "open" class on .folder-outer
-  const folderButtons = explorer.querySelectorAll(".folder-button")
-  folderButtons.forEach((button) => {
-    button.addEventListener("click", (e) => {
+  // Toggle a folder open/closed given any element inside folder-container
+  function toggleFolder(target: HTMLElement) {
+    const folderContainer = target.closest(".folder-container") as HTMLElement | null
+    if (!folderContainer) return
+    const folderOuter = folderContainer.nextElementSibling as HTMLElement | null
+    if (!folderOuter) return
+    folderOuter.classList.toggle("open")
+  }
+
+  // Make the entire folder-container row clickable
+  const folderContainers = explorer.querySelectorAll(".folder-container")
+  folderContainers.forEach((container) => {
+    container.addEventListener("click", (e) => {
       e.preventDefault()
       e.stopPropagation()
-      
-      const folderLi = (button as HTMLElement).closest("li")
-      if (!folderLi) return
-
-      const folderOuter = folderLi.querySelector(".folder-outer")
-      
-      if (folderOuter) {
-        // Toggle the "open" class which CSS uses to expand/collapse
-        folderOuter.classList.toggle("open")
-      }
+      toggleFolder(e.target as HTMLElement)
     })
   })
 
-  // Handle main explorer toggle
-  const explorerToggle = explorer.querySelector(".explorer-toggle")
-  const explorerContent = explorer.querySelector(".explorer-content")
-  
-  if (explorerToggle && explorerContent) {
-    explorerToggle.addEventListener("click", () => {
-      const isExpanded = explorerContent.getAttribute("aria-expanded") === "true"
-      explorerContent.setAttribute("aria-expanded", (!isExpanded).toString())
-      explorerToggle.setAttribute("aria-expanded", (!isExpanded).toString())
+  // Main explorer collapse/expand (desktop title button)
+  const desktopToggle = explorer.querySelector(".desktop-explorer")
+  if (desktopToggle) {
+    desktopToggle.addEventListener("click", () => {
+      explorer.classList.toggle("collapsed")
+    })
+  }
+
+  // Mobile hamburger toggle
+  const mobileToggle = explorer.querySelector(".mobile-explorer")
+  if (mobileToggle) {
+    mobileToggle.addEventListener("click", () => {
+      const isCollapsed = explorer.classList.toggle("collapsed")
+      if (!isCollapsed) {
+        document.documentElement.classList.add("mobile-no-scroll")
+      } else {
+        document.documentElement.classList.remove("mobile-no-scroll")
+      }
     })
   }
 })

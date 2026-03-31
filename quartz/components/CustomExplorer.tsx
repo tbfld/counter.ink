@@ -1,8 +1,6 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/explorer.scss"
 // @ts-ignore
-import explorerScript from "./scripts/explorer.inline"
-// @ts-ignore
 import customScript from "./scripts/customExplorer.inline"
 import { classNames } from "../util/lang"
 
@@ -167,9 +165,6 @@ export default (() => {
   }
 
   CustomExplorer.css = style
-  CustomExplorer.afterDOMLoaded = `
-    ${explorerScript};
-    ${customScript};
-  `
+  CustomExplorer.afterDOMLoaded = customScript
   return CustomExplorer
 }) satisfies QuartzComponentConstructor
