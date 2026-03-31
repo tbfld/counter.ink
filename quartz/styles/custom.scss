@@ -4,18 +4,8 @@
 
 
 // TYPOGRAPHY
-//
-// TB 250220: ensure Lora for body
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Atkinson Hyperlegible", sans-serif;
-}
-
-body, p, li, span {
-  font-family: "Lora", serif;
-}
-
-code, pre {
-  font-family: "Inconsolata", monospace;
+body {
+  font-size: 18px;
 }
 
 // SIDEBAR: TYPOGRAPHY
