@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-03
 
+-***2026-03-31:*** meet [Proton Meet](https://proton.me/business/blog/introducing-proton-meet)
+
 ***2026-03-31:*** people are injecting “[cadaveric adipose tissue](https://www.theguardian.com/lifeandstyle/2026/mar/30/alloclae-zombie-filler-injectable-corpse-fat)” a/k/a corpse fat
 
 ***2026-03-31:*** “[neurodivergent supremacy](https://dsq-sds.org/article/id/1461/)” (🎩 [Gizmodo](https://gizmodo.com/palantir-ceo-says-only-the-neurodivergent-will-survive-the-ai-takeover-2000738192))

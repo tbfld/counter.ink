@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/tbyfield/github/counter.ink/content/images*)"
+    ]
+  }
+}

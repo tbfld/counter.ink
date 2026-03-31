@@ -113,11 +113,12 @@ export default (() => {
               <div class="folder-outer">
                 <ul class="content">
                   <li><a href="/images">current</a></li>
-                  <li><a href="/img/images-1-(starting-2025-03-13)">stream 1</a></li>
-                  <li><a href="/img/images-2-(2025-02-25-to-2025-03-12)">stream 2</a></li>
-                  <li><a href="/img/images-3-(2025-02-24)">stream 3</a></li>
-                  <li><a href="/img/images-4-(2025-02-23)">stream 4</a></li>
-                  <li><a href="/img/images-5-(through-2025-02-22)">stream 5</a></li>
+                  <li><a href="/img/images-6-(2025-08-13-–-2026-03-20)">stream 6</a></li>
+                  <li><a href="/img/images-5-(2025-05-08-–-2025-08-12)">stream 5</a></li>
+                  <li><a href="/img/images-4-(2025-03-24-–-2025-05-07)">stream 4</a></li>
+                  <li><a href="/img/images-3-(2025-03-11-–-2025-03-24)">stream 3</a></li>
+                  <li><a href="/img/images-2-(2025-03-03-–-2025-03-10)">stream 2</a></li>
+                  <li><a href="/img/images-1-(2025-02-23-–-2025-03-03)">stream 1</a></li>
                 </ul>
               </div>
             </li>
