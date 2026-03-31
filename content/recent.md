@@ -31,7 +31,7 @@ yaml_end: true
 
 ***2026-03-31:*** Aaron Regunberg, “[What Are Your Obligations When Your Country Is the Villain?](https://www.thenation.com/article/politics/are-we-the-baddies/)”
 
-***2026-03-31:*** Gurardian review of the UK series *[Boom Box](https://www.theguardian.com/tv-and-radio/2026/mar/26/boom-box-beats-and-betrayal-review-the-most-astonishing-british-tv)*
+***2026-03-31:*** Guardian review of the UK series *[Boom Box](https://www.theguardian.com/tv-and-radio/2026/mar/26/boom-box-beats-and-betrayal-review-the-most-astonishing-british-tv)*
 
 ***2026-03-31:*** Blind Willie Johnson’s lyricless “[Dark Was the Night](https://youtu.be/BNj2BXW852g)”
 

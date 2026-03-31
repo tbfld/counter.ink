@@ -1,7 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg";
 import * as Component from "./quartz/components";
 // import { Tagline } from "./quartz/components";
-import { customSortFn } from "./sidebar-explorer-customSort-TB"; // Import sorting function
 
 // Components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -45,14 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Graph()),
-    Component.ConditionalRender({
-      component: Component.CustomExplorer(),
-      condition: (page) => page.fileData.slug === "recent",
-    }),
-    Component.ConditionalRender({
-      component: Component.Explorer({ sortFn: customSortFn }),
-      condition: (page) => page.fileData.slug !== "recent",
-    }),
+    Component.CustomExplorer(),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -68,7 +60,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.DesktopOnly(Component.Graph()),
-    Component.Explorer({ sortFn: customSortFn }), // Use external sorting function
+    Component.CustomExplorer(),
   ],
   right: [],
 };
