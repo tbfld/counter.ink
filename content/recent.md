@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-31:*** “[neurodivergent supremacy](https://dsq-sds.org/article/id/1461/)” (🎩 [Gizmodo](https://gizmodo.com/palantir-ceo-says-only-the-neurodivergent-will-survive-the-ai-takeover-2000738192))
+
 ***2026-03-31:*** Scot Nakagawa, “[How Democracies Win](https://antiauthoritarianplaybook.substack.com/p/how-democracies-win)” (paint me skeptical)
 
 ***2026-03-31:*** Aaron Regunberg, “[What Are Your Obligations When Your Country Is the Villain?](https://www.thenation.com/article/politics/are-we-the-baddies/)”
