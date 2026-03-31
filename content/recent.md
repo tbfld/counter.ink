@@ -27,6 +27,24 @@ yaml_end: true
 
 ### 2026-03
 
+***2026-03-31:*** Scot Nakagawa, “[How Democracies Win](https://antiauthoritarianplaybook.substack.com/p/how-democracies-win)” (paint me skeptical)
+
+***2026-03-31:*** Aaron Regunberg, “[What Are Your Obligations When Your Country Is the Villain?](https://www.thenation.com/article/politics/are-we-the-baddies/)”
+
+***2026-03-31:*** Gurardian review of the UK series *[Boom Box](https://www.theguardian.com/tv-and-radio/2026/mar/26/boom-box-beats-and-betrayal-review-the-most-astonishing-british-tv)*
+
+***2026-03-31:*** Blind Willie Johnson’s lyricless “[Dark Was the Night](https://youtu.be/BNj2BXW852g)”
+
+***2026-03-31:*** one of those elusive songs: Sade’s “[Killer Blow](https://youtu.be/-HPmO1lmS6I),” on the *Absolute Beginners* soundtrack
+
+***2026-03-31:*** AJAM MC, [Demilitarize the Indian Ocean](https://ajammc.com/2026/03/28/demilitarize-the-indian-ocean/) (🎩 CH1)
+***
+
+***2026-03-29:*** [Comic Strip of the Day (CSotD)](https://www.dailycartoonist.com/index.php/category/csotd/)
+
+***2026-03-29:*** The elusive SNL [“Bel Airabs” skit](https://www.bitchute.com/video/GAKzeC1XlDfO/)
+***
+
 ***2026-03-28:*** Todd Field’s *Tár* according to [Wolfson](https://web.archive.org/web/20250910193151/https://waste.typepad.com/waste/2023/04/on-lydia-t%C3%A1rs-egot.html), [Millman](https://collider.com/tar-horror-movie/), and [Kearns](https://idyllopuspress.com/idyllopus/film/tar.htm) (all 🎩 MB)
 
 ***2026-03-28:*** [Ben Wolfson reads Philip Larkin](https://web.archive.org/web/20250623101736/waste.typepad.com/waste/2005/11/this_be_close_r.html) (from 2005! — 🎩 MB)
