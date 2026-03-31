@@ -27,7 +27,7 @@ yaml_end: true
 
 ### 2026-03
 
--***2026-03-31:*** meet [Proton Meet](https://proton.me/business/blog/introducing-proton-meet)
+***2026-03-31:*** meet [Proton Meet](https://proton.me/business/blog/introducing-proton-meet)
 
 ***2026-03-31:*** people are injecting “[cadaveric adipose tissue](https://www.theguardian.com/lifeandstyle/2026/mar/30/alloclae-zombie-filler-injectable-corpse-fat)” a/k/a corpse fat
 

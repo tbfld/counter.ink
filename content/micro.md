@@ -13,7 +13,307 @@ enableToc: false
 yaml_end: true
 ---
 
+
 ---
+***2026-03-31:*** meet [Proton Meet](https://proton.me/business/blog/introducing-proton-meet)
+
+***2026-03-31:*** people are injecting “[cadaveric adipose tissue](https://www.theguardian.com/lifeandstyle/2026/mar/30/alloclae-zombie-filler-injectable-corpse-fat)” a/k/a corpse fat
+
+***2026-03-31:*** “[neurodivergent supremacy](https://dsq-sds.org/article/id/1461/)” (🎩 [Gizmodo](https://gizmodo.com/palantir-ceo-says-only-the-neurodivergent-will-survive-the-ai-takeover-2000738192))
+
+***2026-03-31:*** Scot Nakagawa, “[How Democracies Win](https://antiauthoritarianplaybook.substack.com/p/how-democracies-win)” (paint me skeptical)
+
+***2026-03-31:*** Aaron Regunberg, “[What Are Your Obligations When Your Country Is the Villain?](https://www.thenation.com/article/politics/are-we-the-baddies/)”
+
+***2026-03-31:*** Guardian review of the UK series *[Boom Box](https://www.theguardian.com/tv-and-radio/2026/mar/26/boom-box-beats-and-betrayal-review-the-most-astonishing-british-tv)*
+
+***2026-03-31:*** Blind Willie Johnson’s lyricless “[Dark Was the Night](https://youtu.be/BNj2BXW852g)”
+
+***2026-03-31:*** one of those elusive songs: Sade’s “[Killer Blow](https://youtu.be/-HPmO1lmS6I),” on the *Absolute Beginners* soundtrack
+
+***2026-03-31:*** AJAM MC, [Demilitarize the Indian Ocean](https://ajammc.com/2026/03/28/demilitarize-the-indian-ocean/) (🎩 CH1)
+***
+***2026-03-29:*** [Comic Strip of the Day (CSotD)](https://www.dailycartoonist.com/index.php/category/csotd/)
+
+***2026-03-29:*** The elusive SNL [“Bel Airabs” skit](https://www.bitchute.com/video/GAKzeC1XlDfO/)
+***
+***2026-03-28:*** Todd Field’s *Tár* according to [Wolfson](https://web.archive.org/web/20250910193151/https://waste.typepad.com/waste/2023/04/on-lydia-t%C3%A1rs-egot.html), [Millman](https://collider.com/tar-horror-movie/), and [Kearns](https://idyllopuspress.com/idyllopus/film/tar.htm) (all 🎩 MB)
+
+***2026-03-28:*** [Ben Wolfson reads Philip Larkin](https://web.archive.org/web/20250623101736/waste.typepad.com/waste/2005/11/this_be_close_r.html) (from 2005! — 🎩 MB)
+***
+***2026-03-27:*** [Trump gave Iran a sanctions regime against the US](Trump just helped Iran to impose a sanctions regime on the US.)
+
+***2026-03-27:*** [Consumer Aesthetics Research Institute](https://cari.institute/)
+
+***2026-03-27:*** Sarah Schulman’s [list of useful Iran-related resources for 27 March](https://www.facebook.com/sarah.schulman.56/posts/pfbid02nviesYuExZRvYoFkjKP73aGAhgLxVtkXxBdYQaiXQXj3eryHJncNAxgnsradmReil)
+
+***2026-03-27:*** [Track AIPAC](https://www.trackaipac.com/)
+
+***2026-03-27:*** Naghmeh Sohrabi, “[The Catastrophe That Has Befallen All of Us](https://www.bostonreview.net/articles/the-catastrophe-that-has-befallen-all-of-us/)” (🎩 JK)
+
+***2026-03-27:*** [Error 417 Expectation Failed](https://tldr.nettime.org/@Error417), the newsletter
+***
+***2026-03-26:*** Will Davies: the UK’s “[[Labour-Conservative-Liberal Democrat cartel]]”
+
+***2026-03-25:*** Richard Seymour, “[The illusions of Machtpolitik](www.patreon.com/posts/153860247)” (🎩 JG)
+***
+***2026-03-24:*** Pankaj Mishra, “[The Authority of Thought](https://harpers.org/archive/2026/04/the-authority-of-thought-pankaj-mishra/)” (🎩 RW)
+***
+***2026-03-22:*** [RIP Agosto Machado](https://mailchi.mp/b27af82587a3/agosto-machado-in-memoriam)
+***
+***2026-03-20:*** [Bari Weiss shuts down CBS News Radio](https://radioinsight.com/headlines/343855/cbs-news-radio-to-shut-down-in-may/)
+
+***2026-03-20:*** “[NATO Mission Iraq posture adjusted](https://shape.nato.int/news-releases/nato-mission-iraq-posture-adjusted)” (translation: *we’re outta here!*)
+
+***2026-03-20:*** [Christian Kerez car parks in Bahrain facing demolition](https://afasiaarchzine.com/2026/03/car-parks-in-bahrain-facing-demolition-christian-kerez/) ([more](https://archithese.ch/ansicht/sinnlose-zerstoerung.html))
+
+***2026-03-20:***  the [vile](https://en.wikipedia.org/wiki/Lis_Smith#2020s) Lis Smith argues “[We Don’t Need More Lawyers in Congress](https://archive.ph/20260320093742/https://www.nytimes.com/2026/03/20/opinion/democrats-midterms-iran-future.html#selection-505.0-505.40)” (*NYT* 🎩 PA)
+
+***2026-03-20:*** Mack Hagood, [Oral Residue: A Zombie Media Theory Rises Again](https://www.mackhagood.com/oral-residue-a-zombie-media-theory-rises-again/)
+***
+***2026-03-19:***  [Why Some Catholics Want Peter Thiel Burned at the Stake](https://www.themonastery.org/blog/why-some-catholics-want-peter-thiel-burned-at-the-stake)
+
+***2026-03-19:*** the [Scully Effect](https://www.sfu.ca/wwest/WWEST_blog/the-scully-effect.html)
+
+***2026-03-19:*** “[the city owns no roads, land, or buildings](https://www.404media.co/mapping-googles-unmappable-city/)”
+
+***2026-03-19:*** [How can Canadians unite in their own defence?](http://archive.today/2026.03.18-114927/https://www.theglobeandmail.com/canada/article-how-canadians-can-unite-in-their-own-defence/)
+
+***2026-03-19:*** [The 49MB web page](https://thatshubham.com/blog/news-audit) (🎩 IRR)
+
+***2026-03-19:*** Rough Trade’s 50th anniversary: [Essential: Post-punk](https://blog.roughtrade.com/gb/rough-trade-essential-post-punk/)
+***
+***2026-03-18:*** [[neological things]] updated: *rereification* (credit: Eric Hoffsten)
+
+***2026-03-18:*** [Snowflake Cortex AI escapes sandbox and executes malware](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware)
+
+***2026-03-18:*** Fotopoulos on “[Iran, the Western Left, and the ambiguity of allies](https://blog.uvm.edu/aivakhiv-ukrtaz/2026/03/09/fotopoulos-on-iran-the-western-left-the-ambiguity-of-allies/)”
+
+***2026-03-18:*** [How to shoot a screen using a board of keys](https://unsung.aresluna.org/how-to-shoot-a-screen-using-a-board-of-keys/) (MacOS)
+***
+***2026-03-17:*** still kinda horrifying after 25 years: Jon Haddock’s [isometric historical events](https://whitelead.com/jrh/screenshots/)
+
+***2026-03-17:***  [every name the money touched](https://randallscott25-star.github.io/epstein-forensic-finance/narratives/19_grand_opus_narrative.html)
+
+***2026-03-17:*** [Iran Resources](https://www.weavingourworlds.ca/iran-resources/)
+
+***2026-03-17:*** Renee Reizman, “[Mail Art Takes On the World](https://www.getty.edu/news/transgresoras-mail-art-and-messages/)’
+
+***2026-03-17:*** Charles P. Pierce, “[The Next Democratic President Better Be Merciless](https://archive.ph/QacAp#selection-563.0-563.49)”
+
+***2026-03-17:*** T. J. Clark, “[A Brief Guide to Trump and the Spectacle](https://www.lrb.co.uk/the-paper/v47/n01/t.j.-clark/a-brief-guide-to-trump-and-the-spectacle)”
+
+***2026-03-17:*** [A Russian esoteric sect goes west](https://vsquare.org/a-russian-esoteric-sect-goes-west-with-a-putinist-running-its-hub-in-poland/)
+
+***2026-03-17:*** Cade Diehm, ”[Who Will Remember Us When The Servers Go Dark?](https://newdesigncongress.org/en/pub/who-will-remember-us-when-the-servers-go-dark/)“
+
+***2026-03-17:*** Brian Reffin Smith, “[On Pedantry: A Cultural History of the Know-it-All](https://leonardo.info/review/2026/01/on-pedantry-a-cultural-history-of-the-know-it-all)”
+
+***2026-03-17:*** Natan Dubovitsky’s (a/k/a Vladislav Surkov’s) short story “[Without Sky](https://www.bewilderingstories.com/issue582/without_sky.html)” (🎩 FS)
+
+***2026-03-17:*** [Why do cultural execs go mad?](https://www.lemonde.fr/en/opinion/article/2026/02/27/the-louvre-director-s-resignation-raises-an-old-question-why-do-cultural-execs-go-mad_6750939_23.html)
+
+***2026-03-17:*** [gone (almost) phishin’](https://ma.tt/2026/03/gone-almost-phishin/)
+
+***2026-03-17:*** couldn’t see that coming... “[crappy luxury](https://gothamist.com/news/crappy-luxury-inside-nycs-brand-new-apartment-buildings-that-are-falling-apart)”
+
+***2026-03-17:*** [U+237C ⍼ RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://ionathan.ch/2022/04/09/angzarr.html)
+***
+***2026-03-16:*** Sirantos Fotopoulos: [two ways to disappear a people](https://www.facebook.com/sirantos.fotopoulos/posts/pfbid0zKDUakCjjieoTqmLsB8M2a6sKAMU8DFsf3JUv299vF7JWmog2WeFP2TMPmV7NRABl)
+
+***2026-03-16:*** Perry Anderson, “[Arms and Rights](https://newleftreview.org/issues/ii31/articles/perry-anderson-arms-and-rights)” in NLR (2005)
+
+***2026-03-16:*** [dark money lobbying for age-verifying OSes](https://tboteproject.com/)
+
+***2026-03-16:*** Hamid Dabashi’s unsentimental take on Euro philosophy: “[ethically bankrupt](https://www.middleeasteye.net/opinion/war-gaza-european-philosophy-ethically-bankrupt-exposed)”
+
+***2026-03-16:*** Trump insider [thinks Israel May use nukes](https://archive.ph/U7TYJ) (I agree)
+***
+***2026-03-13:*** jigsaw puzzles [invented by a cartographer](https://en.wikipedia.org/wiki/John_Spilsbury_(cartographer)) (and [by a woman earlier](https://en.wikipedia.org/wiki/Jeanne-Marie_Leprince_de_Beaumont), ofc)
+
+***2026-03-13:*** [the whole zodiac is off](https://www.scientificamerican.com/article/your-zodiac-sign-is-likely-wrong-heres-how-to-find-the-correct-one/)
+
+***2026-03-13:*** the [Great Wall of Memes](https://www.greatwallofmemes.com/)
+***
+***2026-03-12:*** [Sycophantic AI decreases prosocial intentions and promotes dependence](decreases prosocial intentions and promotes dependence)
+***
+***2026-03-11:*** “[I built a spy satellite simulator in a browser](https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator)”
+***
+***2026-03-10:*** support the [Bivens Act](https://www.whitehouse.senate.gov/news/release/whitehouse-johnson-introduce-pair-of-bills-to-hold-federal-law-enforcement-accountable-for-constitutional-violations/#:~:text=Bivens%20Act%20would,Constitutional%20Accountability%20Act) — for starters
+
+***2026-03-10:*** RIP [Tony Hoare](https://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
+***
+***2026-03-09:*** [Post-War Prosperity to “Lifeboat Economics”?](https://fourthfloorreview.substack.com/p/post-war-prosperity-to-lifeboat-economics) (🎩 RP)
+
+***2026-03-09:*** [a tribute to Sylvère Lotringer](https://brooklynrail.org/2022/03/in-memoriam/A-Tribute-to-Sylvre-Lotringer/) (2022, 🎩 MW)
+
+***2026-03-09:*** “[second hand zero-day](https://archive.ph/20260304113529/https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/#selection-1777.80-1777.101)” is not a phrase we want to see
+***
+***2026-03-07:*** S&P “[stealth correction](https://www.charlotteobserver.com/news/business/article314892295.html)”
+
+***2026-03-07:*** Claude solved a graph theory problem so [Knuth rethinks AI](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) (🎩 DM)
+
+***2026-03-07:*** the new Swiss non-exploitative LLM, [Apertus](https://www.swiss-ai.org/apertus) (🎩 DM)
+***
+***2026-03-06:*** Ervand Abrahamian, “[Iran Under Fire](https://newleftreview.org/issues/ii157/articles/ervand-abrahamian-iran-under-fire)”
+***
+***2026-03-03:*** Apple’s Pages UI 2009–2026 [just gets worse and worse](https://pxlnv.com/blog/window-chrome-of-our-discontent)
+
+***2026-03-03:*** [“The law firms opposed the motions to withdraw the motion to dismiss.”](https://joycevance.substack.com/p/doj-changes-course)
+
+***2026-03-02:*** [Who loses from the Anthropic fight? Maybe Elon Musk and Alex Karp](https://www.programmablemutter.com/p/who-loses-from-the-anthropic-fight)
+
+***2026-03-02:*** [The Man in Seat 61](https://www.seat61.com/) is said to be an A+ source for train travel
+
+***2026-03-02:*** "[forensic dystopianism](https://tldr.nettime.org/@tb/116161479355640524)"
+***
+***2026-03-01:*** [In edus, AI isn’t the real threat. It’s just the mirror](https://kylesaunders.substack.com/p/why-higher-educations-ai-backlash)
+
+***2026-03-01:*** [Russian vs Ukrainian army modernization](https://www.thebulwark.com/p/i-commanded-u-s-army-europe-heres-what-i-saw-in-the-russian-and-ukrainian-armies)
+
+***2026-03-01:*** [the parlance of hyper-online misanthropes](https://www.gq.com/story/inside-the-psl-scale-the-looksmaxxer-rating-system)
+***
+### 2026-02
+
+***2026-02-25:*** [the 80% bill](https://the80percentbill.com/bill/)
+***
+***2026-02-24:*** NBER working paper, “[Building Pro-Worker Artificial Intelligence](https://www.nber.org/papers/w34854)” (🎩 TU)
+
+***2026-02-24:*** autocorrect the autocrats with the [Times New Resistance](https://www.abbyhaddican.com/times-new-resistance) font
+
+***2026-02-24:*** Varvara Nedeoglo’s “[La petite mort des filles russes en terre libre](https://lestempsquirestent.org/fr/numeros/numero-8/omme-aux-yeux-de-poisson)” in *TQR*
+
+***2026-02-24:*** [x86 CPU made in CSS](https://lyra.horse/x86css/) (🎩 IRR)
+***
+***2026-02-23:*** *Byte* magazine [visual archive](https://byte.tsundoku.io/) (🎩 KH)
+***
+***2026-02-22:*** [Poseidon taking chocolate from Mexico to Europe](https://publicdomainreview.org/essay/when-chocolate-was-medicine-colmenero-wadsworth-and-dufour/)
+
+***2026-02-22:*** a bluntly [old-school cover-up](https://www.thetimes.com/uk/politics/article/antonia-romeo-civil-service-cabinet-office-2gfc2x536) in the UK
+
+***2026-02-22:*** amazing explanation for [why Trump sent a hospital ship to Greenland](https://www.facebook.com/granny.grue/posts/pfbid0kJMSBhoNNm8YXDfQ72rRz8G7kDhD31WAwGSgncRzTh4fa5Fm8aH4UkRmSCLEzfwRl)
+
+***2026-02-22:*** Kenneth Lonergan’s 3’6” [director / extended cut of *Margaret*](https://www.amazon.com/gp/video/detail/B0G6R1F7VK) (2011) (🎩 JH)
+
+***2026-02-22:*** the actor Stellan Skarsgård was a [teen pop sensation](https://youtu.be/2bSpPfSnEp0)
+
+***2026-02-22:*** Wesley Willis’s [outsider Chicago landscapes](https://rawvision.com/blogs/articles/wesley-willis) (🎩 MM)
+
+***2026-02-22:*** the [wit and wisdom](https://www.artforum.com/lists/artforum-dossier-wit-alex-jovanovich/) of *Artforum*
+
+***2026-02-22:*** *Telegraph* (India) [reviews](https://www.telegraphindia.com/books/trains-and-trajectories-the-social-life-of-indian-trains-runs-like-a-bakhtinian-chronotope-prnt/cid/2148127) Amitava Kumar’s *Social Life of Indian Trains*
+
+***2026-02-22:*** Letters to the *Grauniad* about [men shoving women](https://www.theguardian.com/society/2026/feb/20/theres-an-epidemic-of-men-pushing-women-and-it-needs-to-stop)
+
+***2026-02-22:*** [Rodney Graham’s inverted portraits of trees](https://observer.co.uk/culture/photography/article/the-grid-rodney-grahams-inverted-trees)
+***
+
+***2026-02-21:*** [How the *LA Review of Books* destroyed itself](https://nobaddaysinla.substack.com/p/how-the-la-review-of-books-destroyed)
+***
+
+***2026-02-20:*** [Institute for the Study of War’s Russian Offensive Campaign Assessment](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-19-2026/)
+
+***2026-02-20:*** Toney Karon asks [if a proper World Cup is even possible in the US in 2026](https://tonykaron.substack.com/p/is-it-possible-to-hold-a-proper-world)
+
+***
+
+***2026-02-19:*** Marcin Wichary blog on [software craft and quality](https://unsung.aresluna.org/)
+
+***2026-02-19:*** [Epstein Helper](https://github.com/artmedlar/epstein-files-analyzer/tree/main)
+
+***2026-02-19:*** Mamdani unpolicing advisor [Alex Vitale](https://en.wikipedia.org/wiki/Alex_S._Vitale)’s [review](https://link.springer.com/epdf/10.1007/s10612-026-09876-1?sharing_token=CnF5cuKuk9E5oQ6IuP5Dhfe4RwlQNchNByi7wbcMAY5r8QvNIOWgDKnRDAUKDfkHCFkKqIkMhEXThHzMQdMVh-g6vNm2kJ3eXoMMYTK7PCiOIUafnty9pHGwdV7up96D6-bFwnckAdmEwW0sLvqKOFKQsfvhiiMsnQgzvTO-wb4%3D) of [David Garland’s Law and Order Leviathan](https://press.princeton.edu/books/hardcover/9780691271194/law-and-order-leviathan)
+***
+***2026-02-18:*** Paul Krugman: “[Now Trumpists Are Menacing Economists](https://youtu.be/lzZdxmSmBaM)”
+***
+***2026-02-16:*** worth reading: [defunding is what’s ‘really’ killing the humanities](https://utotherescue.blogspot.com/2026/02/liner-note-47-did-atlantics-anti-woke.html) (🎩 EW)
+***
+***
+***2026-02-13:*** a miners / Sandinista football jersey [mystery](https://www.claptoncfc.co.uk/2026/02/07/searching-for-more-information-on-donated-sandinista-num-shirt/) 🎩SS)
+***
+***2026-02-12:*** [Will Manidis](https://x.com/willmanidis/status/2021655191901155534) takes down Schumer’s “something big”
+
+***2026-02-12:*** [Gary Marcus](https://garymarcus.substack.com/p/about-that-matt-shumer-post-that) takes down Schumer’s “something big”
+***
+***2026-02-11:*** RIP *Byte* mag illustrator [Robert Tinney](https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/)
+
+***2026-02-11:*** Mamdani [hired 39 people out of 80K applicants](https://www.thecity.nyc/2026/02/06/mamdani-hiring-portal-administration-jobs/)
+
+***2026-02-11:*** [How liminalism became our defining aesthetic](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
+
+***2026-02-11:*** updated! [[images]]
+***
+***2026-02-10:*** [Lit Crit in the Age of AI](https://newleftreview.org/issues/ii155/articles/nan-da-literary-criticism-in-the-age-of-ai) (🎩BB)
+
+***2026-02-10:*** “[most of us barely noticed there was also a sports event](https://www.meditationsinanemergency.com/auspicious-omens-and-excellent-insubordination/)” (🎩RW)
+
+***2026-02-10:*** [The Journey and Return of Elizabeth Fisher](https://newohioreview.org/2025/10/23/essay-the-journey-and-return-of-elizabeth-fisher/) (🎩JP)
+
+***2026-02-10:*** [For Cubans, surrender is not an option](https://peoplesdispatch.org/2026/02/07/for-the-cuban-people-surrender-is-not-an-option/) 🎩BB)
+
+***2026-02-10:*** Dominic Pettman [on the first lady and historian of the robocene](https://publicdomainreview.org/essay/some-remarks-on-the-legacy-of-madame-francine-descartes/)
+
+***2026-02-10:*** “[How Close did we Come to Teaching Jeffrey Epstein?](https://tonykaron.substack.com/p/how-close-did-we-come-to-teaching)”
+***
+***2026-02-09:*** RFK Jr’s [heroin voice](https://crookedtimber.org/2026/01/24/a-very-short-post-about-heroin-voice/)
+
+***2026-02-09:*** Jim Biglan, [artist](https://www.jim-biglan.website/) (🎩 CH1)
+
+***2026-02-09:***  👉🏼 [The Journey and Return of Elizabeth Fisher](https://newohioreview.org/2025/10/23/essay-the-journey-and-return-of-elizabeth-fisher/) (🎩 [JP](https://www.facebook.com/julie.phillips.7902/posts/pfbid0xRmUzrXvtZK5fnVRLmeG8SHdfCQPKXXQnxkwUcoRRbPQbMc5W1t5MjFJZPWnnGKZl))
+***
+***2026-02-08:*** “[trauma-ridden vessels who least resist inhuman economic forces](https://www.asomo.co/p/the-green-room-epstein-elite-loneliness)”
+
+***2026-02-08:*** “[the most overwrought AI legal filings you will ever gaze upon](https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/)”
+***
+***2026-02-07:*** [Epstein / Kubrick/ Led Zeppelin / Baldessari](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004012.pdf)
+
+***2026-02-07:***  [Why your university has so many administrators](https://archive.ph/az57z#selection-2811.0-2811.46)
+***
+***2026-02-06:*** Marco Rubio was [the acting archivist of the United States](https://www.reuters.com/world/us/marco-rubio-steps-down-acting-head-us-national-archives-2026-02-05/)?!
+***
+***2026-02-05:*** Joohn Choe’s predictions for [how the next election will unfold](https://www.facebook.com/choejoohn/posts/pfbid02LGbyE6YJTfikVXhDboVE6FYuhz3eCN22FGwDHcXE7cEGpTNw2d9HA8CPzoy6LGsPl)
+
+***2026-02-05:*** [Turkish m-reduplication](https://x.com/nxd1979/status/2018659987976040813)
+
+***2026-02-05:*** [anti-phonetic alphabet](https://www.panix.com/~vr/alphabet.html) ca. 2000 (🎩 ST)
+***
+***2026-02-04:*** [The Moral Stupefaction of the American Public](https://www.bostonreview.net/articles/the-moral-stupefaction-of-the-american-public/) (🎩DL)
+***
+***2026-02-02:*** [Simone 0914 Flagship Store](https://www.trugroup.co.kr/simone-0914) (🎩 FiG)
+
+***2026-02-02:*** *Neural* [review](https://neural.it/2026/01/marina-hassapopoulou-interactive-cinema-the-ambiguous-ethics-of-media-participation/) of Marina Hassapopoulou, *Interactive Cinema: The Ambiguous Ethics of Media Participation* (U Minn Press, 2024)
+
+***2026-02-02:*** ABC — Australian one — [on the neoliberal Atlas Network](www.abc.net.au/news/2026-01-26/atlas-network-mont-pelerin-society-neoliberal-think-tanks/105700628)
+
+***2026-02-02:*** [the missing chapter](https://alvyray.com/DigitalLight/default.htm#Supplemental) from Alvy Ray Smith’s *The Pixel*
+***
+### 2026-01
+
+***2026-01-28:*** *The Intercept*’s [guide to ICE patches](https://theintercept.com/2026/01/28/ice-cbp-patches-guide-to-identifying-immigration-agents/)
+
+***2026-01-28:*** older man who watches construction, gives unsolicited advice: [*umarall*](https://en.wikipedia.org/wiki/Umarell)
+
+***2026-01-28:*** [Linux running in a PDF](https://github.com/ading2210/linuxpdf)
+***
+***2026-01-27:*** a [very smart approach](https://www.msaevolutionlab.com/blog-full/making-space-for-resistance-how-choate-rosemary-hall-built-ai-adoption-on-their-own-terms) to AI in education
+
+***2026-01-27:*** [CERFI – Analysis Everywhere. Militancy, Research, Architecture and Psychiatry](https://www.minorcompositions.info/?p=1661)
+***
+***2026-01-26:*** [Ruminations on that DHS Penguin Tweet](https://youtu.be/c7WqVx9x89s)
+***
+***2026-01-24:*** Bellingcat’s [online forensic toolkit](https://bellingcat.gitbook.io/toolkit)
+
+***2026-01-24:*** *Chronicle of Higher Ed* [reviews](http://archive.today/2026.01.22-192641/https://www.chronicle.com/article/higher-eds-future-is-managed-decline) new Bryan Alexander book [*Peak Higher Ed*](https://www.press.jhu.edu/books/title/53967/peak-higher-ed)
+
+***2026-01-24:***  Steven Heller [interviews graphic novelist Jarrett Dapier](https://www.printmag.com/daily-heller/the-daily-heller-banning-the-right-to-read-in-chicago-a-novel/) about Chicago Public Schools Persepolis ban
+***
+***2026-01-23:*** [best indy / community radio stations in the US](https://www.ldial.org/)
+
+***2026-01-23:*** [poli-sci syllabus sourced from random internet posts](https://bsky.app/profile/mosheroperandi.bsky.social/post/3ltsooofgnk2k)
+
+***2026-01-23:*** AI bots [are incompatible with democracy](https://garymarcus.substack.com/p/ai-bot-swarms-threaten-to-undermine)
+
+***2026-01-23:*** satisfying lost-and-found story of [a Harry Bertoia sculpture](https://www.smithsonianmag.com/smart-news/forgotten-for-decades-in-a-dusty-mall-basement-a-long-lost-harry-bertoia-sculpture-is-back-on-display-180987968/)
+***
 ***2026-01-22:*** F/LOSS CLI tool for “optimizing” Macs (incl. TouchID for sudo!): [mole](https://github.com/tw93/Mole)
 ***
 ***2026-01-21:*** “[the real reasons new yorkers’ groceries cost so much](https://www.vitalcitynyc.org/articles/nyc-grocery-cost-explained)” (🎩JK)
