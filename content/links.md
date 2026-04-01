@@ -32,6 +32,8 @@ yaml_end: true
 
 [Idle Words](https://idlewords.com/) (added 2025-12-31)
 
+[Isotypist](https://www.instagram.com/isotypist/) (added 2026-04-01)
+
 [J. F. Ptak Science Books](https://longstreet.typepad.com/) (added 2025-05-01)
 
 [Messy Nessy](https://www.messynessychic.com/) (added 2025-05-01)
