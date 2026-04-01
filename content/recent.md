@@ -25,7 +25,14 @@ yaml_end: true
 <!-- RECENT_POSTS_START -->
 ## 2026
 
+### 2026-04
+
+***2026-04-01:*** Jennifer Wenzel, “[A year of ‘acting’ presidency](https://www.columbiaspectator.com/opinion/2026/03/28/a-year-of-acting-presidency-what-will-be-the-legacy-of-the-shipman-era/)” at Columbia U
+
+***
 ### 2026-03
+
+***2026-03-31:*** [Car Seats as Contraception](https://www.journals.uchicago.edu/doi/abs/10.1086/731812)
 
 ***2026-03-31:*** meet [Proton Meet](https://proton.me/business/blog/introducing-proton-meet)
 
@@ -396,12 +403,12 @@ yaml_end: true
 
 ***2026-01-28:*** *The Intercept*’s [guide to ICE patches](https://theintercept.com/2026/01/28/ice-cbp-patches-guide-to-identifying-immigration-agents/)
 
-***2026-01-28:*** older man who watches construction, gives unsolicited advice: [*umarall*](https://en.wikipedia.org/wiki/Umarell)
+***2026-01-28:*** older men who watch construction, gives unsolicited advice: [*umarell*](https://en.wikipedia.org/wiki/Umarell)
 
 ***2026-01-28:*** [Linux running in a PDF](https://github.com/ading2210/linuxpdf)
 
 ***
-***2026-01-27:*** a [very smart approach](https://www.msaevolutionlab.com/blog-full/making-space-for-resistance-how-choate-rosemary-hall-built-ai-adoption-on-their-own-terms) to AI in education
+***2026-01-27:*** a [very smart approach](https://www.choate.edu/ai/gen) to AI in education
 
 > [!note]+ [[2026-01-27-how-to-punish-ice|2026-01-27-how to punish ice]]
 > closing the book on (and throwing it at) ICE

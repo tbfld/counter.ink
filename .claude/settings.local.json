@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls /Users/tbyfield/github/counter.ink/content/images*)"
+      "Bash(ls /Users/tbyfield/github/counter.ink/content/images*)",
+      "Bash(grep -E \"\\\\.\\(ts|js|json\\)$\")",
+      "Bash(grep -r \"Header\" /Users/tbyfield/github/counter.ink/quartz/components/pages/*.tsx)"
     ]
   }
 }
