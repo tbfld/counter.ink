@@ -41,8 +41,21 @@ yaml_end: true
 
 ![[2022-05-11-wasp-nest-tlh-tbyfield.jpeg|wmed relative|center]]
 
+![[2026-04-02-chicago-field-columbian-museum-1898-wikipedia.jpg|wmed relative|center]]
 
+![[2026-04-02-london-v-and-a-lace-tbyfield.jpeg|wmed relative|center]]
 
+![[2026-04-02-southern-gothic-sunset-reflection-tbyfield.jpg|wmed relative|center]]
+
+![[2026-04-02-warehouse-somewhere-found.jpg|wmed relative|center]]
+
+![[2026-04-02-netscape-painting-patricio-vivo-gonzalez.jpeg|wmed relative|center]]
+
+![[2026-04-02-bacon-studio-photog-unknown-to-me.jpg|wmed relative|center]]
+
+![[2026-04-02-shadows-and-lights-tlh-byfield.jpeg|wmed relative|center]]
+
+![[2026-04-02-white-slime-mold-byfield.jpeg|wmed relative|center]]
 
 *See also:*
 - [[images 1 (2025-02-23 – 2025-03-03)|image stream 1 (2025-02-23 – 2025-03-03)]]
