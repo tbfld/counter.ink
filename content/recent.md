@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-02:*** Phyllis Hofberg’s FB photo album [GOODNIGHT ⭐️](https://www.facebook.com/media/set/?set=a.10153799324295879&type=3)
+
 ***2026-04-02:*** Karen O’Rourke, “[Maupassant, I told him, is the only passion of my life](https://karenorourke.substack.com/p/maupassant-i-told-him-is-the-only)”
 ***
 
