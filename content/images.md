@@ -12,9 +12,9 @@ images: true
 tags:
   - image
   - media
-
 order:
 aliases:
+  - images 7
 publish: true
 yaml_end: true
 ---
