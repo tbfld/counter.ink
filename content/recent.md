@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-04:*** “[Two kinds of AI users are emerging](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)”
+
+***
+
 ***2026-04-03:*** That saw about centuries, decades, weeks, and history — [who said it?]("There are decades where nothing happens; and there are weeks where decades happen")
 
 ***
