@@ -38,6 +38,8 @@ yaml_end: true
 
 **cut-and-patriotism** (n.d., xitter)
 
+“early Blade Runner” ([2026-04-05](https://www.facebook.com/tbyfield/posts/pfbid02bBadYLJ6o2XbegXZRjm4BJNV4MXBsrGahJfSJC8BzHaCck9mkapXCSjtm2Nqronul)): an effort to describe the current historical period
+
 **emdashical** ([2024-08-31](https://tldr.nettime.org/@tb/113057157095623096)): parenthetical for the 21st C
 
 **fanticipation** ([2024-04-04](https://www.facebook.com/tbyfield/posts/pfbid02wsZAFaSoJYPiLzUACU1LW7fd4bpGAzvNB6ZTnQ7ujStxmLQWS5jN67MuRL5qCNiLl); 6k prior attestations, but that’s pretty good for *such* an obvious term)
