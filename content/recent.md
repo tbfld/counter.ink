@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-06:*** Micah Sifry’s [Pro-Democracy Media Network](https://prodemstack.netlify.app/) (backstory [here](https://theconnector.substack.com/p/introducing-prodemstack-an-interactive))
+
+***2026-04-06:*** [Is Trump About To Nuke Iran?](https://www.doomsdayscenario.co/p/is-trump-about-to-nuke-iran) (my $5 says *yes*)
+
 > [!note]+ [[2026-04-06-now-the-whole-earth-is-a-bit-more-whole|2026-04-06 now the whole earth is a bit more whole]]
 > 
 > The first woman to ever see our planet in its entirety
