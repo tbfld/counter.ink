@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-06:*** “[Gibsonio-Burroughsio-Virilionism](https://www.facebook.com/tbyfield/posts/pfbid032NhjX4XwHmRC3AJWJnaJ5LAkqXCy7K56UDfYarin7vv9UpJAqApAPc74FLFkNNDHl)” — *moi!*
+
 ***2026-04-05:*** [politicians’ stock trades](https://www.capitoltrades.com/)
 
 ***2026-04-05:*** hoof and mouth epidemic in Russia ([RL](https://russianlife.com/the-russia-file/russian-cattle-in-danger/), [Xitter](https://x.com/GrandpaRoy2/status/2037612134989963712), [Threads](https://www.threads.com/@billiebob57/post/DWueOvZiQpD/russia-lying-about-outbreak-of-hoof-and-mouth-disease))
