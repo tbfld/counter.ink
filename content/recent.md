@@ -27,10 +27,11 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-05:*** [politicians’ stock trades](https://www.capitoltrades.com/)
+
 ***2026-04-05:*** hoof and mouth epidemic in Russia ([RL](https://russianlife.com/the-russia-file/russian-cattle-in-danger/), [Xitter](https://x.com/GrandpaRoy2/status/2037612134989963712), [Threads](https://www.threads.com/@billiebob57/post/DWueOvZiQpD/russia-lying-about-outbreak-of-hoof-and-mouth-disease))
 
 ***
-
 
 ***2026-04-04:*** “[Two kinds of AI users are emerging](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)”
 
