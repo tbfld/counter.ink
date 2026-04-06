@@ -24,6 +24,10 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-04-06-the-fog-of-war-is-very-thick|2026-04-06-the fog of war is very thick]]
+> 
+> We have no idea what’s going on in his war
+
 > [!note]+ [[2026-03-18-sirantos-fotopoulos-on-israel-and-iran|2026-03-18 sirantos fotopoulos on israel and iran]]
 > the sharpest, densest commentaries I’ve seen yet
 

@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-04
 
+> [!note]+ [[2026-04-06-the-fog-of-war-is-very-thick|2026-04-06-the fog of war is very thick]]
+> 
+> We have no idea what’s going on in his war
+
 ***2026-04-06:*** “[Gibsonio-Burroughsio-Virilionism](https://www.facebook.com/tbyfield/posts/pfbid032NhjX4XwHmRC3AJWJnaJ5LAkqXCy7K56UDfYarin7vv9UpJAqApAPc74FLFkNNDHl)” — *moi!*
 
 ***2026-04-05:*** [politicians’ stock trades](https://www.capitoltrades.com/)
