@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-04
 
+> [!note]+ [[2026-04-06-now-the-whole-earth-is-a-bit-more-whole|2026-04-06 now the whole earth is a bit more whole]]
+> 
+> The first woman to ever see our planet in its entirety
+
+***2026-04-06:*** [Apollo 8, Artemis 1 & 2 Orbit Comparison](https://www.youtube.com/watch?v=PNQ7MoL7erI)
+
 > [!note]+ [[2026-04-06-the-fog-of-war-is-very-thick|2026-04-06-the fog of war is very thick]]
 > 
 > We have no idea what’s going on in his war
