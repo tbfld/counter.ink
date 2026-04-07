@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-04
 
+
+> [!note]+ [[2026-04-07-klaus-gnomi|2026-04-07-klaus gnomi]]
+> exactly what it says on the tin
+
+
+***
+
 ***2026-04-06:*** Micah Sifry’s [Pro-Democracy Media Network](https://prodemstack.netlify.app/) (backstory [here](https://theconnector.substack.com/p/introducing-prodemstack-an-interactive))
 
 ***2026-04-06:*** [Is Trump About To Nuke Iran?](https://www.doomsdayscenario.co/p/is-trump-about-to-nuke-iran) (my $5 says *yes*)

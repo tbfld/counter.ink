@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-04-07-klaus-gnomi|2026-04-07-klaus gnomi]]
+> exactly what it says on the tin
+
 > [!note]+ [[2026-04-06-now-the-whole-earth-is-a-bit-more-whole|2026-04-06 now the whole earth is a bit more whole]]
 > 
 > The first woman to ever see our planet in its entirety
