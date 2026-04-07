@@ -44,7 +44,7 @@ yaml_end: true
 
 **fanticipation** ([2024-04-04](https://www.facebook.com/tbyfield/posts/pfbid02wsZAFaSoJYPiLzUACU1LW7fd4bpGAzvNB6ZTnQ7ujStxmLQWS5jN67MuRL5qCNiLl); 6k prior attestations, but that’s pretty good for *such* an obvious term)
 
-**forensic dystopianism** ([2026-03-02](https://tldr.nettime.org/@tb/116161479355640524)): seems self-explanatory
+**forensic dystopianism** ([2026-03-02](https://tldr.nettime.org/@tb/116161479355640524)): seems self-explanatory — [[2026-04-07-forensic-dystopianism|see note]].
 
 **freudenschadist** (n.d.): someone who systematically takes misery in others’ pleasures
 

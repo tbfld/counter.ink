@@ -27,10 +27,11 @@ yaml_end: true
 
 ### 2026-04
 
+> [!note]+ [[2026-04-07-forensic-dystopianism|2026-04-07 forensic dystopianism]]
+> planting a flag or two near that phrase
 
 > [!note]+ [[2026-04-07-klaus-gnomi|2026-04-07-klaus gnomi]]
 > exactly what it says on the tin
-
 
 ***
 

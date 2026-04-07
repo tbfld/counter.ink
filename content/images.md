@@ -19,6 +19,12 @@ publish: true
 yaml_end: true
 ---
 
+```button
+name Open c-i/img
+type link
+action file:///Users/tbyfield/github/counter.ink/content/img
+```
+
 ![[vivian-selbo-2026-01-26.jpg|wmed relative|center]]
 
 ![[2025-07-09-hotel-tbyfield.jpeg|wmed relative|center]]
