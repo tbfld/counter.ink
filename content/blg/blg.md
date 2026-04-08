@@ -223,8 +223,10 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-03-18-sirantos-fotopoulos-on-israel-and-iran|2026-03-18 sirantos fotopoulos on israel and iran]]
 	- [[2026-04-06-now-the-whole-earth-is-a-bit-more-whole|2026-04-06 now the whole earth is a bit more whole]]
 	- [[2026-04-06-the-fog-of-war-is-very-thick|2026-04-06-the fog of war is very thick]]
-	- [[2026-04-07-forensic-dystopianism|2026-04-07-forensic dystopianism]]
+	- [[2026-04-07-forensic-dystopianism|2026-04-07 forensic dystopianism]]
 	- [[2026-04-07-klaus-gnomi|2026-04-07-klaus gnomi]]
+	- [[2026-04-08-luftgründer.jpeg]]
+	- [[2026-04-08-Luftgründer|2026-04-08 luftgründer]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**

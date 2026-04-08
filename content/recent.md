@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-08:*** *Guardian*: [study abroad as human trafficking](https://www.theguardian.com/education/ng-interactive/2026/apr/07/brutal-reality-of-life-as-a-foreign-student-in-the-uk)
+
+***2026-04-08:*** [Artifacts](https://artifacts.movie/about/), “Preserving the history of the avant-garde, the arts, and queer culture”
+
 ***2026-04-08:*** Makau W. Mutua, “[Is the Age of Human Rights Over?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2668287)” (SSRN)
 
 ***2026-04-08:*** Jacob Geller’s 45-minute video essay [Fantasies of Nuremberg](https://www.youtube.com/watch?v=n9Ay5tzHIBU)
