@@ -27,6 +27,18 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-08:*** Makau W. Mutua, “[Is the Age of Human Rights Over?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2668287)” (SSRN)
+
+***2026-04-08:*** Jacob Geller’s 45-minute video essay [Fantasies of Nuremberg](https://www.youtube.com/watch?v=n9Ay5tzHIBU)
+
+***
+
+***2026-04-07:*** MoMA “Information” exhibition, [Jul 2 – Sep 20, 1970](https://www.moma.org/calendar/exhibitions/2686)
+
+***2026-04-07:*** nutshell history of the [Department of Terrestrial Magnetism](https://carnegiescience.edu/about/history/epl-history)
+
+***2026-04-07:*** Rick Perlstein finishes [a thirty-year project](https://substack.com/home/post/p-193458635)
+
 ***2026-04-07:*** [macOS defaults list](https://macos-defaults.com/)
 
 > [!note]+ [[2026-04-07-forensic-dystopianism|2026-04-07 forensic dystopianism]]
