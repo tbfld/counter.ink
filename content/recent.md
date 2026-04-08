@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-07:*** [macOS defaults list](https://macos-defaults.com/)
+
 > [!note]+ [[2026-04-07-forensic-dystopianism|2026-04-07 forensic dystopianism]]
 > planting a flag or two near that phrase
 
