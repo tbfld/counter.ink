@@ -27,6 +27,20 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-08:*** Alejandra Caraballo, “[The Last Bit of Normal](https://www.thedissident.news/the-last/)”
+
+***2026-04-08:*** Wong and Warzel, “[Here’s How the AI Crash Happens](http://archive.today/2026.03.04-210515/https://www.theatlantic.com/technology/2025/10/data-centers-ai-crash/684765/)”
+
+***2026-04-08:*** [Sam Biddle is digitizing 35mm military slides](https://www.sambiddle.com/35mm-scans)
+
+***2026-04-08:*** robo [cartographic poster design](https://terraink.app/)
+
+***2026-04-08:*** [buttons with knives in them](https://www.survivalgear.us/products/escape-button) so you can “escape”
+
+***2026-04-08:*** [Pentagon book bosses Vatican around](https://substack.com/home/post/p-193588346)
+
+***2026-04-08:*** “[film festivals made easy](https://www.festiful.net/)”
+
 ***2026-04-08:*** *Guardian*: [study abroad as human trafficking](https://www.theguardian.com/education/ng-interactive/2026/apr/07/brutal-reality-of-life-as-a-foreign-student-in-the-uk)
 
 ***2026-04-08:*** [Artifacts](https://artifacts.movie/about/), “Preserving the history of the avant-garde, the arts, and queer culture”
