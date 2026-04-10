@@ -79,8 +79,7 @@ action file:///Users/tbyfield/github/counter.ink/content/img
 
 ![[2026-04-10-london-sci-mus-tbyfield.jpeg|wmed relative|center]]
 
-![[2026-04-10-nyc-chinatown-doyers-found.png|wmed relative|center]]
-
+![[content/img/2026-04-10-nyc-chinatown-doyers-found.PNG|wmed relative|center]]
 
 
 
