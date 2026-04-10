@@ -24,9 +24,7 @@ yaml_end: true
 
 ![[2026-03-xx-c-chavez-canceled.jpg|wmed relative|center]]
 
-
 ![[2026-03-20-AI-GEN-Christian-Kerez-Car-parks-in-Bahrain-facing-demolition-AI-generated-images-afasia-1.jpg|wmed relative|center]]
-
 
 ![[2025010-25-london-und-tbyfield.jpeg|wmed relative|center]]
 
@@ -58,7 +56,7 @@ yaml_end: true
 
 ![[2026-04-10-st-j-the-d-garden-book-tbyfield.jpeg|wmed relative|center]]
 
-![[2026-04-10-dore.jpeg]]
+![[2026-04-10-dore.jpeg|wmed relative|center]]
 
 ![[2026-04-10-costco-nyc-tbyfield.jpeg|wmed relative|center]]
 
@@ -70,11 +68,11 @@ yaml_end: true
 
 ![[2026-04-10-letraset-couples-found-wyablonsky.jpg|wmed relative|center]]
 
-![[content/img/2026-04-10-halloween-tlh-tbyfield.jpeg|wmed relative|center]]
+![[2026-04-10-halloween-tlh-tbyfield.jpeg|wmed relative|center]]
 
 ![[2026-04-10-london-sci-mus-tbyfield.jpeg|wmed relative|center]]
 
-![[content/img/2026-04-10-nyc-chinatown-doyers-found.PNG|wmed relative|center]]
+![[2026-04-10-nyc-chinatown-doyers-found.PNG|wmed relative|center]]
 
 
 
