@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-09:*** Nils Gilman, “[Electrostates vs. Petrostates](http://archive.today/2026.03.31-102123/https://foreignpolicy.com/2026/03/23/climate-change-world-order-green-transition-fossil-fuel/)” (paint me skeptical)
+
+***
+
 ***2026-04-08:*** Alejandra Caraballo, “[The Last Bit of Normal](https://www.thedissident.news/the-last/)”
 
 ***2026-04-08:*** Wong and Warzel, “[Here’s How the AI Crash Happens](http://archive.today/2026.03.04-210515/https://www.theatlantic.com/technology/2025/10/data-centers-ai-crash/684765/)”

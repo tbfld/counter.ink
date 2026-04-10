@@ -63,6 +63,27 @@ action file:///Users/tbyfield/github/counter.ink/content/img
 
 ![[2026-04-02-white-slime-mold-byfield.jpeg|wmed relative|center]]
 
+![[2026-04-10-st-j-the-d-garden-book-tbyfield.jpeg|wmed relative|center]]
+
+![[2026-04-10-dore.jpeg]]
+
+![[2026-04-10-costco-nyc-tbyfield.jpeg|wmed relative|center]]
+
+![[2026-04-10-belgian-train-sky-tbyfield.jpeg|wmed relative|center]]
+
+![[2026-04-10-hvg-windows-tbyfield.jpeg|wmed relative|center]]
+
+![[2026-04-10-letraset-couples-found-wyablonsky.jpg|wmed relative|center]]
+
+![[content/img/2026-04-10-halloween-tlh-tbyfield.jpeg|wmed relative|center]]
+
+![[2026-04-10-london-sci-mus-tbyfield.jpeg|wmed relative|center]]
+
+![[2026-04-10-nyc-chinatown-doyers-found.png|wmed relative|center]]
+
+
+
+
 *See also:*
 - [[images 1 (2025-02-23 – 2025-03-03)|image stream 1 (2025-02-23 – 2025-03-03)]]
 - [[images 2 (2025-03-03 – 2025-03-10)|image stream 2 (2025-03-03 – 2025-03-10)]]
