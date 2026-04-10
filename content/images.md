@@ -73,6 +73,8 @@ action file:///Users/tbyfield/github/counter.ink/content/img
 
 ![[2026-04-10-hvg-windows-tbyfield.jpeg|wmed relative|center]]
 
+![[2026-04-10-g.maciunas-fluxpost-stamps-1960s.jpg|wmed relative|center]]
+
 ![[2026-04-10-letraset-couples-found-wyablonsky.jpg|wmed relative|center]]
 
 ![[content/img/2026-04-10-halloween-tlh-tbyfield.jpeg|wmed relative|center]]
