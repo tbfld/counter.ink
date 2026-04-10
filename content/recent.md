@@ -27,8 +27,12 @@ yaml_end: true
 
 ### 2026-04
 
-***2026-04-09:*** Nils Gilman, “[Electrostates vs. Petrostates](http://archive.today/2026.03.31-102123/https://foreignpolicy.com/2026/03/23/climate-change-world-order-green-transition-fossil-fuel/)” (paint me skeptical)
+***2026-04-10:*** actually revolationary: Mamdani’s [free childcare *all year round*](https://gothamist.com/news/most-of-mamdanis-free-child-care-for-2-year-olds-will-last-all-day-and-through-summer)
 
+***2026-04-10:*** UPDATED! [[images]]
+***
+
+***2026-04-09:*** Nils Gilman, “[Electrostates vs. Petrostates](http://archive.today/2026.03.31-102123/https://foreignpolicy.com/2026/03/23/climate-change-world-order-green-transition-fossil-fuel/)” (paint me skeptical)
 ***
 
 ***2026-04-08:*** Alejandra Caraballo, “[The Last Bit of Normal](https://www.thedissident.news/the-last/)”
