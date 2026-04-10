@@ -18,7 +18,6 @@ aliases:
 publish: true
 yaml_end: true
 ---
-
 ![[vivian-selbo-2026-01-26.jpg|wmed relative|center]]
 
 ![[2025-07-09-hotel-tbyfield.jpeg|wmed relative|center]]
