@@ -27,7 +27,19 @@ yaml_end: true
 
 ### 2026-04
 
-***2026-04-10:*** actually revolationary: Mamdani’s [free childcare *all year round*](https://gothamist.com/news/most-of-mamdanis-free-child-care-for-2-year-olds-will-last-all-day-and-through-summer)
+> [!note]+ [[2026-04-11-what-counts-as-a-concentration-camp|2026-04-11 what counts as a concentration camp]]
+> on historical debates, the control of language, and Israel’s belligerence
+
+***2026-04-11:*** *[TLALOC no. 7. Leeds: Location Press, 1965](https://bsky.app/profile/paulodafonseca.bsky.social/post/3mhb44rzlrs22)*
+
+***2026-04-11:*** [Andrea Pitzer on “concentration camps”](https://youtu.be/W3aMgiR9mMI) is an academic video essay
+
+***2026-04-11:*** UPDATED! [IG > Isotypist](https://www.instagram.com/isotypist/)
+
+***2026-04-11:*** Evangelicals “[don’t have a theology; they have a dress code.](https://johnsundman.substack.com/p/bryon-noem-new-gods-armageddon-symmetry?utm_campaign=post-expanded-share&utm_medium=web&utm_id=97758_v0_s00_e0_tv0&triedRedirect=true)”
+***
+
+***2026-04-10:*** actually revolutionary: Mamdani’s [free childcare *all year round*](https://gothamist.com/news/most-of-mamdanis-free-child-care-for-2-year-olds-will-last-all-day-and-through-summer)
 
 ***2026-04-10:*** UPDATED! [[images]]
 ***
@@ -56,7 +68,6 @@ yaml_end: true
 ***2026-04-08:*** Makau W. Mutua, “[Is the Age of Human Rights Over?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2668287)” (SSRN)
 
 ***2026-04-08:*** Jacob Geller’s 45-minute video essay [Fantasies of Nuremberg](https://www.youtube.com/watch?v=n9Ay5tzHIBU)
-
 ***
 
 ***2026-04-07:*** MoMA “Information” exhibition, [Jul 2 – Sep 20, 1970](https://www.moma.org/calendar/exhibitions/2686)
@@ -94,15 +105,12 @@ yaml_end: true
 ***2026-04-05:*** [politicians’ stock trades](https://www.capitoltrades.com/)
 
 ***2026-04-05:*** hoof and mouth epidemic in Russia ([RL](https://russianlife.com/the-russia-file/russian-cattle-in-danger/), [Xitter](https://x.com/GrandpaRoy2/status/2037612134989963712), [Threads](https://www.threads.com/@billiebob57/post/DWueOvZiQpD/russia-lying-about-outbreak-of-hoof-and-mouth-disease))
-
 ***
 
 ***2026-04-04:*** “[Two kinds of AI users are emerging](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)”
-
 ***
 
 ***2026-04-03:*** That saw about centuries, decades, weeks, and history — [who said it?]("There are decades where nothing happens; and there are weeks where decades happen")
-
 ***
 
 ***2026-04-02:*** Rona Lorimer’s “[Letter from Paris: Death of a Fascist](https://brooklynrail.org/2026/03/field-notes/letter-from-paris-death-of-a-fascist/)” feels very old-skool
@@ -117,7 +125,6 @@ yaml_end: true
 ***2026-04-01:*** *Guardian*: [how a satellite-smashing chain reaction could spiral out of control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control)
 
 ***2026-04-01:*** Jennifer Wenzel, “[A year of ‘acting’ presidency](https://www.columbiaspectator.com/opinion/2026/03/28/a-year-of-acting-presidency-what-will-be-the-legacy-of-the-shipman-era/)” at Columbia U
-
 ***
 ### 2026-03
 
@@ -163,21 +170,17 @@ yaml_end: true
 ***2026-03-27:*** Naghmeh Sohrabi, “[The Catastrophe That Has Befallen All of Us](https://www.bostonreview.net/articles/the-catastrophe-that-has-befallen-all-of-us/)” (🎩 JK)
 
 ***2026-03-27:*** [Error 417 Expectation Failed](https://tldr.nettime.org/@Error417), the newsletter
-
 ***
 
 ***2026-03-26:*** Will Davies: the UK’s “[[Labour-Conservative-Liberal Democrat cartel]]”
 
 ***2026-03-25:*** Richard Seymour, “[The illusions of Machtpolitik](www.patreon.com/posts/153860247)” (🎩 JG)
-
 ***
 
 ***2026-03-24:*** Pankaj Mishra, “[The Authority of Thought](https://harpers.org/archive/2026/04/the-authority-of-thought-pankaj-mishra/)” (🎩 RW)
-
 ***
 
 ***2026-03-22:*** [RIP Agosto Machado](https://mailchi.mp/b27af82587a3/agosto-machado-in-memoriam)
-
 ***
 
 ***2026-03-20:*** [Bari Weiss shuts down CBS News Radio](https://radioinsight.com/headlines/343855/cbs-news-radio-to-shut-down-in-may/)
@@ -189,7 +192,6 @@ yaml_end: true
 ***2026-03-20:***  the [vile](https://en.wikipedia.org/wiki/Lis_Smith#2020s) Lis Smith argues “[We Don’t Need More Lawyers in Congress](https://archive.ph/20260320093742/https://www.nytimes.com/2026/03/20/opinion/democrats-midterms-iran-future.html#selection-505.0-505.40)” (*NYT* 🎩 PA)
 
 ***2026-03-20:*** Mack Hagood, [Oral Residue: A Zombie Media Theory Rises Again](https://www.mackhagood.com/oral-residue-a-zombie-media-theory-rises-again/)
-
 ***
 
 ***2026-03-19:***  [Why Some Catholics Want Peter Thiel Burned at the Stake](https://www.themonastery.org/blog/why-some-catholics-want-peter-thiel-burned-at-the-stake)
@@ -203,7 +205,6 @@ yaml_end: true
 ***2026-03-19:*** [The 49MB web page](https://thatshubham.com/blog/news-audit) (🎩 IRR)
 
 ***2026-03-19:*** Rough Trade’s 50th anniversary: [Essential: Post-punk](https://blog.roughtrade.com/gb/rough-trade-essential-post-punk/)
-
 ***
 
 ***2026-03-18:*** [[neological things]] updated: *rereification* (credit: Eric Hoffsten)
@@ -216,7 +217,6 @@ yaml_end: true
 ***2026-03-18:*** Fotopoulos on “[Iran, the Western Left, and the ambiguity of allies](https://blog.uvm.edu/aivakhiv-ukrtaz/2026/03/09/fotopoulos-on-iran-the-western-left-the-ambiguity-of-allies/)”
 
 ***2026-03-18:*** [How to shoot a screen using a board of keys](https://unsung.aresluna.org/how-to-shoot-a-screen-using-a-board-of-keys/) (MacOS)
-
 ***
 
 ***2026-03-17:*** still kinda horrifying after 25 years: Jon Haddock’s [isometric historical events](https://whitelead.com/jrh/screenshots/)
@@ -267,20 +267,17 @@ yaml_end: true
 ***
 
 ***2026-03-12:*** [Sycophantic AI decreases prosocial intentions and promotes dependence](decreases prosocial intentions and promotes dependence)
-
 ***
 
 > [!note]+ [[2026-03-11-kessler-syndrome|2026-03-11 kessler syndrome]]
 > actor–network theory is just another name for Rube Goldberg
 
 ***2026-03-11:*** “[I built a spy satellite simulator in a browser](https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator)”
-
 ***
 
 ***2026-03-10:*** support the [Bivens Act](https://www.whitehouse.senate.gov/news/release/whitehouse-johnson-introduce-pair-of-bills-to-hold-federal-law-enforcement-accountable-for-constitutional-violations/#:~:text=Bivens%20Act%20would,Constitutional%20Accountability%20Act) — for starters
 
 ***2026-03-10:*** RIP [Tony Hoare](https://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
-
 ***
 
 > [!note]+ [[2026-03-09-leonard-cohen-mark-rowland-interview-1988|2026-03-09 leonard cohen mark rowland interview 1988]]
@@ -302,7 +299,6 @@ yaml_end: true
 ***2026-03-07:*** Claude solved a graph theory problem so [Knuth rethinks AI](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) (🎩 DM)
 
 ***2026-03-07:*** the new Swiss non-exploitative LLM, [Apertus](https://www.swiss-ai.org/apertus) (🎩 DM)
-
 ***
 
 ***2026-03-06:*** Ervand Abrahamian, “[Iran Under Fire](https://newleftreview.org/issues/ii157/articles/ervand-abrahamian-iran-under-fire)”
@@ -317,7 +313,6 @@ yaml_end: true
 ***2026-03-02:*** [The Man in Seat 61](https://www.seat61.com/) is said to be an A+ source for train travel
 
 ***2026-03-02:*** "[forensic dystopianism](https://tldr.nettime.org/@tb/116161479355640524)"
-
 ***
 
 ***2026-03-01:*** [In edus, AI isn’t the real threat. It’s just the mirror](https://kylesaunders.substack.com/p/why-higher-educations-ai-backlash)
@@ -325,12 +320,10 @@ yaml_end: true
 ***2026-03-01:*** [Russian vs Ukrainian army modernization](https://www.thebulwark.com/p/i-commanded-u-s-army-europe-heres-what-i-saw-in-the-russian-and-ukrainian-armies)
 
 ***2026-03-01:*** [the parlance of hyper-online misanthropes](https://www.gq.com/story/inside-the-psl-scale-the-looksmaxxer-rating-system)
-
 ***
 ### 2026-02
 
 ***2026-02-25:*** [the 80% bill](https://the80percentbill.com/bill/)
-
 ***
 
 ***2026-02-24:*** NBER working paper, “[Building Pro-Worker Artificial Intelligence](https://www.nber.org/papers/w34854)” (🎩 TU)
@@ -384,7 +377,6 @@ yaml_end: true
 ***2026-02-20:*** [Institute for the Study of War’s Russian Offensive Campaign Assessment](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-19-2026/)
 
 ***2026-02-20:*** Toney Karon asks [if a proper World Cup is even possible in the US in 2026](https://tonykaron.substack.com/p/is-it-possible-to-hold-a-proper-world)
-
 ***
 
 ***2026-02-19:*** Marcin Wichary blog on [software craft and quality](https://unsung.aresluna.org/)
@@ -398,11 +390,9 @@ yaml_end: true
 ***
 
 ***2026-02-18:*** Paul Krugman: “[Now Trumpists Are Menacing Economists](https://youtu.be/lzZdxmSmBaM)”
-
 ***
 
 ***2026-02-16:*** worth reading: [defunding is what’s ‘really’ killing the humanities](https://utotherescue.blogspot.com/2026/02/liner-note-47-did-atlantics-anti-woke.html) (🎩 EW)
-
 ***
 
 > [!note]+ [[2026-02-15-when-does-policy-become-conspiracy|2026-02-15-when does policy become conspiracy]]
@@ -411,13 +401,11 @@ yaml_end: true
 ***
 
 ***2026-02-13:*** a miners / Sandinista football jersey [mystery](https://www.claptoncfc.co.uk/2026/02/07/searching-for-more-information-on-donated-sandinista-num-shirt/) 🎩SS)
-
 ***
 
 ***2026-02-12:*** [Will Manidis](https://x.com/willmanidis/status/2021655191901155534) takes down Schumer’s “something big”
 
 ***2026-02-12:*** [Gary Marcus](https://garymarcus.substack.com/p/about-that-matt-shumer-post-that) takes down Schumer’s “something big”
-
 ***
 
 ***2026-02-11:*** RIP *Byte* mag illustrator [Robert Tinney](https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/)
@@ -427,7 +415,6 @@ yaml_end: true
 ***2026-02-11:*** [How liminalism became our defining aesthetic](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
 
 ***2026-02-11:*** updated! [[images]]
-
 ***
 ***2026-02-10:*** [Lit Crit in the Age of AI](https://newleftreview.org/issues/ii155/articles/nan-da-literary-criticism-in-the-age-of-ai) (🎩BB)
 
@@ -486,7 +473,6 @@ yaml_end: true
 ***2026-02-02:*** ABC — Australian one — [on the neoliberal Atlas Network](www.abc.net.au/news/2026-01-26/atlas-network-mont-pelerin-society-neoliberal-think-tanks/105700628)
 
 ***2026-02-02:*** [the missing chapter](https://alvyray.com/DigitalLight/default.htm#Supplemental) from Alvy Ray Smith’s *The Pixel*
-
 ***
 ### 2026-01
 
@@ -495,7 +481,6 @@ yaml_end: true
 ***2026-01-28:*** older men who watch construction, gives unsolicited advice: [*umarell*](https://en.wikipedia.org/wiki/Umarell)
 
 ***2026-01-28:*** [Linux running in a PDF](https://github.com/ading2210/linuxpdf)
-
 ***
 ***2026-01-27:*** a [very smart approach](https://www.choate.edu/ai/gen) to AI in education
 
@@ -543,7 +528,6 @@ yaml_end: true
 ***2026-01-21:*** Redditor says [MMS patch brought Verizon down](https://www.reddit.com/r/verizon/comments/1qdsc0g/i_think_i_found_what_caused_yesterdays_outage/) (🎩IRR)
 
 ***2026-01-21:*** End of an era: [Gmail dropping POP3 support](https://support.google.com/mail/answer/16604719) (🎩IRR)
-
 ***
 ***2026-01-20:*** [sage, nomad, demon — just not an assistant](https://x.com/aiamblichus/status/2013379529771790553) (🎩RL)
 
@@ -566,7 +550,6 @@ yaml_end: true
 ***2026-01-18:*** interview with the [graffiti artist Sluto](https://www.bombingscience.com/sluto-interview/)
 
 ***2026-01-18:*** David French on [the normative vs prerogative states](http://archive.today/GcR4e)
-
 ***
 > [!note]+ [[2026-01-16-lowering-the-bar-in-FL-etc|2026-01-16-lowering the bar in FL etc]]
 > FL SC says FU to ABA over JD EDU
@@ -575,22 +558,22 @@ yaml_end: true
 ***2026-01-14:*** “[Why I Will Not Cast My Electoral Vote for Donald Trump]()”
 
 ***2026-01-14:*** [The China Syndrome and American decline](https://www.patreon.com/posts/148151858)
-
 ***
+
 ***2026-01-13:*** [Times Square FB group](https://www.facebook.com/groups/347911852086113/)
-
 ***
+
 ***2026-01-11:*** gently brutal [NYRB review](https://archive.is/9PZRV) of Douthat’s doorstop
-
 ***
+
 ***2026-01-10:*** historian of Venezuela [AMA on FB](https://www.facebook.com/george.ciccariellomaher/posts/pfbid0sST8oe6WhWNioeedxRr4eATtoBkDwPYDG7adqUVy2VBbXMuWNzeP83cznR4CJCoPl)
 
 ***2026-01-10:*** [automating medieval manuscript transcription](https://www.inria.fr/en/comma-medieval-manuscripts-transcribed)
-
 ***
+
 ***2026-01-09:*** VZ: [The cash waterfall is upstream of sovereignty itself](https://substack.com/home/post/p-183664310)
-
 ***
+
 ***2026-01-08:*** neatocal for [planning an entire year](https://abetusk.github.io/neatocal/)
 
 ***2026-01-08:*** alleged Berlin group manifesto: deDOTindymediaDOTorg/nodeSLASH565575

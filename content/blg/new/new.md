@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-04-11-what-counts-as-a-concentration-camp|2026-04-11 what counts as a concentration camp]]
+> on historical debates, the control of language, and Israel’s belligerence
+
 > [!note]+ [[2026-04-07-forensic-dystopianism|2026-04-07 forensic dystopianism]]
 > planting a flag or two near that phrase
 
