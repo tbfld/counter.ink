@@ -1,6 +1,6 @@
 ---
 yaml_begin: true
-title: recent things
+title: current and recent things
 description: exactly what it says on the label
 extract:
 created: 2025-11-03 20:20
