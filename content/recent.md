@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-13:*** Eyal Weizman, “[All they will find is sand: Gaza’s Yellow Line](https://www.lrb.co.uk/the-paper/v48/n07/eyal-weizman/all-they-will-find-is-sand)”
+
+***2026-04-13:*** Eyal’s forthcomingh book, [*Ungrounding*](https://www.penguin.co.uk/books/463141/ungrounding-by-weizman-eyal/9781911717331)
+
+***
+
 ***2026-04-12:*** [CPAC Hungary](https://www.cpachungary.com/en/) 😂
 
 ***2026-04-12:*** [PSPB: Period Sites in Period Browsers](https://www.chrisrcook.com/2020/06/09/pspb-period-sites-in-period-browsers/)
