@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-12:*** [CPAC Hungary](https://www.cpachungary.com/en/) 😂
+
+***2026-04-12:*** [PSPB: Period Sites in Period Browsers](https://www.chrisrcook.com/2020/06/09/pspb-period-sites-in-period-browsers/)
+
+***2026-04-12:*** Angelique Kidjo covers the Talking Heads’ [Remain in Light](https://www.youtube.com/playlist?list=OLAK5uy_mbIYOh0HJq4wi9oYI-SjACbkSJHC_u7Ng)
+***
+
 > [!note]+ [[2026-04-11-what-counts-as-a-concentration-camp|2026-04-11 what counts as a concentration camp]]
 > on historical debates, the control of language, and Israel’s belligerence
 
