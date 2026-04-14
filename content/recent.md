@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-04
 
+
+***2026-04-13:*** [nice BBC piece](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline) on the coastline paradox
+
 ***2026-04-13:*** Eyal Weizman, “[All they will find is sand: Gaza’s Yellow Line](https://www.lrb.co.uk/the-paper/v48/n07/eyal-weizman/all-they-will-find-is-sand)”
 
 ***2026-04-13:*** Eyal’s forthcomingh book, [*Ungrounding*](https://www.penguin.co.uk/books/463141/ungrounding-by-weizman-eyal/9781911717331)
