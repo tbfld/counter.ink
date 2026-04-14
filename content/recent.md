@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-04
 
+> [!note]+ [[2026-04-14-marco-rubio-meme-compilation|2026-04-14 marco rubio meme compilation]]
+> the definitive collection of Marco Rubio Just Sitting There memes
+
+***
 
 ***2026-04-13:*** [nice BBC piece](https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline) on the coastline paradox
 

@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-04-14-marco-rubio-meme-compilation|2026-04-14 marco rubio meme compilation]]
+> the definitive collection of Marco Rubio Just Sitting There memes
+
 > [!note]+ [[2026-04-11-what-counts-as-a-concentration-camp|2026-04-11 what counts as a concentration camp]]
 > on historical debates, the control of language, and Israel’s belligerence
 
