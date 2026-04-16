@@ -4,14 +4,14 @@ title: current and recent things
 description: exactly what it says on the label
 extract:
 created: 2025-11-03 20:20
-updated: 2026-02-23 12:15
+updated: 2026-04-15 23:52
 author: tb
 images: false
 order: "55"
 enableToc:
 permalink:
 publish: true
-date: 2025-12-29
+date: 2026-04-15
 tags:
   - directory
 aliases:
@@ -27,9 +27,10 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-16:*** Alexander Kustov, “[Academics Need to Wake Up on AI, Part III](https://www.popularbydesign.org/p/academics-need-to-wake-up-on-ai-part-4c6)” 🎩 WH
+***
 
 ***2026-04-15:*** [women photographers of the Bauhaus](https://www.theartnewspaper.com/2026/04/14/berlin-exhibition-focuses-in-on-women-photographers-of-the-bauhaus)
-
 ***
 
 > [!note]+ [[2026-04-14-marco-rubio-meme-compilation|2026-04-14 marco rubio meme compilation]]
@@ -42,7 +43,6 @@ yaml_end: true
 ***2026-04-13:*** Eyal Weizman, “[All they will find is sand: Gaza’s Yellow Line](https://www.lrb.co.uk/the-paper/v48/n07/eyal-weizman/all-they-will-find-is-sand)”
 
 ***2026-04-13:*** Eyal’s forthcomingh book, [*Ungrounding*](https://www.penguin.co.uk/books/463141/ungrounding-by-weizman-eyal/9781911717331)
-
 ***
 
 ***2026-04-12:*** [CPAC Hungary](https://www.cpachungary.com/en/) 😂
@@ -1116,7 +1116,7 @@ An epic list of [“Awesome MacOS Software”](https://github.com/phmullins/awes
 
 ### 2024-12
 
-***2024-12-13:*** Nathan Newman](https://www.researchgate.net/profile/Nathan-Newman-6) on “[The Crisis of Elite Indifference to Corporate Mass Murder](https://nathannewman.substack.com/p/the-crisis-of-elite-indifference),” complete with a “modest proposal” (i.e., *a parody*) to “[l]icense no more than ten CEO murders per year.”
+***2024-12-13:*** [Nathan Newman](https://www.researchgate.net/profile/Nathan-Newman-6) on “[The Crisis of Elite Indifference to Corporate Mass Murder](https://nathannewman.substack.com/p/the-crisis-of-elite-indifference),” complete with a “modest proposal” (i.e., *a parody*) to “[l]icense no more than ten CEO murders per year.”
 
 ***2024-12-13:*** *[The Grauniad](https://www.theguardian.com/media/2021/may/12/guardian-200-typo-negative-best-worst-grauniad-mistakes)*’s piece on [synthesizing “mirror microbes” ](https://www.theguardian.com/science/2024/dec/12/unprecedented-risk-to-life-on-earth-scientists-call-for-halt-on-mirror-life-microbe-research) is moderately terrifying.
 
