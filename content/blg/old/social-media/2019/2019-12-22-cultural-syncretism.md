@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-12-22
 tags:
-  - food
+  - culture/food
   - nyc
 yaml_end: true
 ---

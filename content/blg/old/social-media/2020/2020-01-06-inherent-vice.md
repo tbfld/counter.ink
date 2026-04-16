@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2020-01-06
 tags:
-  - film
-  - cinema
-  - 1970s
+  - art/film
+  - art/cinema
+  - history/1970s
 yaml_end: true
 ---
 

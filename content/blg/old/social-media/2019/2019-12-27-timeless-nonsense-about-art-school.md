@@ -16,7 +16,7 @@ publish: true
 date: 2019-12-27
 tags:
   - education
-  - cultural-commentary
+  - culture
   - technology
 yaml_end: true
 ---

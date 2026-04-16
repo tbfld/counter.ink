@@ -16,10 +16,10 @@ publish: true
 date: 2020-07-22
 tags:
   - culture
-  - fascism
+  - politics/fascism
   - history
-  - left
-  - right
+  - politics/leftism
+  - politics/right
 yaml_end: true
 RSS: true
 ---

@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2025-02-14
 tags:
-  - 1970s
+  - history/1970s
   - history
-  - illustration
+  - art/illustration
 status: draft
 yaml_end: true
 ---

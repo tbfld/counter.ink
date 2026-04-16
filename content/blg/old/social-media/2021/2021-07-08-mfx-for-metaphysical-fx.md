@@ -15,11 +15,11 @@ aliases:
 publish: true 
 date: 2021-07-08
 tags:
-  - television
+  - media/tv-radio
   - special-effects
   - philosophy
   - history
-  - film
+  - art/film
 yaml_end: true
 ---
 

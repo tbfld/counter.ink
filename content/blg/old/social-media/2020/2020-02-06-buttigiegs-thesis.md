@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-02-06
 tags:
-  - war
+  - governance/war
   - history
 yaml_end: true
 ---

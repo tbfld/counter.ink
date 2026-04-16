@@ -15,9 +15,8 @@ aliases:
 publish: true 
 date: 2019-12-17
 tags:
-  - literature
-  - civil-society
-  - literature
+  - language/literature
+  - governance/civil-society
 yaml_end: true
 ---
 

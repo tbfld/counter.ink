@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2017-03-16
 tags:
-  - image
-  - photography
+  - art/image
+  - art/photography
   - design
-  - journalism
+  - media/journalism
 status:
 RSS: false
 yaml_end: true

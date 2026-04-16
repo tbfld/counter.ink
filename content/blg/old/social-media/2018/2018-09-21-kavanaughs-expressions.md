@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2018-09-21
 tags:
-  - law
+  - governance/law
   - media
 status:
 RSS: false

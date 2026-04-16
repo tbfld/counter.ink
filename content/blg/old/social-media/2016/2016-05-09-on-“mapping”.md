@@ -16,11 +16,11 @@ publish: true
 date: 2016-05-09
 tags:
   - language
-  - cartography
-  - trope
+  - science/cartography
+  - language/rhetoric
   - history
-  - communism
-  - usa
+  - politics/communism
+  - international/usa
 status: 
 RSS: “false”
 yaml_end: true

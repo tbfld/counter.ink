@@ -19,7 +19,7 @@ tags:
   - education
   - columbia
   - israel
-  - fascism
+  - politics/fascism
 status: 
 RSS: true
 yaml_end: true

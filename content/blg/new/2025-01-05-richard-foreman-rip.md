@@ -17,7 +17,7 @@ date: 2025-01-05
 tags:
   - art
   - history
-  - theater
+  - art/theater
 status: final
 yaml_end: true
 ---

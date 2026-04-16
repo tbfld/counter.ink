@@ -17,9 +17,9 @@ date: 2021-04-12
 tags:
   - governance
   - economics
-  - institution
-  - law
-  - finance
+  - governance/institution
+  - governance/law
+  - economics/finance
   - ideology
 status: 
 RSS: true

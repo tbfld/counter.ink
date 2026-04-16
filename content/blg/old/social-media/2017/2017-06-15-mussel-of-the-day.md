@@ -15,10 +15,9 @@ aliases:
 publish: true 
 date: 2017-06-15
 tags:
-  - nature
+  - science/nature
   - water
-  - animals
-  - photography
+  - art/photography
 yaml_end: true
 ---
 

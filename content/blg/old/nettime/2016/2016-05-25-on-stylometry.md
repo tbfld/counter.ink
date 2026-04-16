@@ -15,8 +15,8 @@ aliases:
 publish: 
 date: 2016-05-25
 tags:
-  - data
-  - email
+  - information/data
+  - media/email
   - language
 yaml_end: true
 ---

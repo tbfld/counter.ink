@@ -16,7 +16,7 @@ publish: true
 date: 2017-12-06
 tags:
   - history
-  - cybernetics
+  - technology/cybernetics
   - psychology
 yaml_end: true
 ---

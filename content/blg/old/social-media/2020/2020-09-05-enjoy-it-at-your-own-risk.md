@@ -14,7 +14,7 @@ aliases:
 
 publish: true 
 tags:
-  - law
+  - governance/law
   - language
   - signage
 yaml_end: true

@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2017-08-25
 tags:
-  - nyt
+  - media/news/nyt
 yaml_end: true
 ---
 

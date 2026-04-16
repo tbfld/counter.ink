@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-09-20
 tags:
-  - right
+  - politics/right
 status: 
 RSS: “false”
 yaml_end: true

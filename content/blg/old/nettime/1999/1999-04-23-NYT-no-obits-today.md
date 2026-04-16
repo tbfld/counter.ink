@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 1999-04-23
 tags:
-  - nyt
+  - media/news/nyt
   - media
-  - genre
+  - language/genre
 yaml_end: true
 ---
 

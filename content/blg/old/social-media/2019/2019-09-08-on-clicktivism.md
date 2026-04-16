@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-09-08
 tags:
-  - social-media
+  - media/social
 yaml_end: true
 ---
 

@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2019-10-19
 tags:
-  - real-estate
-  - social-commentary
+  - urbanism/real-estate
+  - culture
   - language
 yaml_end: true
 ---

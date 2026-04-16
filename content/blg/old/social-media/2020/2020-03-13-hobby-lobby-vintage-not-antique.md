@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-03-13
 tags:
-  - corporation
-  - corruption
-  - crime
-  - law
+  - governance/corporation
+  - governance/corruption
+  - governance/crime
+  - governance/law
   - history
 yaml_end: true
 ---

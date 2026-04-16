@@ -16,11 +16,11 @@ publish: true
 date: 2020-05-12
 tags:
   - politics
-  - elections
-  - democrats
-  - gender
-  - race
-  - gop
+  - politics/elections
+  - politics/democrats
+  - culture/gender
+  - culture/race
+  - politics/gop
 status: 
 RSS: false
 yaml_end: true

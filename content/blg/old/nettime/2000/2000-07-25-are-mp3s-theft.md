@@ -16,9 +16,9 @@ publish:
 date: 2000-07-25
 tags:
   - art
-  - music
-  - national
-  - right
+  - art/music
+  - politics/national
+  - politics/right
 yaml_end: true
 ---
 

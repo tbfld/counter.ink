@@ -16,7 +16,7 @@ publish: true
 date: 2017-12-04
 tags:
   - communication
-  - space
+  - science/space
 yaml_end: true
 ---
 

@@ -16,8 +16,8 @@ publish: true
 date: 2017-03-18
 tags:
   - nostalgia
-  - fashion
-  - race
+  - culture/fashion
+  - culture/race
 yaml_end: true
 ---
 

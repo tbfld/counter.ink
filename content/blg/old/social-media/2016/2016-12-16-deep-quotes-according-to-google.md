@@ -16,7 +16,7 @@ date: 2016-12-16
 tags:
   - google
   - language
-  - automation
+  - technology/automation
 status:
 RSS: “false”
 yaml_end: true

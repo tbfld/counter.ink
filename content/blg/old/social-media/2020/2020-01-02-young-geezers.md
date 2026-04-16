@@ -16,7 +16,7 @@ publish: true
 date: 2020-01-02
 tags:
   - history
-  - trope
+  - language/rhetoric
 yaml_end: true
 ---
 

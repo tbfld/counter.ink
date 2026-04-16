@@ -13,9 +13,9 @@ permalink:
 aliases:
 publish: true
 tags:
-  - usa
+  - international/usa
   - history
-  - sculpture
+  - art/sculpture
   - politics
 status:
 RSS: false

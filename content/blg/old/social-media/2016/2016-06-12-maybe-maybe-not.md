@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-06-12
 tags:
-  - graffiti
+  - art/graffiti
 status:
 RSS: “false”
 yaml_end: true

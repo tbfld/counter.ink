@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 2002-07-24
 tags:
-  - corporation
+  - governance/corporation
 yaml_end: true
 ---
 

@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2020-02-18
 tags:
-  - theory
-  - meme
+  - philosophy/theory
+  - media/meme
   - history
 yaml_end: true
 ---

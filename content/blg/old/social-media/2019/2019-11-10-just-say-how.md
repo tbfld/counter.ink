@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2019-11-10
 tags:
-  - meme
+  - media/meme
   - language
-  - academia
+  - education/academia
 yaml_end: true
 ---
 

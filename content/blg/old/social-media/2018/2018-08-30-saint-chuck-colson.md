@@ -16,7 +16,7 @@ date: 2018-08-30
 tags:
   - religion
   - politics
-  - academia
+  - education/academia
 status:
 RSS: false
 yaml_end: true

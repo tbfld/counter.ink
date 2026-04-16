@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2024-09-27
 tags:
-  - pop
-  - cartography
-  - south
+  - culture/pop
+  - science/cartography
+  - international/south
   - cars
 yaml_end: true
 ---

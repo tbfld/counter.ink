@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2020-04-19
 tags:
-  - covid
+  - health/covid
   - language
-  - corporation
-  - rhetoric
+  - governance/corporation
+  - language/rhetoric
 yaml_end: true
 ---
 

@@ -14,7 +14,7 @@ aliases:
 
 publish: true
 tags:
-  - left
+  - politics/leftism
 status: 
 RSS: “false”
 yaml_end: true

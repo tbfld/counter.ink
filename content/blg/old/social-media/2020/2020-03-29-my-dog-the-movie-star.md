@@ -14,9 +14,9 @@ aliases:
 
 publish: true
 tags:
-  - film
-  - cinema
-  - animals
+  - art/film
+  - art/cinema
+  - science/nature
 yaml_end: true
 ---
 

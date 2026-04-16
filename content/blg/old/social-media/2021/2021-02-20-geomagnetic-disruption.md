@@ -16,7 +16,7 @@ publish: true
 date: 2021-02-20
 tags:
   - science
-  - publishing
+  - media/publishing
   - history
 yaml_end: true
 ---

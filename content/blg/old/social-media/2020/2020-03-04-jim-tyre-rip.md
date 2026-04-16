@@ -16,7 +16,7 @@ publish: true
 date: 2020-03-04
 tags:
   - friends
-  - icann
+  - governance/internet
 yaml_end: true
 ---
 

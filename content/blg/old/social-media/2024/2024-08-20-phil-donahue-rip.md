@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2025-02-14
 tags:
-  - 1980s
+  - history/1980s
   - history
 status: draft
 yaml_end: true

@@ -15,9 +15,8 @@ aliases:
 publish: true
 date: 2020-08-06
 tags:
-  - law
-  - crime
-  - jurisprudence
+  - governance/law
+  - governance/crime
   - deterrence
   - lebanon
 status: 

@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 1996-07-29
 tags:
-  - europe
+  - international/europe
   - international
-  - pop
+  - culture/pop
 yaml_end: true
 ---
 

@@ -15,11 +15,11 @@ aliases:
 publish: true 
 date: 2024-09-16
 tags:
-  - fascism
+  - politics/fascism
   - history
-  - internet
+  - technology/internet
   - language
-  - right
+  - politics/right
   - extremism
 yaml_end: true
 ---

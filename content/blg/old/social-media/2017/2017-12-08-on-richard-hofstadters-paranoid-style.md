@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2017-12-08
 tags:
-  - academia
+  - education/academia
 yaml_end: true
 ---
 

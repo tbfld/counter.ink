@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-03-02
 tags:
-  - africa
-  - healthcare
-  - consumerism
+  - international/africa
+  - health/care
+  - economics/consumerism
   - history
 yaml_end: true
 ---

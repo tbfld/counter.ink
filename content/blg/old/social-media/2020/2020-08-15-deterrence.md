@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2020-08-15
 tags:
-  - law
-  - crime
+  - governance/law
+  - governance/crime
 yaml_end: true
 ---
 

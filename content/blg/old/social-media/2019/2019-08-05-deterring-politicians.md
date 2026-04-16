@@ -16,9 +16,9 @@ publish: true
 date: 2019-08-05
 tags:
   - politics
-  - uk
-  - brexit
-  - law
+  - international/uk
+  - politics/brexit
+  - governance/law
 yaml_end: true
 ---
 

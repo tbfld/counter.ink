@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2019-12-18
 tags:
-  - advertising
+  - design/advertising
   - design
-  - typography
+  - design/typography
 yaml_end: true
 ---
 

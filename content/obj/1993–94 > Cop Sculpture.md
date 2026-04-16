@@ -16,13 +16,12 @@ publish: true
 date: 1993-01-01
 tags:
   - art
-  - crime
-  - image
+  - governance/crime
+  - art/image
   - media
-  - news
+  - media/news
   - collaboration
-  - media-analysis
-  - media-analysis
+  - media/analysis
 status: 
 RSS: false
 yaml_end: true

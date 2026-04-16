@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-03-04
 tags:
-  - crime
+  - governance/crime
   - psychology
-  - police
+  - governance/police
   - media
 status: 
 RSS: true

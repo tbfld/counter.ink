@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2017-12-03
 tags:
-  - gender
-  - humor
+  - culture/gender
+  - culture/humor
 status:
 RSS: false
 yaml_end: true

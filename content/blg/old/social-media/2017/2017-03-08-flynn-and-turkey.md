@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2017-03-08
 tags:
-  - corruption
-  - gop
+  - governance/corruption
+  - politics/gop
   - international
 status:
 RSS: false

@@ -16,9 +16,9 @@ publish:
 date: 2025-02-06
 tags:
   - education
-  - right
-  - fascism
-  - institution
+  - politics/right
+  - politics/fascism
+  - governance/institution
   - governance
 status: draft
 yaml_end: true

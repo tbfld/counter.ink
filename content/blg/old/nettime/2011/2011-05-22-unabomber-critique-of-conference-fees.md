@@ -15,7 +15,7 @@ publish:
 date: 2011-05-22
 tags:
   - economics
-  - disciplinarity
+  - education/disciplinarity
 yaml_end: true
 ---
 

@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-03-17
 tags:
-  - crime
-  - violence
-  - race
-  - nyt
+  - governance/crime
+  - governance/violence
+  - culture/race
+  - media/news/nyt
   - language
 yaml_end: true
 ---

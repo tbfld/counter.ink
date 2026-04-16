@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2017-08-16
 tags:
-  - internet
-  - right
+  - technology/internet
+  - politics/right
   - privacy
-  - corporation
+  - governance/corporation
 yaml_end: true
 ---
 

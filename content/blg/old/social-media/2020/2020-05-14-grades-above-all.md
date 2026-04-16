@@ -16,7 +16,7 @@ publish: true
 date: 2020-05-14
 tags:
   - education
-  - covid
+  - health/covid
 yaml_end: true
 ---
 

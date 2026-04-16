@@ -16,8 +16,8 @@ publish:
 date: 2000-07-25
 tags:
   - governance
-  - institution
-  - internet
+  - governance/institution
+  - technology/internet
   - regulation
 yaml_end: true
 ---

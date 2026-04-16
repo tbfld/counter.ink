@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 1996-02-19
 tags:
-  - europe
+  - international/europe
   - history
-  - communism
+  - politics/communism
 yaml_end: true
 ---
 

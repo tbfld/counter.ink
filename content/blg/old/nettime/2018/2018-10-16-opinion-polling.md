@@ -15,16 +15,16 @@ aliases:
 publish: 
 date: 2018-10-16
 tags:
-  - corporation
-  - crime
-  - europe
+  - governance/corporation
+  - governance/crime
+  - international/europe
   - governance
   - international
-  - left
+  - politics/leftism
   - media
   - politics
-  - uk
-  - brexit
+  - international/uk
+  - politics/brexit
 yaml_end: true
 ---
 

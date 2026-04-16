@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-05-16
 tags:
-  - theory
-  - france
+  - philosophy/theory
+  - international/france
   - language
-  - image
+  - art/image
 yaml_end: true
 ---
 

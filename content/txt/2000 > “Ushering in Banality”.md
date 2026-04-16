@@ -14,7 +14,7 @@ aliases:
 
 publish: true
 tags:
-  - internet
+  - technology/internet
   - governance
   - language
   - politics

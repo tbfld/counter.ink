@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2017-11-29
 tags:
-  - environment
+  - science/environment
   - design
   - media
   - culture

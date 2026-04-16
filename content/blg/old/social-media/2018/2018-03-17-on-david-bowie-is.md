@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2018-03-17
 tags:
-  - fashion
-  - music
+  - culture/fashion
+  - art/music
   - museum
   - design
 status:

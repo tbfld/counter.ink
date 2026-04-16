@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2017-03-24
 tags:
-  - literature
+  - language/literature
   - language
   - translation
 status:

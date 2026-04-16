@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-05-10
 tags:
-  - intellectualism
-  - social-media
-  - gender
-  - parenting
+  - culture/intellectualism
+  - media/social
+  - culture/gender
+  - culture/parenting
 yaml_end: true
 ---
 

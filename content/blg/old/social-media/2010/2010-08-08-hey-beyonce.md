@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2010-08-08
 tags:
-  - graffiti
+  - art/graffiti
 status:
 RSS: “true”
 yaml_end: true

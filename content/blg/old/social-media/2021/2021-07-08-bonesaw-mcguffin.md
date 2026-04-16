@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2021-07-08
 tags:
-  - media-analysis
+  - media/analysis
   - language
   - politics
-  - genre
-  - cinema
+  - language/genre
+  - art/cinema
 status: 
 RSS: true
 yaml_end: true

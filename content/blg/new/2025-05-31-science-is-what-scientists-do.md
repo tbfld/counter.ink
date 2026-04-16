@@ -16,9 +16,9 @@ publish: true
 date: 2025-05-31
 tags:
   - science
-  - institution
-  - gop
-  - fascism
+  - governance/institution
+  - politics/gop
+  - politics/fascism
 status: final
 RSS: true
 yaml_end: true

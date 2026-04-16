@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2017-08-21
 tags:
-  - photography
+  - art/photography
   - insects
 yaml_end: true
 ---

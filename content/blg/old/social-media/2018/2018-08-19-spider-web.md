@@ -15,7 +15,7 @@ aliases:
 publish: true
 tags:
   - insects
-  - nature
+  - science/nature
 status: 
 RSS: false
 yaml_end: true

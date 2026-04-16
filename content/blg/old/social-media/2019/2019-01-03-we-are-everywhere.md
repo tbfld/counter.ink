@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2019-01-03
 tags:
-  - fashion
-  - feminism
-  - parenting
-  - 1970s
+  - culture/fashion
+  - politics/feminism
+  - culture/parenting
+  - history/1970s
 yaml_end: true
 ---
 

@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-03-10
 tags:
-  - environment
-  - law
-  - web
+  - science/environment
+  - governance/law
+  - technology/internet
   - activism
   - art
 RSS: true

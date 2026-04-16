@@ -15,9 +15,9 @@ publish: true
 date: 2016-10-27
 tags:
   - design
-  - computation
-  - humor
-  - ui
+  - technology/computation
+  - culture/humor
+  - design/interface
 status:
 RSS: “false”
 yaml_end: true

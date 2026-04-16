@@ -15,8 +15,8 @@ publish: true
 date: 2017-06-08
 tags:
   - politics
-  - gop
-  - law
+  - politics/gop
+  - governance/law
 status:
 RSS: false
 yaml_end: true

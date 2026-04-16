@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2017-06-06
 tags:
-  - infrastructure
+  - governance/infrastructure
   - anthropocene
 yaml_end: true
 ---

@@ -17,8 +17,7 @@ date: 2016-04-29
 tags:
   - history
   - design
-  - publishing
-  - magazines
+  - media/publishing
 status: 
 RSS: “false”
 yaml_end: true

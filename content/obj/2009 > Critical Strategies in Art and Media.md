@@ -16,7 +16,7 @@ date: 2026-01-25
 tags:
   - art
   - media
-  - publishing
+  - media/publishing
 status:
 RSS: false
 yaml_end: true

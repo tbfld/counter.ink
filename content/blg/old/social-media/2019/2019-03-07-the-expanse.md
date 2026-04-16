@@ -16,8 +16,9 @@ publish: true
 date: 2019-03-07
 tags:
   - media
-  - television
-  - sci-fi
+  - media/tv-radio
+  - language/genre
+  - art/film
 yaml_end: true
 ---
 

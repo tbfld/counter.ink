@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2020-02-06
 tags:
-  - journalism
+  - media/journalism
   - politics
   - religion
   - sexuality

@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2018-08-22
 tags:
-  - academia
+  - education/academia
   - education
   - debt
 status:

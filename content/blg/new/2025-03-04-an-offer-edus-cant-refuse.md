@@ -16,8 +16,8 @@ publish: true
 date: 2025-03-04
 tags:
   - education
-  - academia
-  - fascism
+  - education/academia
+  - politics/fascism
 status: 
 RSS: true
 yaml_end: true

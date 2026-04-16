@@ -16,8 +16,8 @@ publish: true
 date: 2024-09-25
 tags:
   - media
-  - social-media
-  - right
+  - media/social
+  - politics/right
   - extremism
 yaml_end: true
 ---

@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2016-09-22
 tags:
-  - visual-culture
-  - security
+  - art/visual-culture
+  - technology/security
 status:
 RSS: “false”
 yaml_end: true

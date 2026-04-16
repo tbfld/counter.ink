@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2010-05-14
 tags:
-  - europe
-  - communism
+  - international/europe
+  - politics/communism
   - germany
 status: 
 RSS: “true”

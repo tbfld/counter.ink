@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2025-05-20
 tags:
-  - publishing
-  - ai
+  - media/publishing
+  - technology/ai
   - comedy
   - tragedy
   - fiction

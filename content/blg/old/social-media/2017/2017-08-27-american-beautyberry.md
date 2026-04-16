@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2017-08-27
 tags:
-  - image
+  - art/image
   - biology
-  - south
+  - international/south
 status:
 RSS: false
 yaml_end: true

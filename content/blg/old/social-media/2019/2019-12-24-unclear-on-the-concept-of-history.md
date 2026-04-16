@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2019-12-24
 tags:
-  - data
-  - ai
-  - labor
+  - information/data
+  - technology/ai
+  - economics/labor
   - rights
 yaml_end: true
 ---

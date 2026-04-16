@@ -16,8 +16,8 @@ publish:
 date: 2013-07-03
 tags:
   - information
-  - institution
-  - internet
+  - governance/institution
+  - technology/internet
   - language
 yaml_end: true
 ---

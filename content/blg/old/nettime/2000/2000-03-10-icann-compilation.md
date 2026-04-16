@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2000-03-10
 tags:
-  - europe
-  - internet
-  - law
+  - international/europe
+  - technology/internet
+  - governance/law
 yaml_end: true
 ---
 

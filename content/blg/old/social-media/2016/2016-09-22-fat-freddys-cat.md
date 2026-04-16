@@ -16,7 +16,7 @@ publish: true
 date: 2016-09-22
 tags:
   - comic
-  - 1970s
+  - history/1970s
   - language
   - politics
 status:

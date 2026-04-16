@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 2004-10-02
 tags:
-  - journalism
+  - media/journalism
   - technology
 yaml_end: true
 ---

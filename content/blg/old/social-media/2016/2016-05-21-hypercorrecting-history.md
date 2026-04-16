@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-05-21
 tags:
-  - national
+  - politics/national
   - international
 status: 
 RSS: “false”

@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2016-05-18
 tags:
-  - africa
-  - cartography
+  - international/africa
+  - science/cartography
 status: 
 RSS: “false”
 yaml_end: true

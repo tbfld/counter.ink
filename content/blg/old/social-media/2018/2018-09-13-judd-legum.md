@@ -16,7 +16,7 @@ publish: true
 date: 2018-09-13
 tags:
   - media
-  - news
+  - media/news
 status:
 RSS: false
 yaml_end: true

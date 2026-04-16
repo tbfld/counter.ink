@@ -14,8 +14,8 @@ aliases:
 publish: true
 tags:
   - psychoanalysis
-  - theory
-  - cinema
+  - philosophy/theory
+  - art/cinema
 status:
 RSS: false
 yaml_end: true

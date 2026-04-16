@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-08-24
 tags:
-  - data
+  - information/data
   - media
 yaml_end: true
 ---

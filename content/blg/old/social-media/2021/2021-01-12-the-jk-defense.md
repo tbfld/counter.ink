@@ -15,7 +15,7 @@ aliases:
 publish: true
 tags:
   - language
-  - right
+  - politics/right
   - culture
 yaml_end: true
 ---

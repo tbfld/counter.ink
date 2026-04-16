@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2001-03-16
 tags:
-  - internet
+  - technology/internet
   - media
-  - national
+  - politics/national
 yaml_end: true
 ---
 

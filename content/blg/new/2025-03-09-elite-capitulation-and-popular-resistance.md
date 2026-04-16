@@ -16,10 +16,10 @@ publish: true
 date: 2025-03-09
 tags:
   - media
-  - fascism
-  - trope
-  - law
-  - institution
+  - politics/fascism
+  - language/rhetoric
+  - governance/law
+  - governance/institution
   - elites
 status: 
 RSS: true

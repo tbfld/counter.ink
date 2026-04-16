@@ -18,7 +18,7 @@ tags:
   - culture
   - media
   - technology
-  - theory
+  - philosophy/theory
 status: final
 yaml_end: true
 ---

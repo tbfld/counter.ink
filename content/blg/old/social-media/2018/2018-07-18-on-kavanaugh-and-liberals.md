@@ -16,9 +16,9 @@ publish: true
 date: 2018-07-18
 tags:
   - governance
-  - institution
-  - left
-  - news
+  - governance/institution
+  - politics/leftism
+  - media/news
 status:
 RSS: false
 yaml_end: true

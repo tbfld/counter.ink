@@ -17,9 +17,9 @@ date: 2019-09-16
 tags:
   - language
   - politics
-  - fascism
-  - right
-  - social-commentary
+  - politics/fascism
+  - politics/right
+  - culture
 yaml_end: true
 ---
 Is it OK to call the GOP a “fascist” party yet? Asking for a friend!

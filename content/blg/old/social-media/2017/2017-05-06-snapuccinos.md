@@ -16,7 +16,7 @@ publish: true
 date: 2017-05-06
 tags:
   - media
-  - food
+  - culture/food
   - design
 yaml_end: true
 ---

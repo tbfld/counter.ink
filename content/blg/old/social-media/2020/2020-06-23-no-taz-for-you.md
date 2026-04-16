@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2020-06-23
 tags:
-  - anarchism
+  - politics/anarchism
   - protest
-  - theory
-  - left
+  - philosophy/theory
+  - politics/leftism
 yaml_end: true
 ---
 

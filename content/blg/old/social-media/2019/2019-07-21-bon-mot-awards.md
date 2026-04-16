@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2019-07-21
 tags:
-  - journalism
+  - media/journalism
   - language
   - politics
-  - uk
+  - international/uk
 yaml_end: true
 ---
 There should be an award for bon(s) mots: “the competitive, tight-knit, look-at-me Johnson clan, which holds a place in British life somewhere in ***the large, amorphous space between the Kennedys and the Kardashians***.”

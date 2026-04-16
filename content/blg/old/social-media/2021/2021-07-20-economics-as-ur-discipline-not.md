@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-07-20
 tags:
-  - nyt
+  - media/news/nyt
   - media
   - economics
-  - disciplinarity
+  - education/disciplinarity
 status: 
 RSS: true
 yaml_end: true

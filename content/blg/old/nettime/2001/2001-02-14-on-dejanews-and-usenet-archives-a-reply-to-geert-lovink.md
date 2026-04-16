@@ -15,11 +15,11 @@ aliases:
 publish: 
 date: 2001-02-14
 tags:
-  - email
-  - europe
-  - news
-  - publishing
-  - right
+  - media/email
+  - international/europe
+  - media/news
+  - media/publishing
+  - politics/right
 yaml_end: true
 ---
 

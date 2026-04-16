@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2021-06-20
 tags:
-  - corporation
-  - europe
+  - governance/corporation
+  - international/europe
   - anonymity
 yaml_end: true
 ---

@@ -16,8 +16,8 @@ publish: true
 date: 2019-07-25
 tags:
   - education
-  - law
-  - corruption
+  - governance/law
+  - governance/corruption
   - governance
   - accountability
 yaml_end: true

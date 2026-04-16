@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2017-12-03
 tags:
-  - military
+  - governance/military
   - history
-  - aesthetics
+  - art/aesthetics
   - technology
 status:
 RSS: false

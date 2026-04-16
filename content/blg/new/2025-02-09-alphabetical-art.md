@@ -16,10 +16,10 @@ publish:
 date: 2025-02-09
 tags:
   - art
-  - journalism
+  - media/journalism
   - language
   - media
-  - nyt
+  - media/news/nyt
 status: draft
 yaml_end: true
 ---

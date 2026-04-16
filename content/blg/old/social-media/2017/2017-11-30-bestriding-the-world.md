@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2017-11-30
 tags:
-  - gop
+  - politics/gop
   - language
-  - trope
+  - language/rhetoric
 status:
 RSS: false
 yaml_end: true

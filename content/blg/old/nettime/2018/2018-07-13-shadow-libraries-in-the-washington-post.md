@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 2018-07-13
 tags:
-  - europe
+  - international/europe
   - information
   - international
-  - literature
+  - language/literature
 yaml_end: true
 ---
 

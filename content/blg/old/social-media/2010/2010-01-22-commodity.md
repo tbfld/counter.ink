@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2010-01-22
 tags:
-  - consumerism
+  - economics/consumerism
 status:
 RSS: “true”
 yaml_end: true

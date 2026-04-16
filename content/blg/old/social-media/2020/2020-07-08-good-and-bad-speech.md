@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2020-07-08
 tags:
-  - meme
+  - media/meme
   - diagram
-  - satire
+  - language/satire
 yaml_end: true
 ---
 

@@ -15,12 +15,12 @@ aliases:
 publish: 
 date: 2025-01-25
 tags:
-  - ai
-  - computation
+  - technology/ai
+  - technology/computation
   - design
   - language
   - novel
-  - publishing
+  - media/publishing
 status: draft
 yaml_end: true
 ---

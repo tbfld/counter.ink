@@ -18,8 +18,8 @@ tags:
   - culture
   - history
   - language
-  - performance
-  - institution
+  - art/performance
+  - governance/institution
 status: 
 RSS: true
 yaml_end: true

@@ -15,10 +15,9 @@ aliases:
 publish: true
 date: 2018-10-05
 tags:
-  - law
-  - jurisprudence
+  - governance/law
   - governance
-  - right
+  - politics/right
   - activism
 status: 
 RSS: false

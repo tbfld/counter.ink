@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-02-25
 tags:
-  - race
+  - culture/race
   - culture
 yaml_end: true
 ---

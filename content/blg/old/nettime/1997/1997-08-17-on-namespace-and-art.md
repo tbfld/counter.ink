@@ -16,9 +16,9 @@ publish:
 date: 1997-08-17
 tags:
   - art
-  - email
+  - media/email
   - information
-  - institution
+  - governance/institution
 yaml_end: true
 ---
 

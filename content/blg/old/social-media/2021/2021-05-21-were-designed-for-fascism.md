@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2021-05-21
 tags:
-  - nyt
+  - media/news/nyt
   - evolution
 yaml_end: true
 ---

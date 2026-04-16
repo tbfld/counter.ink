@@ -16,7 +16,7 @@ publish: true
 date: 2017-11-03
 tags:
   - education
-  - gender
+  - culture/gender
   - media
   - urbanism
 status:

@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2016-05-19
 tags:
-  - nuclear
+  - governance/nuclear
   - politics
-  - elections
+  - politics/elections
 status:
 RSS: “false”
 yaml_end: true

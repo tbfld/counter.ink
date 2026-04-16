@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2017-07-05
 tags:
-  - meme
+  - media/meme
 status:
 RSS: false
 yaml_end: true

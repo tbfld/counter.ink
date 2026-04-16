@@ -15,13 +15,13 @@ aliases:
 publish: true
 date: 2025-01-05
 tags:
-  - law
+  - governance/law
   - media
-  - publishing
+  - media/publishing
   - technology
-  - theory
-  - crime
-  - intellectual-property
+  - philosophy/theory
+  - governance/crime
+  - governance/ip
 status: final
 RSS: false
 yaml_end: true

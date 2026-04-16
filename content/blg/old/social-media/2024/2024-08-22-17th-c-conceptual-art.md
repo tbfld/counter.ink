@@ -16,7 +16,7 @@ date: 2025-02-14
 tags:
   - art
   - history
-  - image
+  - art/image
   - 17c
 status: draft
 yaml_end: true

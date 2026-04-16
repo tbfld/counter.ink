@@ -17,8 +17,8 @@ date: 2016-10-23
 tags:
   - culture
   - media
-  - masculinity
-  - 1990s
+  - culture/gender
+  - history/1990s
 status: 
 RSS: “false”
 yaml_end: true

@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2024-05-31
 tags:
-  - law
+  - governance/law
   - governance
   - nostalgia
 status: 

@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 2000-10-03
 tags:
-  - institution
-  - internet
-  - left
-  - national
+  - governance/institution
+  - technology/internet
+  - politics/leftism
+  - politics/national
 yaml_end: true
 ---
 

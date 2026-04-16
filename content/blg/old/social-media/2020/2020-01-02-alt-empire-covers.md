@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2020-01-02
 tags:
-  - photography
-  - nature
+  - art/photography
+  - science/nature
   - catastrophe
 yaml_end: true
 ---

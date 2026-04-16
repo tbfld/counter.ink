@@ -16,10 +16,10 @@ publish: true
 date: 2019-04-27
 tags:
   - media
-  - journalism
-  - pop
-  - internet
-  - publishing
+  - media/journalism
+  - culture/pop
+  - technology/internet
+  - media/publishing
 yaml_end: true
 ---
 

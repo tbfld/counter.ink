@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-08-05
 tags:
-  - states
+  - politics/states
   - education
-  - covid
-  - policy
+  - health/covid
+  - governance/policy
 yaml_end: true
 ---
 

@@ -16,7 +16,7 @@ publish: true
 date: 2019-06-09
 tags:
   - education
-  - institution
+  - governance/institution
   - privacy
 yaml_end: true
 ---

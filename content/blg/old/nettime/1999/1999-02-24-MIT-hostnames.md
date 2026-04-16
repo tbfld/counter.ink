@@ -14,8 +14,8 @@ aliases:
 publish:
 date: 1999-02-24
 tags:
-  - academia
-  - internet
+  - education/academia
+  - technology/internet
 yaml_end: true
 ---
 To: nettime-l

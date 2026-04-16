@@ -17,7 +17,7 @@ date: 2024-08-28
 tags:
   - art
   - technology
-  - ai
+  - technology/ai
 yaml_end: true
 ---
 

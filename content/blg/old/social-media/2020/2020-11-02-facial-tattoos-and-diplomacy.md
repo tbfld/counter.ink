@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-11-02
 tags:
-  - asia
+  - international/asia
 yaml_end: true
 ---
 

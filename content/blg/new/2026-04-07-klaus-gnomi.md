@@ -16,7 +16,7 @@ date: 2026-04-07
 tags:
   - language
   - neologism
-  - performance
+  - art/performance
 status:
 RSS: "true"
 yaml_end: true

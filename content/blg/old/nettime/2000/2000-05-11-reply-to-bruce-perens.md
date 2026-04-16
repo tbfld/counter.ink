@@ -16,7 +16,7 @@ publish:
 date: 2000-05-11
 tags:
   - information
-  - intellectual-property
+  - governance/ip
 yaml_end: true
 ---
 

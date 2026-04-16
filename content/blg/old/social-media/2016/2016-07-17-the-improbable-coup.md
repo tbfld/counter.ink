@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2016-07-17
 tags:
-  - turkey
+  - international/turkey
   - media
-  - journalism
+  - media/journalism
   - politics
 status:
 RSS: “false”

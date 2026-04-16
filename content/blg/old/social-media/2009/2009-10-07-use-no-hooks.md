@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2009-10-07
 tags:
-  - image
-  - visual-culture
-  - communism
+  - art/image
+  - art/visual-culture
+  - politics/communism
   - icon
 status: 
 RSS: “true”

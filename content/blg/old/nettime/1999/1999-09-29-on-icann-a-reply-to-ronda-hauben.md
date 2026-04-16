@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 1999-09-29
 tags:
-  - academia
-  - corporation
-  - institution
+  - education/academia
+  - governance/corporation
+  - governance/institution
 yaml_end: true
 ---
 

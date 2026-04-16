@@ -16,7 +16,7 @@ publish: true
 date: 2019-03-03
 tags:
   - media
-  - nyt
+  - media/news/nyt
   - language
 yaml_end: true
 ---

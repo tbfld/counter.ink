@@ -16,8 +16,8 @@ publish: true
 date: 2019-06-29
 tags:
   - politics
-  - democrats
-  - corruption
+  - politics/democrats
+  - governance/corruption
 yaml_end: true
 ---
 Now would be a good time for the Democrats to adopt a hard-and-fast ban on nepotism as a fundamental principle: no spouses, no children, no family members ever, for anything, under *any* circumstances. When in doubt, NO. Who would oppose it?

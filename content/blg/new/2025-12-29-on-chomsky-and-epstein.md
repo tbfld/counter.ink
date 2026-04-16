@@ -15,7 +15,7 @@ publish: true
 date: 2025-12-29
 tags:
   - politics
-  - intellectualism
+  - culture/intellectualism
 status:
 RSS: true
 yaml_end: true

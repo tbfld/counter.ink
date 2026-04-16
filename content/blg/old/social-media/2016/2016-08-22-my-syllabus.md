@@ -16,7 +16,7 @@ publish: true
 date: 2016-08-22
 tags:
   - design
-  - genre
+  - language/genre
 status: 
 RSS: “false”
 yaml_end: true

@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-05-04
 tags:
-  - covid
-  - libertarianism
-  - policy
-  - right
+  - health/covid
+  - politics/libertarianism
+  - governance/policy
+  - politics/right
 yaml_end: true
 ---
 

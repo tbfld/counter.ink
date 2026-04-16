@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-08-25
 tags:
-  - labor
+  - economics/labor
 status: 
 RSS: “false”
 yaml_end: true

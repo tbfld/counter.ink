@@ -10,7 +10,7 @@ updated: 2026-03-20 00:00
 author: tb
 images: true
 tags:
-  - image
+  - art/image
   - media
 order:
 aliases:

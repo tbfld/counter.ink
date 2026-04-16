@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2025-03-10
 tags:
-  - software
+  - technology/software
 status: 
 RSS: true
 yaml_end: true

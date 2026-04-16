@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 2025-01-07
 tags:
-  - corruption
-  - crime
+  - governance/corruption
+  - governance/crime
   - politics
-  - right
+  - politics/right
   - technology
 status: final
 yaml_end: true

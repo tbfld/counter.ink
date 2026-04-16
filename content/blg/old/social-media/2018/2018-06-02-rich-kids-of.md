@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2018-06-02
 tags:
-  - left
+  - politics/leftism
 status:
 RSS: false
 yaml_end: true

@@ -16,9 +16,9 @@ publish:
 date: 1996-03-22
 tags:
   - international
-  - internet
+  - technology/internet
   - politics
-  - theory
+  - philosophy/theory
 yaml_end: true
 ---
 

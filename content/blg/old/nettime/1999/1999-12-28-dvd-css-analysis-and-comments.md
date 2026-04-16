@@ -16,8 +16,8 @@ publish:
 date: 1999-12-28
 tags:
   - art
-  - data
-  - email
+  - information/data
+  - media/email
   - information
 yaml_end: true
 ---

@@ -15,10 +15,10 @@ aliases:
 publish:
 date: 2017-12-31
 tags:
-  - device
+  - technology/hardware
   - economics
   - history
-  - libertarianism
+  - politics/libertarianism
   - technology
 yaml_end: true
 ---

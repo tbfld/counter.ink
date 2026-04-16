@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2020-06-17
 tags:
-  - image
-  - photography
+  - art/image
+  - art/photography
   - print
-  - intellectual-property
-  - satire
+  - governance/ip
+  - language/satire
 yaml_end: true
 ---
 

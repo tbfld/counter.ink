@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2018-09-26
 tags:
-  - law
+  - governance/law
 status: 
 RSS: false
 yaml_end: true

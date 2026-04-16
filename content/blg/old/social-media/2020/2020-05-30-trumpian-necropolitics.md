@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2020-05-30
 tags:
-  - violence
+  - governance/violence
   - governance
-  - fascism
+  - politics/fascism
 status: 
 RSS: false
 yaml_end: true

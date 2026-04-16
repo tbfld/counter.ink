@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2020-11-09
 tags:
-  - military
-  - nuclear
-  - right
+  - governance/military
+  - governance/nuclear
+  - politics/right
 yaml_end: true
 ---
 

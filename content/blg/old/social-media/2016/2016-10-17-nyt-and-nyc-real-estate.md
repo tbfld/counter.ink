@@ -15,8 +15,8 @@ publish: true
 date: 2016-10-17
 tags:
   - nyc
-  - nyt
-  - real-estate
+  - media/news/nyt
+  - urbanism/real-estate
 status:
 RSS: “false”
 yaml_end: true

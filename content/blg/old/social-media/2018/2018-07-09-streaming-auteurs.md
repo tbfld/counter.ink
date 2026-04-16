@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2018-07-09
 tags:
-  - image
-  - cinema
-  - computation
-  - ui
+  - art/image
+  - art/cinema
+  - technology/computation
+  - design/interface
 status:
 RSS: false
 yaml_end: true

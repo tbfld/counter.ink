@@ -17,8 +17,8 @@ date: 2021-05-12
 tags:
   - language
   - politics
-  - nyt
-  - covid
+  - media/news/nyt
+  - health/covid
   - denialism
 yaml_end: true
 ---

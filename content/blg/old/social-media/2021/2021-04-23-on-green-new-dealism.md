@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-04-23
 tags:
-  - nyt
-  - environment
-  - policy
-  - internet
+  - media/news/nyt
+  - science/environment
+  - governance/policy
+  - technology/internet
   - environmentalism
 status: 
 RSS: true

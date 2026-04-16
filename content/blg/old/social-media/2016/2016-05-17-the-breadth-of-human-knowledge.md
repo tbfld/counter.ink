@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2016-05-17
 tags:
-  - corporation
-  - rhetoric
+  - governance/corporation
+  - language/rhetoric
   - philosophy
-  - computation
+  - technology/computation
 status:
 RSS: “false”
 yaml_end: true

@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 2014-10-16
 tags:
-  - academia
+  - education/academia
   - language
   - media
 yaml_end: true

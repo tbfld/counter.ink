@@ -16,9 +16,9 @@ publish: true
 date: 2024-09-11
 tags:
   - politics
-  - elections
+  - politics/elections
   - history
-  - centrism
+  - politics/centrism
 yaml_end: true
 ---
 

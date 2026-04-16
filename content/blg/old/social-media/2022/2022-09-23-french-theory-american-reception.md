@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2022-09-23
 tags:
-  - usa
+  - international/usa
 yaml_end: true
 ---
 

@@ -16,7 +16,7 @@ publish: true
 date: 2020-05-02
 tags:
   - housing
-  - society
+  - culture/society
   - family
   - generations
 yaml_end: true

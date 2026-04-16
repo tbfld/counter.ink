@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2012-03-19
 tags:
-  - aviation
+  - technology/aviation
   - sky
 status:
 RSS: “false”

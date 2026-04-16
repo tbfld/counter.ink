@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 1999-04-13
 tags:
-  - architecture
+  - art/architecture
   - culture
   - design
-  - image
+  - art/image
 yaml_end: true
 ---
 

@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2020-06-15
 tags:
-  - police
-  - food
+  - governance/police
+  - culture/food
 yaml_end: true
 ---
 

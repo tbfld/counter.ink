@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2016-10-20
 tags:
-  - data
-  - email
+  - information/data
+  - media/email
   - information
-  - internet
+  - technology/internet
   - media
 status: 
 RSS: “false”

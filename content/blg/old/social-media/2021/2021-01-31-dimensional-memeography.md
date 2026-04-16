@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-01-31
 tags:
-  - television
-  - cartoons
+  - media/tv-radio
+  - art/cartoons
   - media
-  - media-analysis
+  - media/analysis
 yaml_end: true
 ---
 

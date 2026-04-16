@@ -16,11 +16,10 @@ publish: false
 date: 2025-01-30
 tags:
   - communication
-  - corporation
-  - internet
+  - governance/corporation
+  - technology/internet
   - politics
-  - protocol
-  - right
+  - politics/right
 status: final
 yaml_end: true
 ---

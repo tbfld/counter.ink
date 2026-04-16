@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-04-01
 tags:
-  - covid
+  - health/covid
 yaml_end: true
 ---
 

@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-06-26
 tags:
-  - food
+  - culture/food
 yaml_end: true
 ---
 

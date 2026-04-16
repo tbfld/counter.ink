@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-04-11
 tags:
-  - covid
-  - healthcare
-  - image
-  - photography
+  - health/covid
+  - health/care
+  - art/image
+  - art/photography
   - anonymity
 yaml_end: true
 ---

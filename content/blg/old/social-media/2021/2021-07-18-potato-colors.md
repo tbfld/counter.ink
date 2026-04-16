@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2021-07-18
 tags:
-  - theory
+  - philosophy/theory
   - philosophy
   - visuality
 yaml_end: true

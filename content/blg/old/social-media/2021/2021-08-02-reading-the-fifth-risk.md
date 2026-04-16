@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-08-02
 tags:
-  - books
+  - media/publishing
   - governance
-  - right
-  - institution
+  - politics/right
+  - governance/institution
 status: 
 RSS: true
 yaml_end: true

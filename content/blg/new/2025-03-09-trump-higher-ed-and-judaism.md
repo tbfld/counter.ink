@@ -17,9 +17,9 @@ date: 2025-03-09
 tags:
   - education
   - religion
-  - fascism
+  - politics/fascism
   - economics
-  - finance
+  - economics/finance
   - protest
   - activism
 status: 

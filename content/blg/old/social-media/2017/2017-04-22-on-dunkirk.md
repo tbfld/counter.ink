@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2017-04-22
 tags:
-  - cinema
-  - aesthetics
+  - art/cinema
+  - art/aesthetics
 status:
 RSS: false
 yaml_end: true

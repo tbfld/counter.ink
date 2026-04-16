@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-04-10
 tags:
-  - environment
+  - science/environment
   - history
 status: 
 RSS: “false”

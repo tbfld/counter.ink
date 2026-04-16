@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 2024-11-27
 tags:
-  - fascism
+  - politics/fascism
   - history
   - language
 status: draft

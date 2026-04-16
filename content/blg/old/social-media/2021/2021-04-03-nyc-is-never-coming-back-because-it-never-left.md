@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-04-03
 tags:
-  - nyt
+  - media/news/nyt
   - urbanism
-  - real-estate
+  - urbanism/real-estate
   - nyc
 yaml_end: true
 ---

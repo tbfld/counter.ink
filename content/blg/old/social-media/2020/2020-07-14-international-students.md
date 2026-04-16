@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-07-14
 tags:
-  - academia
+  - education/academia
   - international
 yaml_end: true
 ---

@@ -16,11 +16,11 @@ publish:
 date: 2003-10-06
 tags:
   - education
-  - europe
+  - international/europe
   - language
   - media
   - philosophy
-  - intellectualism
+  - culture/intellectualism
 yaml_end: true
 ---
 

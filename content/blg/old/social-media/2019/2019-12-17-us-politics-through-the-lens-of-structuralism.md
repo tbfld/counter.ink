@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2019-12-17
 tags:
-  - europe
-  - theory
-  - france
-  - anthropology
+  - international/europe
+  - philosophy/theory
+  - international/france
+  - culture/anthropology
 yaml_end: true
 ---
 

@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-02-17
 tags:
-  - covid
+  - health/covid
   - language
   - culture
-  - idiom
+  - language/rhetoric
   - international
 yaml_end: true
 ---

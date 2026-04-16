@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-09-19
 tags:
-  - email
+  - media/email
 status: 
 RSS: “false”
 yaml_end: true

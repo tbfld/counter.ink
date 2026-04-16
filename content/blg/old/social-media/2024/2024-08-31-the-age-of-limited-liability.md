@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2024-08-31
 tags:
-  - finance
+  - economics/finance
   - economics
-  - corporation
-  - law
+  - governance/corporation
+  - governance/law
 yaml_end: true
 ---
 

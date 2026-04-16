@@ -16,7 +16,7 @@ publish: true
 date: 2016-12-05
 tags:
   - urbanism
-  - visualization
+  - information/visualization
 status: 
 RSS: “false”
 yaml_end: true

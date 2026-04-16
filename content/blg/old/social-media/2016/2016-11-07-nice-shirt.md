@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-11-07
 tags:
-  - fashion
+  - culture/fashion
 status:
 RSS: “false”
 yaml_end: true

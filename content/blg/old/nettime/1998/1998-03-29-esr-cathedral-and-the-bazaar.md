@@ -13,10 +13,10 @@ permalink:
 aliases:
 publish:
 tags:
-  - internet
+  - technology/internet
   - ideology
-  - theory
-  - libertarianism
+  - philosophy/theory
+  - politics/libertarianism
 date: 1998-03-29
 yaml_end: true
 ---

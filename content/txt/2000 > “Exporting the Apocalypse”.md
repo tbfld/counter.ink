@@ -17,7 +17,7 @@ tags:
   - culture
   - governance
   - information
-  - law
+  - governance/law
   - media
   - technology
 RSS: false

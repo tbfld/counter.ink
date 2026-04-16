@@ -15,12 +15,12 @@ aliases:
 publish: 
 date: 2015-09-25
 tags:
-  - corporation
-  - crime
+  - governance/corporation
+  - governance/crime
   - design
-  - finance
+  - economics/finance
   - international
-  - law
+  - governance/law
   - governance
 yaml_end: true
 ---

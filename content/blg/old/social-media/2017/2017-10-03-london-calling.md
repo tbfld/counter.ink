@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2017-10-03
 tags:
-  - advertising
-  - music
+  - design/advertising
+  - art/music
   - language
   - punk
 status:

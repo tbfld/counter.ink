@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2010-03-24
 tags:
-  - computation
-  - ui
+  - technology/computation
+  - design/interface
 status:
 RSS: “true”
 yaml_end: true

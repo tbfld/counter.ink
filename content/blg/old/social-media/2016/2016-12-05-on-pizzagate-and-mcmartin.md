@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2016-12-05
 tags:
-  - 1980s
-  - conspiracy
+  - history/1980s
+  - politics/conspiracy
 status: 
 RSS: “false”
 yaml_end: true

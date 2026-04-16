@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2017-01-08
 tags:
-  - left
-  - liberalism
+  - politics/leftism
+  - politics/liberalism
 status:
 RSS: false
 yaml_end: true

@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2020-02-09
 tags:
-  - interface
+  - design/interface
   - design
-  - cinema
-  - film
-  - typography
+  - art/cinema
+  - art/film
+  - design/typography
 yaml_end: true
 ---
 Criterion’s UI is giving me flashbacks to when I used to bike around the city at night to change art-house marquees 😳

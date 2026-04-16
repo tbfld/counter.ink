@@ -16,9 +16,9 @@ publish: true
 date: 2017-03-22
 tags:
   - language
-  - publishing
-  - academia
-  - genre
+  - media/publishing
+  - education/academia
+  - language/genre
 yaml_end: true
 ---
 

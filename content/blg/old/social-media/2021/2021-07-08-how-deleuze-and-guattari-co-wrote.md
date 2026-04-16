@@ -18,7 +18,7 @@ tags:
   - philosophy
   - writing
   - collaboration
-  - france
+  - international/france
 status: 
 RSS: true
 yaml_end: true

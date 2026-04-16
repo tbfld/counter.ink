@@ -18,7 +18,7 @@ tags:
   - language
   - media
   - politics
-  - rhetoric
+  - language/rhetoric
   - technology
 status: final
 yaml_end: true

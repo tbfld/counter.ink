@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2021-01-23
 tags:
-  - satire
-  - meme
+  - language/satire
+  - media/meme
 yaml_end: true
 ---
 

@@ -14,8 +14,8 @@ aliases:
 publish:
 date: 1997-02-12
 tags:
-  - internet
-  - icann
+  - technology/internet
+  - governance/internet
 yaml_end: true
 ---
 To: nettime-l

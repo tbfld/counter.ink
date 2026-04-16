@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2019-07-19
 tags:
-  - photography
-  - image
+  - art/photography
+  - art/image
   - interpretation
 yaml_end: true
 ---

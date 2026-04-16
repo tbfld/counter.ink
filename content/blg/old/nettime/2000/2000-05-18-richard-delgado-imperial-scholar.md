@@ -15,8 +15,8 @@ aliases:
 publish: 
 date: 2000-05-18
 tags:
-  - law
-  - right
+  - governance/law
+  - politics/right
 yaml_end: true
 ---
 

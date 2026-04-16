@@ -14,9 +14,9 @@ aliases:
 
 publish: true
 tags:
-  - email
+  - media/email
   - archives
-  - theory
+  - philosophy/theory
   - history
 RSS: false
 yaml_end: true

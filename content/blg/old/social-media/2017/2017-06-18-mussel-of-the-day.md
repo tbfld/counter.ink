@@ -16,7 +16,7 @@ publish: true
 date: 2017-06-18
 tags:
   - water
-  - animals
+  - science/nature
 yaml_end: true
 ---
 

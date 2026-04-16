@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-11-01
 tags:
-  - gop
+  - politics/gop
   - culture
 status:
 RSS: “false”

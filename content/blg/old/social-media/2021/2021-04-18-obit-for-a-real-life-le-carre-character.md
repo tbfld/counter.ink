@@ -18,7 +18,7 @@ tags:
   - russia
   - ussr
   - espionage
-  - literature
+  - language/literature
 status: 
 RSS: true
 yaml_end: true

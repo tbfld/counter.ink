@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2019-03-18
 tags:
-  - aviation
+  - technology/aviation
   - design
-  - email
+  - media/email
   - history
   - information
   - science

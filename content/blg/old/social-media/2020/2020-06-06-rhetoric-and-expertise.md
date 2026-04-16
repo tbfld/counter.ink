@@ -16,8 +16,8 @@ publish: true
 date: 2020-06-06
 tags:
   - language
-  - left
-  - right
+  - politics/leftism
+  - politics/right
 yaml_end: true
 ---
 

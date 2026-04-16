@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2013-03-12
 tags:
-  - graffiti
+  - art/graffiti
   - design
   - nyc
 status:

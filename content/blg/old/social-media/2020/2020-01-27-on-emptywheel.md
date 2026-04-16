@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2020-01-27
 tags:
-  - gop
+  - politics/gop
   - governance
   - leaks
 yaml_end: true

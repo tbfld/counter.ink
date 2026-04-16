@@ -15,8 +15,8 @@ aliases:
 publish: 
 date: 2024-12-30
 tags:
-  - publishing
-  - academia
+  - media/publishing
+  - education/academia
 status: final
 yaml_end: true
 ---

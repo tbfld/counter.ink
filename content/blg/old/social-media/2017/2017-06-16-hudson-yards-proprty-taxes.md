@@ -16,7 +16,7 @@ date: 2017-06-16
 tags:
   - nyc
   - olympics
-  - real-estate
+  - urbanism/real-estate
 status:
 RSS: false
 yaml_end: true

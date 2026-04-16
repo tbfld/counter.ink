@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2025-03-13
 tags:
-  - fascism
-  - academia
+  - politics/fascism
+  - education/academia
   - education
   - science
   - governance

@@ -17,8 +17,8 @@ date: 2017-07-07
 tags:
   - repatriation
   - heritage
-  - corporation
-  - corruption
+  - governance/corporation
+  - governance/corruption
 status:
 RSS: false
 yaml_end: true

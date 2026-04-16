@@ -18,7 +18,7 @@ tags:
   - design
   - history
   - science
-  - statistics
+  - science/statistics
   - technology
 status: final
 yaml_end: true

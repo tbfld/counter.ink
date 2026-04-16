@@ -16,7 +16,7 @@ publish: true
 date: 2019-11-19
 tags:
   - economics
-  - finance
+  - economics/finance
 yaml_end: true
 ---
 

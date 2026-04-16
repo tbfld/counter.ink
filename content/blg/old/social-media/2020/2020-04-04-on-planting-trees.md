@@ -16,7 +16,7 @@ publish: true
 date: 2020-04-04
 tags:
   - gardening
-  - south
+  - international/south
 yaml_end: true
 ---
 

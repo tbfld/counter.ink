@@ -16,7 +16,7 @@ publish: true
 date: 2024-11-24
 tags:
   - language
-  - space
+  - science/space
   - trends
 status: 
 yaml_end: true

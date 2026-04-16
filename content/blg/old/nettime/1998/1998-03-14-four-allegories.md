@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 1998-03-14
 tags:
-  - device
+  - technology/hardware
   - technology
 yaml_end: true
 ---

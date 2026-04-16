@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-11-05
 tags:
-  - news
+  - media/news
 status: 
 RSS: “false”
 yaml_end: true

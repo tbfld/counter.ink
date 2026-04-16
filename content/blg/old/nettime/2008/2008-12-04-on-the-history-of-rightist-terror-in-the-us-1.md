@@ -17,7 +17,7 @@ date: 2008-12-04
 tags:
   - history
   - media
-  - right
+  - politics/right
   - urbanism
 yaml_end: true
 ---

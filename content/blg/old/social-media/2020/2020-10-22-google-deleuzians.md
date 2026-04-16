@@ -16,7 +16,7 @@ publish: true
 date: 2020-10-22
 tags:
   - google
-  - theory
+  - philosophy/theory
 yaml_end: true
 ---
 

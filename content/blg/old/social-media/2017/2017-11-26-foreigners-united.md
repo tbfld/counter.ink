@@ -17,8 +17,8 @@ date: 2017-11-26
 tags:
   - international
   - russia
-  - elections
-  - law
+  - politics/elections
+  - governance/law
 yaml_end: true
 ---
 

@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2026-02-09
 tags:
-  - cinema
-  - fascism
+  - art/cinema
+  - politics/fascism
   - history
-  - liberalism
+  - politics/liberalism
 status:
 RSS: "true"
 yaml_end: true

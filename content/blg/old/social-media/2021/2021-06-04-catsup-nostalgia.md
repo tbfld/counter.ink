@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-06-04
 tags:
-  - film
-  - visual-culture
+  - art/film
+  - art/visual-culture
   - design
-  - uk
+  - international/uk
 status: 
 RSS: true
 yaml_end: true

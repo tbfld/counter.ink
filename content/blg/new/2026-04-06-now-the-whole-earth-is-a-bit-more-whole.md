@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2026-04-06
 tags:
-  - gender
-  - space
+  - culture/gender
+  - science/space
   - history
 status:
 RSS: "true"

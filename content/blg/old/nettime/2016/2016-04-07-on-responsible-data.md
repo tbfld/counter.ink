@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 2016-04-07
 tags:
-  - data
+  - information/data
   - governance
-  - law
-  - left
+  - governance/law
+  - politics/leftism
   - media
 yaml_end: true
 ---

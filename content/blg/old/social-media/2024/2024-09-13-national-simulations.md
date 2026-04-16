@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2024-09-13
 tags:
-  - national
+  - politics/national
 yaml_end: true
 ---
 

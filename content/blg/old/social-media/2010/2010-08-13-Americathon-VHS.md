@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2010-08-13
 tags:
-  - film
-  - pop
+  - art/film
+  - culture/pop
   - media
   - technology
 status: 

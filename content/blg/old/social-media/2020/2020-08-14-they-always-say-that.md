@@ -15,13 +15,12 @@ aliases:
 publish: true
 date: 2020-08-14
 tags:
-  - right
+  - politics/right
   - politics
   - history
   - language
-  - law
-  - jurisprudence
-  - elections
+  - governance/law
+  - politics/elections
 yaml_end: true
 ---
 Lots of you tune this stuff out, but give me a few minutes of your time, because this doesn’t end like you expect.

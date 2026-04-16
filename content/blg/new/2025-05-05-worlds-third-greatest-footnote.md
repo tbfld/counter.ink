@@ -15,9 +15,8 @@ aliases:
 publish: false
 date: 2025-05-05
 tags:
-  - academia
-  - publishing
-  - books
+  - education/academia
+  - media/publishing
 status: final
 RSS: true
 yaml_end: true

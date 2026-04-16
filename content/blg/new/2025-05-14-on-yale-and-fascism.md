@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2025-05-14
 tags:
-  - fascism
-  - academia
-  - institution
+  - politics/fascism
+  - education/academia
+  - governance/institution
   - education
 status: 
 RSS: true

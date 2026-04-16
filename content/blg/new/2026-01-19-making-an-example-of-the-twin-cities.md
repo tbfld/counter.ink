@@ -15,7 +15,7 @@ publish: true
 date: 2026-01-19
 tags:
   - politics
-  - fascism
+  - politics/fascism
 status:
 RSS: true
 yaml_end: true

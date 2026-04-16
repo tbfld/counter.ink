@@ -15,8 +15,8 @@ publish: true
 date: 2026-01-27
 tags:
   - history
-  - theory
-  - left
+  - philosophy/theory
+  - politics/leftism
 status:
 RSS: "true"
 yaml_end: true

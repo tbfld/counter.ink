@@ -17,11 +17,10 @@ publish: true
 date: 2011-11-02
 tags:
   - art
-  - data
-  - image
-  - law
-  - publishing
-  - books
+  - information/data
+  - art/image
+  - governance/law
+  - media/publishing
 status: 
 RSS: false
 yaml_end: true

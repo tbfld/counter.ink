@@ -18,9 +18,9 @@ tags:
   - art
   - design
   - economics
-  - image
-  - meme
-  - news
+  - art/image
+  - media/meme
+  - media/news
   - nfts
 yaml_end: true
 ---

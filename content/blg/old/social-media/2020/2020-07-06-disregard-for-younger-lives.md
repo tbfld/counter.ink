@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-07-06
 tags:
-  - crime
-  - law
-  - corruption
-  - academia
+  - governance/crime
+  - governance/law
+  - governance/corruption
+  - education/academia
 yaml_end: true
 ---
 

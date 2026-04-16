@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2016-09-13
 tags:
-  - email
-  - law
-  - corruption
+  - media/email
+  - governance/law
+  - governance/corruption
 status: 
 RSS: “false”
 yaml_end: true

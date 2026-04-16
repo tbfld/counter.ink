@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2016-08-27
 tags:
-  - military
-  - ethics
+  - governance/military
+  - philosophy/ethics
   - history
 status:
 RSS: “false”

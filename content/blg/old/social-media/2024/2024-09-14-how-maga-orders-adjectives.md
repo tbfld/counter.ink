@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2024-09-14
 tags:
-  - right
+  - politics/right
   - politics
   - language
 yaml_end: true

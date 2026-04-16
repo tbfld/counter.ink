@@ -17,7 +17,7 @@ date: 1997-06-05
 tags:
   - culture
   - economics
-  - email
+  - media/email
 yaml_end: true
 ---
 

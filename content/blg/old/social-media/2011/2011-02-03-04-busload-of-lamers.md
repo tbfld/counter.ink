@@ -13,8 +13,8 @@ permalink:
 aliases:
 publish: true
 tags:
-  - photography
-  - humor
+  - art/photography
+  - culture/humor
 yaml_end: true
 ---
 ![[busload-of-lamers.jpg]]

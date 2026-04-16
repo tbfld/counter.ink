@@ -14,11 +14,11 @@ aliases:
 publish: true
 date: 2017-01-04
 tags:
-  - journalism
+  - media/journalism
   - history
   - russia
   - economics
-  - corruption
+  - governance/corruption
 status:
 RSS: false
 yaml_end: true

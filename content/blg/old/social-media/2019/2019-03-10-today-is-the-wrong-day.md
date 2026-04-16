@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2019-03-10
 tags:
-  - meme
+  - media/meme
 yaml_end: true
 ---
 

@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2025-09-21
 tags:
-  - ethics
+  - philosophy/ethics
   - politics
 status: final
 RSS: true

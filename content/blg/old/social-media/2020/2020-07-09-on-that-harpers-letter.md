@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-07-09
 tags:
-  - intellectualism
+  - culture/intellectualism
   - education
-  - institution
-  - liberalism
+  - governance/institution
+  - politics/liberalism
 status: 
 RSS: false
 yaml_end: true

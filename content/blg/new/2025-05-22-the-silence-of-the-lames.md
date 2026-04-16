@@ -16,7 +16,7 @@ publish: true
 date: 2025-05-22
 tags:
   - diplomacy
-  - violence
+  - governance/violence
   - israel
 status: final
 RSS: true

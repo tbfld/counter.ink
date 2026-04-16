@@ -15,8 +15,8 @@ publish: true
 date: 2018-09-06
 tags:
   - history
-  - advertising
-  - corporation
+  - design/advertising
+  - governance/corporation
 status:
 RSS: false
 yaml_end: true

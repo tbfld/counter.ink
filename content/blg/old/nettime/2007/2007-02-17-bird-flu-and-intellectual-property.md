@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2007-02-17
 tags:
-  - data
+  - information/data
   - international
-  - security
+  - technology/security
 yaml_end: true
 ---
 

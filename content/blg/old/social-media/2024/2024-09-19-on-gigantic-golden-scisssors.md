@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2024-09-19
 tags:
-  - trope
+  - language/rhetoric
 yaml_end: true
 ---
 

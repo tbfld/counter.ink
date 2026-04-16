@@ -18,8 +18,8 @@ tags:
   - iran
   - ideology
   - politics
-  - war
-  - theory
+  - governance/war
+  - philosophy/theory
 status:
 RSS: "true"
 yaml_end: true

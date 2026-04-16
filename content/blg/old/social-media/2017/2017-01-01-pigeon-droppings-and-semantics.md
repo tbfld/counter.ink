@@ -15,7 +15,7 @@ publish: true
 date: 2017-01-01
 tags:
   - language
-  - academia
+  - education/academia
   - science
 status:
 RSS: false

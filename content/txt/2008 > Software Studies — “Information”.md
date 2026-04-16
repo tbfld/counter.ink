@@ -15,8 +15,8 @@ aliases:
 publish: true
 tags:
   - information
-  - data
-  - theory
+  - information/data
+  - philosophy/theory
   - language
   - history
 RSS: false

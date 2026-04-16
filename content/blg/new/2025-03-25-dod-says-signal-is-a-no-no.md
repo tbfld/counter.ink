@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2025-03-25
 tags:
-  - security
-  - military
-  - law
+  - technology/security
+  - governance/military
+  - governance/law
   - communication
 status: 
 RSS: true

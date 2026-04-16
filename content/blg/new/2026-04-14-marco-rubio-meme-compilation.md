@@ -15,7 +15,7 @@ publish: true
 date: 2026-04-14
 tags:
   - politics
-  - internet
+  - technology/internet
 status:
 RSS: "true"
 yaml_end: true
@@ -94,3 +94,6 @@ yaml_end: true
 ![[rubio-fur.jpg|wmed relative|center]]
 
 ![[rubio-michelin.jpg|wmed relative|center]]
+
+
+![[rubio-smurf.jpeg|wmed relative|center]]

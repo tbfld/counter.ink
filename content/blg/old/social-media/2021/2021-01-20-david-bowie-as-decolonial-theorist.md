@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-01-20
 tags:
-  - africa
+  - international/africa
   - art
-  - dance
+  - art/dance
 yaml_end: true
 ---
 

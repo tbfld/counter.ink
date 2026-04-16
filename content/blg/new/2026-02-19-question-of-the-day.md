@@ -14,10 +14,9 @@ aliases:
 publish: true
 date: 2026-02-19
 tags:
-  - law
-  - jurisprudence
+  - governance/law
   - governance
-  - fascism
+  - politics/fascism
 status:
 RSS: "true"
 yaml_end: true

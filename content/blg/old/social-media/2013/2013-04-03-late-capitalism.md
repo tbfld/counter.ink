@@ -15,7 +15,7 @@ publish: true
 date: 2013-04-03
 tags:
   - design
-  - capitalism
+  - economics/capitalism
 status:
 RSS: “false”
 yaml_end: true

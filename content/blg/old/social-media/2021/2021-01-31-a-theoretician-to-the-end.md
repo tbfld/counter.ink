@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2021-01-31
 tags:
-  - nyt
-  - theory
+  - media/news/nyt
+  - philosophy/theory
   - j6
   - language
 status: 

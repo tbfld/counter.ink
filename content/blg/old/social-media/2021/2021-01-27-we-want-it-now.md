@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2021-01-27
 tags:
-  - fascism
+  - politics/fascism
 yaml_end: true
 ---
 

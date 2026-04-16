@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2016-05-02
 tags:
-  - nyt
-  - journalism
+  - media/news/nyt
+  - media/journalism
   - audiences
 status:
 RSS: “false”

@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2017-12-20
 tags:
-  - institution
-  - left
+  - governance/institution
+  - politics/leftism
   - politics
 yaml_end: true
 ---

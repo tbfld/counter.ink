@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2025-04-08
 tags:
-  - gender
+  - culture/gender
   - media
-  - theory
+  - philosophy/theory
 status: 
 RSS: true
 yaml_end: true

@@ -17,8 +17,8 @@ date: 2024-12-04
 tags:
   - international
   - language
-  - law
-  - military
+  - governance/law
+  - governance/military
 status: draft
 yaml_end: true
 ---

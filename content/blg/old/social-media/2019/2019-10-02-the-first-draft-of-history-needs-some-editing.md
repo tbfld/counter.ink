@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2019-10-02
 tags:
-  - nyt
-  - journalism
+  - media/news/nyt
+  - media/journalism
   - governance
   - crisis
 yaml_end: true

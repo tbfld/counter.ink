@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2016-04-20
 tags:
-  - photography
+  - art/photography
 status:
 RSS: “false”
 yaml_end: true

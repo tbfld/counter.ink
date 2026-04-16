@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2011-11-23
 tags:
-  - academia
+  - education/academia
   - education
-  - finance
+  - economics/finance
 yaml_end: true
 ---
 

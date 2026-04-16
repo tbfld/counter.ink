@@ -15,8 +15,8 @@ aliases:
 publish: 
 date: 2025-01-18
 tags:
-  - cinema
-  - film
+  - art/cinema
+  - art/film
   - media
   - philosophy
 status: final

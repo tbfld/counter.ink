@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2025-10-11
 tags:
-  - healthcare
-  - policy
+  - health/care
+  - governance/policy
 status:
 RSS: true
 yaml_end: true

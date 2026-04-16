@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2017-08-08
 tags:
-  - corporation
+  - governance/corporation
   - google
   - language
-  - gender
+  - culture/gender
 status:
 RSS: false
 yaml_end: true

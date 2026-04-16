@@ -17,7 +17,7 @@ date: 2019-07-07
 tags:
   - politics
   - misogyny
-  - democrats
+  - politics/democrats
 yaml_end: true
 ---
 

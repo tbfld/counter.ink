@@ -15,8 +15,7 @@ publish: true
 date: 2016-04-26
 tags:
   - design
-  - publishing
-  - books
+  - media/publishing
 status:
 RSS: “false”
 yaml_end: true

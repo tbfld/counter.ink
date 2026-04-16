@@ -14,7 +14,7 @@ aliases:
 
 publish: true 
 tags:
-  - ai
+  - technology/ai
 status:
 RSS: false
 yaml_end: true

@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2020-07-03
 tags:
-  - data
-  - healthcare
+  - information/data
+  - health/care
 yaml_end: true
 ---
 

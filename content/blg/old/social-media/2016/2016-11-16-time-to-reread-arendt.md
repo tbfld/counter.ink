@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-11-16
 tags:
-  - europe
+  - international/europe
 status: 
 RSS: “false”
 yaml_end: true

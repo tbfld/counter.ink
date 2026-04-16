@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2024-11-27
 tags:
-  - 19c
+  - history/19c
   - art
-  - image
+  - art/image
 status: draft
 yaml_end: true
 ---

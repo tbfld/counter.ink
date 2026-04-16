@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-07-17
 tags:
-  - europe
+  - international/europe
   - media
 yaml_end: true
 ---

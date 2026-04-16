@@ -18,7 +18,7 @@ tags:
   - art
   - international
   - language
-  - intellectual-property
+  - governance/ip
 yaml_end: true
 ---
 

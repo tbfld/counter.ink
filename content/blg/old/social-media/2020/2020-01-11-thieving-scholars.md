@@ -16,10 +16,10 @@ publish: true
 date: 2020-01-11
 tags:
   - education
-  - crime
-  - law
-  - corruption
-  - corporation
+  - governance/crime
+  - governance/law
+  - governance/corruption
+  - governance/corporation
   - antiquity
 yaml_end: true
 ---

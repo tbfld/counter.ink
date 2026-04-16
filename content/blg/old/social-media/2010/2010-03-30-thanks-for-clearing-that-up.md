@@ -13,7 +13,7 @@ permalink:
 aliases:
 publish: true
 tags:
-  - nyt
+  - media/news/nyt
 status:
 RSS: “true”
 yaml_end: true

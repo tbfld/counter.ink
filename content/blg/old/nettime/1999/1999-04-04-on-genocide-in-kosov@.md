@@ -15,11 +15,11 @@ aliases:
 publish: 
 date: 1999-04-04
 tags:
-  - europe
-  - fascism
+  - international/europe
+  - politics/fascism
   - history
   - international
-  - left
+  - politics/leftism
 yaml_end: true
 ---
 

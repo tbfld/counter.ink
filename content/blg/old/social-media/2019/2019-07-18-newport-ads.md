@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2019-07-18
 tags:
-  - advertising
-  - 1980s
+  - design/advertising
+  - history/1980s
   - nyc
 yaml_end: true
 ---

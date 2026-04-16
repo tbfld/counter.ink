@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2020-11-11
 tags:
-  - fascism
+  - politics/fascism
   - governance
-  - law
+  - governance/law
 yaml_end: true
 ---
 

@@ -18,7 +18,7 @@ tags:
   - technology
   - privacy
   - communication
-  - data
+  - information/data
 yaml_end: true
 ---
 

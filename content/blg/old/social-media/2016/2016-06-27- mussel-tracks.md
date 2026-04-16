@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2016-06-27
 tags:
-  - image
-  - nature
+  - art/image
+  - science/nature
 status:
 RSS: “false”
 yaml_end: true

@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2010-05-09
 tags:
-  - animals
-  - intellectual-property
+  - science/nature
+  - governance/ip
 status:
 RSS: “true”
 yaml_end: true

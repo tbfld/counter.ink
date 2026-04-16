@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2017-12-02
 tags:
-  - academia
+  - education/academia
   - education
   - language
 status:

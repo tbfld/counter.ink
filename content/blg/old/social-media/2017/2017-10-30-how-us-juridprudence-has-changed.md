@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2017-10-30
 tags:
-  - law
-  - left
-  - national
-  - right
+  - governance/law
+  - politics/leftism
+  - politics/national
+  - politics/right
 status:
 RSS: false
 yaml_end: true

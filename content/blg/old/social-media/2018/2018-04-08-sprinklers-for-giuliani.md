@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2018-04-08
 tags:
-  - corruption
+  - governance/corruption
 status:
 RSS: false
 yaml_end: true

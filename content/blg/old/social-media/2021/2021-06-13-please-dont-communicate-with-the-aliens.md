@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2021-06-13
 tags:
-  - space
+  - science/space
   - psychology
 yaml_end: true
 ---

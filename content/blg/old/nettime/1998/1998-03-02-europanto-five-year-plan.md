@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 1998-03-02
 tags:
-  - europe
+  - international/europe
 yaml_end: true
 ---
 

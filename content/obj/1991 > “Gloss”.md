@@ -16,10 +16,10 @@ publish: true
 date: 1991-09-06
 tags:
   - art
-  - 1990s
+  - history/1990s
   - urbanism
-  - theory
-  - media-analysis
+  - philosophy/theory
+  - media/analysis
   - collaboration
 status: 
 RSS: false

@@ -16,8 +16,8 @@ publish: true
 date: 2025-05-27
 tags:
   - education
-  - finance
-  - democrats
+  - economics/finance
+  - politics/democrats
   - age
 status: 
 RSS: true

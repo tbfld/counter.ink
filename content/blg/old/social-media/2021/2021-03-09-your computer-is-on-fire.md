@@ -15,8 +15,7 @@ aliases:
 publish: true
 date: 2021-03-09
 tags:
-  - publishing
-  - books
+  - media/publishing
 RSS: true
 yaml_end: true
 ---

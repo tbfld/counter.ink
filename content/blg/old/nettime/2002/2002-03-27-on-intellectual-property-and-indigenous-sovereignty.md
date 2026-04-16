@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2002-03-27
 tags:
-  - africa
+  - international/africa
 status: 
 RSS: “true”
 yaml_end: true

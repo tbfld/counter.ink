@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2018-10-02
 tags:
-  - academia
+  - education/academia
   - education
   - international
-  - china
+  - international/asia
 status:
 RSS: false
 yaml_end: true

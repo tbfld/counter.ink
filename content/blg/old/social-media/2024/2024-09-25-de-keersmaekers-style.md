@@ -16,8 +16,8 @@ publish: true
 date: 2024-09-25
 tags:
   - art
-  - dance
-  - gender
+  - art/dance
+  - culture/gender
   - media
   - history
 yaml_end: true

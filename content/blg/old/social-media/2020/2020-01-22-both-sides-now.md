@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-01-22
 tags:
-  - left
+  - politics/leftism
   - politics
 yaml_end: true
 ---

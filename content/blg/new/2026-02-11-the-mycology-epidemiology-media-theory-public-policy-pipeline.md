@@ -15,7 +15,7 @@ publish: false
 date: 2026-02-11
 tags:
   - media
-  - social-media
+  - media/social
   - epidemiology
 status:
 RSS: "true"

@@ -18,7 +18,7 @@ tags:
   - history
   - philosophy
   - politics
-  - publishing
+  - media/publishing
   - technology
 status: final
 yaml_end: true

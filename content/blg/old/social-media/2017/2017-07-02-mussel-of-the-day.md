@@ -16,8 +16,8 @@ publish: true
 date: 2017-07-02
 tags:
   - water
-  - animals
-  - photography
+  - science/nature
+  - art/photography
 yaml_end: true
 ---
 

@@ -16,7 +16,7 @@ publish:
 date: 2024-11-27
 tags:
   - language
-  - literature
+  - language/literature
   - education
 status: draft
 yaml_end: true

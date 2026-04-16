@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2023-08-29
 tags:
-  - media-analysis
-  - gender
+  - media/analysis
+  - culture/gender
   - technology
-  - institution
+  - governance/institution
 yaml_end: true
 ---
 

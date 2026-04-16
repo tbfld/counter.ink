@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-09-28
 tags:
-  - elections
+  - politics/elections
 yaml_end: true
 ---
 

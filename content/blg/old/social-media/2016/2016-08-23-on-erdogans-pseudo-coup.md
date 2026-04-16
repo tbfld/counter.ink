@@ -16,7 +16,7 @@ publish: true
 date: 2016-08-23
 tags:
   - education
-  - europe
+  - international/europe
 status: 
 RSS: “false”
 yaml_end: true

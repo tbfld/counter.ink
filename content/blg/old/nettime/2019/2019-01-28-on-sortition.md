@@ -17,8 +17,8 @@ date: 2019-01-28
 tags:
   - governance
   - history
-  - democracy
-  - europe
+  - politics/democracy
+  - international/europe
 yaml_end: true
 ---
 

@@ -17,7 +17,7 @@ date: 2020-01-09
 tags:
   - language
   - technology
-  - academia
+  - education/academia
 yaml_end: true
 ---
 

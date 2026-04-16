@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2021-05-10
 tags:
-  - parenting
+  - culture/parenting
   - writing
-  - gender
-  - police
-  - law
+  - culture/gender
+  - governance/police
+  - governance/law
 status: 
 RSS: false
 yaml_end: true

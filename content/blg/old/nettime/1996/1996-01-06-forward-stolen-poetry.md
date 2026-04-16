@@ -14,10 +14,10 @@ aliases:
 publish:
 date: 1996-01-06
 tags:
-  - poetry
+  - language/poetry
   - art
-  - aesthetics
-  - computation
+  - art/aesthetics
+  - technology/computation
   - language
 yaml_end: true
 ---

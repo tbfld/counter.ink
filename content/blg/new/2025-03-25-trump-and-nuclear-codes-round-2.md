@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2025-03-25
 tags:
-  - nuclear
+  - governance/nuclear
   - weapons
-  - fascism
+  - politics/fascism
   - international
-  - left
+  - politics/leftism
   - Canada
 status: 
 RSS: true

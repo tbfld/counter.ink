@@ -17,8 +17,8 @@ date: 2020-12-07
 tags:
   - protest
   - politics
-  - covid
-  - theory
+  - health/covid
+  - philosophy/theory
 yaml_end: true
 ---
 

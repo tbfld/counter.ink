@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2018-07-16
 tags:
-  - data
-  - visualization
+  - information/data
+  - information/visualization
   - sports
-  - photography
+  - art/photography
 status:
 RSS: false
 yaml_end: true

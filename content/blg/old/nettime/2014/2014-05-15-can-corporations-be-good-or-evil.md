@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2014-05-15
 tags:
-  - corporation
+  - governance/corporation
   - international
-  - law
+  - governance/law
   - governance
   - google
   - facebook

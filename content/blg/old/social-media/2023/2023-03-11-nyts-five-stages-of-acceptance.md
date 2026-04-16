@@ -16,10 +16,10 @@ publish: true
 date: 2023-03-11
 tags:
   - urbanism
-  - nyt
-  - social-commentary
+  - media/news/nyt
+  - culture
   - media
-  - covid
+  - health/covid
   - economics
 status: 
 RSS: true

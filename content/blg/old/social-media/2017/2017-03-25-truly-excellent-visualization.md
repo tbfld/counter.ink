@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2017-03-25
 tags:
-  - visualization
+  - information/visualization
   - politics
-  - nyt
+  - media/news/nyt
   - design
 status:
 RSS: false

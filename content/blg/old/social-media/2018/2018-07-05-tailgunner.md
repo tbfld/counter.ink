@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2018-07-05
 tags:
-  - aviation
+  - technology/aviation
   - design
-  - war
+  - governance/war
 status:
 RSS: false
 yaml_end: true

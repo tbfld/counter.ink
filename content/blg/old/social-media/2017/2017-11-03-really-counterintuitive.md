@@ -17,8 +17,8 @@ date: 2017-11-03
 tags:
   - governance
   - anthropocene
-  - trope
-  - disinformation
+  - language/rhetoric
+  - politics/disinformation
 yaml_end: true
 ---
 

@@ -16,7 +16,7 @@ publish: true
 date: 2020-01-27
 tags:
   - politics
-  - centrism
+  - politics/centrism
 yaml_end: true
 ---
 

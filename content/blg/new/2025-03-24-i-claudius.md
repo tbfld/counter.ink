@@ -16,7 +16,7 @@ publish: true
 date: 2025-03-24
 tags:
   - media
-  - television
+  - media/tv-radio
   - history
   - politics
   - economics

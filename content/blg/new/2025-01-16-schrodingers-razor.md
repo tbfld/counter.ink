@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2025-01-16
 tags:
-  - meme
+  - media/meme
   - philosophy
-  - visualization
+  - information/visualization
 status: final
 yaml_end: true
 ---

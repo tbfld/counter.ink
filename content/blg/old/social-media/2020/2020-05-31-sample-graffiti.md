@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-05-31
 tags:
-  - graffiti
-  - crime
+  - art/graffiti
+  - governance/crime
   - language
-  - idiom
+  - language/rhetoric
   - technology
 yaml_end: true
 ---

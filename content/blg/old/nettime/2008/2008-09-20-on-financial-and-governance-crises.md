@@ -17,7 +17,7 @@ date: 2008-09-20
 tags:
   - economics
   - governance
-  - law
+  - governance/law
   - crisis
 yaml_end: true
 ---

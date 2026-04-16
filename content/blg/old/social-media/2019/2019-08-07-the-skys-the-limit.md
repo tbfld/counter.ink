@@ -16,8 +16,8 @@ publish: true
 date: 2019-08-07
 tags:
   - language
-  - idiom
-  - journalism
+  - language/rhetoric
+  - media/journalism
 yaml_end: true
 ---
 

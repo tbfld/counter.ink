@@ -16,8 +16,8 @@ publish:
 date: 2024-12-04
 tags:
   - politics
-  - right
-  - military
+  - politics/right
+  - governance/military
 status: draft
 yaml_end: true
 ---

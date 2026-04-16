@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-08-26
 tags:
-  - institution
+  - governance/institution
 yaml_end: true
 ---
 

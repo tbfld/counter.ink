@@ -14,11 +14,11 @@ aliases:
 publish: true
 date: 2026-02-03
 tags:
-  - aesthetics
+  - art/aesthetics
   - politics
-  - publishing
+  - media/publishing
   - design
-  - typography
+  - design/typography
 status:
 RSS: "true"
 yaml_end: true

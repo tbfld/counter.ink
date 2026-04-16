@@ -16,9 +16,9 @@ publish: true
 date: 2020-07-15
 tags:
   - denialism
-  - brexit
-  - uk
-  - covid
+  - politics/brexit
+  - international/uk
+  - health/covid
 yaml_end: true
 ---
 

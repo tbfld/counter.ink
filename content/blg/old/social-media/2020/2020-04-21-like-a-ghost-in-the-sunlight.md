@@ -17,9 +17,9 @@ tags:
   - friends
   - history
   - education
-  - literature
+  - language/literature
   - aids
-  - 1980s
+  - history/1980s
 yaml_end: true
 ---
 

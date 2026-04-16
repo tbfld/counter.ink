@@ -15,13 +15,13 @@ aliases:
 publish: 
 date: 1999-04-17
 tags:
-  - africa
-  - asia
+  - international/africa
+  - international/asia
   - history
   - language
-  - right
-  - publishing
-  - violence
+  - politics/right
+  - media/publishing
+  - governance/violence
 yaml_end: true
 ---
 

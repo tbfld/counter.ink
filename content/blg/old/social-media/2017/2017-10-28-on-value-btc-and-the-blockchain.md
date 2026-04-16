@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2017-10-28
 tags:
-  - aviation
+  - technology/aviation
 status:
 RSS: false
 yaml_end: true

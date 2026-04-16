@@ -14,9 +14,9 @@ aliases:
 publish:
 date: 2000-06-14
 tags:
-  - intellectual-property
+  - governance/ip
   - education
-  - policy
+  - governance/policy
 yaml_end: true
 ---
 _(Note: This message dates from a period when, for various reasons, I practiced writing fully justified texts. I’ve set this email in a monospaced font to make that clear. For extra OG-typography fun, I “hung” the punctuation on the right margin. )_

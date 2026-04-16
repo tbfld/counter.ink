@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-02-23
 tags:
-  - parenting
+  - culture/parenting
 yaml_end: true
 ---
 

@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-03-04
 tags:
-  - covid
-  - illustration
+  - health/covid
+  - art/illustration
   - graphics
-  - healthcare
+  - health/care
 yaml_end: true
 ---
 

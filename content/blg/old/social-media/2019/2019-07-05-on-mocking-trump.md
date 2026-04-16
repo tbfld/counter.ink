@@ -17,8 +17,8 @@ date: 2019-07-05
 tags:
   - politics
   - language
-  - satire
-  - humor
+  - language/satire
+  - culture/humor
   - activism
 yaml_end: true
 ---

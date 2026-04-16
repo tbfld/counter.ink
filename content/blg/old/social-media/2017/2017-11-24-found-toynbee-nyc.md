@@ -15,7 +15,7 @@ publish: true
 date: 2017-11-24
 tags:
   - nyc
-  - graffiti
+  - art/graffiti
 status:
 RSS: false
 yaml_end: true

@@ -15,7 +15,7 @@ publish: true
 date: 2016-11-01
 tags:
   - language
-  - trope
+  - language/rhetoric
 status:
 RSS: “false”
 yaml_end: true

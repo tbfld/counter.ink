@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2024-09-21
 tags:
-  - photography
+  - art/photography
   - colors
-  - aesthetics
+  - art/aesthetics
   - technology
 yaml_end: true
 ---

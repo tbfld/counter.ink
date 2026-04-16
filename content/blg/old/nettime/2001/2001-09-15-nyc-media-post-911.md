@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 2001-09-15
 tags:
-  - email
+  - media/email
   - language
   - media
   - philosophy

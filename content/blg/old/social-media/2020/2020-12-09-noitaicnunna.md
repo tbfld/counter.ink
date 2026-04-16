@@ -18,8 +18,8 @@ tags:
   - media
   - history
   - language
-  - typography
-  - space
+  - design/typography
+  - science/space
 yaml_end: true
 ---
 

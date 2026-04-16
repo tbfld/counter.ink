@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-01-12
 tags:
-  - publishing
+  - media/publishing
 yaml_end: true
 ---
 

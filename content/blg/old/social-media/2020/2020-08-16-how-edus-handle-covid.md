@@ -16,9 +16,9 @@ publish: true
 date: 2020-08-16
 tags:
   - education
-  - institution
-  - covid
-  - healthcare
+  - governance/institution
+  - health/covid
+  - health/care
 yaml_end: true
 ---
 

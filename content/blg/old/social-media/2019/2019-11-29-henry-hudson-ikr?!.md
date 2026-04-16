@@ -15,12 +15,12 @@ aliases:
 publish: true
 date: 2019-11-29
 tags:
-  - parenting
-  - illustration
+  - culture/parenting
+  - art/illustration
   - history
-  - cartoons
+  - art/cartoons
   - language
-  - idiom
+  - language/rhetoric
 yaml_end: true
 ---
 Here’s a Thanksgiving-y gem from the kid’s archives

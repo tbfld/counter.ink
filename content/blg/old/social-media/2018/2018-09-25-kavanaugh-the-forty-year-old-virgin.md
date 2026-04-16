@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2018-09-25
 tags:
-  - law
+  - governance/law
   - language
   - sexuality
 status:

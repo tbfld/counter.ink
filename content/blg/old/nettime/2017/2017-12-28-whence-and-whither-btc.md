@@ -15,12 +15,12 @@ aliases:
 publish:
 date: 2017-12-28
 tags:
-  - cryptography
+  - technology/security
   - history
   - language
-  - right
+  - politics/right
   - technology
-  - theory
+  - philosophy/theory
 yaml_end: true
 ---
 

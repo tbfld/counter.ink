@@ -16,8 +16,8 @@ publish: true
 date: 2025-08-11
 tags:
   - education
-  - law
-  - policy
+  - governance/law
+  - governance/policy
   - language
 status: 
 RSS: true

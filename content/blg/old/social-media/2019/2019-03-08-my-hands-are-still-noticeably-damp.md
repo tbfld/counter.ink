@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-03-08
 tags:
-  - meme
+  - media/meme
   - technology
 yaml_end: true
 ---

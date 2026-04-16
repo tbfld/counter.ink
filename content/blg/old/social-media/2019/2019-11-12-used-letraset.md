@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-11-12
 tags:
-  - typography
+  - design/typography
 yaml_end: true
 ---
 

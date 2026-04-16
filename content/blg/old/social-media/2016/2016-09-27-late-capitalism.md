@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-09-27
 tags:
-  - advertising
+  - design/advertising
   - economics
 status:
 RSS: “false”

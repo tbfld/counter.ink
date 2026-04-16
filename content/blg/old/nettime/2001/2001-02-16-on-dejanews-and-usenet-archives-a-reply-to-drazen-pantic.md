@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 2001-02-16
 tags:
-  - data
+  - information/data
 yaml_end: true
 ---
 

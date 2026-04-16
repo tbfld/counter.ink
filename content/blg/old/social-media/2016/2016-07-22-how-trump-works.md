@@ -15,7 +15,7 @@ publish: true
 date: 2016-07-22
 tags:
   - politics
-  - gop
+  - politics/gop
 status:
 RSS: “false”
 yaml_end: true

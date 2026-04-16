@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-06-29
 tags:
-  - libertarianism
+  - politics/libertarianism
   - history
-  - architecture
+  - art/architecture
 status: 
 RSS: true
 yaml_end: true

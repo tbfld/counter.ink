@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2018-07-13
 tags:
-  - publishing
+  - media/publishing
   - accessibility
   - design
-  - literature
+  - language/literature
 status:
 RSS: false
 yaml_end: true

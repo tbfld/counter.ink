@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2016-04-29
 tags:
-  - academia
+  - education/academia
   - education
-  - finance
+  - economics/finance
 status: 
 RSS: “false”
 yaml_end: true

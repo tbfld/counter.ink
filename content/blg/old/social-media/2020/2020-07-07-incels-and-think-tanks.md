@@ -15,8 +15,7 @@ aliases:
 publish: true 
 date: 2020-07-07
 tags:
-  - masculinity
-  - gender
+  - culture/gender
 yaml_end: true
 ---
 

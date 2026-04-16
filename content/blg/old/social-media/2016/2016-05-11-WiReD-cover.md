@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2016-05-11
 tags:
-  - magazines
+  - media/publishing
   - design
-  - 1990s
+  - history/1990s
 status:
 RSS: “false”
 yaml_end: true

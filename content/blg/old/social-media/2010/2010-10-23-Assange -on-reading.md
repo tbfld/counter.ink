@@ -15,7 +15,7 @@ publish: true
 date: 2010-10-23
 tags:
   - prison
-  - books
+  - media/publishing
 status:
 RSS: “true”
 yaml_end: true

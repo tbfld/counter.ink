@@ -18,7 +18,7 @@ tags:
   - politics
   - genocide
   - israel
-  - left
+  - politics/leftism
   - culture
 status: draft
 RSS: true

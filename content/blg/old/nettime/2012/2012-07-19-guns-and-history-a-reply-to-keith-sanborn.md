@@ -15,12 +15,12 @@ aliases:
 publish: 
 date: 2012-07-19
 tags:
-  - africa
-  - asia
-  - data
+  - international/africa
+  - international/asia
+  - information/data
   - history
   - information
-  - news
+  - media/news
   - technology
 yaml_end: true
 ---

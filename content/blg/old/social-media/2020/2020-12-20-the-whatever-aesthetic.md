@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2020-12-20
 tags:
-  - food
-  - finance
+  - culture/food
+  - economics/finance
   - trends
 yaml_end: true
 ---

@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-04-30
 tags:
-  - covid
+  - health/covid
   - science
-  - visualization
-  - aesthetics
+  - information/visualization
+  - art/aesthetics
 yaml_end: true
 ---
 

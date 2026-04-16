@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-10-20
 tags:
-  - feminism
+  - politics/feminism
 status: 
 RSS: “false”
 yaml_end: true

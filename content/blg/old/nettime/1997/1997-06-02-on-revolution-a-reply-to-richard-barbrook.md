@@ -16,7 +16,7 @@ publish:
 date: 1997-06-02
 tags:
   - technology
-  - left
+  - politics/leftism
 yaml_end: true
 ---
 

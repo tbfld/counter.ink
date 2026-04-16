@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-11-15
 tags:
-  - law
+  - governance/law
   - international
   - economics
 status:

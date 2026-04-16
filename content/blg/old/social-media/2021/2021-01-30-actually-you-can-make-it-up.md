@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2021-01-30
 tags:
-  - literature
+  - language/literature
 yaml_end: true
 ---
 

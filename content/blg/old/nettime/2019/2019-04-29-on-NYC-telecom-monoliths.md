@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2019-04-29
 tags:
-  - advertising
+  - design/advertising
   - design
-  - internet
+  - technology/internet
 yaml_end: true
 ---
 

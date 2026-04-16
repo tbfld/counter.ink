@@ -16,8 +16,8 @@ publish: true
 date: 2016-12-27
 tags:
   - culture
-  - left
-  - right
+  - politics/leftism
+  - politics/right
 status: 
 RSS: “false”
 yaml_end: true

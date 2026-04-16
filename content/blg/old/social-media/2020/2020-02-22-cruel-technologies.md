@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2020-02-22
 tags:
-  - image
-  - photography
+  - art/image
+  - art/photography
   - technology
   - cars
 yaml_end: true

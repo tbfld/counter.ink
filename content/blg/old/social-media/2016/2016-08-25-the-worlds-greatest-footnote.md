@@ -16,9 +16,9 @@ publish: true
 date: 2016-08-25
 tags:
   - history
-  - literature
-  - theory
-  - feminism
+  - language/literature
+  - philosophy/theory
+  - politics/feminism
 status:
 RSS: “false”
 yaml_end: true

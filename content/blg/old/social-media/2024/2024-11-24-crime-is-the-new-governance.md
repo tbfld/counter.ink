@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2024-11-24
 tags:
-  - crime
+  - governance/crime
   - governance
   - history
-  - society
+  - culture/society
 status: draft
 yaml_end: true
 ---

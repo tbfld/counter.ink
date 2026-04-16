@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-05-12
 tags:
-  - nyt
+  - media/news/nyt
   - language
   - denialism
-  - covid
+  - health/covid
 status: 
 RSS: “true”
 yaml_end: true

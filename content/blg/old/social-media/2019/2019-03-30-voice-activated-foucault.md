@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2019-03-30
 tags:
-  - france
-  - theory
-  - literature
+  - international/france
+  - philosophy/theory
+  - language/literature
 yaml_end: true
 ---
 

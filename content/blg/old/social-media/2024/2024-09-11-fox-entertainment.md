@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2024-09-11
 tags:
-  - law
+  - governance/law
   - media
-  - right
-  - journalism
+  - politics/right
+  - media/journalism
 yaml_end: true
 ---
 

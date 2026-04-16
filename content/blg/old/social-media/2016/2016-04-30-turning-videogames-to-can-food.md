@@ -16,10 +16,10 @@ publish: true
 date: 2016-04-30
 tags:
   - signage
-  - food
+  - culture/food
   - videogames
-  - typography
-  - genre
+  - design/typography
+  - language/genre
 status:
 RSS: “false”
 yaml_end: true

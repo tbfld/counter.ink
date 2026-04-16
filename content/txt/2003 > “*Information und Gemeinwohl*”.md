@@ -14,8 +14,8 @@ aliases:
 publish: false
 tags:
   - activism
-  - publishing
-  - intellectual-property
+  - media/publishing
+  - governance/ip
 RSS: false
 status: UNF
 yaml_end: true

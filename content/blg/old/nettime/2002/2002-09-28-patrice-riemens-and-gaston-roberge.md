@@ -15,17 +15,17 @@ aliases:
 publish: 
 date: 2002-09-28
 tags:
-  - corporation
+  - governance/corporation
   - culture
-  - data
-  - europe
+  - information/data
+  - international/europe
   - history
   - media
-  - national
-  - news
+  - politics/national
+  - media/news
   - philosophy
   - politics
-  - right
+  - politics/right
 yaml_end: true
 ---
 

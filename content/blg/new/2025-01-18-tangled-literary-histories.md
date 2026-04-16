@@ -15,12 +15,12 @@ aliases:
 publish: 
 date: 2025-01-18
 tags:
-  - france
+  - international/france
   - history
   - language
-  - literature
+  - language/literature
   - mexico
-  - publishing
+  - media/publishing
 status: final
 yaml_end: true
 ---

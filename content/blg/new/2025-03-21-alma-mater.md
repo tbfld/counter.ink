@@ -16,8 +16,8 @@ publish: true
 date: 2025-03-21
 tags:
   - art
-  - sculpture
-  - academia
+  - art/sculpture
+  - education/academia
   - columbia
 status: 
 RSS: true

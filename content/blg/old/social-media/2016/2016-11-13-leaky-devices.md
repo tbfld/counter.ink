@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2016-11-13
 tags:
-  - security
-  - ui
+  - technology/security
+  - design/interface
   - design
 status:
 RSS: “false”

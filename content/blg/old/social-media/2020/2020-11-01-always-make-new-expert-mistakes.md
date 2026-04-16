@@ -15,11 +15,11 @@ aliases:
 publish: true 
 date: 2020-11-01
 tags:
-  - disciplinarity
-  - nyt
+  - education/disciplinarity
+  - media/news/nyt
   - media
   - culture
-  - trope
+  - language/rhetoric
 yaml_end: true
 ---
 

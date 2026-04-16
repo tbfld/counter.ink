@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2021-02-19
 tags:
-  - data
+  - information/data
   - education
 yaml_end: true
 ---

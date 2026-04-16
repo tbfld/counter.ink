@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2018-11-15
 tags:
-  - food
+  - culture/food
 status:
 RSS: false
 yaml_end: true

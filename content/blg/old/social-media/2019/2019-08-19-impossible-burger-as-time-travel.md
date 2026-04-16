@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2019-08-19
 tags:
-  - uk
+  - international/uk
   - graphics
-  - pop
+  - culture/pop
 yaml_end: true
 ---
 

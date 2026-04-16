@@ -16,10 +16,9 @@ publish: true
 date: 2020-07-19
 tags:
   - design
-  - covid
-  - dataviz
-  - visualization
-  - states
+  - health/covid
+  - information/visualization
+  - politics/states
 yaml_end: true
 ---
 

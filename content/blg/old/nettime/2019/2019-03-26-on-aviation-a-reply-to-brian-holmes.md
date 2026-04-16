@@ -15,11 +15,11 @@ aliases:
 publish: 
 date: 2019-03-26
 tags:
-  - aviation
+  - technology/aviation
   - design
   - history
   - science
-  - crime
+  - governance/crime
 yaml_end: true
 ---
 

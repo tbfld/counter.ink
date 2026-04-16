@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2026-01-26
 tags:
-  - fascism
+  - politics/fascism
   - politics
 status:
 RSS: "true"

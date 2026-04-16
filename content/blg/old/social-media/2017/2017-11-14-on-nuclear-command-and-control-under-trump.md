@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2017-11-14
 tags:
-  - national
-  - security
+  - politics/national
+  - technology/security
 status:
 RSS: false
 yaml_end: true

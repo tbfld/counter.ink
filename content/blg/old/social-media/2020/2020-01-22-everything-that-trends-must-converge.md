@@ -16,9 +16,9 @@ publish: true
 date: 2020-01-22
 tags:
   - politics
-  - meme
-  - fashion
-  - conspiracy
+  - media/meme
+  - culture/fashion
+  - politics/conspiracy
 yaml_end: true
 ---
 

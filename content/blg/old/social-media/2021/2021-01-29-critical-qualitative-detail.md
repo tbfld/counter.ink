@@ -15,12 +15,12 @@ aliases:
 publish: true
 date: 2021-01-29
 tags:
-  - meme
-  - image
-  - academia
+  - media/meme
+  - art/image
+  - education/academia
   - writing
-  - publishing
-  - satire
+  - media/publishing
+  - language/satire
 yaml_end: true
 ---
 

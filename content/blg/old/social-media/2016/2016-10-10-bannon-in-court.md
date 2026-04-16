@@ -16,7 +16,7 @@ publish: true
 date: 2016-10-10
 tags:
   - art
-  - law
+  - governance/law
   - media
 status: 
 RSS: “false”

@@ -17,8 +17,8 @@ date: 2025-02-02
 tags:
   - governance
   - politics
-  - right
-  - left
+  - politics/right
+  - politics/leftism
 status: final
 yaml_end: true
 ---

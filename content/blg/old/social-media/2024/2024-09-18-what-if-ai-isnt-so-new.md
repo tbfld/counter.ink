@@ -18,7 +18,7 @@ tags:
   - art
   - culture
   - history
-  - image
+  - art/image
   - language
 yaml_end: true
 ---

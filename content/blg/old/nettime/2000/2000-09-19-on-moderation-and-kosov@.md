@@ -14,8 +14,8 @@ aliases:
 publish:
 date: 2000-09-19
 tags:
-  - email
-  - ethics
+  - media/email
+  - philosophy/ethics
   - history
 yaml_end: true
 ---

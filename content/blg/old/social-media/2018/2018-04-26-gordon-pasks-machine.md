@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2018-04-26
 tags:
-  - cybernetics
+  - technology/cybernetics
 status:
 RSS: false
 yaml_end: true

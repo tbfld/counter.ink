@@ -15,11 +15,11 @@ aliases:
 publish: 
 date: 2011-07-24
 tags:
-  - data
+  - information/data
   - information
-  - institution
-  - law
-  - right
+  - governance/institution
+  - governance/law
+  - politics/right
 yaml_end: true
 ---
 

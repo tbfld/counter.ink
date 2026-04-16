@@ -15,7 +15,7 @@ aliases:
 publish: true
 tags:
   - language
-  - theory
+  - philosophy/theory
   - technology
 RSS: false
 yaml_end: true

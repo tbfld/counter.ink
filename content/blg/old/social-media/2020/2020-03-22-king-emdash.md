@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2020-03-22
 tags:
-  - meme
+  - media/meme
   - language
-  - typography
+  - design/typography
 yaml_end: true
 ---
 

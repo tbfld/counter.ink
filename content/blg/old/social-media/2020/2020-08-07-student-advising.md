@@ -16,8 +16,8 @@ publish: true
 date: 2020-08-07
 tags:
   - education
-  - labor
-  - policy
+  - economics/labor
+  - governance/policy
 yaml_end: true
 ---
 

@@ -16,8 +16,7 @@ publish: true
 date: 2016-07-11
 tags:
   - culture
-  - literature
-  - social-commentary
+  - language/literature
 status: 
 RSS: “false”
 yaml_end: true

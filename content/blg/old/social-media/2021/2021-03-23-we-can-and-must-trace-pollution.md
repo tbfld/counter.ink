@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2021-03-23
 tags:
-  - crime
+  - governance/crime
   - international
 yaml_end: true
 ---

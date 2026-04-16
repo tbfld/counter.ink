@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2018-07-13
 tags:
-  - brexit
+  - politics/brexit
   - language
-  - journalism
+  - media/journalism
 status:
 RSS: false
 yaml_end: true

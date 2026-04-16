@@ -16,9 +16,9 @@ publish: true
 date: 2020-01-17
 tags:
   - language
-  - idiom
+  - language/rhetoric
   - politics
-  - satire
+  - language/satire
 yaml_end: true
 ---
 

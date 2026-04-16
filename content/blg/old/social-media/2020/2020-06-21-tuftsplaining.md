@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-06-21
 tags:
-  - dataviz
+  - information/visualization
 yaml_end: true
 ---
 

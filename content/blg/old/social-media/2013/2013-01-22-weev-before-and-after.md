@@ -15,7 +15,7 @@ publish: true
 date: 2013-01-22
 tags:
   - politics
-  - right
+  - politics/right
 status:
 RSS: “false”
 yaml_end: true

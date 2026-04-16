@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 2001-03-14
 tags:
-  - national
+  - politics/national
 yaml_end: true
 ---
 

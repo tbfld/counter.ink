@@ -16,7 +16,7 @@ publish: true
 date: 2017-11-28
 tags:
   - history
-  - national
+  - politics/national
 status:
 RSS: false
 yaml_end: true

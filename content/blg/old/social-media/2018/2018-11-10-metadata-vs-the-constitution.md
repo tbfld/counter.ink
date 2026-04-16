@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2018-11-10
 tags:
-  - law
+  - governance/law
   - constitution
-  - forensics
+  - technology/forensics
 status:
 RSS: false
 yaml_end: true

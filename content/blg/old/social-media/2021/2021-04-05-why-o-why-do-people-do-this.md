@@ -16,7 +16,7 @@ publish: true
 date: 2021-04-05
 tags:
   - comic
-  - 1980s
+  - history/1980s
   - art
   - taste
   - media

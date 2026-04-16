@@ -15,9 +15,9 @@ publish: true
 date: 2017-04-18
 tags:
   - art
-  - aesthetics
-  - law
-  - intellectual-property
+  - art/aesthetics
+  - governance/law
+  - governance/ip
 status:
 RSS: false
 yaml_end: true

@@ -15,8 +15,7 @@ aliases:
 publish: true
 date: 2021-03-29
 tags:
-  - internet
-  - web
+  - technology/internet
 yaml_end: true
 ---
 

@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2017-11-04
 tags:
-  - satire
+  - language/satire
 yaml_end: true
 ---
 

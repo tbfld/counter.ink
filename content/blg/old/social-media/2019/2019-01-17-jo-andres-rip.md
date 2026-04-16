@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2019-01-17
 tags:
-  - performance
-  - dance
+  - art/performance
+  - art/dance
   - nyc
 yaml_end: true
 ---

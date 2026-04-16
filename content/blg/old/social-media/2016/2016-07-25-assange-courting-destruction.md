@@ -15,7 +15,7 @@ publish: true
 date: 2016-07-25
 tags:
   - secrecy
-  - law
+  - governance/law
   - leaks
 status:
 RSS: “false”

@@ -15,14 +15,14 @@ aliases:
 publish: 
 date: 2018-04-05
 tags:
-  - communism
+  - politics/communism
   - culture
-  - image
+  - art/image
   - language
-  - left
-  - meme
-  - national
-  - right
+  - politics/leftism
+  - media/meme
+  - politics/national
+  - politics/right
 yaml_end: true
 ---
 

@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2020-05-16
 tags:
-  - covid
+  - health/covid
   - politics
-  - gop
-  - architecture
-  - cultural-commentary
+  - politics/gop
+  - art/architecture
+  - culture
 status: 
 RSS: false
 yaml_end: true

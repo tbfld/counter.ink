@@ -19,8 +19,7 @@ tags:
   - art
   - design
   - technology
-  - law
-  - jurisprudence
+  - governance/law
 yaml_end: true
 ---
 

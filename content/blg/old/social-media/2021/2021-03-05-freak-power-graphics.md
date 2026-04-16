@@ -19,7 +19,7 @@ tags:
   - design
   - politics
   - drugs
-  - literature
+  - language/literature
 yaml_end: true
 ---
 

@@ -16,11 +16,11 @@ publish: true
 date: 2017-02-28
 tags:
   - art
-  - europe
+  - international/europe
   - media
-  - news
+  - media/news
   - politics
-  - publishing
+  - media/publishing
 status:
 RSS: false
 yaml_end: true

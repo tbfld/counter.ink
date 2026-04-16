@@ -15,13 +15,13 @@ aliases:
 publish: 
 date: 2019-04-11
 tags:
-  - data
+  - information/data
   - design
-  - internet
+  - technology/internet
   - media
-  - national
-  - news
-  - right
+  - politics/national
+  - media/news
+  - politics/right
 yaml_end: true
 ---
 

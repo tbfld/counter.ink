@@ -16,8 +16,8 @@ publish: true
 date: 2018-10-30
 tags:
   - design
-  - device
-  - elections
+  - technology/hardware
+  - politics/elections
 status:
 RSS: false
 yaml_end: true

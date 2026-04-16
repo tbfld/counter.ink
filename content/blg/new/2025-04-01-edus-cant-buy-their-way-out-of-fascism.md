@@ -16,10 +16,10 @@ publish: true
 date: 2025-04-01
 tags:
   - education
-  - academia
-  - finance
+  - education/academia
+  - economics/finance
   - economics
-  - left
+  - politics/leftism
 status: 
 RSS: true
 yaml_end: true

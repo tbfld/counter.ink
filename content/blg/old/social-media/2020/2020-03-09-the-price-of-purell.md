@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2020-03-09
 tags:
-  - covid
+  - health/covid
   - commodity
-  - corporation
+  - governance/corporation
 yaml_end: true
 ---
 

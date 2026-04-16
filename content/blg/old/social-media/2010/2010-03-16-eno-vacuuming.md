@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2010-03-16
 tags:
-  - music
+  - art/music
 status:
 RSS: “true”
 yaml_end: true

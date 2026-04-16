@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2019-05-02
 tags:
-  - internet
-  - journalism
-  - 1980s
-  - software
+  - technology/internet
+  - media/journalism
+  - history/1980s
+  - technology/software
 yaml_end: true
 ---
 ![[morris-worm.jpg]]

@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 2016-04-06
 tags:
-  - law
+  - governance/law
   - media
-  - national
-  - news
+  - politics/national
+  - media/news
 yaml_end: true
 ---
 

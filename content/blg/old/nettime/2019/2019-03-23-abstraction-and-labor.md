@@ -15,13 +15,13 @@ aliases:
 publish: 
 date: 2019-03-23
 tags:
-  - advertising
-  - aviation
-  - corporation
-  - crime
+  - design/advertising
+  - technology/aviation
+  - governance/corporation
+  - governance/crime
   - design
   - history
-  - left
+  - politics/leftism
   - technology
 yaml_end: true
 ---

@@ -18,7 +18,7 @@ tags:
   - media
   - nyc
   - history
-  - publishing
+  - media/publishing
   - trends
 yaml_end: true
 ---

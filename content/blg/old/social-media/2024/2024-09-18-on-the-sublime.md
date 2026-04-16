@@ -18,7 +18,7 @@ tags:
   - environmentalism
   - vanguardism
   - audio
-  - environment
+  - science/environment
 yaml_end: true
 ---
 

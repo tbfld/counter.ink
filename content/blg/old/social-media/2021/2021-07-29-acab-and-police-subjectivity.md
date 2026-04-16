@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2021-07-29
 tags:
-  - police
-  - law
+  - governance/police
+  - governance/law
   - j6
   - governance
 status: 

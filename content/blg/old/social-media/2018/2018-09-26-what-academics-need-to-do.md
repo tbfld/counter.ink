@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2018-09-26
 tags:
-  - academia
+  - education/academia
   - education
   - economics
   - debt

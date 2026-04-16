@@ -16,7 +16,7 @@ publish: true
 date: 2020-09-02
 tags:
   - history
-  - violence
+  - governance/violence
 yaml_end: true
 ---
 

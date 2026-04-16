@@ -16,7 +16,7 @@ publish: true
 date: 2019-05-31
 tags:
   - design
-  - interface
+  - design/interface
 yaml_end: true
 ---
 

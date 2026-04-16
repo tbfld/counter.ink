@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2021-06-23
 tags:
-  - policy
+  - governance/policy
 yaml_end: true
 ---
 

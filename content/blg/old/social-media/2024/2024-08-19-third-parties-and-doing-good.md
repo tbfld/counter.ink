@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2024-11-24
 tags:
-  - national
+  - politics/national
   - politics
   - voting
 status: draft

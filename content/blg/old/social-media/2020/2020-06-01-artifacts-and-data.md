@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2020-06-01
 tags:
-  - data
+  - information/data
   - history
 yaml_end: true
 ---

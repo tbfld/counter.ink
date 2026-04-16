@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2017-09-23
 tags:
-  - parenting
+  - culture/parenting
   - surveillance
 yaml_end: true
 ---

@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-07-19
 tags:
-  - theory
+  - philosophy/theory
   - apocalypse
 yaml_end: true
 ---

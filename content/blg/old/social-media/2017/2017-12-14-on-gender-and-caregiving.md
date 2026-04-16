@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2017-12-14
 tags:
-  - gender
+  - culture/gender
 yaml_end: true
 ---
 Wow, someone finally said it: “you don’t actually have to be female to be a primary caregiver or even an equal partner in caregiving.” Amen to that.

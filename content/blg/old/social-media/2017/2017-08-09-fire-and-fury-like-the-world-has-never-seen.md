@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2017-08-09
 tags:
-  - china
-  - nuclear
+  - international/asia
+  - governance/nuclear
 yaml_end: true
 ---
 

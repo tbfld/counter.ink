@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-04-12
 tags:
-  - gender
+  - culture/gender
   - protest
 status:
 RSS: “false”

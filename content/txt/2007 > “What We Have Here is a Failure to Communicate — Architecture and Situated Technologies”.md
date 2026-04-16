@@ -14,10 +14,10 @@ aliases:
 
 publish: true
 tags:
-  - architecture
-  - theory
-  - media-analysis
-  - aesthetics
+  - art/architecture
+  - philosophy/theory
+  - media/analysis
+  - art/aesthetics
 RSS: false
 yaml_end: true
 ---

@@ -15,11 +15,11 @@ aliases:
 publish: true 
 date: 2019-01-29
 tags:
-  - crime
+  - governance/crime
   - education
-  - law
-  - feminism
-  - democrats
+  - governance/law
+  - politics/feminism
+  - politics/democrats
 yaml_end: true
 ---
 

@@ -15,9 +15,9 @@ aliases:
 publish: false
 date: 2020-04-22
 tags:
-  - covid
+  - health/covid
   - urbanism
-  - policy
+  - governance/policy
 status: 
 RSS: false
 yaml_end: true

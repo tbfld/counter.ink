@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 2024-12-05
 tags:
-  - law
+  - governance/law
   - governance
-  - right
-  - national
+  - politics/right
+  - politics/national
 status: draft
 yaml_end: true
 ---

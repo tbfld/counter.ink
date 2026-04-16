@@ -14,12 +14,12 @@ aliases:
 publish: true
 date: 2026-02-15
 tags:
-  - conspiracy
-  - disciplinarity
+  - politics/conspiracy
+  - education/disciplinarity
   - history
   - education
-  - policy
-  - law
+  - governance/policy
+  - governance/law
 status:
 RSS: "true"
 yaml_end: true

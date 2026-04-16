@@ -14,10 +14,10 @@ aliases:
 
 publish: true
 tags:
-  - email
+  - media/email
   - archives
-  - internet
-  - theory
+  - technology/internet
+  - philosophy/theory
   - history
 RSS: false
 yaml_end: true

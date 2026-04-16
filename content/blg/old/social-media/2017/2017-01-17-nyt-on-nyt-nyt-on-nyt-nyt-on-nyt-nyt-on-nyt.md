@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2017-01-17
 tags:
-  - nyt
-  - journalism
-  - advertising
+  - media/news/nyt
+  - media/journalism
+  - design/advertising
 status:
 RSS: false
 yaml_end: true

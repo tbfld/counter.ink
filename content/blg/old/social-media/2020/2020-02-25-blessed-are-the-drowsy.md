@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-02-25
 tags:
-  - covid
+  - health/covid
   - economics
   - markets
-  - finance
+  - economics/finance
 yaml_end: true
 ---
 

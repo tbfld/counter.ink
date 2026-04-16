@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-04-08
 tags:
-  - society
+  - culture/society
   - language
 yaml_end: true
 ---

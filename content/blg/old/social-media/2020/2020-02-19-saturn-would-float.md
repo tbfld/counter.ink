@@ -16,8 +16,8 @@ publish: true
 date: 2020-02-19
 tags:
   - scale
-  - image
-  - space
+  - art/image
+  - science/space
   - science
 yaml_end: true
 ---

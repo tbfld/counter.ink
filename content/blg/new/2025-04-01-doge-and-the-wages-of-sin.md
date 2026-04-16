@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2025-04-01
 tags:
-  - fascism
+  - politics/fascism
   - governance
-  - law
+  - governance/law
   - psychology
   - doge
 status: 

@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-04-29
 tags:
-  - left
-  - covid
-  - policy
-  - law
+  - politics/leftism
+  - health/covid
+  - governance/policy
+  - governance/law
   - politics
 yaml_end: true
 ---

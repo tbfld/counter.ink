@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2021-01-11
 tags:
-  - meme
+  - media/meme
   - language
-  - left
+  - politics/leftism
 yaml_end: true
 ---
 

@@ -16,7 +16,7 @@ publish: true
 date: 2016-08-26
 tags:
   - economics
-  - healthcare
+  - health/care
 status: 
 RSS: “false”
 yaml_end: true

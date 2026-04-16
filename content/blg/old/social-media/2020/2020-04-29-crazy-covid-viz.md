@@ -17,7 +17,7 @@ date: 2020-04-29
 tags:
   - diagram
   - design
-  - covid
+  - health/covid
   - everything
 yaml_end: true
 ---

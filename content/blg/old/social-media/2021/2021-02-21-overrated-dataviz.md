@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2021-02-21
 tags:
-  - nyt
-  - dataviz
+  - media/news/nyt
+  - information/visualization
   - trends
 yaml_end: true
 ---

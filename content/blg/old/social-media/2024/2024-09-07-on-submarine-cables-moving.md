@@ -17,7 +17,7 @@ date: 2024-09-07
 tags:
   - communication
   - technology
-  - infrastructure
+  - governance/infrastructure
   - oceans
   - politics
 yaml_end: true

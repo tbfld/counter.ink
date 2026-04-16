@@ -16,9 +16,9 @@ publish:
 date: 2018-01-01
 tags:
   - art
-  - cryptography
+  - technology/security
   - international
-  - society
+  - culture/society
 yaml_end: true
 ---
 

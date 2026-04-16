@@ -16,8 +16,8 @@ publish: false
 date: 2025-09-29
 tags:
   - economics
-  - music
-  - intellectual-property
+  - art/music
+  - governance/ip
 status:
 RSS: true
 yaml_end: true

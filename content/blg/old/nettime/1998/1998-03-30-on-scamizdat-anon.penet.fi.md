@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 1998-03-30
 tags:
-  - email
+  - media/email
 yaml_end: true
 ---
 To:  nettime-l

@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2020-05-24
 tags:
-  - left
+  - politics/leftism
   - media
 yaml_end: true
 ---

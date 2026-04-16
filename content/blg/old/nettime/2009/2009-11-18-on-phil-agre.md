@@ -18,11 +18,11 @@ tags:
   - culture
   - economics
   - information
-  - internet
+  - technology/internet
   - media
-  - news
-  - security
-  - society
+  - media/news
+  - technology/security
+  - culture/society
 yaml_end: true
 ---
 

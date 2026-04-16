@@ -15,9 +15,8 @@ aliases:
 publish: true 
 date: 2020-04-06
 tags:
-  - security
-  - cryptography
-  - social-media
+  - technology/security
+  - media/social
 yaml_end: true
 ---
 

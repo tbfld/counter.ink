@@ -14,9 +14,9 @@ aliases:
 publish:
 date: 2001-06-27
 tags:
-  - intellectual-property
-  - infrastructure
-  - internet
+  - governance/ip
+  - governance/infrastructure
+  - technology/internet
   - education
 yaml_end: true
 ---

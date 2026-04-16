@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-12-11
 tags:
-  - data
+  - information/data
   - wealth
 status: 
 RSS: “false”

@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-03-02
 tags:
-  - cinema
-  - film
-  - advertising
+  - art/cinema
+  - art/film
+  - design/advertising
 yaml_end: true
 ---
 

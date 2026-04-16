@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2024-09-25
 tags:
-  - film
+  - art/film
   - virtuality
   - technology
 yaml_end: true

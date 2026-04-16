@@ -17,8 +17,6 @@ const dateMatch = tp.file.title.match(/^(\d{4}-\d{2}-\d{2})/);
 tR += dateMatch ? dateMatch[1] : tp.date.now("YYYY-MM-DD");
 %>
 tags:
-  - <% tp.system.prompt("Primary tag") %>
-  - <% tp.system.prompt("Secondary tag (optional)", "") %>
 status:
 RSS: "<% tp.system.prompt("Include in RSS?", "true") %>"
 yaml_end: true

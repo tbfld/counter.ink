@@ -18,7 +18,7 @@ tags:
   - history
   - information
   - media
-  - society
+  - culture/society
   - technology
   - apocalypse
 RSS: false

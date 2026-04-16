@@ -16,10 +16,10 @@ publish: true
 date: 2020-07-18
 tags:
   - j6
-  - violence
+  - governance/violence
   - language
-  - genre
-  - humor
+  - language/genre
+  - culture/humor
 yaml_end: true
 ---
 

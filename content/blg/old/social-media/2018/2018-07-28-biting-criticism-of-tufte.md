@@ -15,10 +15,9 @@ aliases:
 publish: true 
 date: 2018-07-28
 tags:
-  - visualization
-  - dataviz
+  - information/visualization
   - wikipedia
-  - rhetoric
+  - language/rhetoric
 status:
 RSS: false
 yaml_end: true

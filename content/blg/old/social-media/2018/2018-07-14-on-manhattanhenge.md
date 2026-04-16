@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2018-07-14
 tags:
-  - nature
+  - science/nature
   - urbanism
   - language
 status:

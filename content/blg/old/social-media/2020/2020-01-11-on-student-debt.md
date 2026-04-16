@@ -16,8 +16,8 @@ publish: true
 date: 2020-01-11
 tags:
   - education
-  - finance
-  - academia
+  - economics/finance
+  - education/academia
 yaml_end: true
 ---
 

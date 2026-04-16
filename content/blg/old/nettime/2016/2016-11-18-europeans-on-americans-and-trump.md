@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 2016-11-18
 tags:
-  - europe
+  - international/europe
   - language
   - media
-  - right
+  - politics/right
 yaml_end: true
 ---
 

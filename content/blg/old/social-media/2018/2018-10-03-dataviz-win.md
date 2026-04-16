@@ -15,10 +15,9 @@ aliases:
 publish: true 
 date: 2018-10-03
 tags:
-  - data
+  - information/data
   - design
-  - visualization
-  - dataviz
+  - information/visualization
   - science
   - anthropocene
 status:

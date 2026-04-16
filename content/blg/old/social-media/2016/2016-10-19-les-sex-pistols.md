@@ -16,7 +16,7 @@ publish: true
 date: 2016-10-19
 tags:
   - design
-  - music
+  - art/music
   - punk
 status: 
 RSS: “false”

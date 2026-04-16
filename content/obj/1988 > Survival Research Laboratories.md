@@ -17,7 +17,7 @@ date: 1988-05-17
 tags:
   - art
   - technology
-  - 1980s
+  - history/1980s
   - nyc
   - collaboration
   - urbanism

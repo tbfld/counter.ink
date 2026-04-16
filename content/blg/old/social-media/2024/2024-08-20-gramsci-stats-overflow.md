@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2024-11-24
 tags:
-  - statistics
+  - science/statistics
   - history
-  - software
-  - web
-  - satire
+  - technology/software
+  - technology/internet
+  - language/satire
 status: draft
 yaml_end: true
 ---

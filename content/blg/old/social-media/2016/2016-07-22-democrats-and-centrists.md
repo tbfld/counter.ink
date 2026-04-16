@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2016-07-22
 tags:
-  - fascism
-  - left
+  - politics/fascism
+  - politics/leftism
 status: 
 RSS: “false”
 yaml_end: true

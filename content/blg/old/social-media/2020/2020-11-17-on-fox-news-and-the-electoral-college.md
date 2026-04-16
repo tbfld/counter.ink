@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2020-11-17
 tags:
-  - elections
-  - right
-  - disinformation
+  - politics/elections
+  - politics/right
+  - politics/disinformation
 yaml_end: true
 ---
 

@@ -15,8 +15,7 @@ aliases:
 publish: true
 tags:
   - education
-  - publishing
-  - books
+  - media/publishing
   - accessibility
 RSS: false
 yaml_end: true

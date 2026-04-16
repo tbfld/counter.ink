@@ -15,10 +15,11 @@ aliases:
 publish: true
 date: 2020-07-23
 tags:
-  - covid
-  - architecture
-  - sci-fi
-  - literature
+  - health/covid
+  - art/architecture
+  - language/genre
+  - art/film
+  - language/literature
 yaml_end: true
 ---
 

@@ -17,8 +17,8 @@ date: 2020-07-12
 tags:
   - design
   - language
-  - violence
-  - crime
+  - governance/violence
+  - governance/crime
 yaml_end: true
 ---
 

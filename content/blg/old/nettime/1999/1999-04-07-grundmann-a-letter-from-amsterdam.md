@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 1999-04-07
 tags:
-  - europe
+  - international/europe
   - media
 yaml_end: true
 ---

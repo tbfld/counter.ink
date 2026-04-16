@@ -14,10 +14,10 @@ aliases:
 
 publish: 
 tags:
-  - europe
+  - international/europe
   - international
   - language
-  - satire
+  - language/satire
 yaml_end: true
 ---
 

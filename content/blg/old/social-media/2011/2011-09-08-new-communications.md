@@ -16,7 +16,7 @@ publish: true
 date: 2011-09-08
 tags:
   - technology
-  - society
+  - culture/society
   - history
 status: 
 RSS: “true”

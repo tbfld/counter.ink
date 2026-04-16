@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 2025-01-30
 tags:
-  - ai
+  - technology/ai
   - consciousness
   - language
-  - poetry
+  - language/poetry
 status: final
 yaml_end: true
 ---

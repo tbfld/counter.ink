@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-08-01
 tags:
-  - law
+  - governance/law
 yaml_end: true
 ---
 

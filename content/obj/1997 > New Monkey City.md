@@ -17,10 +17,10 @@ publish: true
 date: 1997-01-01
 tags:
   - art
-  - data
-  - books
+  - information/data
+  - media/publishing
   - urbanism
-  - genre
+  - language/genre
 status: 
 RSS: false
 yaml_end: true

@@ -16,7 +16,7 @@ publish: true
 date: 2025-05-18
 tags:
   - politics
-  - literature
+  - language/literature
 status: 
 RSS: true
 yaml_end: true

@@ -15,7 +15,7 @@ publish: true
 date: 2018-08-09
 tags:
   - microsoft
-  - fashion
+  - culture/fashion
 status:
 RSS: false
 yaml_end: true

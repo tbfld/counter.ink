@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2026-02-22
 tags:
-  - law
-  - crime
-  - race
+  - governance/law
+  - governance/crime
+  - culture/race
 status:
 RSS: "true"
 yaml_end: true

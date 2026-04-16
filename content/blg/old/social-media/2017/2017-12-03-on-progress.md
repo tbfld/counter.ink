@@ -16,7 +16,7 @@ publish: true
 date: 2017-12-03
 tags:
   - culture
-  - anthropology
+  - culture/anthropology
 yaml_end: true
 ---
 

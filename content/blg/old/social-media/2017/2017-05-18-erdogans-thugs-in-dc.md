@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2017-05-18
 tags:
-  - turkey
-  - violence
+  - international/turkey
+  - governance/violence
 yaml_end: true
 ---
 

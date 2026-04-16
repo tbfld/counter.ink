@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2017-08-18
 tags:
-  - gop
+  - politics/gop
   - media
 status:
 RSS: false

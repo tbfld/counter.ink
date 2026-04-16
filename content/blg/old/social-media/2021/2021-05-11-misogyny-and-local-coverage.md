@@ -16,10 +16,10 @@ publish: true
 date: 2021-05-11
 tags:
   - media
-  - news
+  - media/news
   - nyc
   - politics
-  - gender
+  - culture/gender
 yaml_end: true
 ---
 

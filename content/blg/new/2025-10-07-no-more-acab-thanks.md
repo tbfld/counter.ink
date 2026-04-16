@@ -16,9 +16,9 @@ publish: true
 date: 2025-10-07
 tags:
   - protest
-  - military
-  - police
-  - civil-society
+  - governance/military
+  - governance/police
+  - governance/civil-society
   - activism
 status: final
 RSS: true

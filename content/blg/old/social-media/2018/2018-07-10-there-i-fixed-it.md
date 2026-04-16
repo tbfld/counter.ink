@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2018-07-10
 tags:
-  - journalism
-  - law
+  - media/journalism
+  - governance/law
 status:
 RSS: false
 yaml_end: true

@@ -16,7 +16,7 @@ publish:
 date: 2025-01-03
 tags:
   - art
-  - publishing
+  - media/publishing
   - technology
 status: final
 yaml_end: true

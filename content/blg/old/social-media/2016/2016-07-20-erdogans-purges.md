@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-07-20
 tags:
-  - turkey
+  - international/turkey
   - politics
 status:
 RSS: “false”

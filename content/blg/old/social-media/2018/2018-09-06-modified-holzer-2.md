@@ -15,8 +15,7 @@ aliases:
 publish: true 
 tags:
   - art
-  - image
-  - art
+  - art/image
   - modification
 status:
 RSS: false

@@ -16,8 +16,8 @@ publish: true
 date: 2020-10-31
 tags:
   - language
-  - orthography
-  - idiom
+  - language/orthography
+  - language/rhetoric
 yaml_end: true
 ---
 

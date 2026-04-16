@@ -15,9 +15,9 @@ aliases:
 publish: true
 tags:
   - language
-  - theory
+  - philosophy/theory
   - design
-  - visual-culture
+  - art/visual-culture
   - history
 RSS: false
 yaml_end: true

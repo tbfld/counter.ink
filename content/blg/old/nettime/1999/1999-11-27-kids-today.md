@@ -16,9 +16,9 @@ publish:
 date: 1999-11-27
 tags:
   - culture
-  - email
+  - media/email
   - generations
-  - trope
+  - language/rhetoric
 yaml_end: true
 ---
 

@@ -17,7 +17,7 @@ date: 2021-03-24
 tags:
   - environmentalism
   - governance
-  - democracy
+  - politics/democracy
 yaml_end: true
 ---
 

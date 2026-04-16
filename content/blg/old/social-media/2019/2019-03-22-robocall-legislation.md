@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2019-03-22
 tags:
-  - corporation
-  - europe
+  - governance/corporation
+  - international/europe
 yaml_end: true
 ---
 

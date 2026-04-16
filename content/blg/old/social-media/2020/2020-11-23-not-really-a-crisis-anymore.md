@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2020-11-23
 tags:
-  - cartoons
+  - art/cartoons
   - politics
   - history
   - energy

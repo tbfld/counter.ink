@@ -16,8 +16,8 @@ publish: true
 date: 2020-04-16
 tags:
   - alcohol
-  - television
-  - trope
+  - media/tv-radio
+  - language/rhetoric
 yaml_end: true
 ---
 

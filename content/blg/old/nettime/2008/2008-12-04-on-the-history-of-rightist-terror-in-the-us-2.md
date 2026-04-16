@@ -16,8 +16,8 @@ publish:
 date: 2008-12-04
 tags:
   - history
-  - left
-  - right
+  - politics/leftism
+  - politics/right
 yaml_end: true
 ---
 

@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-03-31
 tags:
-  - elections
+  - politics/elections
   - politics
 status:
 RSS: “false”

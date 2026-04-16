@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-08-06
 tags:
-  - crime
+  - governance/crime
   - lebanon
-  - ecocide
-  - news
+  - governance/ecocide
+  - media/news
 yaml_end: true
 ---
 

@@ -15,11 +15,10 @@ aliases:
 publish: 
 date: 2019-04-12
 tags:
-  - cryptography
+  - technology/security
   - history
   - politics
-  - security
-  - journalism
+  - media/journalism
 yaml_end: true
 ---
 

@@ -15,7 +15,7 @@ publish: true
 date: 2016-05-08
 tags:
   - design
-  - parenting
+  - culture/parenting
 status:
 RSS: “false”
 yaml_end: true

@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2017-03-09
 tags:
-  - medicine
-  - healthcare
-  - rhetoric
+  - health/medicine
+  - health/care
+  - language/rhetoric
 status:
 RSS: false
 yaml_end: true

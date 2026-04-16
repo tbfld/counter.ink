@@ -16,8 +16,8 @@ publish: true
 date: 2025-03-12
 tags:
   - Canada
-  - fascism
-  - war
+  - politics/fascism
+  - governance/war
   - activism
 status: 
 RSS: true

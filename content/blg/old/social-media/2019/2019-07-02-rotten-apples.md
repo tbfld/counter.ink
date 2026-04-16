@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2019-07-02
 tags:
-  - police
-  - corruption
+  - governance/police
+  - governance/corruption
   - governance
   - accountability
 yaml_end: true

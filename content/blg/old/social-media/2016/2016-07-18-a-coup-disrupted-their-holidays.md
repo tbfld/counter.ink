@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2016-07-18
 tags:
-  - turkey
-  - news
-  - nyt
+  - international/turkey
+  - media/news
+  - media/news/nyt
   - tourism
 status: 
 RSS: “false”

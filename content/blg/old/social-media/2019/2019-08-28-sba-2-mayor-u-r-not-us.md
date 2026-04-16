@@ -15,12 +15,12 @@ aliases:
 publish: true
 date: 2019-08-28
 tags:
-  - police
-  - labor
+  - governance/police
+  - economics/labor
   - nyc
   - religion
-  - news
-  - corruption
+  - media/news
+  - governance/corruption
 yaml_end: true
 ---
 [This](https://twitter.com/SBANYPD/status/1166693523871191040) is how the Sergeants Benevolent Association, which represents 13K current and former NYPD officers, responded to De Blasio saying the city would do everything it can to find the guy who beat a Jewish man in the head with a brick.

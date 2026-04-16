@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 2010-01-13
 tags:
-  - corporation
+  - governance/corporation
 yaml_end: true
 ---
 

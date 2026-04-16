@@ -20,7 +20,7 @@ date: 2024-03-05
 tags:
   - activism
   - print
-  - antifascism
+  - politics/antifascism
 status: 
 RSS: true
 yaml_end: true

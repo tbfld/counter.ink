@@ -15,11 +15,11 @@ aliases:
 publish: 
 date: 1999-02-28
 tags:
-  - data
-  - fascism
+  - information/data
+  - politics/fascism
   - information
-  - internet
-  - right
+  - technology/internet
+  - politics/right
 yaml_end: true
 ---
 

@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2019-03-27
 tags:
-  - meme
-  - parenting
+  - media/meme
+  - culture/parenting
 yaml_end: true
 ---
 

@@ -16,8 +16,8 @@ publish:
 date: 2000-06-13
 tags:
   - education
-  - publishing
-  - capitalism
+  - media/publishing
+  - economics/capitalism
 yaml_end: true
 ---
 

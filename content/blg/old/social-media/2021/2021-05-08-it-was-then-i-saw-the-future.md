@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2021-05-08
 tags:
-  - dance
-  - music
+  - art/dance
+  - art/music
   - history
   - technology
-  - trope
+  - language/rhetoric
 yaml_end: true
 ---
 

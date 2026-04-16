@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2012-11-04
 tags:
-  - uk
+  - international/uk
   - media
-  - corruption
+  - governance/corruption
   - politics
 status:
 RSS: “false”

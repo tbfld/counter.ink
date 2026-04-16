@@ -15,8 +15,8 @@ publish: true
 date: 2019-02-03
 tags:
   - politics
-  - race
-  - journalism
+  - culture/race
+  - media/journalism
 yaml_end: true
 ---
 *Washington Post*, I fixed your headline

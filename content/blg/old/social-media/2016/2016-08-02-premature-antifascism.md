@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2016-08-02
 tags:
-  - nyt
-  - journalism
-  - fascism
+  - media/news/nyt
+  - media/journalism
+  - politics/fascism
   - language
 status:
 RSS: “false”

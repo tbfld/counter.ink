@@ -15,12 +15,12 @@ aliases:
 publish: true
 date: 2019-03-27
 tags:
-  - books
+  - media/publishing
   - imaginary
-  - satire
+  - language/satire
   - history
-  - uk
-  - brexit
+  - international/uk
+  - politics/brexit
 yaml_end: true
 ---
 In “The Indicative Vote of Oliver Letwin,” John Bercow describes ‘a certain British Encyclopedia,’ the Global Emporium of Things Theresa May Can Ignore, in which it is written that brexits are divided into: 

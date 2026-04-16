@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-04-05
 tags:
-  - nyt
+  - media/news/nyt
   - urbanism
 yaml_end: true
 ---

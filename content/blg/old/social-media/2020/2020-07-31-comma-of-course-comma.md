@@ -16,10 +16,10 @@ publish: true
 date: 2020-07-31
 tags:
   - language
-  - orthography
-  - intellectualism
+  - language/orthography
+  - culture/intellectualism
   - culture
-  - class
+  - politics/class
 yaml_end: true
 ---
 

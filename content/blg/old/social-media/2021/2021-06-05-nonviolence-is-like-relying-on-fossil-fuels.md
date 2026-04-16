@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-06-06
 tags:
-  - violence
-  - fascism
+  - governance/violence
+  - politics/fascism
   - politics
-  - left
+  - politics/leftism
 status: 
 RSS: true
 yaml_end: true

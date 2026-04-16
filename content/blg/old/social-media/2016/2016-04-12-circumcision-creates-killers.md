@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2016-04-12
 tags:
-  - gender
+  - culture/gender
   - cars
 status:
 RSS: “false”

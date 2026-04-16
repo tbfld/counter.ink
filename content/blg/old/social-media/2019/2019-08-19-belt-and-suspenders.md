@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2019-08-19
 tags:
-  - fashion
+  - culture/fashion
   - design
-  - idiom
+  - language/rhetoric
 yaml_end: true
 ---
 This is some serious next-level belt-and-suspenders action: the suspenders end in a belt loop AND THAT LOOP HAS A LOOP FOR THE BELT LOOP.

@@ -14,10 +14,10 @@ aliases:
 publish: true
 tags:
   - art
-  - academia
-  - cinema
-  - statistics
-  - aesthetics
+  - education/academia
+  - art/cinema
+  - science/statistics
+  - art/aesthetics
 yaml_end: true
 ---
 This \[“# To Cite or to Steal? When a Scholarly Project Turns Up in a Gallery”] is *excellent* in every respect.

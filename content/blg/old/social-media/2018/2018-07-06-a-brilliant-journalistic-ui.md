@@ -16,9 +16,8 @@ publish: true
 date: 2018-07-06
 tags:
   - design
-  - interface
-  - magazines
-  - publishing
+  - design/interface
+  - media/publishing
   - writing
 status: 
 RSS: false

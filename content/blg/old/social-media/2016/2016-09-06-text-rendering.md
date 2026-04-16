@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-09-06
 tags:
-  - typography
+  - design/typography
   - signage
   - technology
 status: 

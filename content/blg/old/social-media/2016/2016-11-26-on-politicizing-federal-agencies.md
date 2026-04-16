@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-11-26
 tags:
-  - institution
+  - governance/institution
 status: 
 RSS: “false”
 yaml_end: true

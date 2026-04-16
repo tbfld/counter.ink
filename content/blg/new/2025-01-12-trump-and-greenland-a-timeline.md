@@ -18,12 +18,12 @@ tags:
   - governance
   - history
   - international
-  - journalism
-  - military
-  - national
+  - media/journalism
+  - governance/military
+  - politics/national
   - politics
-  - right
-  - security
+  - politics/right
+  - technology/security
 status: final
 yaml_end: true
 ---

@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2018-11-05
 tags:
-  - law
+  - governance/law
   - governance
-  - crime
+  - governance/crime
   - legislation
 status:
 RSS: false

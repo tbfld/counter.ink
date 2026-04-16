@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-06-29
 tags:
-  - media-analysis
-  - theory
-  - aesthetics
+  - media/analysis
+  - philosophy/theory
+  - art/aesthetics
   - secrecy
   - history
 yaml_end: true

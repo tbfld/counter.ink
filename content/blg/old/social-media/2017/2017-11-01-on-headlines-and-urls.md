@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2017-11-01
 tags:
-  - left
-  - news
-  - nyt
+  - politics/leftism
+  - media/news
+  - media/news/nyt
 yaml_end: true
 ---
 

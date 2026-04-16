@@ -16,8 +16,8 @@ publish: true
 date: 2020-03-30
 tags:
   - visuality
-  - interface
-  - meme
+  - design/interface
+  - media/meme
   - history
 yaml_end: true
 ---

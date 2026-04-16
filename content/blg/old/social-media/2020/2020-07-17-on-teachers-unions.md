@@ -16,7 +16,7 @@ publish: true
 date: 2020-07-17
 tags:
   - education
-  - labor
+  - economics/labor
   - economics
   - activism
 yaml_end: true

@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2021-04-14
 tags:
-  - aviation
-  - literature
+  - technology/aviation
+  - language/literature
   - governance
 yaml_end: true
 ---

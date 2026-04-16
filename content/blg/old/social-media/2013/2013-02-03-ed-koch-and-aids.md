@@ -14,7 +14,7 @@ aliases:
 publish: true
 tags:
   - nyc
-  - 1980s
+  - history/1980s
   - aids
 status:
 RSS: “false”

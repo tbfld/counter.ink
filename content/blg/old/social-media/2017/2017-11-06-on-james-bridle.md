@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2017-11-06
 tags:
-  - internet
-  - ml
-  - video
-  - parenting
+  - technology/internet
+  - technology/ai
+  - media/video
+  - culture/parenting
 status:
 RSS: false
 yaml_end: true

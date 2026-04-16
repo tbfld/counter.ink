@@ -17,7 +17,7 @@ date: 2019-12-08
 tags:
   - history
   - generations
-  - genre
+  - language/genre
 yaml_end: true
 ---
 

@@ -16,7 +16,7 @@ publish:
 date: 2025-01-24
 tags:
   - art
-  - institution
+  - governance/institution
   - language
   - technology
 status: final

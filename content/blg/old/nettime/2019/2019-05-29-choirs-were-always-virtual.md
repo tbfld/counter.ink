@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2019-05-29
 tags:
-  - music
+  - art/music
   - technology
-  - performance
+  - art/performance
 yaml_end: true
 ---
 

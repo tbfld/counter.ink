@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-12-02
 tags:
-  - nuclear
+  - governance/nuclear
 status: 
 RSS: “false”
 yaml_end: true

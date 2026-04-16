@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2020-08-07
 tags:
-  - covid
+  - health/covid
   - education
-  - institution
+  - governance/institution
 status: 
 RSS: false
 yaml_end: true

@@ -16,7 +16,7 @@ date: 2009-10-10
 tags:
   - columbia
   - nyc
-  - computation
+  - technology/computation
   - history
 status:
 RSS: “true”

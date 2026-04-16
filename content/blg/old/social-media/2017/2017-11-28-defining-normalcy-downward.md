@@ -16,8 +16,8 @@ publish: true
 date: 2017-11-28
 tags:
   - language
-  - statistics
-  - society
+  - science/statistics
+  - culture/society
   - google
 yaml_end: true
 ---

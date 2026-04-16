@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2024-09-09
 tags:
-  - judiciary
-  - literature
+  - governance/judiciary
+  - language/literature
 yaml_end: true
 ---
 

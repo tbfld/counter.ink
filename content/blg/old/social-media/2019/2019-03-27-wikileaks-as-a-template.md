@@ -18,7 +18,7 @@ tags:
   - leaks
   - politics
   - secrecy
-  - security
+  - technology/security
 yaml_end: true
 ---
 [[2011 > “WikiLeaks Has Radically Altered the Military-Diplomatic-Information Complex — 10 Reasons For and Against”|I wrote this 8 years ago about Wikileaks]], and beyond holding up pretty well it applies to the Mueller Report — though we don’t have a Mueller suffix yet.

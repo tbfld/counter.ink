@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2017-03-14
 tags:
-  - satire
-  - film
+  - language/satire
+  - art/film
   - pr
 yaml_end: true
 ---

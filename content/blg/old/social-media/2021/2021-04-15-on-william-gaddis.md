@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2021-04-15
 tags:
-  - literature
-  - publishing
+  - language/literature
+  - media/publishing
   - writing
 yaml_end: true
 ---

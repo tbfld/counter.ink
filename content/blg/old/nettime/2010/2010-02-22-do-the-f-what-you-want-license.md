@@ -14,8 +14,8 @@ aliases:
 publish:
 date: 2010-02-22
 tags:
-  - intellectual-property
-  - software
+  - governance/ip
+  - technology/software
 yaml_end: true
 ---
 To: Nettime-l

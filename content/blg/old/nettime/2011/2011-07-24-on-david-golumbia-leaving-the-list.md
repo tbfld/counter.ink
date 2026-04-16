@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2011-07-24
 tags:
-  - left
-  - satire
-  - email
+  - politics/leftism
+  - language/satire
+  - media/email
 yaml_end: true
 ---
 

@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-12-08
 tags:
-  - space
+  - science/space
 status: 
 RSS: “false”
 yaml_end: true

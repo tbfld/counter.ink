@@ -15,8 +15,8 @@ publish: true
 date: 2016-11-20
 tags:
   - nyc
-  - usa
-  - trope
+  - international/usa
+  - language/rhetoric
 status:
 RSS: “false”
 yaml_end: true

@@ -16,9 +16,9 @@ publish:
 date: 2014-02-16
 tags:
   - education
-  - institution
-  - theory
-  - academia
+  - governance/institution
+  - philosophy/theory
+  - education/academia
   - economics
 yaml_end: true
 ---

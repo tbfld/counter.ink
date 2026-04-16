@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2020-11-10
 tags:
-  - crime
-  - national
-  - right
+  - governance/crime
+  - politics/national
+  - politics/right
 yaml_end: true
 ---
 

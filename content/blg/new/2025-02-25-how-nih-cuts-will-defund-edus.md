@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2025-02-22
 tags:
-  - academia
+  - education/academia
   - education
   - governance
-  - fascism
+  - politics/fascism
 status: 
 RSS: true
 yaml_end: true

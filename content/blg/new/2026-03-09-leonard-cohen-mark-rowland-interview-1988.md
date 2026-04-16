@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2026-03-09
 tags:
-  - music
-  - poetry
+  - art/music
+  - language/poetry
   - philosophy
 status:
 RSS: "true"

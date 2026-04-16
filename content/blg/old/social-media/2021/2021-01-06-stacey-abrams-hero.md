@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-01-06
 tags:
-  - elections
+  - politics/elections
   - politics
   - media
-  - race
+  - culture/race
 yaml_end: true
 ---
 

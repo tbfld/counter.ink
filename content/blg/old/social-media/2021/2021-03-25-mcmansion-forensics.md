@@ -15,12 +15,12 @@ aliases:
 publish: true
 date: 2021-03-25
 tags:
-  - architecture
-  - forensics
-  - image
-  - nyt
+  - art/architecture
+  - technology/forensics
+  - art/image
+  - media/news/nyt
   - climate
-  - visual-culture
+  - art/visual-culture
 status: 
 RSS: false
 yaml_end: true

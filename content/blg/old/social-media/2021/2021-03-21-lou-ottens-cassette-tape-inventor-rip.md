@@ -19,7 +19,7 @@ tags:
   - technology
   - history
   - standards
-  - device
+  - technology/hardware
 yaml_end: true
 ---
 

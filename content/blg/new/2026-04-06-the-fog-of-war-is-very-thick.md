@@ -15,7 +15,7 @@ publish: true
 date: 2026-04-06
 tags:
   - media
-  - war
+  - governance/war
 status:
 RSS: "true"
 yaml_end: true

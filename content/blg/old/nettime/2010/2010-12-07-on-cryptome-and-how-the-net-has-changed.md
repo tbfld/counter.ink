@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 2010-12-07
 tags:
-  - cryptography
+  - technology/security
   - information
   - censorship
 yaml_end: true

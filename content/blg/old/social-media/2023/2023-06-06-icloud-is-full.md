@@ -15,7 +15,7 @@ aliases:
 publish: true 
 tags:
   - technology
-  - satire
+  - language/satire
 yaml_end: true
 ---
 

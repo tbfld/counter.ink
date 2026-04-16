@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2019-08-29
 tags:
-  - meme
+  - media/meme
   - politics
-  - protocol
-  - fascism
+  - technology/internet
+  - politics/fascism
 yaml_end: true
 ---
 

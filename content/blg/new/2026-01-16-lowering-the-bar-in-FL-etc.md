@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2026-01-16
 tags:
-  - law
+  - governance/law
   - education
 status:
 RSS: true

@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-07-24
 tags:
-  - news
+  - media/news
   - governance
 status: 
 RSS: “false”

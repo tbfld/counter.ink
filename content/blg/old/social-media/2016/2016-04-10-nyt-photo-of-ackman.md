@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2016-04-10
 tags:
-  - nyt
+  - media/news/nyt
   - wealth
 status:
 RSS: “false”

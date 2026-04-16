@@ -15,9 +15,9 @@ publish: true
 date: 2019-02-26
 tags:
   - wealth
-  - aesthetics
-  - medicine
-  - gender
+  - art/aesthetics
+  - health/medicine
+  - culture/gender
 yaml_end: true
 ---
 

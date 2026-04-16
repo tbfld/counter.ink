@@ -16,8 +16,8 @@ publish: true
 date: 2025-05-27
 tags:
   - politics
-  - elections
-  - democrats
+  - politics/elections
+  - politics/democrats
 status: 
 RSS: true
 yaml_end: true

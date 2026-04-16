@@ -17,7 +17,7 @@ date: 2019-12-16
 tags:
   - colors
   - protest
-  - china
+  - international/asia
 yaml_end: true
 ---
 

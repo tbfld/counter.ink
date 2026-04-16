@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2019-03-17
 tags:
-  - social-media
-  - photography
+  - media/social
+  - art/photography
 yaml_end: true
 ---
 

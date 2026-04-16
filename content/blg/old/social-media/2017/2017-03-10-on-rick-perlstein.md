@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2017-03-10
 tags:
-  - right
+  - politics/right
   - science
 yaml_end: true
 ---

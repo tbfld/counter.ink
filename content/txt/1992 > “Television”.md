@@ -14,7 +14,7 @@ aliases:
 
 publish: true
 tags:
-  - device
+  - technology/hardware
   - information
   - language
   - media

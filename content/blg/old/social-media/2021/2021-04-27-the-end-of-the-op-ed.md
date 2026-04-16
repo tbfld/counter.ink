@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2021-04-27
 tags:
-  - nyt
+  - media/news/nyt
   - language
   - technology
 status: 

@@ -15,8 +15,6 @@ aliases:
 publish: 
 date: 1997-12-02
 tags:
-  - "#media-analysis"
-  - "#internet"
   - anonymity
 yaml_end: true
 ---

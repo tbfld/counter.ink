@@ -17,9 +17,9 @@ tags:
   - design
   - history
   - information
-  - interface
+  - design/interface
   - international
-  - internet
+  - technology/internet
   - language
 RSS: false
 yaml_end: true

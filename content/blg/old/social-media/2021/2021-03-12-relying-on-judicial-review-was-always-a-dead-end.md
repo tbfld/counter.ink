@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-03-12
 tags:
-  - corporation
-  - institution
-  - left
-  - right
+  - governance/corporation
+  - governance/institution
+  - politics/leftism
+  - politics/right
 RSS: true
 yaml_end: true
 ---

@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2016-10-04
 tags:
-  - consumerism
+  - economics/consumerism
   - history
-  - france
-  - theory
+  - international/france
+  - philosophy/theory
 status:
 RSS: “false”
 yaml_end: true

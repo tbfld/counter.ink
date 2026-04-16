@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2017-01-17
 tags:
-  - photography
-  - space
+  - art/photography
+  - science/space
 status:
 RSS: false
 yaml_end: true

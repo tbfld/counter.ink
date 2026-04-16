@@ -14,12 +14,12 @@ aliases:
 
 publish: true
 tags:
-  - crime
-  - law
+  - governance/crime
+  - governance/law
   - media
-  - national
-  - security
-  - war
+  - politics/national
+  - technology/security
+  - governance/war
 RSS: false
 yaml_end: true
 ---

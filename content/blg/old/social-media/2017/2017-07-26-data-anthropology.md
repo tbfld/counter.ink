@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2017-07-26
 tags:
-  - data
-  - disciplinarity
+  - information/data
+  - education/disciplinarity
 yaml_end: true
 ---
 

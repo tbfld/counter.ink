@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2020-05-05
 tags:
-  - covid
+  - health/covid
   - numbers
-  - statistics
+  - science/statistics
   - mortality
-  - policy
+  - governance/policy
 status: 
 RSS: false
 yaml_end: true

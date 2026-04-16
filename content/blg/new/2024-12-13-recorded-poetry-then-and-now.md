@@ -18,7 +18,7 @@ tags:
   - art
   - language
   - media
-  - publishing
+  - media/publishing
 status: draft
 yaml_end: true
 ---

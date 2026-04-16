@@ -16,7 +16,7 @@ publish: true
 date: 2024-08-27
 tags:
   - urbanism
-  - graffiti
+  - art/graffiti
 yaml_end: true
 ---
 

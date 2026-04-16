@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2025-01-01
 tags:
-  - email
-  - internet
+  - media/email
+  - technology/internet
   - language
 status: 
 RSS: false

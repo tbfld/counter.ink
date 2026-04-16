@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2020-07-24
 tags:
-  - covid
-  - corporation
-  - policy
+  - health/covid
+  - governance/corporation
+  - governance/policy
 yaml_end: true
 ---
 

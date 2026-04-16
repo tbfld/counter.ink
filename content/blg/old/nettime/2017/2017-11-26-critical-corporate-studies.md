@@ -15,16 +15,16 @@ aliases:
 publish:
 date: 2017-11-26
 tags:
-  - 1970s
-  - 1980s
-  - corporation
-  - data
+  - history/1970s
+  - history/1980s
+  - governance/corporation
+  - information/data
   - history
-  - internet
-  - literature
+  - technology/internet
+  - language/literature
   - media
-  - national
-  - right
+  - politics/national
+  - politics/right
 yaml_end: true
 ---
 

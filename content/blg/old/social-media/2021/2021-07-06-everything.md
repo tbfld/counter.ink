@@ -14,9 +14,9 @@ aliases:
 
 publish: true 
 tags:
-  - visual-culture
+  - art/visual-culture
   - everything
-  - genre
+  - language/genre
   - diagram
 yaml_end: true
 ---

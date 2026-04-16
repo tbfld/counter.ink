@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2020-11-07
 tags:
-  - music
-  - media-analysis
+  - art/music
+  - media/analysis
 yaml_end: true
 ---
 

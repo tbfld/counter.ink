@@ -15,12 +15,11 @@ aliases:
 publish: 
 date: 1999-09-18
 tags:
-  - cryptography
-  - data
-  - device
-  - email
-  - internet
-  - security
+  - technology/security
+  - information/data
+  - technology/hardware
+  - media/email
+  - technology/internet
   - technology
 yaml_end: true
 ---

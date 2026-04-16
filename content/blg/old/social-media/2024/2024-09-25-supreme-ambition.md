@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2024-09-25
 tags:
-  - law
+  - governance/law
   - governance
-  - ethics
+  - philosophy/ethics
 yaml_end: true
 ---
 

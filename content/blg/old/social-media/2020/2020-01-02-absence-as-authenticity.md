@@ -16,8 +16,8 @@ publish: true
 date: 2020-01-02
 tags:
   - language
-  - genre
-  - idiom
+  - language/genre
+  - language/rhetoric
 yaml_end: true
 ---
 

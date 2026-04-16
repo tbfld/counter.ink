@@ -18,7 +18,7 @@ tags:
   - insurance
   - nyc
   - accountability
-  - crime
+  - governance/crime
 status:
 RSS: “false”
 yaml_end: true

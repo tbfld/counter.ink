@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2020-12-10
 tags:
-  - internet
-  - social-media
-  - law
+  - technology/internet
+  - media/social
+  - governance/law
 yaml_end: true
 ---
 

@@ -18,11 +18,11 @@ tags:
   - design
   - history
   - information
-  - society
-  - theory
-  - 1960s
-  - 1970s
-  - 1980s
+  - culture/society
+  - philosophy/theory
+  - history/1960s
+  - history/1970s
+  - history/1980s
 RSS: false
 yaml_end: true
 ---

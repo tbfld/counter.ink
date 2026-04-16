@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2021-04-03
 tags:
-  - nyt
+  - media/news/nyt
   - nyc
-  - real-estate
+  - urbanism/real-estate
   - media
-  - cultural-commentary
+  - culture
 status: 
 RSS: false
 yaml_end: true

@@ -16,7 +16,7 @@ publish: true
 date: 2017-07-29
 tags:
   - history
-  - institution
+  - governance/institution
 status:
 RSS: false
 yaml_end: true

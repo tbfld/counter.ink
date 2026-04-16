@@ -15,13 +15,13 @@ aliases:
 publish: 
 date: 1999-10-21
 tags:
-  - corporation
-  - data
+  - governance/corporation
+  - information/data
   - information
   - international
-  - internet
-  - national
-  - security
+  - technology/internet
+  - politics/national
+  - technology/security
 yaml_end: true
 ---
 

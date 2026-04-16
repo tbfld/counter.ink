@@ -16,8 +16,8 @@ date: 2016-10-16
 tags:
   - politics
   - media
-  - journalism
-  - right
+  - media/journalism
+  - politics/right
 status:
 RSS: “false”
 yaml_end: true

@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2018-07-04
 tags:
-  - right
-  - law
-  - crime
+  - politics/right
+  - governance/law
+  - governance/crime
 status:
 RSS: false
 yaml_end: true

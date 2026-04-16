@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-06-06
 tags:
-  - cartoons
+  - art/cartoons
   - philosophy
 status:
 RSS: “false”

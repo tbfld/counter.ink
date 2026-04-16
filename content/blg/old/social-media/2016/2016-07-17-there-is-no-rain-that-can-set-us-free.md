@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-07-17
 tags:
-  - cinema
+  - art/cinema
 status:
 RSS: “false”
 yaml_end: true

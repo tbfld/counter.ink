@@ -15,15 +15,15 @@ aliases:
 publish:
 date: 2017-06-18
 tags:
-  - institution
+  - governance/institution
   - language
-  - left
+  - politics/leftism
   - media
-  - meme
-  - news
+  - media/meme
+  - media/news
   - politics
-  - right
-  - society
+  - politics/right
+  - culture/society
 yaml_end: true
 ---
 

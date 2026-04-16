@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2016-12-04
 tags:
-  - institution
+  - governance/institution
   - international
-  - left
+  - politics/leftism
 status: 
 RSS: “false”
 yaml_end: true

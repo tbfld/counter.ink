@@ -15,9 +15,10 @@ aliases:
 publish: true 
 date: 2019-04-04
 tags:
-  - visual-culture
-  - literature
-  - sci-fi
+  - art/visual-culture
+  - language/literature
+  - language/genre
+  - art/film
 yaml_end: true
 ---
 

@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2016-12-08
 tags:
-  - journalism
-  - nyt
+  - media/journalism
+  - media/news/nyt
 status: 
 RSS: “false”
 yaml_end: true

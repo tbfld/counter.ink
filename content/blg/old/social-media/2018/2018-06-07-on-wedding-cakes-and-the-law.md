@@ -16,10 +16,10 @@ publish: true
 date: 2018-06-07
 tags:
   - art
-  - corporation
+  - governance/corporation
   - language
-  - law
-  - left
+  - governance/law
+  - politics/leftism
 status:
 RSS: false
 yaml_end: true

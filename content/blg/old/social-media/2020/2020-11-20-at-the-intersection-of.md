@@ -16,7 +16,7 @@ publish: true
 date: 2020-11-20
 tags:
   - language
-  - rhetoric
+  - language/rhetoric
 yaml_end: true
 ---
 

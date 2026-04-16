@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2020-01-23
 tags:
-  - genre
-  - academia
-  - trope
+  - language/genre
+  - education/academia
+  - language/rhetoric
 yaml_end: true
 ---
 

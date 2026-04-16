@@ -15,8 +15,8 @@ publish:
 date: 1997-01-06
 tags:
   - mathematics
-  - metaphor
-  - theory
+  - language/rhetoric
+  - philosophy/theory
 yaml_end: true
 ---
 To:  nettime-l

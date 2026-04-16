@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2016-04-23
 tags:
-  - theory
-  - theater
+  - philosophy/theory
+  - art/theater
 status:
 RSS: “false”
 yaml_end: true

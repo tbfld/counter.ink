@@ -16,7 +16,7 @@ publish: true
 date: 2020-08-01
 tags:
   - international
-  - academia
+  - education/academia
 status: 
 RSS: true
 yaml_end: true

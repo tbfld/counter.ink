@@ -15,7 +15,7 @@ publish: true
 date: 2016-12-07
 tags:
   - facebook
-  - metaphor
+  - language/rhetoric
 status:
 RSS: “false”
 yaml_end: true

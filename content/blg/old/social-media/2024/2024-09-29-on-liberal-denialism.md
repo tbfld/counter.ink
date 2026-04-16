@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2024-09-29
 tags:
-  - gop
-  - right
+  - politics/gop
+  - politics/right
   - politics
 yaml_end: true
 ---

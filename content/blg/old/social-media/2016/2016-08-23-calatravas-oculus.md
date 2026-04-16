@@ -17,7 +17,7 @@ date: 2016-08-23
 tags:
   - nyc
   - urbanism
-  - architecture
+  - art/architecture
 status: 
 RSS: “false”
 yaml_end: true

@@ -16,9 +16,9 @@ publish: true
 tags:
   - art
   - language
-  - image
-  - media-analysis
-  - aesthetics
+  - art/image
+  - media/analysis
+  - art/aesthetics
   - colors
 RSS: false
 yaml_end: true

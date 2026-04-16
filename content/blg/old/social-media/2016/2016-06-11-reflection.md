@@ -16,7 +16,7 @@ publish: true
 date: 2016-06-11
 tags:
   - urbanism
-  - photography
+  - art/photography
 status:
 RSS: “false”
 yaml_end: true

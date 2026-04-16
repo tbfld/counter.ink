@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2018-03-28
 tags:
-  - computation
+  - technology/computation
   - language
-  - theory
+  - philosophy/theory
   - sociology
 status:
 RSS: false

@@ -16,10 +16,10 @@ publish: true
 date: 2019-10-01
 tags:
   - comic
-  - illustration
-  - publishing
-  - cultural-commentary
-  - 1980s
+  - art/illustration
+  - media/publishing
+  - culture
+  - history/1980s
 yaml_end: true
 ---
 

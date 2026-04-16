@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2018-09-29
 tags:
-  - gender
-  - violence
-  - institution
+  - culture/gender
+  - governance/violence
+  - governance/institution
 status:
 RSS: false
 yaml_end: true

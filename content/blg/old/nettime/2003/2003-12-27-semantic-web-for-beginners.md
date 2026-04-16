@@ -15,11 +15,11 @@ aliases:
 publish: 
 date: 2003-12-27
 tags:
-  - data
+  - information/data
   - design
   - information
   - language
-  - news
+  - media/news
 yaml_end: true
 ---
 

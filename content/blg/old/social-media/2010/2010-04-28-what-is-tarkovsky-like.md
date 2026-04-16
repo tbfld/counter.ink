@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2010-04-28
 tags:
-  - cinema
-  - computation
-  - statistics
-  - ml
+  - art/cinema
+  - technology/computation
+  - science/statistics
+  - technology/ai
 status:
 RSS: “true”
 yaml_end: true

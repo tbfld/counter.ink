@@ -14,9 +14,9 @@ aliases:
 publish:
 date: 2001-02-07
 tags:
-  - internet
+  - technology/internet
   - spam
-  - theory
+  - philosophy/theory
 yaml_end: true
 ---
 To: nettime-l

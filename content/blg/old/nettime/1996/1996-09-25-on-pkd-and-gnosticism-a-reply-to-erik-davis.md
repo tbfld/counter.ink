@@ -18,7 +18,7 @@ tags:
   - history
   - language
   - fiction
-  - theology
+  - religion/theology
   - politics
   - religion
 yaml_end: true

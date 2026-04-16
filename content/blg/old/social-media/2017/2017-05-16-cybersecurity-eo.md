@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2017-05-16
 tags:
-  - right
-  - security
+  - politics/right
+  - technology/security
   - governance
   - russia
 yaml_end: true

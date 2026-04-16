@@ -15,11 +15,11 @@ aliases:
 publish: true 
 date: 2021-02-19
 tags:
-  - europe
+  - international/europe
   - history
   - international
   - interdisciplinarity
-  - intellectualism
+  - culture/intellectualism
 yaml_end: true
 ---
 

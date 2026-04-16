@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 2011-05-30
 tags:
-  - europe
+  - international/europe
   - history
   - media
-  - meme
+  - media/meme
   - apocalypse
 yaml_end: true
 ---

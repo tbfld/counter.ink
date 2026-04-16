@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2017-12-16
 tags:
-  - device
-  - email
+  - technology/hardware
+  - media/email
 yaml_end: true
 ---
 

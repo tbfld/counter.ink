@@ -14,10 +14,10 @@ aliases:
 publish: true
 tags:
   - art
-  - aesthetics
+  - art/aesthetics
   - museum
   - politics
-  - corporation
+  - governance/corporation
 status:
 RSS: “false”
 yaml_end: true

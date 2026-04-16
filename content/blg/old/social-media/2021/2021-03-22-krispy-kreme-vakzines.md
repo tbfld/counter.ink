@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-03-22
 tags:
-  - covid
-  - food
-  - corporation
+  - health/covid
+  - culture/food
+  - governance/corporation
 yaml_end: true
 ---
 

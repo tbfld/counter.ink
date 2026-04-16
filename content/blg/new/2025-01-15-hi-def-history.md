@@ -15,11 +15,11 @@ aliases:
 publish: 
 date: 2025-01-15
 tags:
-  - ai
+  - technology/ai
   - history
   - media
   - technology
-  - video
+  - media/video
   - visuality
 status: final
 yaml_end: true

@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2019-09-24
 tags:
-  - brexit
-  - uk
-  - france
-  - 1980s
+  - politics/brexit
+  - international/uk
+  - international/france
+  - history/1980s
 yaml_end: true
 ---
 

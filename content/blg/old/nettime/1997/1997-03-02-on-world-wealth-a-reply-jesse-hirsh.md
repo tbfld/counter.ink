@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 1997-03-02
 tags:
-  - internet
+  - technology/internet
 yaml_end: true
 ---
 

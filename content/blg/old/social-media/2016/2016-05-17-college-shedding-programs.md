@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-05-17
 tags:
-  - academia
+  - education/academia
   - education
 status: 
 RSS: “false”

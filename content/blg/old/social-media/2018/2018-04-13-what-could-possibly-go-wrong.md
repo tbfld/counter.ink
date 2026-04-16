@@ -16,7 +16,7 @@ date: 2018-04-13
 tags:
   - history
   - museum
-  - computation
+  - technology/computation
   - media
 status:
 RSS: false

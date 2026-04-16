@@ -15,8 +15,8 @@ publish: true
 date: 2026-01-24
 tags:
   - design
-  - forensics
-  - institution
+  - technology/forensics
+  - governance/institution
   - history
 status:
 RSS: "true"

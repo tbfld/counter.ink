@@ -15,10 +15,9 @@ aliases:
 publish: true 
 date: 2019-12-19
 tags:
-  - national
-  - gender
-  - masculinity
-  - right
+  - politics/national
+  - culture/gender
+  - politics/right
 yaml_end: true
 ---
 

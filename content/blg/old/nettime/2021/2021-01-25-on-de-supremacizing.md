@@ -15,8 +15,8 @@ aliases:
 publish: 
 date: 2021-01-25
 tags:
-  - democracy
-  - right
+  - politics/democracy
+  - politics/right
 yaml_end: true
 ---
 

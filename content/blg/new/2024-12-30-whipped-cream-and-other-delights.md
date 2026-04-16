@@ -17,7 +17,7 @@ date: 2024-12-30
 tags:
   - art
   - design
-  - music
+  - art/music
 status: final
 yaml_end: true
 ---

@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2019-02-07
 tags:
-  - web
+  - technology/internet
   - privacy
   - technology
 yaml_end: true

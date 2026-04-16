@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-07-26
 tags:
-  - visualization
+  - information/visualization
 yaml_end: true
 ---
 

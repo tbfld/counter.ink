@@ -15,11 +15,11 @@ aliases:
 publish: true 
 date: 2017-08-31
 tags:
-  - meme
+  - media/meme
   - philosophy
-  - satire
-  - statistics
-  - internet
+  - language/satire
+  - science/statistics
+  - technology/internet
 yaml_end: true
 ---
 

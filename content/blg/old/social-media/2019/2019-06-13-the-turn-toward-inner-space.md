@@ -15,14 +15,14 @@ aliases:
 publish: true
 date: 2019-06-13
 tags:
-  - uk
+  - international/uk
   - postpunk
-  - literature
-  - books
-  - music
-  - 1960s
-  - 1980s
-  - cultural-commentary
+  - language/literature
+  - media/publishing
+  - art/music
+  - history/1960s
+  - history/1980s
+  - culture
   - psychology
   - psychedelics
 yaml_end: true

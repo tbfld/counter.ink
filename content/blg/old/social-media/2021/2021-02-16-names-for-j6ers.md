@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2021-02-16
 tags:
-  - law
+  - governance/law
   - media
-  - national
-  - right
+  - politics/national
+  - politics/right
   - language
 yaml_end: true
 ---

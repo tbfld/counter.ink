@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2016-05-10
 tags:
-  - 1970s
+  - history/1970s
 status: 
 RSS: “false”
 yaml_end: true

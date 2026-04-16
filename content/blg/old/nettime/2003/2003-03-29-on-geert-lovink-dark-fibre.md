@@ -16,8 +16,8 @@ publish:
 date: 2003-03-29
 tags:
   - culture
-  - publishing
-  - theory
+  - media/publishing
+  - philosophy/theory
 yaml_end: true
 ---
 

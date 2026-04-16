@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2016-11-26
 tags:
-  - centrism
+  - politics/centrism
   - culture
   - elites
-  - democrats
+  - politics/democrats
 status: 
 RSS: “false”
 yaml_end: true

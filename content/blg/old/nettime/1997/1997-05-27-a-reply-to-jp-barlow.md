@@ -15,12 +15,8 @@ aliases:
 publish: 
 date: 1997-05-27
 tags:
-  - "#media"
-  - "#politics"
-  - "#communication"
-  - "#cyberspace"
-  - email
-  - libertarianism
+  - media/email
+  - politics/libertarianism
 yaml_end: true
 ---
 

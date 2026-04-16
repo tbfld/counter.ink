@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2025-02-26
 tags:
-  - academia
-  - finance
-  - fascism
+  - education/academia
+  - economics/finance
+  - politics/fascism
   - denialism
 status:
 yaml_end: true

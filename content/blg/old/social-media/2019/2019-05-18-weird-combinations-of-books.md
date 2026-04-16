@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2019-05-18
 tags:
-  - music
+  - art/music
   - culture
-  - literature
+  - language/literature
 yaml_end: true
 ---
 

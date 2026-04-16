@@ -17,7 +17,7 @@ date: 2019-03-06
 tags:
   - israel
   - religion
-  - right
+  - politics/right
   - media
 yaml_end: true
 ---

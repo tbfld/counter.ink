@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-07-09
 tags:
-  - covid
+  - health/covid
   - numbers
-  - statistics
-  - data
+  - science/statistics
+  - information/data
 yaml_end: true
 ---
 

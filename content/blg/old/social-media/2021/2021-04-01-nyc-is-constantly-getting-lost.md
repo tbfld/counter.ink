@@ -17,7 +17,7 @@ date: 2021-04-01
 tags:
   - nyc
   - history
-  - food
+  - culture/food
 yaml_end: true
 ---
 

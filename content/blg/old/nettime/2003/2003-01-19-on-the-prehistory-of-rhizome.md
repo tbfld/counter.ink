@@ -16,7 +16,7 @@ publish:
 date: 2003-01-19
 tags:
   - art
-  - finance
+  - economics/finance
   - history
 yaml_end: true
 ---

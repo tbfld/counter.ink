@@ -16,10 +16,10 @@ publish: true
 date: 2020-04-22
 tags:
   - education
-  - academia
-  - labor
-  - covid
-  - finance
+  - education/academia
+  - economics/labor
+  - health/covid
+  - economics/finance
 status: 
 RSS: false
 yaml_end: true

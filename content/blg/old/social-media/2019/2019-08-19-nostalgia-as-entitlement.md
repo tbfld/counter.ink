@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-08-19
 tags:
-  - meme
+  - media/meme
   - politics
 yaml_end: true
 ---

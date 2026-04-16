@@ -17,7 +17,7 @@ date: 2016-05-19
 tags:
   - education
   - governance
-  - finance
+  - economics/finance
   - debt
   - wealth
 status: 

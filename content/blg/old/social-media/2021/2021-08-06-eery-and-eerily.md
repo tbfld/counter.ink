@@ -16,7 +16,7 @@ publish: true
 date: 2021-08-06
 tags:
   - media
-  - news
+  - media/news
   - language
   - anonymity
 status: 

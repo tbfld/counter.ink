@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2016-05-17
 tags:
-  - nature
-  - crime
+  - science/nature
+  - governance/crime
 status: 
 RSS: “false”
 yaml_end: true

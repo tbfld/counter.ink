@@ -15,10 +15,10 @@ aliases:
 publish: 
 date: 1999-11-10
 tags:
-  - email
-  - internet
-  - law
-  - national
+  - media/email
+  - technology/internet
+  - governance/law
+  - politics/national
   - politics
 yaml_end: true
 ---

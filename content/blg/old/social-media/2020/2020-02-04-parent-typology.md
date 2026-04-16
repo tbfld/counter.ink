@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2020-02-04
 tags:
-  - parenting
-  - trope
-  - satire
+  - culture/parenting
+  - language/rhetoric
+  - language/satire
   - technology
 yaml_end: true
 ---

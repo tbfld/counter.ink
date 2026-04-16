@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2019-12-21
 tags:
-  - image
-  - illustration
-  - aesthetics
+  - art/image
+  - art/illustration
+  - art/aesthetics
 yaml_end: true
 ---
 ![[ai-gen-wikihow-illustrations.jpg]]

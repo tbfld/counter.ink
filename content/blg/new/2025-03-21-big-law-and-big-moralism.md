@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2025-03-21
 tags:
-  - law
-  - corporation
+  - governance/law
+  - governance/corporation
   - activism
-  - fascism
-  - institution
+  - politics/fascism
+  - governance/institution
 status: 
 RSS: true
 yaml_end: true

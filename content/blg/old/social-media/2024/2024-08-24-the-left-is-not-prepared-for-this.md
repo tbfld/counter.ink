@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2024-08-24
 tags:
-  - left
-  - right
+  - politics/leftism
+  - politics/right
 timelines:
 yaml_end: true
 ---

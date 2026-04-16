@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2016-11-17
 tags:
-  - finance
-  - institution
+  - economics/finance
+  - governance/institution
 status: 
 RSS: “false”
 yaml_end: true

@@ -16,7 +16,7 @@ publish:
 date: 2013-03-24
 tags:
   - media
-  - publishing
+  - media/publishing
 yaml_end: true
 ---
 

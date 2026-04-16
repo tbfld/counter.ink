@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-04-12
 tags:
-  - nyt
-  - journalism
-  - covid
-  - society
+  - media/news/nyt
+  - media/journalism
+  - health/covid
+  - culture/society
   - culture
 yaml_end: true
 ---

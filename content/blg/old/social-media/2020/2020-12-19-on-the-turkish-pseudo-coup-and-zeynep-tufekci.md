@@ -16,9 +16,9 @@ publish: true
 date: 2020-12-19
 tags:
   - media
-  - media-analysis
-  - turkey
-  - nyt
+  - media/analysis
+  - international/turkey
+  - media/news/nyt
 yaml_end: true
 ---
 

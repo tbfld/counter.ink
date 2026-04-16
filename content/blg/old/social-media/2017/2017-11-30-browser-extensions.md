@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2017-11-30
 tags:
-  - software
+  - technology/software
   - gui
   - language
 yaml_end: true

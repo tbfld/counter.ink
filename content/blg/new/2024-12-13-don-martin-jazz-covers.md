@@ -17,9 +17,9 @@ date: 2024-12-13
 tags:
   - art
   - design
-  - illustration
-  - music
-  - publishing
+  - art/illustration
+  - art/music
+  - media/publishing
 status: draft
 yaml_end: true
 ---

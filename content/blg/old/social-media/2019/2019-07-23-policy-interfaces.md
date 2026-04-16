@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-07-23
 tags:
-  - interface
+  - design/interface
 yaml_end: true
 ---
 

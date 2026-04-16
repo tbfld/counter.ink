@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2026-03-11
 tags:
-  - space
+  - science/space
   - science
   - politics
-  - gender
+  - culture/gender
   - culture
   - language
 status:

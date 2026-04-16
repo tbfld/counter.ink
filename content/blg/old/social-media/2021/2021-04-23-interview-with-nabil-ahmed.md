@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-04-23
 tags:
-  - ecocide
-  - environment
-  - law
+  - governance/ecocide
+  - science/environment
+  - governance/law
   - international
 status: 
 RSS: true

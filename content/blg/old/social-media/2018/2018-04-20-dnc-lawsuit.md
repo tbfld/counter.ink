@@ -15,8 +15,8 @@ publish: true
 date: 2018-04-20
 tags:
   - politics
-  - democrats
-  - judiciary
+  - politics/democrats
+  - governance/judiciary
 status:
 RSS: false
 yaml_end: true

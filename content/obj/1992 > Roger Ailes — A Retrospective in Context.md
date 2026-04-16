@@ -17,9 +17,9 @@ date: 1992-01-01
 tags:
   - art
   - culture
-  - image
+  - art/image
   - media
-  - national
+  - politics/national
   - politics
   - collaboration
 status: 

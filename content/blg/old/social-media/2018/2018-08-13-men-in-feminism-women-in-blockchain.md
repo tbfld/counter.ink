@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2018-08-13
 tags:
-  - gender
+  - culture/gender
 status:
 RSS: false
 yaml_end: true

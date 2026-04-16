@@ -16,8 +16,8 @@ publish: true
 date: 2021-06-26
 tags:
   - language
-  - trope
-  - covid
+  - language/rhetoric
+  - health/covid
 yaml_end: true
 ---
 

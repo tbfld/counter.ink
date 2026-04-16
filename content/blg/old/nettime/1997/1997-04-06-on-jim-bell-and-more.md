@@ -15,11 +15,11 @@ aliases:
 publish: 
 date: 1997-04-06
 tags:
-  - cryptography
-  - internet
-  - law
+  - technology/security
+  - technology/internet
+  - governance/law
   - politics
-  - right
+  - politics/right
 yaml_end: true
 ---
 

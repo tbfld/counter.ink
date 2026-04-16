@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2025-08-11
 tags:
-  - corruption
+  - governance/corruption
   - immigration
   - politics
 status: 

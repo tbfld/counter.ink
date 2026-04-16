@@ -15,8 +15,8 @@ publish: true
 date: 2017-07-20
 tags:
   - nyc
-  - graffiti
-  - fascism
+  - art/graffiti
+  - politics/fascism
 status:
 RSS: false
 yaml_end: true

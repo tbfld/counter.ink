@@ -15,10 +15,10 @@ aliases:
 publish: true 
 date: 2019-07-12
 tags:
-  - meme
-  - democrats
+  - media/meme
+  - politics/democrats
   - politics
-  - race
+  - culture/race
 yaml_end: true
 ---
 

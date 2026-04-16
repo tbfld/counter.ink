@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2020-03-26
 tags:
-  - nyt
-  - covid
+  - media/news/nyt
+  - health/covid
   - design
-  - publishing
-  - aesthetics
+  - media/publishing
+  - art/aesthetics
 yaml_end: true
 ---
 This is pretty dazzling

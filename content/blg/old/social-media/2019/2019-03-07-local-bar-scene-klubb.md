@@ -18,7 +18,7 @@ tags:
   - signage
   - design
   - language
-  - idiom
+  - language/rhetoric
 yaml_end: true
 ---
 

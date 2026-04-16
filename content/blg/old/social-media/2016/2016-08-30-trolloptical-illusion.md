@@ -13,9 +13,9 @@ permalink:
 aliases:
 publish: true
 tags:
-  - meme
-  - illustration
-  - cartoons
+  - media/meme
+  - art/illustration
+  - art/cartoons
 status:
 RSS: “false”
 yaml_end: true

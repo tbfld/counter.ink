@@ -17,7 +17,7 @@ tags:
   - international
   - governance
   - language
-  - institution
+  - governance/institution
 RSS: false
 yaml_end: true
 ---

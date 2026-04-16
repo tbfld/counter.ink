@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2018-08-18
 tags:
-  - image
-  - photography
-  - architecture
+  - art/image
+  - art/photography
+  - art/architecture
   - urbanism
 status:
 RSS: false

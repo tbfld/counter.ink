@@ -16,8 +16,8 @@ publish: true
 date: 2019-11-24
 tags:
   - history
-  - corporation
-  - publishing
+  - governance/corporation
+  - media/publishing
 yaml_end: true
 ---
 

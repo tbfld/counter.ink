@@ -15,7 +15,7 @@ publish: true
 date: 2026-01-08
 tags:
   - politics
-  - real-estate
+  - urbanism/real-estate
 status:
 RSS: true
 yaml_end: true

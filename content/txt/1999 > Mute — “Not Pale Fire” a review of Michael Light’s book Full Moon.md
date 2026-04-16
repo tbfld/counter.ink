@@ -15,9 +15,9 @@ aliases:
 publish: true
 tags:
   - art
-  - books
-  - space
-  - photography
+  - media/publishing
+  - science/space
+  - art/photography
   - visuality
 RSS: false
 yaml_end: true

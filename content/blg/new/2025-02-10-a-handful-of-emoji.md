@@ -16,7 +16,7 @@ publish:
 date: 2025-02-10
 tags:
   - language
-  - poetry
+  - language/poetry
   - technology
 status: final
 yaml_end: true

@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-04-27
 tags:
-  - covid
-  - data
+  - health/covid
+  - information/data
   - international
-  - gop
+  - politics/gop
 yaml_end: true
 ---
 

@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2017-11-24
 tags:
-  - law
+  - governance/law
   - politics
-  - disinformation
+  - politics/disinformation
 status:
 RSS: false
 yaml_end: true

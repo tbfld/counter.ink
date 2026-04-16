@@ -15,11 +15,11 @@ aliases:
 publish: 
 date: 2000-06-12
 tags:
-  - academia
+  - education/academia
   - education
-  - literature
+  - language/literature
   - media
-  - intellectual-property
+  - governance/ip
 yaml_end: true
 ---
 

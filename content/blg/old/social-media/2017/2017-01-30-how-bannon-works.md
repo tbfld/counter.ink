@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2017-01-30
 tags:
-  - corruption
-  - right
+  - governance/corruption
+  - politics/right
   - politics
 status:
 RSS: false

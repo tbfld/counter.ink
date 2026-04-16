@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2024-09-11
 tags:
-  - nyt
-  - right
-  - elections
-  - media-analysis
+  - media/news/nyt
+  - politics/right
+  - politics/elections
+  - media/analysis
 yaml_end: true
 ---
 

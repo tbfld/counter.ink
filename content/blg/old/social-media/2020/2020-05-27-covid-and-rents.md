@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-05-27
 tags:
-  - covid
+  - health/covid
   - urbanism
   - economics
-  - journalism
+  - media/journalism
 yaml_end: true
 ---
 

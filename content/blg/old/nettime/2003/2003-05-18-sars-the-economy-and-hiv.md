@@ -16,8 +16,8 @@ publish:
 date: 2003-05-18
 tags:
   - media
-  - medicine
-  - conspiracy
+  - health/medicine
+  - politics/conspiracy
 yaml_end: true
 ---
 

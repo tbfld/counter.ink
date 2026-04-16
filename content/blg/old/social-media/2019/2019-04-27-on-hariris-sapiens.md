@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2019-04-27
 tags:
-  - books
+  - media/publishing
   - history
-  - trope
+  - language/rhetoric
   - evolution
 yaml_end: true
 ---

@@ -15,7 +15,7 @@ aliases:
 publish: true
 date: 2020-03-18
 tags:
-  - centrism
+  - politics/centrism
   - politics
   - governance
 yaml_end: true

@@ -16,8 +16,8 @@ publish: true
 date: 2012-03-10
 tags:
   - print
-  - theory
-  - anthropology
+  - philosophy/theory
+  - culture/anthropology
 status: 
 RSS: “false”
 yaml_end: true

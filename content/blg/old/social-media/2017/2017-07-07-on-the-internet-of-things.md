@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2017-07-07
 tags:
-  - cartoons
-  - internet
-  - automation
+  - art/cartoons
+  - technology/internet
+  - technology/automation
   - language
 yaml_end: true
 ---

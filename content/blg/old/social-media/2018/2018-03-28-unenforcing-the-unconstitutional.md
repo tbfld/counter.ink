@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2018-03-28
 tags:
-  - judiciary
+  - governance/judiciary
 status:
 RSS: false
 yaml_end: true

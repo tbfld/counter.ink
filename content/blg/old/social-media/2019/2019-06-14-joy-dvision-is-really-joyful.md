@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2019-06-14
 tags:
-  - music
-  - 1980s
+  - art/music
+  - history/1980s
   - postpunk
-  - uk
+  - international/uk
   - audio
   - urbanism
 yaml_end: true

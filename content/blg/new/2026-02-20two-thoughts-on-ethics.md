@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2026-02-20
 tags:
-  - ethics
-  - ai
-  - law
+  - philosophy/ethics
+  - technology/ai
+  - governance/law
   - education
 status:
 RSS: "true"

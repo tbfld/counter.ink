@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2019-09-19
 tags:
-  - anthropology
+  - culture/anthropology
   - drugs
-  - magazines
-  - 1960s
+  - media/publishing
+  - history/1960s
 yaml_end: true
 ---
 ![[mead-on-acid.jpg]]

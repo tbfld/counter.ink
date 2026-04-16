@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2020-07-11
 tags:
-  - advertising
+  - design/advertising
   - crisis
 yaml_end: true
 ---

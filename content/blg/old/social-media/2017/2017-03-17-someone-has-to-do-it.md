@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2017-03-17
 tags:
-  - architecture
+  - art/architecture
   - microsoft
   - gui
 yaml_end: true

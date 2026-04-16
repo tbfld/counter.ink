@@ -17,8 +17,8 @@ date: 1998-03-07
 tags:
   - art
   - culture
-  - data
-  - interface
+  - information/data
+  - design/interface
 yaml_end: true
 ---
 

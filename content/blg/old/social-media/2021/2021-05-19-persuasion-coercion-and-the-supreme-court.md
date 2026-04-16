@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-05-19
 tags:
-  - judiciary
+  - governance/judiciary
   - structuralism
-  - gop
-  - right
+  - politics/gop
+  - politics/right
 yaml_end: true
 ---
 

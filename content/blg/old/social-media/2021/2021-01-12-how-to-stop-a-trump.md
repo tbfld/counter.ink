@@ -15,11 +15,11 @@ aliases:
 publish: true
 date: 2021-01-12
 tags:
-  - right
-  - gop
+  - politics/right
+  - politics/gop
   - governance
   - deterrence
-  - law
+  - governance/law
 yaml_end: true
 ---
 

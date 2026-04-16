@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2019-12-23
 tags:
-  - cinema
-  - film
+  - art/cinema
+  - art/film
   - criticism
 status: 
 RSS: false

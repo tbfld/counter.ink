@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2025-01-24
 tags:
-  - consumerism
-  - gender
-  - internet
+  - economics/consumerism
+  - culture/gender
+  - technology/internet
   - language
 status: final
 yaml_end: true

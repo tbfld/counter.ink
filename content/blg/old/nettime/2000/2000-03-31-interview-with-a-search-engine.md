@@ -16,7 +16,7 @@ publish:
 date: 2000-03-31
 tags:
   - art
-  - internet
+  - technology/internet
 yaml_end: true
 ---
 

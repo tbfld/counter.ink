@@ -15,9 +15,9 @@ aliases:
 publish: true 
 date: 2017-12-03
 tags:
-  - theater
-  - meme
-  - fascism
+  - art/theater
+  - media/meme
+  - politics/fascism
   - history
 yaml_end: true
 ---

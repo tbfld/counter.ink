@@ -16,7 +16,7 @@ publish: true
 date: 2017-03-20
 tags:
   - art
-  - dance
+  - art/dance
   - culture
   - urbanism
 yaml_end: true

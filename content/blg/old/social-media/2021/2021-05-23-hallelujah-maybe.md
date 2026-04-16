@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2021-05-23
 tags:
-  - music
-  - pop
+  - art/music
+  - culture/pop
   - religion
 yaml_end: true
 ---

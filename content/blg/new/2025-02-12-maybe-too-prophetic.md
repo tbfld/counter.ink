@@ -17,9 +17,9 @@ date: 2025-02-12
 tags:
   - governance
   - history
-  - institution
+  - governance/institution
   - politics
-  - right
+  - politics/right
 status: final
 yaml_end: true
 ---

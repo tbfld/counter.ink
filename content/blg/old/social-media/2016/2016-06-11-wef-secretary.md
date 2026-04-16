@@ -14,7 +14,7 @@ aliases:
 publish: true
 date: 2016-06-11
 tags:
-  - class
+  - politics/class
   - culture
 status:
 RSS: “false”

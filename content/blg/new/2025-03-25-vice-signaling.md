@@ -16,8 +16,8 @@ publish: true
 date: 2025-03-25
 tags:
   - politics
-  - military
-  - security
+  - governance/military
+  - technology/security
   - media
   - leaks
 status: 

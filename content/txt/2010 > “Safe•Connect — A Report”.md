@@ -14,11 +14,11 @@ aliases:
 
 publish: true
 tags:
-  - academia
-  - institution
+  - education/academia
+  - governance/institution
   - technology
-  - security
-  - intellectual-property
+  - technology/security
+  - governance/ip
 RSS: false
 yaml_end: true
 ---

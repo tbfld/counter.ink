@@ -16,7 +16,7 @@ publish: true
 date: 2011-12-29
 tags:
   - language
-  - genre
+  - language/genre
 status: 
 RSS: “true”
 yaml_end: true

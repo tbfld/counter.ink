@@ -14,10 +14,10 @@ aliases:
 
 publish: true
 tags:
-  - law
-  - theory
+  - governance/law
+  - philosophy/theory
   - activism
-  - academia
+  - education/academia
 RSS: false
 yaml_end: true
 ---

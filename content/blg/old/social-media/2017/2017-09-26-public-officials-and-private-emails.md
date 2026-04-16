@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2017-09-26
 tags:
-  - law
-  - policy
+  - governance/law
+  - governance/policy
   - governance
-  - corruption
+  - governance/corruption
 status:
 RSS: false
 yaml_end: true

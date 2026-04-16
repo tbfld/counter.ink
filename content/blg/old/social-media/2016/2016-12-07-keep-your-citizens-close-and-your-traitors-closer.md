@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2016-12-07
 tags:
-  - gop
-  - corruption
+  - politics/gop
+  - governance/corruption
 status:
 RSS: “false”
 yaml_end: true

@@ -14,9 +14,9 @@ aliases:
 publish: true
 date: 2016-12-03
 tags:
-  - nyt
-  - journalism
-  - corruption
+  - media/news/nyt
+  - media/journalism
+  - governance/corruption
 status:
 RSS: “false”
 yaml_end: true

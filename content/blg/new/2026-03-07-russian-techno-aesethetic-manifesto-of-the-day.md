@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2026-03-07
 tags:
-  - aesthetics
+  - art/aesthetics
   - art
   - technology
-  - interface
+  - design/interface
 status:
 RSS: "true"
 yaml_end: true

@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2017-02-09
 tags:
-  - aviation
-  - literature
-  - books
-  - france
+  - technology/aviation
+  - language/literature
+  - media/publishing
+  - international/france
 status:
 RSS: false
 yaml_end: true

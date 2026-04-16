@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2017-11-22
 tags:
-  - fascism
-  - liberalism
+  - politics/fascism
+  - politics/liberalism
 status:
 RSS: false
 yaml_end: true

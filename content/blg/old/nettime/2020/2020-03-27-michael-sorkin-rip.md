@@ -15,7 +15,7 @@ aliases:
 publish: 
 date: 2020-03-27
 tags:
-  - architecture
+  - art/architecture
   - design
   - philosophy
 yaml_end: true

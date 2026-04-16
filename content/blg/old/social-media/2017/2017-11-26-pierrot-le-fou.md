@@ -15,12 +15,11 @@ aliases:
 publish: true
 date: 2017-11-26
 tags:
-  - film
-  - feminism
-  - france
-  - gender
-  - masculinity
-  - cinema
+  - art/film
+  - politics/feminism
+  - international/france
+  - culture/gender
+  - art/cinema
 yaml_end: true
 ---
 

@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2020-07-08
 tags:
-  - crime
-  - law
-  - fascism
-  - ecocide
+  - governance/crime
+  - governance/law
+  - politics/fascism
+  - governance/ecocide
   - genocide
 yaml_end: true
 status: 

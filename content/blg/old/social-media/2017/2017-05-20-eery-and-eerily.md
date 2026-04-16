@@ -16,7 +16,7 @@ publish: true
 date: 2017-05-20
 tags:
   - language
-  - race
+  - culture/race
 yaml_end: true
 ---
 

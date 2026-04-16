@@ -15,10 +15,10 @@ aliases:
 publish: true
 date: 2021-05-17
 tags:
-  - race
-  - literature
-  - ml
-  - algorithm
+  - culture/race
+  - language/literature
+  - technology/ai
+  - technology/software
 status: 
 RSS: true
 yaml_end: true

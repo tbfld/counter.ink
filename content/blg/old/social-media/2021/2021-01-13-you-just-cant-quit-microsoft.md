@@ -15,9 +15,9 @@ aliases:
 publish: true
 date: 2021-01-13
 tags:
-  - software
-  - corporation
-  - interface
+  - technology/software
+  - governance/corporation
+  - design/interface
 yaml_end: true
 ---
 

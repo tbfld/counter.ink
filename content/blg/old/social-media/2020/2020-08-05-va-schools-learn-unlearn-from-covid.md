@@ -18,8 +18,8 @@ tags:
   - education
   - governance
   - standards
-  - states
-  - law
+  - politics/states
+  - governance/law
 status: 
 RSS: true
 yaml_end: true

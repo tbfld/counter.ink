@@ -16,7 +16,7 @@ publish: true
 date: 2019-11-05
 tags:
   - design
-  - photography
+  - art/photography
 yaml_end: true
 ---
 

@@ -16,8 +16,8 @@ publish: true
 date: 2021-01-12
 tags:
   - language
-  - fascism
-  - meme
+  - politics/fascism
+  - media/meme
   - neologism
 yaml_end: true
 ---

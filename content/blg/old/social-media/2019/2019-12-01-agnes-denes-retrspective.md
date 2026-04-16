@@ -17,7 +17,7 @@ date: 2019-12-01
 tags:
   - art
   - history
-  - image
+  - art/image
 yaml_end: true
 ---
 

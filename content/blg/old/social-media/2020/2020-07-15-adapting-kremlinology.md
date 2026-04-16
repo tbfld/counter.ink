@@ -16,7 +16,7 @@ publish: true
 date: 2020-07-15
 tags:
   - media
-  - news
+  - media/news
 yaml_end: true
 ---
 

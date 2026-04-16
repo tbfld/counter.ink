@@ -15,8 +15,8 @@ aliases:
 publish: true 
 date: 2019-11-26
 tags:
-  - 1960s
-  - 1970s
+  - history/1960s
+  - history/1970s
   - politics
 yaml_end: true
 ---

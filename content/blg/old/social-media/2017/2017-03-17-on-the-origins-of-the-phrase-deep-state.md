@@ -17,7 +17,7 @@ date: 2017-03-17
 tags:
   - history
   - language
-  - turkey
+  - international/turkey
 yaml_end: true
 ---
 

@@ -14,10 +14,10 @@ aliases:
 publish: true
 date: 2017-12-12
 tags:
-  - usa
+  - international/usa
   - politics
-  - south
-  - gender
+  - international/south
+  - culture/gender
   - sexuality
 yaml_end: true
 ---

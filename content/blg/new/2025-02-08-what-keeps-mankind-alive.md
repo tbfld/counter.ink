@@ -17,8 +17,8 @@ date: 2025-02-08
 tags:
   - art
   - history
-  - left
-  - music
+  - politics/leftism
+  - art/music
 status: final
 yaml_end: true
 ---

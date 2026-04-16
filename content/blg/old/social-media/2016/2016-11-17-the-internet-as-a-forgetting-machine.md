@@ -16,7 +16,7 @@ publish: true
 date: 2016-11-17
 tags:
   - information
-  - internet
+  - technology/internet
 status: 
 RSS: “false”
 yaml_end: true

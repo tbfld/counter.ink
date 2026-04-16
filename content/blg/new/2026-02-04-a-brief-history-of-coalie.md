@@ -16,7 +16,7 @@ date: 2026-02-04
 tags:
   - design
   - history
-  - environment
+  - science/environment
 status:
 RSS: "true"
 yaml_end: true

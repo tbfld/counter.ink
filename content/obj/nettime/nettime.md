@@ -18,9 +18,9 @@ date: 2025-01-01
 tags:
   - art
   - culture
-  - europe
-  - email
-  - internet
+  - international/europe
+  - media/email
+  - technology/internet
 status: 
 RSS: false
 yaml_end: true

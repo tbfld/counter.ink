@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2019-08-02
 tags:
-  - masculinity
+  - culture/gender
 yaml_end: true
 ---
 

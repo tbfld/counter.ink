@@ -15,7 +15,7 @@ publish: true
 date: 2017-03-06
 tags:
   - friends
-  - photography
+  - art/photography
   - obituary
 status:
 RSS: false

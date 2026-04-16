@@ -15,8 +15,8 @@ publish: true
 date: 2018-01-01
 tags:
   - international
-  - law
-  - intellectual-property
+  - governance/law
+  - governance/ip
 status:
 RSS: false
 yaml_end: true

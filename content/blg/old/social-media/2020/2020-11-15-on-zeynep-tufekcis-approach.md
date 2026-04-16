@@ -15,8 +15,8 @@ aliases:
 publish: true
 date: 2020-11-15
 tags:
-  - nyt
-  - media-analysis
+  - media/news/nyt
+  - media/analysis
   - writing
 yaml_end: true
 ---

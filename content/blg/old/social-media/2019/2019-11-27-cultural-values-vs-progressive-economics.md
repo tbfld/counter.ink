@@ -16,8 +16,8 @@ publish: true
 date: 2019-11-27
 tags:
   - politics
-  - elections
-  - journalism
+  - politics/elections
+  - media/journalism
   - agriculture
 yaml_end: true
 ---

@@ -13,8 +13,8 @@ permalink:
 aliases:
 publish: true
 tags:
-  - literature
-  - genre
+  - language/literature
+  - language/genre
   - history
 status:
 RSS: false

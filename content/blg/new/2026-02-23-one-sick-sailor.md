@@ -14,8 +14,8 @@ aliases:
 publish: true
 date: 2026-02-23
 tags:
-  - military
-  - news
+  - governance/military
+  - media/news
 status:
 RSS: "true"
 yaml_end: true

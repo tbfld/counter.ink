@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2018-03-16
 tags:
-  - environment
+  - science/environment
   - comic
   - culture
 status:

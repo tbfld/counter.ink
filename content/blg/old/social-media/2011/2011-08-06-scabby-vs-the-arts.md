@@ -15,7 +15,7 @@ aliases:
 publish: true 
 date: 2011-08-06
 tags:
-  - labor
+  - economics/labor
   - education
 status:
 RSS: “true”

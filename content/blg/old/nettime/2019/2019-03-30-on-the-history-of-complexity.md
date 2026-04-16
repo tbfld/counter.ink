@@ -15,9 +15,9 @@ aliases:
 publish: 
 date: 2019-03-30
 tags:
-  - data
+  - information/data
   - history
-  - theory
+  - philosophy/theory
 yaml_end: true
 ---
 

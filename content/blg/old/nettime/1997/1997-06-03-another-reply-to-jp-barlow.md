@@ -16,7 +16,7 @@ publish:
 date: 1997-06-03
 tags:
   - history
-  - right
+  - politics/right
 yaml_end: true
 ---
 
