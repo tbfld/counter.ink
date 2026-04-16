@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-04
 
+
+***2026-04-15:*** [women photographers of the Bauhaus](https://www.theartnewspaper.com/2026/04/14/berlin-exhibition-focuses-in-on-women-photographers-of-the-bauhaus)
+
+***
+
 > [!note]+ [[2026-04-14-marco-rubio-meme-compilation|2026-04-14 marco rubio meme compilation]]
 > the definitive collection of Marco Rubio Just Sitting There memes
 
