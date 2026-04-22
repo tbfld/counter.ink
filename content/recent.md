@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-22:*** Ugh: *[Epstein, Flynn, Thiel, Weev, Poole, Yiannopoulos, Dershowitz](https://bylinetimes.com/2026/04/14/the-neo-nazi-enforcer-who-helped-build-peter-thiels-online-influence-empire/)* (🎩 FC)
+
 > [!note]+ [[2026-04-22-endangered-millenialisms|2026-04-22 endangered millenialisms]]
 >  I’m obsessed, totes, adorbs, amaze, amazeballs, cray (🎩 FS)
 
