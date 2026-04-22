@@ -26,7 +26,7 @@ yaml_end: true
 
 **adult supremacy** ([2021-03-28](https://www.facebook.com/tbyfield/posts/pfbid035ayXghyzAkyLQ7JTe8XTrDymk7Vdxes5xgKEazReYSG9NMEBVfP48d81Bj9s2Q8al)): self-explanatory
 
-**banalogy** (2025-02-21)
+**banalogy** (2025-02-21 — ~43k prior results)
 
 **Bildungshalftimeshow** ([2026-02-11](https://www.facebook.com/tbyfield/posts/pfbid0eWR8b1HCxVz9b1VDWUG6H4JGrnMfV8Q7m3RsLyi68fbgNpPafX8uoumb2UtzzYLql)): [this](https://youtu.be/G6FuWd4wNd8)
 

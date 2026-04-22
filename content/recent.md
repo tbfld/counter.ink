@@ -27,6 +27,21 @@ yaml_end: true
 
 ### 2026-04
 
+> [!note]+ [[2026-04-22-endangered-millenialisms|2026-04-22 endangered millenialisms]]
+>  I’m obsessed, totes, adorbs, amaze, amazeballs, cray (🎩 FS)
+
+***2026-04-22:*** *Verge*: [Silicon Valley has forgotten what normal people want](https://removepaywalls.com/https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos)
+
+***2026-04-22:*** [networks of interdisciplinary praxis in post war British art (1950–1970)](https://monoskop.org/images/3/34/Interdisciplinary_Science_Reviews_42_1-2_The_Experimental_Generation_2017.pdf)
+
+***2026-04-22:*** amazing *Guardian* [Shakespeare rundown](https://www.theguardian.com/stage/ng-interactive/2026/apr/22/every-shakespeare-play-ranked-lear-antony-cleopatra-hamlet)
+***
+
+***2026-04-18:*** [Gaza map of destruction](https://bearing-witness.com/destruction/) — 81% of the buildings damaged or destroyed
+***
+
+***2026-04-16:*** [transformer neural net in HyperTalk on a Macintosh SE/30](https://github.com/SeanFDZ/macmind) 
+
 ***2026-04-16:*** Alexander Kustov, “[Academics Need to Wake Up on AI, Part III](https://www.popularbydesign.org/p/academics-need-to-wake-up-on-ai-part-4c6)” 🎩 WH
 ***
 

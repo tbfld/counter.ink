@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-04-22-endangered-millenialisms|2026-04-22 endangered millenialisms]]
+>  I’m obsessed, totes, adorbs, amaze, amazeballs, cray (🎩 FS)
+
 > [!note]+ [[2026-04-14-marco-rubio-meme-compilation|2026-04-14 marco rubio meme compilation]]
 > the definitive collection of Marco Rubio Just Sitting There memes
 
