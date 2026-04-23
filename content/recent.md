@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-23:*** looks like SC Chief Justice Roberts [may be profoundly corrupt](cmarmitage.substack.com/p/the-chief-justice-and-his-wife-took)
+
 ***2026-04-23:*** Mozilla: [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/) 
 
 ***
