@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-23:*** Mozilla: [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/) 
+
+***
+
 ***2026-04-22:*** Ugh: *[Epstein, Flynn, Thiel, Weev, Poole, Yiannopoulos, Dershowitz](https://bylinetimes.com/2026/04/14/the-neo-nazi-enforcer-who-helped-build-peter-thiels-online-influence-empire/)* (🎩 FC)
 
 > [!note]+ [[2026-04-22-endangered-millenialisms|2026-04-22 endangered millenialisms]]
