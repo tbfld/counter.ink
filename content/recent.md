@@ -27,10 +27,25 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-27:*** gives new meaning to “dry”: [TX’s eighth largest city running out of water](https://nz.news.yahoo.com/climate-scientists-shake-heads-first-181500551.html)
+
+***2026-04-27:*** Pasquale Pillitteri, [Reverse-SynthID: Google AI's Invisible Watermark Has Been Broken](https://pasqualepillitteri.it/en/news/909/reverse-synthid-broken-google-ai-watermark-spectral-analysis)
+***
+
+***2026-04-24:*** NYC ‘s\#2 reckless driver [is an NYPD cop](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
+
+***2026-04-24:*** [150 French authors leave publisher to protest CEO](https://www.rfi.fr/en/france/20260419-french-media-mogul-vincent-bollore-defiant-as-authors-quit-publisher-grasset-en-masse) (🎩 JH)
+
+***2026-04-24:*** [Seats of London : a field guide to London Transport moquette patterns](https://archive.org/details/seatsoflondonfie0000mart/page/9/mode/1up)
+
+***2026-04-24:*** [Warehouse fire tracker](https://warehousefire.watch/)
+
+***2026-04-24:*** [Palastrepublik Ice Age 4](https://igel-muc.de/rssshow.php?guid=20260423) (🎩 NTT)
+***
+
 ***2026-04-23:*** looks like SC Chief Justice Roberts [may be profoundly corrupt](cmarmitage.substack.com/p/the-chief-justice-and-his-wife-took)
 
 ***2026-04-23:*** Mozilla: [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/) 
-
 ***
 
 ***2026-04-22:*** Ugh: *[Epstein, Flynn, Thiel, Weev, Poole, Yiannopoulos, Dershowitz](https://bylinetimes.com/2026/04/14/the-neo-nazi-enforcer-who-helped-build-peter-thiels-online-influence-empire/)* (🎩 FC)
