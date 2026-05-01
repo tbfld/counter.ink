@@ -27,6 +27,21 @@ yaml_end: true
 
 ### 2026-04
 
+***2026-04-30:*** Letterform Archive, [A Century of French Sign Painters’ Alphabets](https://letterformarchive.org/news/inside-lettres-decoratives/)
+
+***2026-04-30:*** Phil Hartman’s *No Picnic* [trailer](https://www.youtube.com/watch?v=SdoQindCkFY)
+
+***2026-04-30:*** Venice Biennale jury “[refus\[es] the spectacle of horror](https://www.e-flux.com/notes/6783485/statement-of-intention-by-the-international-jury-of-the-61st-international-art-exhibition-in-minor-keys-of-la-biennale-di-venezia)” then [resigns](https://www.e-flux.com/notes/6783487/statement-of-resignation)
+
+***2026-04-30:*** NYC Comptroller report on the [pied-à-terre tax](https://comptroller.nyc.gov/reports/the-pied-a-terre-tax-and-its-potential-revenues/)
+
+***2026-04-30:*** it turns out krakens [were real](https://archive.is/red9D) (🎩 CH1)
+***
+***2026-04-28:*** Christopher Newfield, [Liner Note 52. Fighting for an Interdiscipline: The Humanities' Future](https://utotherescue.blogspot.com/2026/04/liner-note-52-fighting-for.html?spref=fb)
+
+***2026-04-28:*** “[The Holy See is moving faster than most other legacy institutions to shape rules and guardrails in verifying reality](https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence)”
+***
+
 ***2026-04-27:*** gives new meaning to “dry”: [TX’s eighth largest city running out of water](https://nz.news.yahoo.com/climate-scientists-shake-heads-first-181500551.html)
 
 ***2026-04-27:*** Pasquale Pillitteri, [Reverse-SynthID: Google AI's Invisible Watermark Has Been Broken](https://pasqualepillitteri.it/en/news/909/reverse-synthid-broken-google-ai-watermark-spectral-analysis)
