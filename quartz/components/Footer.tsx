@@ -21,6 +21,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <a href="https://trap.counter.ink" aria-hidden="true" tabindex="-1" style="position:absolute;width:1px;height:1px;overflow:hidden;opacity:0;pointer-events:none">index</a>
       </footer>
     )
   }
