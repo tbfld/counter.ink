@@ -1,0 +1,7 @@
+name = "trap-counter-ink"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+routes = [
+  { pattern = "trap.counter.ink/*", zone_name = "counter.ink" }
+]
