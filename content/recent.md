@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-08:*** Michael Tomasky, “[Fighting Words](https://archive.is/VNaBp#selection-557.0-563.0)”
+
+***2026-05-08:*** from the archives: [Steve Don’t Eat It](https://thesneeze.com/category/front-page/sdei/)
+
 ***2026-05-08:*** philosophers said to [use AI to referee journals](https://dailynous.com/2026/04/29/illicit-use-ai-philosophers-refereeing-journals/) (🎩 JF)
 
 ***2026-05-08:*** Julian Oliver’s [Science is Poetry AI honeytrap](https://julianoliver.com/projects/science-is-poetry/) (🎩 FS)
