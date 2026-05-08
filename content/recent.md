@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-08:*** the [one-minute Mamdani ad](https://youtu.be/FLKZnVB4F9k) bazillionaires are throwing a tantrum over
+
 ***2026-05-08:*** Michael Tomasky, “[Fighting Words](https://archive.is/VNaBp#selection-557.0-563.0)”
 
 ***2026-05-08:*** from the archives: [Steve Don’t Eat It](https://thesneeze.com/category/front-page/sdei/)
