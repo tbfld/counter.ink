@@ -9,6 +9,9 @@ quartz/package.json
 # Obsidian
 .obsidian/
 
+# Claude Code worktrees
+.claude/worktrees/
+
 # Archive directories
 ARC/
 quartz_CLEAN/
