@@ -25,6 +25,25 @@ yaml_end: true
 <!-- RECENT_POSTS_START -->
 ## 2026
 
+### 2026-05
+
+***2026-05-08:*** philosophers said to [use AI to referee journals](https://dailynous.com/2026/04/29/illicit-use-ai-philosophers-refereeing-journals/) (🎩 JF)
+
+***2026-05-08:*** Julian Oliver’s [Science is Poetry AI honeytrap](https://julianoliver.com/projects/science-is-poetry/) (🎩 FS)
+
+***2026-05-08:*** [Trump admin reinstating Biden-era pre-review of AI models](https://www.platformer.news/trump-administration-doomers-ai/)
+***
+
+***2026-05-07:*** [one whiny billionaire owns both private copies of the US Constitution](https://www.artnews.com/art-news/news/ken-griffin-constitution-kennedy-center-morning-links-1234783953/)
+
+***2026-05-07:*** [Dutch YouTube creators behind Alberta separatist](https://www.cbc.ca/news/canada/alberta-separatist-youtube-channels-netherlands-9.7174719)
+
+***2026-05-07:*** [PaperMe paper templates](https://paperme.pixzens.com/en)
+
+***2026-05-07:*** [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)
+
+***2026-05-07:*** [Incomplete List of LA Libraries, Reading Rooms, & Archives](https://veralistcenter.org/publications/an-incomplete-listing-of-los-angeles-libraries-reading-rooms-and-archives/)
+***
 ### 2026-04
 
 ***2026-04-30:*** Letterform Archive, [A Century of French Sign Painters’ Alphabets](https://letterformarchive.org/news/inside-lettres-decoratives/)
@@ -47,7 +66,7 @@ yaml_end: true
 ***2026-04-27:*** Pasquale Pillitteri, [Reverse-SynthID: Google AI's Invisible Watermark Has Been Broken](https://pasqualepillitteri.it/en/news/909/reverse-synthid-broken-google-ai-watermark-spectral-analysis)
 ***
 
-***2026-04-24:*** NYC ‘s\#2 reckless driver [is an NYPD cop](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
+***2026-04-24:*** NYC’s \#2 reckless driver [is an NYPD cop](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
 
 ***2026-04-24:*** [150 French authors leave publisher to protest CEO](https://www.rfi.fr/en/france/20260419-french-media-mogul-vincent-bollore-defiant-as-authors-quit-publisher-grasset-en-masse) (🎩 JH)
 
