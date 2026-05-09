@@ -27,6 +27,17 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-09:*** A Celebration of the life of [Steve Kurtz](https://vimeo.com/1184939181)
+
+***2026-05-09:*** Karl Bode — a ferociously great journo — has [a newsletter](https://karlbode.com/)
+
+***2026-05-09:*** Olia Lialina [is one of the most important artists of our time](https://galerie-sindelfingen.de/olia-lialina/?lang=en)
+
+***2026-05-09:*** Olia, “[Disarming Chekhov’s Gun](https://pad.profolia.org/s/chekhovs_gun)”
+
+***2026-05-09:*** *Haaretz*: [Inside Israel's ultra-Orthodox Parallel State](https://archive.is/KRBPy#selection-711.1-711.46)
+***
+
 ***2026-05-08:*** the [one-minute Mamdani ad](https://youtu.be/FLKZnVB4F9k) bazillionaires are throwing a tantrum over
 
 ***2026-05-08:*** Michael Tomasky, “[Fighting Words](https://archive.is/VNaBp#selection-557.0-563.0)”
