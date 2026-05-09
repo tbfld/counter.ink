@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-09:*** [Bypass paywalls clean](https://gitflic.ru/project/magnolia1234/magnolia1234
+
+***2026-05-09:*** Brian Beutler, [Trump’s Plan To Steal or Destroy Everything](https://www.offmessage.net/p/donald-trump-plan-steal-or-destroy-everything)
+
 ***2026-05-09:*** A Celebration of the life of [Steve Kurtz](https://vimeo.com/1184939181)
 
 ***2026-05-09:*** Karl Bode — a ferociously great journo — has [a newsletter](https://karlbode.com/)
