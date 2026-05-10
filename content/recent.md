@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-10:***  the contemptible Megan McArdle on [Marco Rubio memes](https://archive.is/XfIP9)
+
+***2026-05-10:*** UPDATED! [[2026-04-14-marco-rubio-meme-compilation]]
+***
+
+***2026-05-09:*** Gitreverse — “[steal any code and make it your own](https://www.gitreverse.com/)”
+
 ***2026-05-09:*** [Bypass paywalls clean](https://gitflic.ru/project/magnolia1234/magnolia1234
 
 ***2026-05-09:*** Brian Beutler, [Trump’s Plan To Steal or Destroy Everything](https://www.offmessage.net/p/donald-trump-plan-steal-or-destroy-everything)

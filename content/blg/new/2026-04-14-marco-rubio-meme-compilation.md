@@ -20,6 +20,12 @@ status:
 RSS: "true"
 yaml_end: true
 ---
+\[ADDED 2026-05-10: Megan McArdle, “[The hilarious Marco Rubio meme is putting American division on hold](https://archive.is/XfIP9),” *formerly known as the Washington Post* (10 May 2026)]
+
+[Related
+- [Marco has to run Anthropic](https://www.instagram.com/reels/DVUoFqVCMH5/)
+- [Lady vs Marco](https://imgflip.com/i/al1078)
+
 
 ![[rubio-easter.jpg|wmed relative|center]]
 
@@ -65,8 +71,6 @@ yaml_end: true
 
 ![[rubio-no-country.jpg|wmed relative|center]]
 
-![[rubio-fidel.jpg|wmed relative|center]]
-
 ![[rubio-nebaska.jpg|wmed relative|center]]
 
 ![[rubio-joker.jpg|wmed relative|center]]
@@ -97,3 +101,105 @@ yaml_end: true
 
 
 ![[rubio-smurf.jpeg|wmed relative|center]]
+
+![[rubio-as-olive-oyl-and-popeye.jpeg|wmed relative|center]]
+
+![[rubio-anime.jpg|wmed relative|center]]
+
+![[rubio-battle.jpg|wmed relative|center]]
+
+![[rubio-bills-wide-rec.jpg|wmed relative|center]]
+
+![[rubio-california.jpg|wmed relative|center]]
+
+![[rubio-capn-kirk.jpg|wmed relative|center]]
+
+![[rubio-chazzan-high-hols.jpg|wmed relative|center]]
+
+![[rubio-chef.jpg|wmed relative|center]]
+
+![[rubio-critical-trade-route.jpg|wmed relative|center]]
+
+![[rubio-dj.jpeg|wmed relative|center]]
+
+![[rubio-et.jpeg|wmed relative|center]]
+
+![[rubio-ethnic.jpg|wmed relative|center]]
+
+![[rubio-farmer.jpg|wmed relative|center]]
+
+![[rubio-fidel.jpg|wmed relative|center]]
+
+![[rubio-flag-suit.jpg|wmed relative|center]]
+
+![[rubio-geralt-rivia.jpeg|wmed relative|center]]
+
+![[rubio-got.jpg|wmed relative|center]]
+
+![[rubio-hurray-grand-mardshall.jpg|wmed relative|center]]
+
+![[rubio-imperium.jpg|wmed relative|center]]
+
+![[rubio-iron-man.jpg|wmed relative|center]]
+
+![[rubio-jalisco-new-gen-cartel.jpg|wmed relative|center]]
+
+![[rubio-jedi.jpg|wmed relative|center]]
+
+![[rubio-mars-attacks.jpeg|wmed relative|center]]
+
+![[rubio-mask.jpg|wmed relative|center]]
+
+![[rubio-mib-2.jpg|wmed relative|center]]
+
+![[rubio-mib.jpeg|wmed relative|center]]
+
+![[rubio-mmc.jpg|wmed relative|center]]
+
+![[rubio-multitool.jpg|wmed relative|center]]
+
+![[rubio-napoleon.jpg|wmed relative|center]]
+
+![[rubio-national-bsitter-day.jpg|wmed relative|center]]
+
+![[rubio-pokemon.jpg|wmed relative|center]]
+
+![[rubio-power-ranger.jpg|wmed relative|center]]
+
+![[rubio-raiders.jpg|wmed relative|center]]
+
+![[rubio-rapper.jpg|wmed relative|center]]
+
+![[rubio-recursive.jpg|wmed relative|center]]
+
+![[rubio-rough-trade.jpg|wmed relative|center]]
+
+![[rubio-sailor.jpg|wmed relative|center]]
+
+![[rubio-shaman.jpg|wmed relative|center]]
+
+![[rubio-some-character.jpg|wmed relative|center]]
+
+![[rubio-sons-of-anarchy.jpg|wmed relative|center]]
+
+![[rubio-space-leather.jpg|wmed relative|center]]
+
+![[rubio-star=-trek.jpg|wmed relative|center]]
+
+![[rubio-toga.jpg|wmed relative|center]]
+
+![[rubio-ttqb.jpeg|wmed relative|center]]
+
+![[rubio-twin-peaks.jpg|wmed relative|center]]
+
+![[rubio-us-soldier.jpg|wmed relative|center]]
+
+![[rubio-vikings.jpg|wmed relative|center]]
+
+![[rubio-waffle-house.jpg|wmed relative|center]]
+
+![[rubio-whatever.jpg|wmed relative|center]]
+
+![[rubio-xemomorph.jpeg|wmed relative|center]]
+
+![[rubio-zanzibar-land.jpg|wmed relative|center]]
