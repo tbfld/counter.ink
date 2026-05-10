@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-10:*** [Is Parkinsons environmental?](http://archive.today/2026.03.09-021014/https://www.wired.com/story/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water/) Note the critique of research funding trends.
+
+***2026-05-10:*** Christopher Herwig’s photos of [former Soviet bus stops](https://www.instagram.com/p/DXZDLziDeIZ/)
+
 ***2026-05-10:***  the contemptible Megan McArdle on [Marco Rubio memes](https://archive.is/XfIP9)
 
 ***2026-05-10:*** UPDATED! [[2026-04-14-marco-rubio-meme-compilation]]
