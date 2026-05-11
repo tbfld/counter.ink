@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-11:*** *Wash Post*: [Iran war threatens global food supply](http://archive.today/2026.05.10-074515/https://www.washingtonpost.com/world/2026/05/09/iran-farms-thailand-food/)
+
 ***2026-05-11:*** “[super steel](https://www.sciencedaily.com/releases/2026/05/260510030950.htm)”
 
 ***2026-05-11:*** [1 in 277 PubMed-indexed papers shows fake refs](https://retractionwatch.com/2026/05/07/one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/)
