@@ -27,6 +27,19 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-11:*** “[super steel](https://www.sciencedaily.com/releases/2026/05/260510030950.htm)”
+
+***2026-05-11:*** [1 in 277 PubMed-indexed papers shows fake refs](https://retractionwatch.com/2026/05/07/one-in-277-pubmed-indexed-papers-in-2026-shows-fabricated-references-says-analysis/)
+
+***2026-05-11:*** [Screaming whales in the Strait of Gibraltar](https://nautil.us/these-whales-are-screaming-in-the-strait-of-gibraltar-1280580)
+
+***2026-05-11:*** Thom Hartmann, “[How Rightwing Billionaires Created a Faux Movement and Used It to Rob America Blind](https://hartmannreport.com/p/how-rightwing-billionaires-created-d8a)”
+
+***2026-05-11:*** *Le Monde* on the [genocidal rhetoric of Israel’s Channel 14](https://www.lemonde.fr/en/international/article/2026/05/10/there-are-no-innocents-in-gaza-channel-14-the-israeli-television-channel-accused-of-genocidal-rhetoric_6753311_4.html)
+
+***2026-05-11:*** [this rec for Dem strategy](http://archive.today/2026.05.11-142437/https://www.nytimes.com/2026/05/09/opinion/climate-change-democrats-gas-prices.html) feels like it’s only half the story, if even
+***
+
 ***2026-05-10:*** [Is Parkinsons environmental?](http://archive.today/2026.03.09-021014/https://www.wired.com/story/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water/) Note the critique of research funding trends.
 
 ***2026-05-10:*** Christopher Herwig’s photos of [former Soviet bus stops](https://www.instagram.com/p/DXZDLziDeIZ/)
