@@ -10,7 +10,8 @@ images: false
 order: 
 enableToc: 
 permalink: 
-aliases: 
+aliases:
+  - /2025-01-22-trump-and-greenland
 
 publish: 
 date: 2025-01-11
