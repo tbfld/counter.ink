@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-13:*** [US BOP has 120K pagwes on Ghislaine Maxwell’s prison transfer](https://www.motherjones.com/politics/2026/05/ghislaine-maxwell-trump-prison-transfer-foia/)
+
+***2026-05-13:*** [Canvas LMS, corporate raiders, and the chatbot bubble](https://theamericanvandal.substack.com/p/historyofcanvas) (🎩 MH)
+
+***2026-05-13:*** Zahra, [The Settler Keeps Alive in the Native an Anger Which he Deprives of Outlet](https://www.themazaj.org/p/the-settler-keeps-alive-in-the-native) (🎩 RW)
+
 > [!note]+ [[2026-05-13-bbc-on-gordon-pask|2026-05-13-bbc on gordon pask]]
 > “I mean somebody with the with and the guts to go and do and create — and that, I believe, is what education is all about”
 
