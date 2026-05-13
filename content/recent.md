@@ -27,6 +27,15 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-13:*** [AJ+](https://global.ajplus.net/english/home)’s [Tony Karon](https://en.wikipedia.org/wiki/Tony_Karon) on [Molly Crabapple](https://www.mollycrabapple.com/)’s [Here Where We Live Is Our Country](https://www.penguinrandomhouse.com/books/646320/here-where-we-live-is-our-country-by-molly-crabapple/)
+
+
+***2026-05-13:*** McKenzie Wark, [A Toast to Femmunism](https://www.e-flux.com/journal/163/6776893/a-toast-to-femmunism)
+
+***2026-05-13:*** Majka: [1962 homebrew coupé](https://www.thesamba.com/vw/forum/viewtopic.php?t=783131&sid=86906794194c4fb93b8e8af03a8c8bca&brid=YWdncwH4PphWDEbPmkLbcvkyMOf9) built on a WW2-era [VW Kubelwagen](https://en.wikipedia.org/wiki/Volkswagen_K%C3%BCbelwagen) chassis
+
+***2026-05-13:*** Micah Sifry, [Unrealistic Cynicism vs Realistic Hope](https://theconnector.substack.com/p/unrealistic-cynicism-vs-realistic)
+
 > [!note]+ [[2026-05-13-brian-reffin-smith-43-dodgy-statements-on-computer-art|2026-05-13 Brian Reffin Smith: 43 dodgy statements on computer art]]
 > Computer artist: the unemployable producing the unsaleable for the uninterested
 

@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-05-13-bbc-on-gordon-pask|2026-05-13-bbc on gordon pask]]
+> “I mean somebody with the with and the guts to go and do and create — and that, I believe, is what education is all about”
+
 > [!note]+ [[2026-05-13-brian-reffin-smith-43-dodgy-statements-on-computer-art|2026-05-13 Brian Reffin Smith: 43 dodgy statements on computer art]]
 > Computer artist: the unemployable producing the unsaleable for the uninterested
 
