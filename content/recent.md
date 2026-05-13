@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-12:*** [Heavyweight](https://heavyweight.cc/) uses “the power of document formatting to make important-looking letters that never actually claim legal authority” (🎩 [Neural](https://neural.it/2026/05/heavyweight-to-whom-it-may-concern/))
+
+***2026-05-12:*** [Why Putin needs to end his war](https://www.theguardian.com/world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end)
+
+***2026-05-12:*** [YOY fashy website traffic](https://therighting.com/traffic-reports/traffic-to-truth-social-soars-45-in-april-while-other-news-websites-decline/)
+***
+
 ***2026-05-11:*** *Wash Post*: [Iran war threatens global food supply](http://archive.today/2026.05.10-074515/https://www.washingtonpost.com/world/2026/05/09/iran-farms-thailand-food/)
 
 ***2026-05-11:*** “[super steel](https://www.sciencedaily.com/releases/2026/05/260510030950.htm)”
