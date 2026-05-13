@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-12:*** [Your inability to focus isn’t a failing, it’s a design problem](https://aeon.co/essays/what-we-think-is-a-decline-in-literacy-is-a-design-problem)
+
+***2026-05-12:*** [Actuarial warfare](https://shanakaanslemperera.substack.com/p/actuarial-warfare-how-seven-insurance)
+
+***2026-05-12:*** [Why so many control rooms were seafoam green](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
+
 ***2026-05-12:*** [Heavyweight](https://heavyweight.cc/) uses “the power of document formatting to make important-looking letters that never actually claim legal authority” (🎩 [Neural](https://neural.it/2026/05/heavyweight-to-whom-it-may-concern/))
 
 ***2026-05-12:*** [Why Putin needs to end his war](https://www.theguardian.com/world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end)
