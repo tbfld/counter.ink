@@ -229,7 +229,8 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-04-08-Luftgründer|2026-04-08 luftgründer]]
 	- [[2026-04-11-what-counts-as-a-concentration-camp|2026-04-11 what counts as a concentration camp]]
 	- [[2026-04-14-marco-rubio-meme-compilation|2026-04-14 marco rubio meme compilation]]
-	- [[2026-04-22-endangered-millenialisms|2026-04-22-endangered millenialisms]]
+	- [[2026-04-22-endangered-millenialisms|2026-04-22 endangered millenialisms]]
+	- [[2026-05-13-brian-reffin-smith-43-dodgy-statements-on-computer-art|2026-05-13 Brian Reffin Smith: 43 dodgy statements on computer art]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**

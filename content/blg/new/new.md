@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-05-13-brian-reffin-smith-43-dodgy-statements-on-computer-art|2026-05-13 Brian Reffin Smith: 43 dodgy statements on computer art]]
+> Computer artist: the unemployable producing the unsaleable for the uninterested
+
 > [!note]+ [[2026-04-22-endangered-millenialisms|2026-04-22 endangered millenialisms]]
 >  I’m obsessed, totes, adorbs, amaze, amazeballs, cray (🎩 FS)
 

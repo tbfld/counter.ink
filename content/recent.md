@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-05
 
+> [!note]+ [[2026-05-13-brian-reffin-smith-43-dodgy-statements-on-computer-art|2026-05-13 Brian Reffin Smith: 43 dodgy statements on computer art]]
+> Computer artist: the unemployable producing the unsaleable for the uninterested
+
+***
+
 ***2026-05-12:*** [Your inability to focus isn’t a failing, it’s a design problem](https://aeon.co/essays/what-we-think-is-a-decline-in-literacy-is-a-design-problem)
 
 ***2026-05-12:*** [Actuarial warfare](https://shanakaanslemperera.substack.com/p/actuarial-warfare-how-seven-insurance)
