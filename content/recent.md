@@ -27,6 +27,14 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-13:*** [DFW on ocean cruises (1997)](https://archive.is/YIMnH)
+
+***2026-05-13:*** Daniel G. Andújar, [The 2026 Venice Biennale Implodes](https://danielandujar.org/2026/05/11/the-2026-venice-biennale-implodes-diplomatic-collapse-historic-strike-and-the-privatisation-of-art/) (🎩 FiG)
+
+***2026-05-13:*** *WiReD*: [Overworked AI Agents Turn Marxist, Researchers Find](https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/)
+
+***2026-05-13:*** Johannes Exner’s 1970 [Church of Nørreland in Holstebro, Denmark](https://www.facebook.com/figprojects/posts/pfbid02AGyFZXW8W4HoNtuVteFMs32XkvqCgi831BMdp5seBFVJS86nwSFuD9YjMtbB7gDHl) (🎩 FiG)
+
 ***2026-05-13:*** [US BOP has 120K pagwes on Ghislaine Maxwell’s prison transfer](https://www.motherjones.com/politics/2026/05/ghislaine-maxwell-trump-prison-transfer-foia/)
 
 ***2026-05-13:*** [Canvas LMS, corporate raiders, and the chatbot bubble](https://theamericanvandal.substack.com/p/historyofcanvas) (🎩 MH)
