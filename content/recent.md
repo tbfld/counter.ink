@@ -27,8 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
-***2026-05-13:*** [AJ+](https://global.ajplus.net/english/home)’s [Tony Karon](https://en.wikipedia.org/wiki/Tony_Karon) on [Molly Crabapple](https://www.mollycrabapple.com/)’s [Here Where We Live Is Our Country](https://www.penguinrandomhouse.com/books/646320/here-where-we-live-is-our-country-by-molly-crabapple/)
+> [!note]+ [[2026-05-13-bbc-on-gordon-pask|2026-05-13-bbc on gordon pask]]
+> “I mean somebody with the with and the guts to go and do and create — and that, I believe, is what education is all about”
 
+***2026-05-13:*** [AJ+](https://global.ajplus.net/english/home)’s [Tony Karon](https://en.wikipedia.org/wiki/Tony_Karon) on [Molly Crabapple](https://www.mollycrabapple.com/)’s [Here Where We Live Is Our Country](https://www.penguinrandomhouse.com/books/646320/here-where-we-live-is-our-country-by-molly-crabapple/)
 
 ***2026-05-13:*** McKenzie Wark, [A Toast to Femmunism](https://www.e-flux.com/journal/163/6776893/a-toast-to-femmunism)
 
