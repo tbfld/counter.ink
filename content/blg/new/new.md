@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-05-15-peter-willett-on-the-ngo-origins-of-the-net|2026-05-15 Peter Willett on the NGO origins of the net]]
+> MP3 of a 2009 talk at UCL offering an alternative history of internetworking
+
 > [!note]+ [[2026-05-13-bbc-on-gordon-pask|2026-05-13-bbc on gordon pask]]
 > “I mean somebody with the with and the guts to go and do and create — and that, I believe, is what education is all about”
 

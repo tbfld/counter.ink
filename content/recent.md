@@ -27,6 +27,31 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-16:*** lots of people are talking about [Robert Kagan](https://en.wikipedia.org/wiki/Robert_Kagan)’s dark take [on the Iran war](http://archive.today/2026.05.16-064740/https://www.theatlantic.com/international/2026/05/iran-war-trump-losing/687094/)
+
+> [!note]+ [[2026-05-15-peter-willett-on-the-ngo-origins-of-the-net|2026-05-15 Peter Willett on the NGO origins of the net]]
+> MP3 of a 2009 talk at UCL offering an alternative history of internetworking
+
+***
+
+***2026-05-15:*** [DOGE was guilty of genocide](https://www.404media.co/doge-cuts-unleashed-a-deadly-wave-of-violence-across-africa-study-finds/)
+
+***2026-05-15:*** Film at Lincoln Center: [Korean Cinema’s Celluloid Fever](https://www.youtube.com/watch?v=EvROHJuFdFU)
+
+***2026-05-15:*** [Karin Spaink](https://en.wikipedia.org/wiki/Karin_Spaink), a Dutch hero, [RIP](https://www.spaink.net/2026/05/08/exit-spaink/)
+
+***2026-05-15:*** Shane Reiner-Roth’s [everyverything.net](https://www.everyverything.net/)
+***
+
+***2026-05-14:*** David Hearts, “[Starmer is toast](https://www.middleeasteye.net/opinion/starmer-toast-stop-farage-now-britains-left-wing-forces-must-unite)” — on how to beat Farage
+
+***2026-05-14:*** [Lost Days at the Chelsea Hotel](https://www.curbed.com/article/patti-smith-robert-mapplethorpe-chelsea-hotel-artists-residents-lost-photos-albert-scopin.html)
+
+***2026-05-14:*** [Doug Henwood, Ben Tarnoff, and Quinn Slobodian on Musk](https://jacobin.com/2026/05/musk-cyborgs-tech-wokeness-right)
+***
+
+***2026-05-13:*** [media sovereignty in the UK](https://mediasovereignty.org/?brid=YWdncwFCJ91_6oSajzEEEnhD5q6o)
+
 ***2026-05-13:*** [DFW on ocean cruises (1997)](https://archive.is/YIMnH)
 
 ***2026-05-13:*** Daniel G. Andújar, [The 2026 Venice Biennale Implodes](https://danielandujar.org/2026/05/11/the-2026-venice-biennale-implodes-diplomatic-collapse-historic-strike-and-the-privatisation-of-art/) (🎩 FiG)
