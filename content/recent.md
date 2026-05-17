@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-17:*** *e-flux* journal #163 (May 2026): [Intellectuals](https://www.e-flux.com/journal/163)
+***
+
+***2026-05-16:*** meta[-coverage on the Albertan separatist movement](http://archive.today/2026.05.12-100723/https://www.thestar.com/opinion/star-columnists/why-albertas-independence-movement-is-bad-news-even-if--maybe-especially--if-they-lose/article_240e62fb-a398-4908-b67e-79f2d07a58c2.html)
+
+***2026-05-16:*** “[When the creation of bespoke software becomes instantaneous, the science of information is what remains scarce and valuable](https://medium.com/@jurgens_24580/everything-we-teach-is-right-but-all-our-classes-are-wrong-94e43f569cde)”
+
 ***2026-05-16:*** lots of people are talking about [Robert Kagan](https://en.wikipedia.org/wiki/Robert_Kagan)’s dark take [on the Iran war](http://archive.today/2026.05.16-064740/https://www.theatlantic.com/international/2026/05/iran-war-trump-losing/687094/)
 
 > [!note]+ [[2026-05-15-peter-willett-on-the-ngo-origins-of-the-net|2026-05-15 Peter Willett on the NGO origins of the net]]
