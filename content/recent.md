@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-17:*** [Mekons origin story](https://www.thesouthernreporter.co.uk/news/borders-break-in-yielded-big-break-for-punk-rock-veterans-the-mekons-320296)
+
+***2026-05-17:*** [So much for EU digital sovereignty](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735) (🎩 WH)
+
 ***2026-05-17:*** *e-flux* journal #163 (May 2026): [Intellectuals](https://www.e-flux.com/journal/163)
 ***
 
