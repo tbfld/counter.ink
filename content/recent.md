@@ -27,6 +27,14 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-21:*** Larry Niven’s [Ringworld but Baltimore](https://www.instagram.com/p/BxvnfyhpGUT/) (by [Fred Scharmen](https://www.morgan.edu/sap/frederick-scharmen))
+***
+
+***2026-05-20:*** my hero [Peter G. Neumann](http://archive.today/2026.05.19-002341/https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html) [plays Tom Lehrer’s “Subway Song”](https://www.facebook.com/reel/1330818965816339)
+
+***2026-05-20:*** [Neglected Books](https://neglectedbooks.com/) on the “[Writers from the Other Europe](https://neglectedbooks.com/?p=7808)” series
+***
+
 ***2026-05-17:*** [Mekons origin story](https://www.thesouthernreporter.co.uk/news/borders-break-in-yielded-big-break-for-punk-rock-veterans-the-mekons-320296)
 
 ***2026-05-17:*** [So much for EU digital sovereignty](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735) (🎩 WH)
