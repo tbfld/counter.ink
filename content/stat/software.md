@@ -20,6 +20,9 @@ status:
 RSS: true
 yaml_end: true
 ---
+- [FlashSpace](https://github.com/wojciech-kulik/FlashSpace) (F/LOSS macOS workspace manager; added 2025-05-21)
+-  [And now it’s all this](https://leancrew.com/all-this/) (added 2025-05-21)
+- [howdoi CLI](https://github.com/gleitz/howdoi) (added 2025-05-21; from [Brett Terpstra](https://brettterpstra.com/downloads/))
 - [RSS Lookup](https://www.rsslookup.com/) (added 2026-01-19): exactly what it says on the label
 - [Bombadillo](https://bombadillo.colorfield.space/) (added 2025-03-10, from OTW): a terminal-based non-web browser #cli #protocols
 - [Bunch](https://bunchapp.co/) (added 2025-03-10, from OTW): automation tool that uses text files with lists of apps / commands to launch #automation #macos #ui

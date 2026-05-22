@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-22:*** [AI and New York City’s Fiscal Future](https://comptroller.nyc.gov/reports/ai-and-new-york-citys-fiscal-future/) seems overly optimistic
+
+***2026-05-22:*** [John Stezaker’s collages](https://www.richardgraygallery.com/artists/john-stezaker) at [Richard Gray Gallery in Chicago](https://www.richardgraygallery.com/viewing-rooms/john-stezaker#tab-1:slideshow)
+***
+
+***2026-05-21:*** [rural USPS carriers right-hand-drive delivery vehicles](https://murileemartin.substack.com/p/junkyard-jewel-1999-oldsmobile-eighty)
+
 ***2026-05-21:*** Larry Niven’s [Ringworld but Baltimore](https://www.instagram.com/p/BxvnfyhpGUT/) (by [Fred Scharmen](https://www.morgan.edu/sap/frederick-scharmen))
 ***
 
