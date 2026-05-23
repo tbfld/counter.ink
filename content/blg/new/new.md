@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-05-23-two-films-comments-by-pier-luigi-sacco|2026-05-23-two films — comments by Pier Luigi Sacco]]
+> PLS on Mandalorian, Grogu, and Backrooms
+
 > [!note]+ [[2026-05-15-peter-willett-on-the-ngo-origins-of-the-net|2026-05-15 Peter Willett on the NGO origins of the net]]
 > MP3 of a 2009 talk at UCL offering an alternative history of internetworking
 

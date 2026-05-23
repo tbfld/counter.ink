@@ -27,6 +27,14 @@ yaml_end: true
 
 ### 2026-05
 
+> [!note]+ [[2026-05-23-two-films-comments-by-pier-luigi-sacco|2026-05-23-two films — comments by Pier Luigi Sacco]]
+> PLS on Mandalorian, Grogu, and Backrooms
+
+***2026-05-23:*** [U of C IT workers vote to unionize](https://www.bloodinthemachine.com/p/they-just-formed-the-biggest-tech?r=emv7&brid=YWdncwHpFllBj6ZkvV1hWDcKO3AQ&triedRedirect=true) (🎩 RW)
+
+***2026-05-23:*** [*Inscription: The Journal of Material Text — Theory, Practice, History*](https://inscriptionjournal.com/)
+***
+
 ***2026-05-22:*** [AI and New York City’s Fiscal Future](https://comptroller.nyc.gov/reports/ai-and-new-york-citys-fiscal-future/) seems overly optimistic
 
 ***2026-05-22:*** [John Stezaker’s collages](https://www.richardgraygallery.com/artists/john-stezaker) at [Richard Gray Gallery in Chicago](https://www.richardgraygallery.com/viewing-rooms/john-stezaker#tab-1:slideshow)
