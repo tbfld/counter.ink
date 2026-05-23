@@ -4,7 +4,7 @@ title: current and recent things
 description: exactly what it says on the label
 extract:
 created: 2025-11-03 20:20
-updated: 2026-04-15 23:52
+updated: 
 author: tb
 images: false
 order: "55"
@@ -26,6 +26,10 @@ yaml_end: true
 ## 2026
 
 ### 2026-05
+
+***2026-05-23:*** UPDATED! [[2026-04-14-marco-rubio-meme-compilation]]
+
+***2026-05-23:*** [Vivliostyle](https://vivliostyle.org/): F/LOSS typesetting for digital/web publishing (🎩 SW)
 
 > [!note]+ [[2026-05-23-two-films-comments-by-pier-luigi-sacco|2026-05-23-two films — comments by Pier Luigi Sacco]]
 > PLS on Mandalorian, Grogu, and Backrooms

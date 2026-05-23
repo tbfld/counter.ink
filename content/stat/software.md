@@ -20,6 +20,7 @@ status:
 RSS: true
 yaml_end: true
 ---
+- [Vivliostyle](https://vivliostyle.org/): F/LOSS typesetting for digital/web publishing (🎩 SW; added 2025-05-23)
 - [FlashSpace](https://github.com/wojciech-kulik/FlashSpace) (F/LOSS macOS workspace manager; added 2025-05-21)
 -  [And now it’s all this](https://leancrew.com/all-this/) (added 2025-05-21)
 - [howdoi CLI](https://github.com/gleitz/howdoi) (added 2025-05-21; from [Brett Terpstra](https://brettterpstra.com/downloads/))
