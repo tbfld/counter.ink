@@ -27,6 +27,14 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-23:*** Stanford’s “[unofficial class teaching students how to ‘rule the world’](https://stanforddaily.com/2026/05/21/teaching-students-how-to-rule-world/)”
+
+***2026-05-23:*** Patrick Boyle, “[SpaceX IPO: Nice Try Though](https://www.youtube.com/watch?v=IHD8BDFYyGI)” (🎩 JK)
+
+***2026-05-23:*** [rightist narratives and “the interracial cuck porn theory of everything”](https://www.liberalcurrents.com/the-interracial-cuck-porn-theory-of-everything/) (🎩 MW)
+
+***2026-05-23:*** metaphor as method: “[Digital plastic](https://www.tandfonline.com/doi/full/10.1080/1554480X.2025.2557491#abstract)”
+
 ***2026-05-23:*** UPDATED! [[2026-04-14-marco-rubio-meme-compilation]]
 
 ***2026-05-23:*** [Vivliostyle](https://vivliostyle.org/): F/LOSS typesetting for digital/web publishing (🎩 SW)
