@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-23:*** Bogost, “[AI exposed the wicked problems in higher ed that long predated AI](https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/)”
+
+***2026-05-23:*** piduantan\[dot]com [Science Hub Mutual Aid](https://www.pidantuan.com/)
+
+***2026-05-23:*** Fred Dewey, *[Without the Consent of the People](https://www.ifsfpublishing.com/without-the-consent-of-the-people)* (🎩 JD)
+
 ***2026-05-23:*** Stanford’s “[unofficial class teaching students how to ‘rule the world’](https://stanforddaily.com/2026/05/21/teaching-students-how-to-rule-world/)”
 
 ***2026-05-23:*** Patrick Boyle, “[SpaceX IPO: Nice Try Though](https://www.youtube.com/watch?v=IHD8BDFYyGI)” (🎩 JK)
