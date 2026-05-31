@@ -285,3 +285,13 @@ yaml_end: true
 ![[rubio-etherium.jpg|wmed relative|center]]
 
 ![[rubio-caftan.jpg|wmed relative|center]]
+
+![[rubio-duran.jpg|wmed relative|center]]
+
+![[rubio-vanilla.jpg|wmed relative|center]]
+
+![[rubio-milli.jpg|wmed relative|center]]
+
+![[rubio-travolta.jpg|wmed relative|center]]
+
+![[rubio-vanilli.jpg|wmed relative|center]]

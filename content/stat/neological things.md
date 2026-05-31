@@ -52,6 +52,8 @@ yaml_end: true
 
 **koyaanisqatsification** ([2024-08-27](https://tldr.nettime.org/@tb/113034581126290013)): widespread adoption / imposition of a *Koyaanisqaatsi* aesthetic, i.e., jumbled-together sped-up time-lapse
 
+**lorem ipsum studies** ([2026-05-24](https://www.facebook.com/story.php?story_fbid=10165071232828054&id=553058053)) a bogus academic field; the degree-program equivalent of underwater basket-weaving 
+
 **Luftgründer**, *lit. “air-founder”*: (1) a Silly Valley–style aspirational “Founder” with unrealistic expectations about the sheer mass of effort it takes to maintain anything — say, like a government. (2) A more accurate name for “libertarian.” ([2026-04-08](https://www.facebook.com/tbyfield/posts/pfbid0A9XRYbA89ELsgZ8QvCjXqSV96SeuaimmCG6sjZKwE8DovxZ11G8xtLK7Gsdf3cUQl); see also [[2026-04-08-Luftgründer|here]])
 
 **Magical Nihilism** (n.d.): like Magical Realism but nihilistic

@@ -27,6 +27,20 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-31:*** UPDATED! [2026-04-14-marco-rubio-meme-compilation](app://obsidian.md/2026-04-14-marco-rubio-meme-compilation) — the Milli–Vanilla mix
+
+***
+
+***2026-05-29:*** [Find That Meme](https://www.findthatmeme.com/)
+
+***2026-05-29:*** Eric Draitser, “[How I Learned that DC Never Changes and Almost No One Understands Russia’s War in Ukraine](https://www.counterpunch.org/2026/05/29/gen-strangelove-or-how-i-learned-that-dc-never-changes-and-almost-no-one-understands-russias-war-in-ukraine/)
+***
+
+***2026-05-24:*** [Osiris, a F/LOSS Real-Time OSINT Dashboard](https://github.com/simplifaisoul/osiris)
+
+***2026-05-24:*** Will Self: “[The Novel Is Dead. This Time It's for Real](https://x.com/wself/status/2057911404041302391)”
+
+***
 ***2026-05-23:*** Bogost, “[AI exposed the wicked problems in higher ed that long predated AI](https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/)”
 
 ***2026-05-23:*** piduantan\[dot]com [Science Hub Mutual Aid](https://www.pidantuan.com/)
