@@ -27,7 +27,14 @@ yaml_end: true
 
 ### 2026-05
 
-***2026-05-31:*** UPDATED! [2026-04-14-marco-rubio-meme-compilation](app://obsidian.md/2026-04-14-marco-rubio-meme-compilation) — the Milli–Vanilla mix
+***2026-05-31:*** [crt.sh: certificate transparency log search engine](https://cybersectools.com/tools/crt-sh)
+
+***2026-05-31:*** [Audrey Henson found a second vote.gov reg’d to the White House](https://thedreydossier.substack.com/p/i-found-a-second-votegov-and-its)
+
+***2026-05-31:*** [Key Changes in OMB’s Proposed Federal Financial Assistance Rule](https://elizabethginexi.substack.com/p/summary-of-key-changes-in-ombs-proposed)
+
+***2026-05-31:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — the Milli–Vanilla mix
+
 
 ***
 
