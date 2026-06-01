@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-01:*** Today in Tabs: [Who is Nick Bilton?](https://www.todayintabs.com/p/who-is-nick-bilton)
+
+***
+
 ***2026-05-31:*** “[What replaces wages as the mechanism of dignified participation in this country?](https://www.blueamp.co/p/what-bezos-dell-and-the-magnificent)”
 
 ***2026-05-31:*** “[Y2K aesthetic](https://en.wikipedia.org/wiki/Y2K_aesthetic)”
