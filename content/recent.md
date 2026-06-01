@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-05-31:*** “[What replaces wages as the mechanism of dignified participation in this country?](https://www.blueamp.co/p/what-bezos-dell-and-the-magnificent)”
+
+***2026-05-31:*** “[Y2K aesthetic](https://en.wikipedia.org/wiki/Y2K_aesthetic)”
+
+***2026-05-31:*** [Help Unsell the War — 13 TV Spots](https://archive.org/details/motionpicture0194) (1971())
+
 ***2026-05-31:*** [crt.sh: certificate transparency log search engine](https://cybersectools.com/tools/crt-sh)
 
 ***2026-05-31:*** [Audrey Henson found a second vote.gov reg’d to the White House](https://thedreydossier.substack.com/p/i-found-a-second-votegov-and-its)
