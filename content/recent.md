@@ -27,6 +27,16 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-02:*** Rick Perlstein, “[The Horse Race Won't Matter If They Burn Down the Track](https://rickperlstein.substack.com/p/the-horse-race-wont-matter-if-they)”
+
+***2026-06-02:*** Duhalde, “[American Communists Did a Lot Right and a Lot Wrong](https://jacobin.com/2026/06/communist-party-usa-democracy-lessons)”
+
+***2026-06-02:*** [The 80 percent (meta) bill](https://the80percentbill.com/)
+
+***2026-06-02:*** [Obamalisk, Obamarama, Obamausoleum](https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago)
+
+***
+
 ***2026-06-01:*** Today in Tabs: [Who is Nick Bilton?](https://www.todayintabs.com/p/who-is-nick-bilton)
 
 ***
