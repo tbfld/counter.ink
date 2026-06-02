@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-02:*** [Stanford Receives Chinese State-linked Donations](https://stanfordreview.org/investigation-stanford-receives-chinese-state-linked-donations-2/)
+
 ***2026-06-02:*** [4Columns winding down after a decade](https://www.4columns.org/about/the-end-of-4columns)
 
 ***2026-06-02:*** Quiver quant [congressional sytock trade tracker](https://www.quiverquant.com/congresstrading/)
