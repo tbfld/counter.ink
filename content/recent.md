@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-02:*** [4Columns winding down after a decade](https://www.4columns.org/about/the-end-of-4columns)
+
+***2026-06-02:*** Quiver quant [congressional sytock trade tracker](https://www.quiverquant.com/congresstrading/)
+
 ***2026-06-02:*** Rick Perlstein, “[The Horse Race Won't Matter If They Burn Down the Track](https://rickperlstein.substack.com/p/the-horse-race-wont-matter-if-they)”
 
 ***2026-06-02:*** Duhalde, “[American Communists Did a Lot Right and a Lot Wrong](https://jacobin.com/2026/06/communist-party-usa-democracy-lessons)”
