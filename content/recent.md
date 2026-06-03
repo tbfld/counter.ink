@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-03:***  new Substack from [Carl Disalvo](https://www.carldisalvo.com/) and [Ken Anderson](https://www.epicpeople.org/ken-anderson-a-profile/) on “living in systems that resist change”: [Under The Circumstances](https://underthecircumstances.substack.com/),  (n.b. [Carolyn Rouse](https://anthropology.princeton.edu/people/faculty/carolyn-rouse) who’s co-writing the book with them but not the blog)
+
+***2026-06-03:*** London Mathematical Society, [Leiden Declaration on AI and Mathematics](https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics)
+
 > [!note]+ [[2026-06-03-on-birthdays|2026-06-03 on birthdays]]
 > the dialectic that’s sapping us of everything, an empire of alienation, with each new layer of cynicism mortared together with cringe
 
