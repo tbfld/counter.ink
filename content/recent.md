@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-05
 
+> [!note]+ [[2026-06-03-on-birthdays|2026-06-03 on birthdays]]
+> the dialectic that’s sapping us of everything, an empire of alienation, with each new layer of cynicism mortared together with cringe
+
+***2026-06-03:*** Perlstein is 🔥 🔥 🔥: “[But Did You Die?](https://rickperlstein.substack.com/p/but-did-you-die)”
+
+***
+
 ***2026-06-02:*** [Stanford Receives Chinese State-linked Donations](https://stanfordreview.org/investigation-stanford-receives-chinese-state-linked-donations-2/)
 
 ***2026-06-02:*** [4Columns winding down after a decade](https://www.4columns.org/about/the-end-of-4columns)

@@ -234,6 +234,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-05-13-brian-reffin-smith-43-dodgy-statements-on-computer-art|2026-05-13 Brian Reffin Smith: 43 dodgy statements on computer art]]
 	- [[2026-05-15-peter-willett-on-the-ngo-origins-of-the-net|2026-05-15 Peter Willett on the NGO origins of the net]]
 	- [[2026-05-23-two-films-comments-by-pier-luigi-sacco|2026-05-23-two films — comments by Pier Luigi Sacco]]
+	- [[2026-06-03-on-birthdays|2026-06-03 on birthdays]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**

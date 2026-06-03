@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-06-03-on-birthdays|2026-06-03 on birthdays]]
+> the dialectic that’s sapping us of everything, an empire of alienation, with each new layer of cynicism mortared together with cringe
+
 > [!note]+ [[2026-05-23-two-films-comments-by-pier-luigi-sacco|2026-05-23-two films — comments by Pier Luigi Sacco]]
 > PLS on Mandalorian, Grogu, and Backrooms
 
