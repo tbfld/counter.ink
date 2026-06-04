@@ -295,3 +295,25 @@ yaml_end: true
 ![[rubio-travolta.jpg|wmed relative|center]]
 
 ![[rubio-vanilli.jpg|wmed relative|center]]
+
+![[rubio-shopping.jpg|wmed relative|center]]
+
+![[rubio-chick.jpg|wmed relative|center]]
+
+![[rubio-na.jpg|wmed relative|center]]
+
+![[rubio-hiding.jpg|wmed relative|center]]
+
+![[rubio-muppet.jpg|wmed relative|center]]
+
+![[rubio-girlscout.jpg|wmed relative|center]]
+
+![[rubio-birthday.jpg|wmed relative|center]]
+
+![[rubio-tourist.jpg|wmed relative|center]]
+
+![[rubio-lego.jpg|wmed relative|center]]
+
+![[rubio-axl.jpg|wmed relative|center]]
+
+![[rubio-boots.jpg|wmed relative|center]]

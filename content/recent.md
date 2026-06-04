@@ -37,6 +37,8 @@ yaml_end: true
 
 ***2026-06-04:*** Stengo and Spina, eds., [*Real Estate Histories of Architecture and Capital*](https://verlag.gta.arch.ethz.ch/en/gta:book_8fa7a885-90e1-48ef-b679-24e9a169c618)
 
+***
+
 ***2026-06-03:*** [ICC to ditch MS Office](https://tech.slashdot.org/story/26/06/03/2028239/eu-plots-to-abandon-us-tech) (or whatever they call it now)
 
 ***2026-06-03:*** [Attention Spans Aren't Shrinking](https://cognitivewonderland.substack.com/p/attention-spans-arent-shrinking)
