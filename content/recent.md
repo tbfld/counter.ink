@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-04:*** [Zelenskyy’s open letter to Putin ](www.president.gov.ua/en/news/vidkritij-list-prezidentu-rosijskoyi-federaciyi-vid-preziden-104769)
+
 ***2026-06-04:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — the Girl Scout mix
 
 > [!note]+ [[2024-06-04-israel-and-the-columbia-law-review|2024-06-04 Israel and the Columbia Law Review]]
