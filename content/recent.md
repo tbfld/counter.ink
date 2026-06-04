@@ -27,6 +27,17 @@ yaml_end: true
 
 ### 2026-05
 
+> [!note]+ [[2026-06-04-israel-and-us-elections|2026-06-04 Israel and US elections]]
+> morals are more complicated than they seem
+
+***2026-06-04:*** Stengo and Spina, eds., [*Real Estate Histories of Architecture and Capital*](https://verlag.gta.arch.ethz.ch/en/gta:book_8fa7a885-90e1-48ef-b679-24e9a169c618)
+
+***2026-06-03:*** [ICC to ditch MS Office](https://tech.slashdot.org/story/26/06/03/2028239/eu-plots-to-abandon-us-tech) (or whatever they call it now)
+
+***2026-06-03:*** [Attention Spans Aren't Shrinking](https://cognitivewonderland.substack.com/p/attention-spans-arent-shrinking)
+
+***2026-06-03:*** [*Critical Intelligence*, The AI Art Magazine, Number 2](https://neural.it/2026/05/edited-by-christoph-grunberger-critical-intelligence-the-ai-art-magazine-number-2/)
+
 ***2026-06-03:*** *FA*: [A Remade Islamic Republic Will Reshape the Mideast](https://www.foreignaffairs.com/iran/irans-new-grand-strategy)
 
 ***2026-06-03:***  new Substack from [Carl Disalvo](https://www.carldisalvo.com/) and [Ken Anderson](https://www.epicpeople.org/ken-anderson-a-profile/) on “living in systems that resist change”: [Under The Circumstances](https://underthecircumstances.substack.com/),  (n.b. [Carolyn Rouse](https://anthropology.princeton.edu/people/faculty/carolyn-rouse) who’s co-writing the book with them but not the blog)

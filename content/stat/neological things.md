@@ -48,6 +48,8 @@ yaml_end: true
 
 **freudenschadist** (n.d.): someone who systematically takes misery in others’ pleasures
 
+**infoligarchy** ([2026-06-04](2026-06-04-infoligarchy.jpeg)): seems self-evident 
+
 **Klaus Gnomi** ([[2026-04-07-klaus-gnomi]]): not a neologism, strictly speaking, but apparently no one has ever typed that phrase before
 
 **koyaanisqatsification** ([2024-08-27](https://tldr.nettime.org/@tb/113034581126290013)): widespread adoption / imposition of a *Koyaanisqaatsi* aesthetic, i.e., jumbled-together sped-up time-lapse

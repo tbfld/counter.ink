@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-06-04-israel-and-us-elections|2026-06-04 Israel and US elections]]
+> morals are more complicated than they seem
+
 > [!note]+ [[2026-06-03-on-birthdays|2026-06-03 on birthdays]]
 > the dialectic that’s sapping us of everything, an empire of alienation, with each new layer of cynicism mortared together with cringe
 
