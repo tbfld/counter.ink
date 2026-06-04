@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-04:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — the Girl Scout mix
+
 > [!note]+ [[2024-06-04-israel-and-the-columbia-law-review|2024-06-04 Israel and the Columbia Law Review]]
 > a short essay written two years ago about Israel and Columbia Law
 
