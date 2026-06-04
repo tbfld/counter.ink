@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-05
 
+> [!note]+ [[2024-06-04-israel-and-the-columbia-law-review|2024-06-04 Israel and the Columbia Law Review]]
+> a short essay written two years ago about Israel and Columbia Law
+
+***2026-06-04:*** Marjane Satrapi: [At 10 I was training myself to be a political prisoner](https://www.lemonde.fr/en/culture/article/2026/06/04/marjane-satrapi-at-age-10-i-was-training-myself-to-become-a-political-prisoner_6754129_30.html)
+
 > [!note]+ [[2026-06-04-israel-and-us-elections|2026-06-04 Israel and US elections]]
 > morals are more complicated than they seem
 

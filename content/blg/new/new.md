@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2024-06-04-israel-and-the-columbia-law-review|2024-06-04 Israel and the Columbia Law Review]]
+> a short essay written two years ago about Israel and Columbia Law
+
 > [!note]+ [[2026-06-04-israel-and-us-elections|2026-06-04 Israel and US elections]]
 > morals are more complicated than they seem
 
