@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-05
 
+> [!note]+ [[2026-06-05-ai-and-collectivism|2026-06-05 ai and collectivism]]
+> The way we glue these questions together is the essence of political economy
+
+***
+
 ***2026-06-04:*** [Zelenskyy’s open letter to Putin ](www.president.gov.ua/en/news/vidkritij-list-prezidentu-rosijskoyi-federaciyi-vid-preziden-104769)
 
 ***2026-06-04:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — the Girl Scout mix

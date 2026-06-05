@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-06-05-ai-and-collectivism|2026-06-05 ai and collectivism]]
+> The way we glue these questions together is the essence of political economy
+
 > [!note]+ [[2024-06-04-israel-and-the-columbia-law-review|2024-06-04 Israel and the Columbia Law Review]]
 > a short essay written two years ago about Israel and Columbia Law
 

@@ -121,7 +121,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 		- [[three-p-opera.jpeg]]
 		- [[turdreich-grid-sm.jpeg]]
 	- [[2024-04-11-corinna-snyder-rip|20240 04 11 corinna snyder rip]]
-	- [[2024-06-04-israel-and-the-columbia-law-review|2024-06-04 israel and the columbia law review]]
+	- [[2024-06-04-israel-and-the-columbia-law-review|2024-06-04 Israel and the Columbia Law Review]]
 	- [[2024-11-26-second-greatest-footnote-ever|2024-11-26 the second greatest footnote ever]]
 	- [[2024-11-27-all-creatures-terrible-and-fabulous|2024-11-27 all creatures terrible and fabulous]]
 	- [[2024-11-27-escaping-criticism|2024-11-27 escaping criticism]]
@@ -237,6 +237,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-05-23-two-films-comments-by-pier-luigi-sacco|2026-05-23-two films — comments by Pier Luigi Sacco]]
 	- [[2026-06-03-on-birthdays|2026-06-03 on birthdays]]
 	- [[2026-06-04-israel-and-us-elections|2026-06-04 Israel and US elections]]
+	- [[2026-06-05-ai-and-collectivism|2026-06-05 ai and collectivism]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**
