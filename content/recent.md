@@ -27,6 +27,19 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-06:*** “[A botched tumbler promo on the anniversary of a pro-democracy massacre](https://www.theguardian.com/world/2026/jun/06/starbucks-south-korea-tank-day-promotion-blunder)”
+
+***2026-06-06:*** Sacco: “[Data-driven greenlighting rewards the legible past over the speculative future.](http://archive.today/2026.06.04-134435/https://www.economist.com/letters/2026/06/04/are-most-celebrity-book-clubs-irritating)”
+
+***2026-06-06:*** [cops intervene at American Diabetes Association annual meeting](https://www.medpagetoday.com/special-reports/exclusives/121619) (🎩 PS)
+***
+
+***2026-06-05:*** Draitser: [Iran Strikes US Military in Kuwait, Major Media Fail](https://www.counterpunch.org/2026/06/05/iran-strikes-us-military-in-kuwait-major-media-fail-to-provide-key-detail/)
+
+***2026-06-05:*** [Sean Jacobs](https://elevennamedpeople.substack.com/) on the [Champions League final and Africa](https://www.theguardian.com/commentisfree/2026/may/30/arsenal-champions-league-final-paris-saint-germain-africa)
+
+***2026-06-05:*** *Frieze* > Robyn Brentano > [Behind the Scenes with Robert Wilson](https://www.frieze.com/article/robyn-brentano-robert-wilson-239)
+
 > [!note]+ [[2026-06-05-ai-and-collectivism|2026-06-05 ai and collectivism]]
 > The way we glue these questions together is the essence of political economy
 

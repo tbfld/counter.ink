@@ -20,7 +20,7 @@ status:
 RSS: "true"
 yaml_end: true
 ---
-Today’s Imma-up-this comes from my friend and hero, [Tomislav Medak](https://tom.medak.click/en/bio/), [on the question of rejecting AI](https://www.facebook.com/tbyfield/posts/pfbid0tLtsUrUTsAKGDx9ie8KjQJLitY56j5DRQqEvrcRGZXV4uWQZ552ir14QcMnTRCol?comment_id=1303561488591548):, sparked by a convo about [freedomlibertyandhiphop / frihedlighedoghiphop](https://olh.openlibhums.org/article/id/28643/):
+Today’s Imma-up-this comes from my friend and hero, [Tomislav Medak](https://tom.medak.click/en/bio/), [on the question of rejecting AI](https://www.facebook.com/tbyfield/posts/pfbid0tLtsUrUTsAKGDx9ie8KjQJLitY56j5DRQqEvrcRGZXV4uWQZ552ir14QcMnTRCol?comment_id=1303561488591548), sparked by a convo about [freedomlibertyandhiphop / frihedlighedoghiphop](https://olh.openlibhums.org/article/id/28643/):
   
 > The problem is that the outright rejection leaves us short in collectivising its use against a couple of behemoths driving its development atm. The subscription model makes it an individualised consumer good — and the internet had just the opposite starting point — so that collectively making it work for progressive ends comes hard.
   
