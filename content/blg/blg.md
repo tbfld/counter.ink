@@ -238,6 +238,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-06-03-on-birthdays|2026-06-03 on birthdays]]
 	- [[2026-06-04-israel-and-us-elections|2026-06-04 Israel and US elections]]
 	- [[2026-06-05-ai-and-collectivism|2026-06-05 ai and collectivism]]
+	- [[2026-06-07-angelus-novus-sorta|2026-06-07-angelus novus sorta]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**

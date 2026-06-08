@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-05
 
+> [!note]+ [[2026-06-07-angelus-novus-sorta|2026-06-07-angelus novus sorta]]
+> a mawkish fetish that academics identified with to excuse themselves from engaging in serious political struggle
+
+***
+
 ***2026-06-06:*** “[A botched tumbler promo on the anniversary of a pro-democracy massacre](https://www.theguardian.com/world/2026/jun/06/starbucks-south-korea-tank-day-promotion-blunder)”
 
 ***2026-06-06:*** Sacco: “[Data-driven greenlighting rewards the legible past over the speculative future.](http://archive.today/2026.06.04-134435/https://www.economist.com/letters/2026/06/04/are-most-celebrity-book-clubs-irritating)”

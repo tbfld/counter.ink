@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-06-07-angelus-novus-sorta|2026-06-07-angelus novus sorta]]
+> a mawkish fetish that academics identified with to excuse themselves from engaging in serious political struggle
+
 > [!note]+ [[2026-06-05-ai-and-collectivism|2026-06-05 ai and collectivism]]
 > The way we glue these questions together is the essence of political economy
 

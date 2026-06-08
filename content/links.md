@@ -26,7 +26,11 @@ yaml_end: true
 
 [But Does It Float](https://butdoesitfloat.com/) (added 2025-05-01)
 
+[The Charnel-House](https://thecharnelhouse.org/) (added 2026-06-07)
+
 [Clive Thompson’s Linkfest](https://buttondown.com/clivethompson/archive/) (added 2025-05-01)
+
+[Felix Stalder](https://felix.openflows.com/) (added 2026-06-07)
 
 [FIG Projects](https://www.facebook.com/figprojects/) (on FB; added 2025-05-01)
 
@@ -36,11 +40,17 @@ yaml_end: true
 
 [J. F. Ptak Science Books](https://longstreet.typepad.com/) (added 2025-05-01)
 
+[!Mediengruppe Bitnik](https://wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww.bitnik.org/ "Home – !Mediengruppe Bitnik") (2026-06-07)
+
 [Messy Nessy](https://www.messynessychic.com/) (added 2025-05-01)
+
+[Monoskop](https://monoskop.org/) (added 2026-06-07)
 
 [Morning News](https://themorningnews.org/) (added 2025-05-01)
 
 [Nerd Reich](https://www.thenerdreich.com/author/gil/) (added 2025-12-31)
+
+[nettime](https://nettime.org/) (added 2026-06-07)
 
 [Numlock News](https://www.numlock.com/) (added 2025-05-01)
 
@@ -53,3 +63,5 @@ yaml_end: true
 [Tedium](https://tedium.co/) (added 2025-05-01)
 
 [This Isn’t Happiness](https://thisisnthappiness.com/) (added 2025-05-01)
+
+[World Information Institute](https://world-information.net/de/) (added 2026-06-07)
