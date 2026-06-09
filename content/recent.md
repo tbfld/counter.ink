@@ -27,6 +27,21 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-08:*** Matt Seybold, “[The Useful Narcissist](https://www.e-flux.com/journal/163/6776887/the-useful-narcissist)’
+
+***2026-06-08:*** [UK food imports most at risk from ‘El Nino’ heat stress this summer](https://www.independent.co.uk/news/uk/home-news/el-nino-food-risk-rice-climate-change-b2991304.html)
+
+***2026-06-08:*** Rosa Montero: “[Are Writers Intrinsically Vulnerable to Alcohol and Drugs?](https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/)”
+
+***
+
+***2026-06-07:*** Mack Hagood, “[Feed Logic and the Failure to Thrive](https://www.mackhagood.com/feed-logic-and-the-failure-to-thrive/)”
+
+***2026-06-07: Barbara Loden’s Wanda (1970; trailer on YT)
+
+***2026-06-07:*** [Sadaf Jaffer](https://www.facebook.com/sadaf.jaffer/posts/pfbid024CzxhrTjEVjzAypdDsNu4sT64DsFcDEoXQReBx8CJW5KEgQKgVaiRQwLdSzovH34l) critiques the [Vanderbilt Report on the State of Scholarship
+in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/51/2026/06/State-of-Scholarship-Report-final.pdf)
+
 > [!note]+ [[2026-06-07-angelus-novus-sorta|2026-06-07-angelus novus sorta]]
 > a mawkish fetish that academics identified with to excuse themselves from engaging in serious political struggle
 
