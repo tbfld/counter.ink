@@ -27,7 +27,27 @@ yaml_end: true
 
 ### 2026-05
 
-***2026-06-08:*** Matt Seybold, “[The Useful Narcissist](https://www.e-flux.com/journal/163/6776887/the-useful-narcissist)’
+***2026-06-12:*** Michael Berubé, [Report on the State of a Report (on the Humanities)](https://pghrev.com/report-on-the-state-of-a-report-on-the-humanities/)
+
+***2026-06-12:*** NPR from 2012 on [how the GOP strategically misuses “entitlement”](https://www.npr.org/2012/08/14/158756957/with-ryans-ascent-a-few-thoughts-on-entitlement) 
+
+***2026-06-12:*** Euro diplomatic service “[dysfunctional](http://archive.today/2026.06.12-052835/https://www.ft.com/content/a7278d93-98fc-4fa7-a14c-d0c089b693dd?syn-25a6b1a6=1)” in current c
+***
+
+***2026-06-11:*** [Russian Neo-Nazi network pushing “white lives matter” chaos in Britain](https://bylinetimes.com/2026/06/10/revealed-the-russian-neo-nazi-network-pushing-white-lives-matter-division-in-britain-promoted-by-tommy-robinson/)
+
+***2026-06-11:*** [Why Structural Misogyny Is Structural](https://monastic.org/structural-mysogyny.html) (🎩 JB)
+***
+
+***2026-06-10:*** [Ultimate Web Scraper](https://chromewebstore.google.com/detail/ultimate-web-scraper/pdeldjlcnhallaapdggcmhpailpnnkmg) (for Chrome)
+
+***2026-06-10:*** [German court holds Google’s liable for its AI-generated lies](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+
+***
+
+***2026-06-08:*** Marry Harron’s *I Shot Andy Warhol* [back in theaters](https://www.avclub.com/i-shot-andy-warhol-mary-harron-legal-limbo-4k-restoration-interview) (🎩 JH)
+
+***2026-06-08:*** Matt Seybold, “[The Useful Narcissist](https://www.e-flux.com/journal/163/6776887/the-useful-narcissist)” (🎩 MW)
 
 ***2026-06-08:*** [UK food imports most at risk from ‘El Nino’ heat stress this summer](https://www.independent.co.uk/news/uk/home-news/el-nino-food-risk-rice-climate-change-b2991304.html)
 
@@ -68,9 +88,6 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-06-04:*** [Zelenskyy’s open letter to Putin ](www.president.gov.ua/en/news/vidkritij-list-prezidentu-rosijskoyi-federaciyi-vid-preziden-104769)
 
 ***2026-06-04:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — the Girl Scout mix
-
-> [!note]+ [[2024-06-04-israel-and-the-columbia-law-review|2024-06-04 Israel and the Columbia Law Review]]
-> a short essay written two years ago about Israel and Columbia Law
 
 ***2026-06-04:*** Marjane Satrapi: [At 10 I was training myself to be a political prisoner](https://www.lemonde.fr/en/culture/article/2026/06/04/marjane-satrapi-at-age-10-i-was-training-myself-to-become-a-political-prisoner_6754129_30.html)
 
@@ -1060,16 +1077,10 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-10-31:*** “[Human Only Public License](https://vanderessen.com/posts/hopl/)” (🎩 US)
 
 ***
-> [!note]+ [[2025-10-11-TrumpRX-etc|2025-10-11 TrumpRX etc]]
-> analysis and metanalysis of TrumpRX etc
-
 ***
 ***2025-10-10:*** [Bill Ayers on “sewer socialism” and free buses](https://www.dopemag.org/articles-1/free-buses-prr67) (🎩 JB)
 
 ***
-> [!note]+ [[2025-10-07-no-more-acab-thanks|2025-10-07 no more acab thanks]]
-> "ACAB" was never a good idea, but now it's a bad one
-
 ***
 ***2025-10-06:*** Dollar General Carl Schmitt, Curtis Yarvin, has “[think realistically about how to flee the country](https://www.thenerdreich.com/panicked-curtis-yarvin-jd-vance-guru-plans-to-flee-usa/)”
 
@@ -1090,9 +1101,6 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-09-25:*** a pretty sharp [AI video about MAGA](https://youtu.be/nD_25aSMSFc)
 
 ***
-> [!note]+ [[2025-09-21-where-do-you-draw-the-line|2025-09-21 where do you draw the line]]
-> a para on ethics
-
 ***
 ***2025-09-15:*** [kitsch is central to MAGA](https://cybelecanterel.substack.com/p/lost-in-the-kingdom-of-kitsch) (🎩 AO)
 
@@ -1118,20 +1126,11 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***
 ### 2025-08
 
-> [!note]+ [[2025-08-25-what-isnt-happening|2025-08-25 what isnt happening]]
-> a litany of what left-leaning society needs to do to counter Trump & Co
-
 ***
 ***2025-08-13:*** David Dayen sheds more light on the fund-raising machines that dominate the Democratic Party — [this time in California](https://prospect.org/politics/2025-08-13-establishment-struggles-control-california-governors-race/)
 
 ***
 ***2025-08-11:*** a great [Michael Tomasky column](https://newrepublic.com/article/198965/donald-trump-putin-europe-ukraine) on Trump, Putin, UA, and UE
-
-> [!note]+ [[2025-08-11-titles-i-through-x|2025-08-11 titles i through x]]
-> some context for Title IX
-
-> [!note]+ [[2025-08-11-learning-to-read-corruption|2025-08-11 learning to read corruption]]
-> gotta keep up with the times
 
 ***
 ***2025-08-10:*** Charlie Stross thread on a [proposed interstellar travel design](https://wandering.shop/@cstross/114993194582954593) (🎩 KD)
