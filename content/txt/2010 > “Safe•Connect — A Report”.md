@@ -158,11 +158,11 @@ This lack of clarity is unfortunately evident in NSU ITʼs explanation, which st
 
 Impulse Pointʼs own diagram (which is incomplete in ways that are central to this analysis) shows that another essential component is a server called the “Safe•Connect Policy Enforcer Appliance,” which is installed within an institutionʼs network infrastructure.[^13]
 
-![[SC1.jpeg|550]]
+\[missing image: SC1.jpeg|550]
 
 In Impulse Point’s “Regulatory Compliance and NAC White Paper”[^14] a screenshot of the “Safe•Connect Policy Manager” web-based console shows that it aggregates institutional usernames (e.g., an NSU NetlD), MAC addresses (i.e., the unique serial number of a computer’s network interface), IP addresses, as well as applications and files. These are represented with icons: a cartoonish ‘spy,’ presumably for spyware; a ‘CD,’ presumably for (as the left column states) “Music — Files — Sharing”, two “friends” presumably for “Peer to Peer Sharing Programs”, and so on (I have highlighted these elements with red arrows):
 
-![[SC2.jpeg|550]]
+\[missing image: SC2.jpeg|550]
 
 Impulse Pointʼs website offers numerous “case studies” that describe how “the Safe•Connect system records vital student and computer devices statistics such as host name, device type, operating system, and MAC address,” “automate\[s] the process of ensuring that student computers \[are] not configured as outbound file sharing servers,” “provides up-to-the-minute information on their authentication and policy compliance status,” “reports non-compliance to the Safe•Connect Policy Enforcer and delivers individualized remediation guidance,” and so on (emphasis added).[^15] Another case study states that their system “delivers real‐time and historical policy status reporting” — in other words, it keeps cumulative logs — “that provides valuable insight into group or individual policy compliance.”[^16] Clearly, then, according to Impulse Pointʼs current promotional literature, the Safe•Connect system as a whole can and does report and log a wide range of information.
 
@@ -248,13 +248,13 @@ On first blush, these statements seem like generic disclaimers (and the second p
 
 After installing the Safe•Connect agent on my laptop, I observed on several seemingly random occasions that it (specifically, the executable file **scManagerD**, one of the two key executables embedded in the “Safe•Connect.app”) tried to connect to a server at the IP address 198.31.193.211. Here is a screen capture of my interactive firewallʼs report of this:
 
-![[SC3.jpeg|550]]
+\[missing image: SC3.jpeg|550]
 
 *These attempted connections were not limited to NSUʼs wireless network.* They also took place on Columbia Universityʼs open wireless network and my own wireless network at home. This supports my earlier suggestion that Safe•Connectʼs activities extend beyond NSUʼs wireless networks.
 
 That IP address translates into **host.onoc.net** under the domain **onoc.net**,[^35] which is registered to DSM Technology Consultants, a “network of members firms of DSM Limited, each of which is a separate and independent legal entity”[^36] — an unusually legalistic formulation for a websiteʼs footer. This would certainly appear to be a “third-party website” for the purposes of Impulse Pointʼs privacy statement. However, Impulse Point LLC and DSM Technology Consultants share the same street address (6810 New Tampa Highway, Lakeland, Florida 33815) and up to six out of eight senior-most corporate officers with various titles (Principal, President, CEO, VP, COO, CSO), as well as one “executive assistant” (Impulse Point) cum “office manager” (DSM).[^37]
 
-![[SC4.jpeg|550]]
+\[missing image: SC4.jpeg|550]
 
 In short, the two companies seem to be distinguished in large part by the legal fictions of corporate entities. Moreover, two key people at the same address run yet another company that specializes in synthesizing data from numerous institutions, mining it, and visualizing the results.[^38]
 

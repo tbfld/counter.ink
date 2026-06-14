@@ -22,6 +22,6 @@ tags:
 yaml_end: true
 ---
 
-![[risis.jpg]]
+![[doonesbury-energy-czar-situation-crisis.jpg]]
 
 Just filing this in ~public

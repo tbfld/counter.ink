@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-05
 
+> [!note]+ [[2026-06-14-latin-american-cybernetic-projects|2026-06-14 Latin American cybernetic projects]]
+> “Cybersyn was one node in a vast number of continental cybernetic projects in the Latin American region that, for roughly two decades, provided ideas on feedback, planning, and modelling that were directly incorporated into State-backed and think-tank projects.”
+
+***2026-06-14:*** Reuters: Israeli firm BlackCore [meddling in NY and Scotland votes?](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)
+
 ***2026-06-14:*** [José-Carlos Mariátegui]([https://link.springer.com/article/10.1007/s11213-025-09717-2#auth-Jos__Carlos-Mari_tegui-Aff1](https://link.springer.com/researchers/32444902SN)), “[Beyond Project Cybersyn: Tracing the Influence of Stafford Beer Projects and Ideas in Latin America](https://link.springer.com/article/10.1007/s11213-025-09717-2#citeas),” [*Systemic Practice and Research Action*](https://link.springer.com/journal/11213) (I mean, how can you not love that journal title?!) 38.9 (2025), [DOI](https://doi.org/10.1007/s11213-025-09717-2)
 
 ***2026-06-14:*** 🔥🔥🔥  reply from [José-Carlos Mariátegui](https://ata.org.pe/) on [the lost history of Latin American cybernetics projects](https://nettime.org/Lists-Archives/nettime-l-2606/msg00005.html)
