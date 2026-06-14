@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-14:*** [José-Carlos Mariátegui]([https://link.springer.com/article/10.1007/s11213-025-09717-2#auth-Jos__Carlos-Mari_tegui-Aff1](https://link.springer.com/researchers/32444902SN)), “[Beyond Project Cybersyn: Tracing the Influence of Stafford Beer Projects and Ideas in Latin America](https://link.springer.com/article/10.1007/s11213-025-09717-2#citeas),” [*Systemic Practice and Research Action*](https://link.springer.com/journal/11213) (I mean, how can you not love that journal title?!) 38.9 (2025), [DOI](https://doi.org/10.1007/s11213-025-09717-2)
+
+***2026-06-14:*** 🔥🔥🔥  reply from [José-Carlos Mariátegui](https://ata.org.pe/) on [the lost history of Latin American cybernetics projects](https://nettime.org/Lists-Archives/nettime-l-2606/msg00005.html)
+
+***
+
 ***2026-06-13:*** [Charles Dennis](http://archive.today/2026.06.13-192215/https://www.nytimes.com/2026/06/12/theater/charles-dennis-dead.html) and [Andrew Reichsman](https://www.imdb.com/name/nm0717139/)’s 1983 film [*New York 1985*](https://youtu.be/PbytA2ZzQk8)
 
 ***2026-06-13:*** a pay-what-you-will restaurant in Minneapolis [is killing it](http://archive.today/2026.06.12-075504/https://www.nytimes.com/2026/06/08/dining/post-modern-times-minneapolis-free-food.html)
