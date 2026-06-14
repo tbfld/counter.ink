@@ -1,0 +1,56 @@
+# lychee.toml — link-checker configuration for counter.ink
+# https://lychee.cli.rs/
+
+[main]
+# Only check web links. Skip file:// entirely — Obsidian wikilinks are resolved
+# vault-root-relative by Quartz but lychee resolves them from the .md file's
+# directory, producing false "file not found" errors for every image reference.
+# Use check_image_links.py instead for local file validation.
+scheme = ["https", "http"]
+
+# Timeout per request (seconds)
+timeout = 20
+
+# Max concurrent requests
+threads = 8
+
+# Max retries per request
+max_retries = 2
+
+# Accept these HTTP status codes as valid.
+# 429 = rate-limited (archive.ph, archive.today) — link exists, server just throttles bots.
+accept = ["100..=103", "200..=299", "429"]
+
+# Exclude these URL patterns (regex).
+# Sites that return 4xx to automated clients but work fine in a browser.
+exclude = [
+    # Paywalled / bot-blocking news
+    "nytimes\\.com",
+    "washingtonpost\\.com",
+    "wsj\\.com",
+    "ft\\.com",
+    "thetimes\\.com",
+    "bloomberg\\.com",
+    "theatlantic\\.com",
+    "newyorker\\.com",
+    "economist\\.com",
+    "theguardian\\.com",
+
+    # Auth-required
+    "reuters\\.com",
+
+    # Social platforms that block scraping
+    "facebook\\.com",
+    "instagram\\.com",
+    "linkedin\\.com",
+    "twitter\\.com",
+    "x\\.com",
+
+    # Rate-limited archive services (429 already accepted above, but exclude
+    # to avoid polluting output with retry noise)
+    "archive\\.ph",
+    "archive\\.today",
+
+    # Patreon requires login for some post URLs
+    "patreon\\.com",
+]

@@ -53,7 +53,7 @@ yaml_end: true
 ***
 ***2026-03-26:*** Will Davies: the UK’s “[[Labour-Conservative-Liberal Democrat cartel]]”
 
-***2026-03-25:*** Richard Seymour, “[The illusions of Machtpolitik](www.patreon.com/posts/153860247)” (🎩 JG)
+***2026-03-25:*** Richard Seymour, “[The illusions of Machtpolitik](https://www.patreon.com/posts/153860247)” (🎩 JG)
 ***
 ***2026-03-24:*** Pankaj Mishra, “[The Authority of Thought](https://harpers.org/archive/2026/04/the-authority-of-thought-pankaj-mishra/)” (🎩 RW)
 ***
@@ -280,7 +280,7 @@ yaml_end: true
 
 ***2026-02-02:*** *Neural* [review](https://neural.it/2026/01/marina-hassapopoulou-interactive-cinema-the-ambiguous-ethics-of-media-participation/) of Marina Hassapopoulou, *Interactive Cinema: The Ambiguous Ethics of Media Participation* (U Minn Press, 2024)
 
-***2026-02-02:*** ABC — Australian one — [on the neoliberal Atlas Network](www.abc.net.au/news/2026-01-26/atlas-network-mont-pelerin-society-neoliberal-think-tanks/105700628)
+***2026-02-02:*** ABC — Australian one — [on the neoliberal Atlas Network](https://www.abc.net.au/news/2026-01-26/atlas-network-mont-pelerin-society-neoliberal-think-tanks/105700628)
 
 ***2026-02-02:*** [the missing chapter](https://alvyray.com/DigitalLight/default.htm#Supplemental) from Alvy Ray Smith’s *The Pixel*
 ***
@@ -334,9 +334,9 @@ yaml_end: true
 
 ***2026-01-18:*** David French on [the normative vs prerogative states](http://archive.today/GcR4e)
 ***
-***2026-01-14:*** “[Why I Will Not Cast My Electoral Vote for Donald Trump]()”
+***2026-01-14:*** “[Why I Will Not Cast My Electoral Vote for Donald Trump](https://www.nytimes.com/2016/12/05/opinion/why-i-will-not-cast-my-electoral-vote-for-donald-trump.html)”
 
-***2026-01-14:*** [The China Syndrome and American decline](www.patreon.com/posts/148151858)
+***2026-01-14:*** [The China Syndrome and American decline](https://www.patreon.com/posts/148151858)
 ***
 ***2026-01-13:*** [Times Square FB group](https://www.facebook.com/groups/347911852086113/)
 ***

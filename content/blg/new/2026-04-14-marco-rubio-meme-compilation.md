@@ -288,7 +288,7 @@ yaml_end: true
 
 ![[rubio-duran.jpg|wmed relative|center]]
 
-![[rubio-vanilla.jpg|wmed relative|center]]
+![[rubio-vanilla-ice.jpg|wmed relative|center]]
 
 ![[rubio-milli.jpg|wmed relative|center]]
 

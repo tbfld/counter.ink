@@ -72,7 +72,7 @@ yaml_end: true
 
 ![[2026-04-10-london-sci-mus-tbyfield.jpeg|wmed relative|center]]
 
-![[2026-04-10-nyc-chinatown-doyers-found.PNG|wmed relative|center]]
+![[2026-04-10-nyc-chinatown-doyers-found.png|wmed relative|center]]
 
 ![[2026-05-13-houseonfire.jpg|wmed relative|center]]
 

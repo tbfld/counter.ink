@@ -22,6 +22,6 @@ yaml_end: true
 
 Two Toynbee things from this summer
 
-![[FB_images/toynbee-1.jpg]]
+![[toynbee-1.jpg]]
 
 ![[toynbee-2.jpg]]

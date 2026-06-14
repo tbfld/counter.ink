@@ -27,7 +27,19 @@ yaml_end: true
 
 ### 2026-05
 
-***2026-06-12:*** Michael Berubé, [Report on the State of a Report (on the Humanities)](https://pghrev.com/report-on-the-state-of-a-report-on-the-humanities/)
+***2026-06-13:*** [Charles Dennis](http://archive.today/2026.06.13-192215/https://www.nytimes.com/2026/06/12/theater/charles-dennis-dead.html) and [Andrew Reichsman](https://www.imdb.com/name/nm0717139/)’s 1983 film [*New York 1985*](https://youtu.be/PbytA2ZzQk8)
+
+***2026-06-13:*** a pay-what-you-will restaurant in Minneapolis [is killing it](http://archive.today/2026.06.12-075504/https://www.nytimes.com/2026/06/08/dining/post-modern-times-minneapolis-free-food.html)
+
+***2026-06-13:*** [Chinese Academy of Social Sciences interview](https://thenextrecession.wordpress.com/2026/06/13/a-marxist-theory-of-crisis-in-the-contemporary-world/) in *World Socialist Research*
+
+***
+
+***2026-06-12:*** *Atlantic*, [How Britain Became as Poor as Mississippi](https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/)
+
+***2026-06-12:*** via Bérubé: [115 pieces from 200 sources in 30 nations on the humanities](https://worldhumanitiesreport.org/)
+
+***2026-06-12:*** Michael Bérubé, [Report on the State of a Report (on the Humanities)](https://pghrev.com/report-on-the-state-of-a-report-on-the-humanities/)
 
 ***2026-06-12:*** NPR from 2012 on [how the GOP strategically misuses “entitlement”](https://www.npr.org/2012/08/14/158756957/with-ryans-ascent-a-few-thoughts-on-entitlement) 
 
@@ -85,7 +97,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
 ***
 
-***2026-06-04:*** [Zelenskyy’s open letter to Putin ](www.president.gov.ua/en/news/vidkritij-list-prezidentu-rosijskoyi-federaciyi-vid-preziden-104769)
+***2026-06-04:*** [Zelenskyy’s open letter to Putin ](https://www.president.gov.ua/en/news/vidkritij-list-prezidentu-rosijskoyi-federaciyi-vid-preziden-104769)
 
 ***2026-06-04:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — the Girl Scout mix
 
@@ -381,7 +393,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-24:*** [Palastrepublik Ice Age 4](https://igel-muc.de/rssshow.php?guid=20260423) (🎩 NTT)
 ***
 
-***2026-04-23:*** looks like SC Chief Justice Roberts [may be profoundly corrupt](cmarmitage.substack.com/p/the-chief-justice-and-his-wife-took)
+***2026-04-23:*** looks like SC Chief Justice Roberts [may be profoundly corrupt](https://cmarmitage.substack.com/p/the-chief-justice-and-his-wife-took)
 
 ***2026-04-23:*** Mozilla: [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/) 
 ***
@@ -575,7 +587,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
 ***2026-03-26:*** Will Davies: the UK’s “[[Labour-Conservative-Liberal Democrat cartel]]”
 
-***2026-03-25:*** Richard Seymour, “[The illusions of Machtpolitik](www.patreon.com/posts/153860247)” (🎩 JG)
+***2026-03-25:*** Richard Seymour, “[The illusions of Machtpolitik](https://www.patreon.com/posts/153860247)” (🎩 JG)
 ***
 
 ***2026-03-24:*** Pankaj Mishra, “[The Authority of Thought](https://harpers.org/archive/2026/04/the-authority-of-thought-pankaj-mishra/)” (🎩 RW)
@@ -871,7 +883,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
 ***2026-02-02:*** *Neural* [review](https://neural.it/2026/01/marina-hassapopoulou-interactive-cinema-the-ambiguous-ethics-of-media-participation/) of Marina Hassapopoulou, *Interactive Cinema: The Ambiguous Ethics of Media Participation* (U Minn Press, 2024)
 
-***2026-02-02:*** ABC — Australian one — [on the neoliberal Atlas Network](www.abc.net.au/news/2026-01-26/atlas-network-mont-pelerin-society-neoliberal-think-tanks/105700628)
+***2026-02-02:*** ABC — Australian one — [on the neoliberal Atlas Network](https://www.abc.net.au/news/2026-01-26/atlas-network-mont-pelerin-society-neoliberal-think-tanks/105700628)
 
 ***2026-02-02:*** [the missing chapter](https://alvyray.com/DigitalLight/default.htm#Supplemental) from Alvy Ray Smith’s *The Pixel*
 ***
@@ -956,7 +968,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 > FL SC says FU to ABA over JD EDU
 
 ***
-***2026-01-14:*** “[Why I Will Not Cast My Electoral Vote for Donald Trump]()”
+***2026-01-14:*** “[Why I Will Not Cast My Electoral Vote for Donald Trump](https://www.nytimes.com/2016/12/05/opinion/why-i-will-not-cast-my-electoral-vote-for-donald-trump.html)”
 
 ***2026-01-14:*** [The China Syndrome and American decline](https://www.patreon.com/posts/148151858)
 ***

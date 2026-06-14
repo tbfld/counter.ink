@@ -36,7 +36,7 @@ If you’re in the market for some historically oriented critiques of statistics
 
 - O’Neil, Cathy, [*Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy*](https://isbn.nu/0553418831) (2017)
 
-- Mau, Steffen, [*The Metric Society: On the Quantification of the Social*]() (2019)
+- Mau, Steffen, [*The Metric Society: On the Quantification of the Social*](https://www.wiley.com/en-us/The+Metric+Society:+On+the+Quantification+of+the+Social-p-9781509530403) (2019)
 
 - Joque, Justin, [*Revolutionary Mathematics: Artificial Intelligence, Statistics and the Logic of Capitalism*](https://isbn.nu/1788734009)  (2022)
 
