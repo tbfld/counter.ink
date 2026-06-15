@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-15:*** Karl Bode on [the media and America's shittiest rich person](https://karlbode.com/the-spacex-ipo-is-a-giant-unworkable-con-orchestrated-by-an-overt-white-supremacist-huckster/)
+***
+
 > [!note]+ [[2026-06-14-latin-american-cybernetic-projects|2026-06-14 Latin American cybernetic projects]]
 > “Cybersyn was one node in a vast number of continental cybernetic projects in the Latin American region that, for roughly two decades, provided ideas on feedback, planning, and modelling that were directly incorporated into State-backed and think-tank projects.”
 
@@ -54,7 +57,7 @@ yaml_end: true
 
 ***2026-06-12:*** NPR from 2012 on [how the GOP strategically misuses “entitlement”](https://www.npr.org/2012/08/14/158756957/with-ryans-ascent-a-few-thoughts-on-entitlement) 
 
-***2026-06-12:*** Euro diplomatic service “[dysfunctional](http://archive.today/2026.06.12-052835/https://www.ft.com/content/a7278d93-98fc-4fa7-a14c-d0c089b693dd?syn-25a6b1a6=1)” in current c
+***2026-06-12:*** Euro diplomatic service “[dysfunctional](http://archive.today/2026.06.12-052835/https://www.ft.com/content/a7278d93-98fc-4fa7-a14c-d0c089b693dd?syn-25a6b1a6=1)” in current climate
 ***
 
 ***2026-06-11:*** [Russian Neo-Nazi network pushing “white lives matter” chaos in Britain](https://bylinetimes.com/2026/06/10/revealed-the-russian-neo-nazi-network-pushing-white-lives-matter-division-in-britain-promoted-by-tommy-robinson/)
