@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-16:*** Sean Jacobs ([1](https://africasacountry.com/), [2](https://elevennamedpeople.substack.com/)) in NYRB on [the South African pianist Abdullah Ibrahim](https://www.nybooks.com/online/2026/06/07/songs-of-liberation-abdullah-ibrahim/) 😍
+
+***
+
 ***2026-06-15:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — 26 new ones! the Spirit Air mix
 
 ***2026-06-15:*** Karl Bode on [the media and America's shittiest rich person](https://karlbode.com/the-spacex-ipo-is-a-giant-unworkable-con-orchestrated-by-an-overt-white-supremacist-huckster/)
