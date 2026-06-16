@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-16:*** AJZ: [The slow death of Goldsmiths is a warning to British universities](https://www.aljazeera.com/opinions/2026/6/15/the-slow-death-of-goldsmiths-is-a-warning-to-british-universities)
+
 ***2026-06-16:*** Sean Jacobs ([1](https://africasacountry.com/), [2](https://elevennamedpeople.substack.com/)) in NYRB on [the South African pianist Abdullah Ibrahim](https://www.nybooks.com/online/2026/06/07/songs-of-liberation-abdullah-ibrahim/) 😍
 
 ***
