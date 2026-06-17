@@ -27,6 +27,14 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-17:*** *Sci Am*: [U.S. science is in chaos. How did we get here?](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)
+
+***
+
+***2026-06-16:*** Alex Ross, [Jürgen Habermas Defended Reason in a Darkening Age](http://archive.today/2026.06.15-101044/https://www.newyorker.com/magazine/2026/06/22/jurgen-habermas-desperate-fight-for-democracy)
+
+***2026-06-16:*** [Why is Britain's economy becoming unfixable?](https://youtu.be/NbFI5vbIGfI) (20-minute video)
+
 ***2026-06-16:*** AJZ: [The slow death of Goldsmiths is a warning to British universities](https://www.aljazeera.com/opinions/2026/6/15/the-slow-death-of-goldsmiths-is-a-warning-to-british-universities)
 
 ***2026-06-16:*** Sean Jacobs ([1](https://africasacountry.com/), [2](https://elevennamedpeople.substack.com/)) in NYRB on [the South African pianist Abdullah Ibrahim](https://www.nybooks.com/online/2026/06/07/songs-of-liberation-abdullah-ibrahim/) 😍
