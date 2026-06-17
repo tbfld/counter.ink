@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
+
+> [!note]+ [[2026-06-17-a-more-or-less-complete-abdullah-ibrahim-playlist-and-how-i-made-it|2026-06-17 a more or less complete Abdullah Ibrahim playlist and how I made it]]
+>  the closest thing there is to a chronological discography for Ibrahim on Spotify
+
 ***2026-06-17:*** *Sci Am*: [U.S. science is in chaos. How did we get here?](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)
 
 ***

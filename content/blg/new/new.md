@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-06-17-a-more-or-less-complete-abdullah-ibrahim-playlist-and-how-i-made-it|2026-06-17 a more or less complete Abdullah Ibrahim playlist and how I made it]]
+>  the closest thing there is to a chronological discography for Ibrahim on Spotify
+
 > [!note]+ [[2026-06-14-latin-american-cybernetic-projects|2026-06-14 Latin American cybernetic projects]]
 > “Cybersyn was one node in a vast number of continental cybernetic projects in the Latin American region that, for roughly two decades, provided ideas on feedback, planning, and modelling that were directly incorporated into State-backed and think-tank projects.”
 
