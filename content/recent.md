@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-18:*** *Tablet* mag on [Natalia Ginzburg](https://www.tabletmag.com/sections/arts-letters/articles/comma-blood-natalia-ginzburg-jews)
+
+***2026-06-18:*** [Letterform: The Black Experience in Graphic Design: 1968 and 2020](https://letterformarchive.org/news/the-black-experience-in-graphic-design-1968-and-2020/)
+
+***2026-06-18:*** Australia: “[It’s time to call it what it is: foreign interference](https://thepoint.com.au/opinions/260616-call-it-what-it-is-foreign-interference)”
+
 ***2026-06-18:*** e-flux: [Remembering Steve Kurtz (1958–2025) of CAE (Part 1)](https://www.e-flux.com/journal/164/6776905/remembering-steve-kurtz-1958-2025-of-critical-art-ensemble-part-1)
 
 ***2026-06-18:*** Russia is “[living on borrowed time, stuck in a zero-multiplier model](https://chakhoyan.substack.com/p/fear-and-loathing-in-the-russia)”
