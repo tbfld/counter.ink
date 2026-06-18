@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-18:*** Russia is “[living on borrowed time, stuck in a zero-multiplier model](https://chakhoyan.substack.com/p/fear-and-loathing-in-the-russia)”
+
+***2026-06-18:*** “[multiple distinct consciousnesses are dormant in every Word document](https://www.404media.co/if-ai-is-sentient-then-so-is-age-of-empires-ii/)”
+
 ***2026-06-18:*** # Israel: [ex-PMs, ex-IDF, ex–Shin Bet heads cal out Jewish terror](www.haaretz.com/israel-news/israel-security/2026-06-18/ty-article/.premium/ex-pms-idf-and-shin-bet-chiefs-to-netanyahu-act-against-w-bank-jewish-terror/0000019e-d96d-dd4a-adfe-f96dead70000)
 
 ***2026-06-18:*** Takes on Peter Thiel’s creepy cult: [*WiReD*](https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/), [*The Nation*](https://www.thenation.com/article/society/peter-thiel-dialog-leak-wired/), [*Mother Jones*](https://www.motherjones.com/politics/2026/06/ai-commencement-student-graduation-speeches-booing-ai-mills-stanford-tech-elite/), [*Firstpost*](https://www.firstpost.com/explainers/peter-thiel-secret-club-dialog-members-topics-sex-cult-details-leaked-14023858.html)
