@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-18:*** [Fake online stores for the experience of shopping without spending](https://www.vice.com/en/article/these-fake-online-stores-are-letting-people-shop-without-spending-money-heres-why/)
+
+***2026-06-18:*** Interactive dataviz: [reported collisions on the London–Edinburgh A1](https://visquill.com/gallery/uk-a1)  (🎩 TJ)
+
+***2026-06-18:*** Sher Ali Khan, “[The Intellectual In The Feed: Collective Thought, Power And Digital Media](https://www.thefridaytimes.com/18-Jun-2026/intellectual-feed-collective-thought-power-digital-media)” (🎩 MW)
+
 ***2026-06-18:*** *Tablet* mag on [Natalia Ginzburg](https://www.tabletmag.com/sections/arts-letters/articles/comma-blood-natalia-ginzburg-jews)
 
 ***2026-06-18:*** [Letterform: The Black Experience in Graphic Design: 1968 and 2020](https://letterformarchive.org/news/the-black-experience-in-graphic-design-1968-and-2020/)
