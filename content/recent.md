@@ -27,6 +27,15 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-18:*** # Israel: [ex-PMs, ex-IDF, ex–Shin Bet heads cal out Jewish terror](www.haaretz.com/israel-news/israel-security/2026-06-18/ty-article/.premium/ex-pms-idf-and-shin-bet-chiefs-to-netanyahu-act-against-w-bank-jewish-terror/0000019e-d96d-dd4a-adfe-f96dead70000)
+
+***2026-06-18:*** Takes on Peter Thiel’s creepy cult: [*WiReD*](https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/), [*The Nation*](https://www.thenation.com/article/society/peter-thiel-dialog-leak-wired/), [*Mother Jones*](https://www.motherjones.com/politics/2026/06/ai-commencement-student-graduation-speeches-booing-ai-mills-stanford-tech-elite/), [*Firstpost*](https://www.firstpost.com/explainers/peter-thiel-secret-club-dialog-members-topics-sex-cult-details-leaked-14023858.html)
+
+***2026-06-18:*** [AI & Writing: an experimental first-year composition course](https://compstudiesjournal.com/wp-content/uploads/2026/01/panning-davies-navickas.pdf) (🎩 AH)
+
+***
+
+***2026-06-17:*** [*Six cents degrés*](https://www.corps14.com/products/six-cents-degres) (🎩 FiG)
 
 > [!note]+ [[2026-06-17-a-more-or-less-complete-abdullah-ibrahim-playlist-and-how-i-made-it|2026-06-17 a more or less complete Abdullah Ibrahim playlist and how I made it]]
 >  the closest thing there is to a chronological discography for Ibrahim on Spotify
