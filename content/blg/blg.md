@@ -240,7 +240,8 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-06-05-ai-and-collectivism|2026-06-05 ai and collectivism]]
 	- [[2026-06-07-angelus-novus-sorta|2026-06-07-angelus novus sorta]]
 	- [[2026-06-14-latin-american-cybernetic-projects|2026-06-14 Latin American cybernetic projects]]
-	- [[2026-06-17-a-more-or-less-complete-abdullah-ibrahim-playlist-and-how-i-made-it|2026-06-17 a more or less complete abdullah ibrahim playlist and how I made it]]
+	- [[2026-06-17-a-more-or-less-complete-abdullah-ibrahim-playlist-and-how-i-made-it|2026-06-17 a more or less complete Abdullah Ibrahim playlist and how I made it]]
+	- [[2026-06-19-on-ehud-olmert-on-ethnic-cleansing|2026-06-19 on ehud olmert on ethnic cleansing]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**

@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-06-19-on-ehud-olmert-on-ethnic-cleansing|2026-06-19 on Ehud Olmert on ethnic cleansing]]
+> a few thoughts on Olmert’s op-ed in *Haaretz*
+
 > [!note]+ [[2026-06-17-a-more-or-less-complete-abdullah-ibrahim-playlist-and-how-i-made-it|2026-06-17 a more or less complete Abdullah Ibrahim playlist and how I made it]]
 >  the closest thing there is to a chronological discography for Ibrahim on Spotify
 

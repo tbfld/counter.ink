@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-05
 
+> [!note]+ [[2026-06-19-on-ehud-olmert-on-ethnic-cleansing|2026-06-19 on Ehud Olmert on ethnic cleansing]]
+> a few thoughts on Olmert’s op-ed in *Haaretz*
+
 ***2026-06-19:*** *epic* Bsky thread on the [algal bloom in the Reflecting Pool](https://bsky.app/profile/sevensugars.bsky.social/post/3moisremj4c2t)
 
 ***2026-06-19:*** Yulia Pobegailova on Xitter explains [diffs in US vs Iran MoU texts](https://xcancel.com/Y_Pobegailova/status/2067571335195189520) (🎩 BS)
