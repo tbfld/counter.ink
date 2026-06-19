@@ -27,7 +27,7 @@ yaml_end: true
 
 ### 2026-05
 
-***2026-06-18:*** [Fake online stores for the experience of shopping without spending](https://www.vice.com/en/article/these-fake-online-stores-are-letting-people-shop-without-spending-money-heres-why/)
+***2026-06-18:*** [Fake online stores for the experience of shopping without spending](https://www.vice.com/en/article/these-fake-online-stores-are-letting-people-shop-without-spending-money-heres-why/) (🎩 CF)
 
 ***2026-06-18:*** Interactive dataviz: [reported collisions on the London–Edinburgh A1](https://visquill.com/gallery/uk-a1)  (🎩 TJ)
 
