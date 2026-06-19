@@ -27,6 +27,16 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-19:*** *epic* Bsky thread on the [algal bloom in the Reflecting Pool](https://bsky.app/profile/sevensugars.bsky.social/post/3moisremj4c2t)
+
+***2026-06-19:*** Yulia Pobegailova on Xitter explains [diffs in US vs Iran MoU texts](https://xcancel.com/Y_Pobegailova/status/2067571335195189520) (🎩 BS)
+
+***2026-06-19:*** *Neural* review: [Daniel Temkin, 44 Esolangs: The Art of Esoteric Code](https://neural.it/2026/06/daniel-temkin-forty-%C2%ADfour-esolangs-the-art-of-esoteric-code/) (🎩 AL)
+
+***
+
+***2026-06-18:*** Anon RU official in *The Economist*: [Putin is losing his grip on Russia](https://www.economist.com/by-invitation/2026/05/06/vladimir-putin-is-losing-his-grip-on-russia)
+
 ***2026-06-18:*** [Fake online stores for the experience of shopping without spending](https://www.vice.com/en/article/these-fake-online-stores-are-letting-people-shop-without-spending-money-heres-why/) (🎩 CF)
 
 ***2026-06-18:*** Interactive dataviz: [reported collisions on the London–Edinburgh A1](https://visquill.com/gallery/uk-a1)  (🎩 TJ)
