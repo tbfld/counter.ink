@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-05
 
+
+***2026-06-20:*** [Ukraine open-sources captured Russian military tech](https://xcancel.com/FedorovMykhailo/status/2067899181025390853)
+
+***
+
 ***2026-06-19:*** [Clinical teardown](https://bsky.app/profile/thefred.bsky.social/post/3mohcrt4uzk2y) of the Trump–Iran MoU a/k/a the [“hillbilly Obama deal”](https://www.mediamatters.org/megyn-kelly/vice-president-jd-vance-accuses-mark-levin-and-marc-thiessen-promoting-iranian)
 
 > [!note]+ [[2026-06-19-on-ehud-olmert-on-ethnic-cleansing|2026-06-19 on Ehud Olmert on ethnic cleansing]]
