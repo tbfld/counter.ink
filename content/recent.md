@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-21:*** [Arjun Appadurai reviews](https://lareviewofbooks.org/article/rule-world-education-power-stanford-tech-theo-baker/) Theo Baker’s [*How to Rule the World*](https://theobaker.info/book) for [LARB](https://lareviewofbooks.org/)
+
 ***2026-06-21:*** stunning: W. J. T. Mitchell on [Joel Snyder](https://critinq.wordpress.com/2026/06/16/why-would-you-want-to-say-that-remembering-joel-snyder/) (🎩 IB)
 
 ***2026-06-20:*** [loooong piece on colors your screen can’t show you](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) (🎩 IRR)
