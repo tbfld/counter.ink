@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-21:*** William Hazlitt, “[On the Pleasure of Hating](https://essays.quotidiana.org/hazlitt/pleasure_of_hating/)” (1823)
+
 ***2026-06-21:*** [Arjun Appadurai reviews](https://lareviewofbooks.org/article/rule-world-education-power-stanford-tech-theo-baker/) Theo Baker’s [*How to Rule the World*](https://theobaker.info/book) for [LARB](https://lareviewofbooks.org/)
 
 ***2026-06-21:*** stunning: W. J. T. Mitchell on [Joel Snyder](https://critinq.wordpress.com/2026/06/16/why-would-you-want-to-say-that-remembering-joel-snyder/) (🎩 IB)
