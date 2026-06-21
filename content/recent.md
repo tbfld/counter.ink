@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-21:*** stunning: W. J. T. Mitchell on [Joel Snyder](https://critinq.wordpress.com/2026/06/16/why-would-you-want-to-say-that-remembering-joel-snyder/) (🎩 IB)
+
+***2026-06-20:*** [loooong piece on colors your screen can’t show you](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) (🎩 IRR)
+
+***2026-06-20:*** [2011 earthquake rebounded off Earth’s core, moved Japan 5–6mm](https://www.science.org/doi/10.1126/science.aec4190)
 
 ***2026-06-20:*** [Ukraine open-sources captured Russian military tech](https://xcancel.com/FedorovMykhailo/status/2067899181025390853)
 
