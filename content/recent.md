@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-22:*** *The Nation*: [We Are in the Middle of a “Rolling Coup”](https://www.thenation.com/article/politics/trump-rolling-coup/) (*no duh*; 🎩 MR)
+
+***2026-06-22:*** *Atlantic*: [the millions of songs mashed into AI-gen music](http://archive.today/2026.06.22-062034/https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/)
+
+***
+
 ***2026-06-21:*** William Hazlitt, “[On the Pleasure of Hating](https://essays.quotidiana.org/hazlitt/pleasure_of_hating/)” (1823)
 
 ***2026-06-21:*** [Arjun Appadurai reviews](https://lareviewofbooks.org/article/rule-world-education-power-stanford-tech-theo-baker/) Theo Baker’s [*How to Rule the World*](https://theobaker.info/book) for [LARB](https://lareviewofbooks.org/)
@@ -1369,7 +1375,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
 ***2025-03-10:*** [this *still* isn’t happiness](https://thisisnthappiness.com/)
 
-***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/) But they had to publish it on Wordpress because faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.) But they had to publish it on Wordpress because, apparently, faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.
+***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/) But they had to publish it on Wordpress because, apparently, faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.
 
 ***
 ***2025-03-09:*** FB’s explicitly blocking access to Gil Durán’s *Nerd Reich* [because it “addresses topics like the ‘Network State’ concept and critiques of tech industry figures](https://bsky.app/profile/gilduran.com/post/3ljy3wqbs2c26)

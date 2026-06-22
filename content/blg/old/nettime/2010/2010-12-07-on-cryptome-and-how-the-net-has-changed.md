@@ -32,7 +32,7 @@ almost[at]]riseup[dot]]net (Mon 12/06/10 at 10:13 AM +0100):
 
 The ‘first’ to leak anything is a needlessly huge claim, but Cryptome was very early and very focused. It began in the context of the Cypherpunks list, which served that time as a kind of coordination point for, amidst lots of ravings, efforts to make cryptography more ‘open’ (I’m ever-more reluctant to use that word, and in the context of ‘opening’ techniques that primarily serve to *close* things the irony becomes very poignant). This mainly consisted of challenging its militarization (and consequent criminalization by anyone not sanctioned by the ~military), but it led to some other astounding projects — for example distributed-computing projects like SETI@home[1] can all trace their origins to Lucky Green’s wish that he could exploit all the CPU cycles wasted worldwide running Windows screensavers.
 
->[1] http://en.wikipedia.org/wiki/List*of*distributed*computing*projects
+>[1] http://en.wikipedia.org/wiki/List_of_distributed_computing_projects
 
 ...though Vernor Vinge’s name was regularly invoked on the list (esp *True Names*), so even then the issue wasn’t ‘F1RST!!!’. Rather, the ethic of the list was something more like the IETF’s ‘rough consensus and running code,’ just without the consensus bit. Let’s just say it wouldn’t take long to come up with a “How many cypherpunks does it take to screw in a lightbulb?” joke.
 

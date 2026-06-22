@@ -40,7 +40,7 @@ this tendency to glom on to ontology is partly attributable to the curious, uh, 
 
 In 1996, [Yahoo’s first “ontologist” ‘Ninj’ Srinivasan] was adding categories and making changes to the ontology almost every day. Now major adjustments are becoming much more in   frequent. She pointed to this as support for Yang’s assertion **that “at some point, our scheme will become relatively stable. We will have captured the breadth of human knowledge.”**
 
-	 http://www.wired.com/wired/archive/4.05/indexweb*pr.html
+	 http://www.wired.com/wired/archive/4.05/indexweb_pr.html
 
 ‘hello, world!’
 
@@ -396,7 +396,7 @@ t
 > 
 > 1. http://petervandijck.net/
 > 2. http://poorbuthappy.com/ease/archives/002335.html
-> 3. http://www.shirky.com/writings/semantic*syllogism.html
+> 3. http://www.shirky.com/writings/semantic_syllogism.html
 > 4. http://poorbuthappy.com/ease/semantic/#realworldvalue
 > 5. http://poorbuthappy.com/ease/semantic/#whatisit
 > 6. http://poorbuthappy.com/ease/semantic/#topdownbottomup
@@ -421,23 +421,23 @@ t
 > 25. http://poorbuthappy.com/ease/semantic/#ontologyofeverything
 > 26. http://weblog.burningbird.net/fires/002040.htm
 > 27. http://poorbuthappy.com/ease/semantic/#ontologyofeverything
-> 28. http://www.shirky.com/writings/semantic*syllogism.html
+> 28. http://www.shirky.com/writings/semantic_syllogism.html
 > 29. http://weblog.burningbird.net/fires/002007.htm
 > 30. http://lists.w3.org/Archives/Public/www-archive/2003Nov/0010.html
 > 31. http://dannyayers.com/archives/002017.html
 > 32. http://www.agwright.com/blog/archives/000787.html
 > 33. http://lists.w3.org/Archives/Public/www-archive/2003Nov/0010.html
 > 34. http://poorbuthappy.com/ease/semantic/#thesimplelife
-> 35. http://www.shirky.com/writings/semantic*syllogism.html
+> 35. http://www.shirky.com/writings/semantic_syllogism.html
 > 36. http://www.jwz.org/doc/worse-is-better.html
 > 37. http://weblog.burningbird.net/fires/002040.htm
 > 38. http://poorbuthappy.com/ease/semantic/#itisgrowing
-> 39. http://www.shirky.com/writings/semantic*syllogism.html
+> 39. http://www.shirky.com/writings/semantic_syllogism.html
 > 40. http://weblog.burningbird.net/fires/002007.htm
 > 41. http://jena.hpl.hp.com:3030/blojsom-hp/blog/technologies/semweb/?permalink=A324DB4E341E5CD2F166DF5B773F1CC1.textile&smm=y
 > 42. http://poorbuthappy.com/ease/semantic/#rdfversusxml
 > 43. http://www.ftrain.com/ContraShirky.html
-> 44. http://bitworking.org/news/Skirky*on*the*Semantic*Web
+> 44. http://bitworking.org/news/Skirky_on_the_Semantic_Web
 > 45. http://bitworking.org/news/WellFormedWeb
 > 46. http://www.25hoursaday.com/weblog/CommentView.aspx?guid=1eaabc62-b9f7-4ef2-b980-da29b6015dd5
 > 47. http://weblog.burningbird.net/fires/002040.htm
@@ -454,9 +454,9 @@ t
 > 58. http://poorbuthappy.com/ease/semantic/#usefulwhilewearegettingthere
 > 59. http://jena.hpl.hp.com:3030/blojsom-hp/blog/technologies/semweb/?permalink=A324DB4E341E5CD2F166DF5B773F1CC1.textile&smm=y
 > 60. http://dannyayers.com/archives/002017.html
-> 61. http://stone.tuttlesvc.org:880/2003*11*09.html#000371
+> 61. http://stone.tuttlesvc.org:880/2003_11_09.html#000371
 > 62. http://poorbuthappy.com/ease/semantic/#claymisunderstandssyllogisms
-> 63. http://www.shirky.com/writings/semantic*syllogism.html
+> 63. http://www.shirky.com/writings/semantic_syllogism.html
 > 64. http://www.ftrain.com/ContraShirky.html
 > 65. http://lists.w3.org/Archives/Public/www-archive/2003Nov/0010.html
 > 66. http://dannyayers.com/archives/002017.html

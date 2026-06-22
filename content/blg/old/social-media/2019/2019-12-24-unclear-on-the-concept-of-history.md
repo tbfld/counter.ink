@@ -22,4 +22,4 @@ tags:
 yaml_end: true
 ---
 
-[AI ethics thinkfluencer shouts](https://twitter.com/mer**edith/status/1209104999256657932) “TECH WORKERS SHOULD HAVE THE RIGHT...TO KNOW HOW THEIR WORK IS USED IN PERPETUITY”? Uh, sure, and steelworkers should too. Might make more sense for tech workers to consider the consequences of their work *before* they do it? Just a thought.
+[AI ethics thinkfluencer shouts](https://twitter.com/mer__edith/status/1209104999256657932) “TECH WORKERS SHOULD HAVE THE RIGHT...TO KNOW HOW THEIR WORK IS USED IN PERPETUITY”? Uh, sure, and steelworkers should too. Might make more sense for tech workers to consider the consequences of their work *before* they do it? Just a thought.

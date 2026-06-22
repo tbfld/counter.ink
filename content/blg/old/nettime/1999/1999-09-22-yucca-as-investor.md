@@ -23,7 +23,7 @@ Subject: <nettime> The Swedish Ideology
 From: t byfield
 Date: [Wed, 22 Sep 1999 08:12:16 -0400](https://nettime.org/Lists-Archives/nettime-l-9909/msg00129.html)
 
-	http://dailynews.yahoo.com/h/nm/19990921/od/yucca*1.html
+	http://dailynews.yahoo.com/h/nm/19990921/od/yucca_1.html
 
 > Yucca Plant Branches Out Into Stock Market
 > 

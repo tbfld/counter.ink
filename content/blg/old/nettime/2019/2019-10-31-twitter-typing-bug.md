@@ -36,7 +36,7 @@ Europanto 2.0 (1998):
 
 Europanto 3.0 (2019):
 
-	https://www.theregister.co.uk/2019/10/30/macos*catalina*twitter/
+	https://www.theregister.co.uk/2019/10/30/macos_catalina_twitter/
 
 ***
 

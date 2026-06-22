@@ -42,7 +42,7 @@ Did anyone suggest you support oppressive Communist regimes? I didn’t think so
 Funny, I actually have thought about the territorial claims of states like the USSR. “Fiction” and “metaphor” aren’t the first thing that come to mind.
 
 > Before commenting further, you might want to check out the trailer: 
-> http://www.djspooky.com/art/terra*nova.php
+> http://www.djspooky.com/art/terra_nova.php
 
 I did. Ozymandias didn’t come to mind.
 

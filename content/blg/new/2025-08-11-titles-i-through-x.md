@@ -23,7 +23,7 @@ status:
 RSS: true
 yaml_end: true
 ---
-*(From https://www.facebook.com/tbyfield/posts/pfbid05DNM3vshQ3JsetFu5uZ2F2cTw9B3YQbHXqSTCXw4WkwAD4253ioV4KrXBM9Fbutul*)*
+*(From https://www.facebook.com/tbyfield/posts/pfbid05DNM3vshQ3JsetFu5uZ2F2cTw9B3YQbHXqSTCXw4WkwAD4253ioV4KrXBM9Fbutul_)*
 
 I know a fair amount about how education has evolved in the US, but I never knew this: the Education Amendments of 1972 — signed into law by Nixon — were:
 

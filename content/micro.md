@@ -546,7 +546,7 @@ yaml_end: true
 
 ***2025-03-10:*** [this *still* isn’t happiness](https://thisisnthappiness.com/)
 
-***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/) But they had to publish it on Wordpress because faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.) But they had to publish it on Wordpress because, apparently, faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.
+***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/) But they had to publish it on Wordpress because, apparently, faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.
 ***
 ***2025-03-09:*** FB’s explicitly blocking access to Gil Durán’s *Nerd Reich* [because it “addresses topics like the ‘Network State’ concept and critiques of tech industry figures](https://bsky.app/profile/gilduran.com/post/3ljy3wqbs2c26)
 

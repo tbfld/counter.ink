@@ -55,7 +55,7 @@ Bitcoin began as a sort of thought experiment, more than anything else: a proof 
 
 (Most nettimers know a bit about Hayek, but Vernor Vinge maybe not. His sci-fi-fi writings were constantly invoked by the cypherpunks crowd — mostly his novella *True Names*, but I think his space opera *A Deepness in the Sky* is more relevant in this context: the dialectic of localizers.)
 
-	https://en.wikipedia.org/wiki/A*Deepness*in*the*Sky
+	https://en.wikipedia.org/wiki/A_Deepness_in_the_Sky
 
 Bitcoin’s success has led to a sort of Whig Interpretation of History 
 that hoovers up all kinds of anti/idealistic nonsense and obscures its 
