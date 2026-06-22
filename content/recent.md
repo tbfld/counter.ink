@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-22:*** [Irrational Exuberence](https://youtu.be/8ljsPqIfPD0), a Flash animation, set to [Happa-tai’s Yatta!](https://en.wikipedia.org/wiki/Yatta_(song)) 
+
 ***2026-06-22:*** [Adam Curtis](https://thoughtmaybe.com/by/adam-curtis/)’s 2011 series [*All Watched Over by Machines of Loving Grace*](https://www.youtube.com/watch?v=I6EBpLfLHCA&list=PLDCEA4A968815D711) (🤌🏼 Alan Greenspan)
 
 ***2026-06-22:*** *The Nation*: [We Are in the Middle of a “Rolling Coup”](https://www.thenation.com/article/politics/trump-rolling-coup/) (*no duh*; 🎩 MR)
