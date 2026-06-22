@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-22:*** [Adam Curtis](https://thoughtmaybe.com/by/adam-curtis/)’s 2011 series [*All Watched Over by Machines of Loving Grace*](https://www.youtube.com/watch?v=I6EBpLfLHCA&list=PLDCEA4A968815D711) (🤌🏼 Alan Greenspan)
+
 ***2026-06-22:*** *The Nation*: [We Are in the Middle of a “Rolling Coup”](https://www.thenation.com/article/politics/trump-rolling-coup/) (*no duh*; 🎩 MR)
 
 ***2026-06-22:*** *Atlantic*: [the millions of songs mashed into AI-gen music](http://archive.today/2026.06.22-062034/https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/)
