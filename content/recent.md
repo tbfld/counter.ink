@@ -27,6 +27,14 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-23:*** [the US has a $1T DoD budget and its soldiers are going hungry](https://capitalandmain.com/military-families-are-going-hungry-and-the-numbers-dont-yet-reflect-the-war)
+
+***2026-06-23:*** *Aeon*: [The tragedy of Trần Đức Thảo](https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao)
+
+***2026-06-23:*** [short excerpt from Elia Suleiman's *The Time That Remains*](Elia Suleiman's film _The Time That Remains_)
+
+***
+
 ***2026-06-22:*** [Irrational Exuberence](https://youtu.be/8ljsPqIfPD0), a Flash animation, set to [Happa-tai’s Yatta!](https://en.wikipedia.org/wiki/Yatta_(song)) 
 
 ***2026-06-22:*** [Adam Curtis](https://thoughtmaybe.com/by/adam-curtis/)’s 2011 series [*All Watched Over by Machines of Loving Grace*](https://www.youtube.com/watch?v=I6EBpLfLHCA&list=PLDCEA4A968815D711) (🤌🏼 Alan Greenspan)
