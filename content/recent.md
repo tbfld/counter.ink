@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-23:*** Molly Kinder, [The “Messy Middle” (from now to “post-AGI abundance”)](https://mollykinder2.substack.com/p/the-messy-middle)
+
 ***2026-06-23:*** [the US has a $1T DoD budget and its soldiers are going hungry](https://capitalandmain.com/military-families-are-going-hungry-and-the-numbers-dont-yet-reflect-the-war)
 
 ***2026-06-23:*** *Aeon*: [The tragedy of Trần Đức Thảo](https://aeon.co/essays/the-tragic-life-and-principled-politics-of-tran-duc-thao)
