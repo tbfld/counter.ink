@@ -27,6 +27,15 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-24:*** opensource-MA-thesis: Connie Sachs in Le Carré’s Karla trilogy is a Borgesian librarian
+
+***2026-06-24:*** phrases-we-need: *what the mirror heard*
+
+***2026-06-24:*** phrases-we-need: *groups that subsist entirely on a diet of moral panic*
+
+***2026-06-24:*** Doug Henwood on Greenspan: [Requiem for the Bubble Master](https://www.thenation.com/article/economy/alan-greenspan-obituary-federal-reserve-neoliberalism-financial-bubbles-deregulation/)
+***
+
 ***2026-06-23:*** Molly Kinder, [The “Messy Middle” (from now to “post-AGI abundance”)](https://mollykinder2.substack.com/p/the-messy-middle)
 
 ***2026-06-23:*** [the US has a $1T DoD budget and its soldiers are going hungry](https://capitalandmain.com/military-families-are-going-hungry-and-the-numbers-dont-yet-reflect-the-war)
