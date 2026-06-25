@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-25:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — 49 new ones for *the Algae Mix*
+
+***2026-06-25:*** [Cai Lei’s Precarious Architectures](https://www.artasiapacific.com/shows/up-close-cai-leis-precarious-architectures/)
+
+***
+
 ***2026-06-24:*** opensource-MA-thesis: Connie Sachs in Le Carré’s Karla trilogy is a Borgesian librarian
 
 ***2026-06-24:*** phrases-we-need: *what the mirror heard*

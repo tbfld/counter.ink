@@ -320,8 +320,6 @@ yaml_end: true
 
 ![[rubio-bubble-bath.JPG|wmed relative|center]]
 
-![[rubio-recursive.JPG|wmed relative|center]]
-
 ![[rubio_jockey.jpeg|wmed relative|center]]
 
 ![[rubio_one-man-band.jpeg|wmed relative|center]]
@@ -370,3 +368,96 @@ yaml_end: true
 
 ![[rubio_tsa-head.jpeg|wmed relative|center]]
 
+![[rubio_ufc.jpeg|wmed relative|center]]
+
+![[rubio_zoolander.jpeg|wmed relative|center]]
+
+![[rubio_weed.jpeg|wmed relative|center]]
+
+![[rubio_waynes.jpeg|wmed relative|center]]
+
+![[rubio_vanilla.jpeg|wmed relative|center]]
+
+![[rubio_usps.jpeg|wmed relative|center]]
+
+![[rubio_ufc3.jpeg|wmed relative|center]]
+
+![[rubio_ucsc.jpeg|wmed relative|center]]
+
+![[rubio_two-bros.jpeg|wmed relative|center]]
+
+![[rubio_turtle.jpeg|wmed relative|center]]
+
+![[rubio_tarantino.jpeg|wmed relative|center]]
+
+![[rubio_shoe-kayak.jpeg|wmed relative|center]]
+
+![[rubio_scuba.jpeg|wmed relative|center]]
+
+![[rubio_safari-shorts.jpeg|wmed relative|center]]
+
+![[rubio_rockstar.jpeg|wmed relative|center]]
+
+![[rubio_rock.jpeg|wmed relative|center]]
+
+![[rubio_red-hose.jpeg|wmed relative|center]]
+
+![[rubio_recursive.jpeg|wmed relative|center]]
+
+![[rubio_popeye.jpeg|wmed relative|center]]
+
+![[rubio_pool-guy.jpeg|wmed relative|center]]
+
+![[rubio_plush-fish.jpg|wmed relative|center]]
+
+![[rubio_pinocchio.jpeg|wmed relative|center]]
+
+![[rubio_nazi.jpeg|wmed relative|center]]
+
+![[rubio_matador.jpeg|wmed relative|center]]
+
+![[rubio_korn.jpeg|wmed relative|center]]
+
+![[rubio_house-of-dragon-maybe.jpg|wmed relative|center]]
+
+![[rubio_flannels.jpeg|wmed relative|center]]
+
+![[rubio_fantasy.jpeg|wmed relative|center]]
+
+![[rubio_et.jpeg|wmed relative|center]]
+
+![[rubio_ernie-bert.jpeg|wmed relative|center]]
+
+![[rubio_dunno5.jpeg|wmed relative|center]]
+
+![[rubio_dunno4.jpeg|wmed relative|center]]
+
+![[rubio_dunno3.jpeg|wmed relative|center]]
+
+![[rubio_dunno2.jpeg|wmed relative|center]]
+
+![[rubio_dunno.jpeg|wmed relative|center]]
+
+![[rubio_deep-sea.jpeg|wmed relative|center]]
+
+![[rubio_deadpool.jpeg|wmed relative|center]]
+
+![[rubio_data.jpeg|wmed relative|center]]
+
+![[rubio_cracker-barrel.jpeg|wmed relative|center]]
+
+![[rubio_cowboy-tears.jpeg|wmed relative|center]]
+
+![[rubio_chips.jpeg|wmed relative|center]]
+
+![[rubio_chewy-han.jpeg|wmed relative|center]]
+
+![[rubio_cat-hat.jpeg|wmed relative|center]]
+
+![[rubio_boba-yoda.jpeg|wmed relative|center]]
+
+![[rubio_bbq.jpeg|wmed relative|center]]
+
+![[rubio_army.jpeg|wmed relative|center]]
+
+![[rubio_algae.jpeg|wmed relative|center]]
