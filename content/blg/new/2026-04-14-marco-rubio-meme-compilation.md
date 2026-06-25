@@ -434,8 +434,6 @@ yaml_end: true
 
 ![[rubio_dunno3.jpeg|wmed relative|center]]
 
-![[rubio_dunno2.jpeg|wmed relative|center]]
-
 ![[rubio_dunno.jpeg|wmed relative|center]]
 
 ![[rubio_deep-sea.jpeg|wmed relative|center]]
