@@ -24,6 +24,12 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-06-26-democratic-centrists-antisemitism-signal-noise|2026-06-26-democratic centrists, antisemitism, signal, noise]]
+> after the NY primaries, people went insane
+
+> [!note]+ [[2026-06-26-victual-signaling-or-makin-the-white-folks-feel-safe|2026-06-26-victual-signaling, or makin the white folks feel safe]]
+> there’s a river of semiotic pink slime coursing through our body politic
+
 > [!note]+ [[2026-06-19-on-ehud-olmert-on-ethnic-cleansing|2026-06-19 on Ehud Olmert on ethnic cleansing]]
 > a few thoughts on Olmert’s op-ed in *Haaretz*
 

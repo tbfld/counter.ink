@@ -74,6 +74,8 @@ yaml_end: true
 
 **oligarchocene** ([2025-08-08](https://bsky.app/profile/did:plc:robotenuzg6w4takznzjsxtb/post/3lvvngdgkqk2s)): like *anthropocene* but correctly identiifies the problem as corrupt wealthy people rather than humans or “capital”
 
+**victual-signaling** or **vittle-signaling** ([2026-06-26](2026-06-26-victual-signaling-or-makin-the-white-folks-feel-safe)): invoking fast-food restaurants to make a political poing (e.g., “No two countries with a McDonald’s have ever gone to war”)
+
 **outdystopiaed** ([2026-02-06](https://www.facebook.com/tbyfield/posts/pfbid0VVJCuad3ByDHCca2Di8vueCyCXhqVLPGz1WonGJWBc3jnsb3YfY84Jb7rttAxfpZl)): as in, “bro, she 💯 outdystopiaed you” (hat RP)
 
 **penultiworst** (2022-12-20; xitter): next-to-worst
