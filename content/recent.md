@@ -27,6 +27,17 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-28:*** Rick Perlstein on [Vance and Watergate](https://www.theguardian.com/commentisfree/2026/jun/28/reagan-jd-vance-nixon-watergate-republicans)
+***
+
+***2026-06-27:*** [Martha Schwendener](https://www.flusserstudies.net/person/martha-schwendener) in the *Brooklyn Rail* on [Bill Cobbett](https://brooklynrail.org/2016/11/criticspage/william-cobbett/)
+
+***
+
+***2026-06-26:*** [Thomas Ligotti quotations](https://en.wikiquote.org/wiki/Thomas_Ligotti) (🎩 CH1)
+
+***2026-06-26:*** new neologism! [*victual-signaling*](2026-06-26-victual-signaling, or makin the white folks feel safe)
+
 > [!note]+ [[2026-06-26-democratic-centrists-antisemitism-signal-noise|2026-06-26-democratic centrists, antisemitism, signal, noise]]
 > after the NY primaries, people went insane
 

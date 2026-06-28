@@ -28,3 +28,5 @@ yaml_end: true
 ![[2026-06-26-cracker-barrel-convo.jpg|wmed relative|center]]
 
 “No two countries with a McDonald’s have ever gone to war,” sophisticated pundits need to get out more “by talking to people at Applebees,” and any Black man — even Republicans — who wants to run for governor in FL needs to make the white folks feel safe by making it clear they read Cracker Barrel menus not Malcolm X. We need a name for this river of semiotic pink slime coursing through our body politic. I propose *victual-signaling* or, for the folks back home, *vittle-signaling*.
+
+*See also:* [[neological things]]
