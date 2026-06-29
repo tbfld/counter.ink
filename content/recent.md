@@ -27,6 +27,18 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-29:*** *NYer* on László Krasznahorkai, [then (2011)](http://archive.today/2025.12.06-114630/https://www.newyorker.com/magazine/2011/07/04/madness-and-civilization) and [now (2026)](http://archive.today/2026.06.29-051712/https://www.newyorker.com/culture/the-new-yorker-interview/laszlo-krasznahorkai-writes-because-he-fails)
+
+***2026-06-29:*** *AI Clambake*: [AI Engineer Claims to Have Cracked Linear A](https://aiclambake.com/clamtakes/linear-a/)
+
+***2026-06-29:*** *Washington Spec*: [The Platner Story: What It Says About Our Media and What It Means for the Midterms](https://washingtonspectator.org/the-graham-platner-story-what-it-says-about-our-media-and-what-it-means-for-the-midterms/)
+
+***2026-06-29:***  Krzysztof Kieslowski’s 14-minute film [*Gadające Głowy* (*Talking Heads*)](https://youtu.be/ClUBYsA3vws) (🎩 CH1)
+
+***
+
+***2026-06-28:*** the [World Tension Index](https://worldtensionwatch.com/)
+
 ***2026-06-28:*** Rick Perlstein on [Vance and Watergate](https://www.theguardian.com/commentisfree/2026/jun/28/reagan-jd-vance-nixon-watergate-republicans)
 ***
 
