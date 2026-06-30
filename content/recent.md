@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-30:*** near-neologism! neological [[neological things|*cringeularity*]]
+
+***2026-06-30:*** [the Scooby-Doo theory of International relations](https://www.facebook.com/tbyfield/posts/pfbid02nAem3dSjtFsWuhWkf9gnVaiuW5eH2RQHBiSmZ5akdG9iYEXtPDxMhkRXy1HXJSm2l)
+
+***2026-06-30:*** [BBC ends longwave radio](https://www.bbc.com/news/articles/c74yn7v7k4qo) (audio [here](https://swling.com/blog/2026/06/the-end-of-bbc-longwave-news-and-the-final-off-air-recording/), signoff at 4:00:00) (🎩 TM)
+
 ***2026-06-30:*** otaku history of [“And I would have gotten away with it too, if it weren't for you meddling kids!”](https://scoobydoo.fandom.com/wiki/List_of_%22And_I_Would_Have_Gotten_Away_With_It_Too,_If_It_Weren%27t_For_You_Meddling_Kids%22_Quotes)
 
 ***2026-06-30:*** [“it is optimal to take a 1 in 3 chance of ending human existence in exchange for a 2/3 chance of dramatically raising living standards by a factor of 55”](https://www.ft.com/content/bb04671c-4377-4231-96ef-0f8e57ed5d1b)

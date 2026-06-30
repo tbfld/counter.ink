@@ -36,6 +36,8 @@ yaml_end: true
 
 **crowdwash** ([2011-01-06](https://www.facebook.com/tbyfield/posts/pfbid02MkENJRdTXvYjT1xefF1eJdfAVyhcvrbCAqseqAGhWyEXNoa1TKgDK9qj5HWY9kKul)): a process by which a signal gets lost in mass “user-generated” noise (cf. Andrew Orlowski's “[googlewash](http://bit.ly/eYu8cb)”)
 
+**cringeularity** ([2026-06-30](https://www.facebook.com/tbyfield/posts/pfbid0Wdzm6DQTDNio2QwZv7k9Z3C5PhbtVv4QswBVi9DJz7g98aftbPuMJoQwbiWQZFczl)): a hypothetical breaking point of second-hand embarrassment, where a single moment or collection of actions is so overwhelmingly awkward that it distorts social reality, warps the internet's perception, and generates shockwaves of shame
+
 **cut-and-patriotism** (n.d., xitter)
 
 **“early Blade Runner”** ([2026-04-05](https://www.facebook.com/tbyfield/posts/pfbid02bBadYLJ6o2XbegXZRjm4BJNV4MXBsrGahJfSJC8BzHaCck9mkapXCSjtm2Nqronul)): an effort to describe the current historical period
