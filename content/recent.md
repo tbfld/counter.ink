@@ -27,6 +27,18 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-30:*** [Tom Hardy rapping with his baby](https://youtu.be/kdYlaD6e84w) (🎩 GUA)
+
+***2026-06-30:*** [trend graph on searches for “how to siphon gas” in Russia](https://www.youtube.com/watch?v=oxbBEsVPi3c&t=147s) (🎩 CE)
+
+***2026-06-30:*** Bill Browder: [Oafish Trump saved Ukraine by trying to kill it](https://www.telegraph.co.uk/news/2026/06/29/despite-best-efforts-trump-may-have-won-war-for-kyiv/)
+
+***2026-06-30:*** [the scummy trick to kill DR-DOS that cost MOFT $280M](the scummy trick to kill DR-DOS that cost MOFT $280M) (🎩 /.)
+
+***
+
+***2026-06-29:*** [Municipal Tokens as Urban Policy Tools](https://www.p2pfisy.com/research-papers/municipal-tokens-as-urban-policy-tools-the-case-of-lvga-and-the-mylugano-app)
+
 ***2026-06-29:*** *NYer* on László Krasznahorkai, [then (2011)](http://archive.today/2025.12.06-114630/https://www.newyorker.com/magazine/2011/07/04/madness-and-civilization) and [now (2026)](http://archive.today/2026.06.29-051712/https://www.newyorker.com/culture/the-new-yorker-interview/laszlo-krasznahorkai-writes-because-he-fails)
 
 ***2026-06-29:*** *AI Clambake*: [AI Engineer Claims to Have Cracked Linear A](https://aiclambake.com/clamtakes/linear-a/)
