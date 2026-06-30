@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-30:*** [“it is optimal to take a 1 in 3 chance of ending human existence in exchange for a 2/3 chance of dramatically raising living standards by a factor of 55”](https://www.ft.com/content/bb04671c-4377-4231-96ef-0f8e57ed5d1b)
+
 ***2026-06-30:*** [Tom Hardy rapping with his baby](https://youtu.be/kdYlaD6e84w) (🎩 GUA)
 
 ***2026-06-30:*** [trend graph on searches for “how to siphon gas” in Russia](https://www.youtube.com/watch?v=oxbBEsVPi3c&t=147s) (🎩 CE)
