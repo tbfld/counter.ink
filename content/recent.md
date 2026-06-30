@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-05
 
+***2026-06-30:*** otaku history of [“And I would have gotten away with it too, if it weren't for you meddling kids!”](https://scoobydoo.fandom.com/wiki/List_of_%22And_I_Would_Have_Gotten_Away_With_It_Too,_If_It_Weren%27t_For_You_Meddling_Kids%22_Quotes)
+
 ***2026-06-30:*** [“it is optimal to take a 1 in 3 chance of ending human existence in exchange for a 2/3 chance of dramatically raising living standards by a factor of 55”](https://www.ft.com/content/bb04671c-4377-4231-96ef-0f8e57ed5d1b)
 
 ***2026-06-30:*** [Tom Hardy rapping with his baby](https://youtu.be/kdYlaD6e84w) (🎩 GUA)
