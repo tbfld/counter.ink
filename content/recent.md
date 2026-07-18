@@ -25,7 +25,61 @@ yaml_end: true
 <!-- RECENT_POSTS_START -->
 ## 2026
 
-### 2026-05
+### 2026-07
+
+***2026-07-18:*** Paulina Borsook on Peter G Neuman: [Pavane for a dead prince](https://www.patreon.com/paulinaborsook/posts/pavane-for-dead-162897941)
+
+***2026-07-18:*** *CJR*: [AI fake news bitching about AI fake news killing real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
+
+***2026-07-18:*** Kaitlyn Tiffany in *The Atlantic* on Peter Gray: [What if It’s Not the Phones?](https://www.theatlantic.com/technology/2026/07/phones-haidt-play-gray/687846/?gift=DoHdrdv8vly-kkUl_f1Ry-csf8LkYYwEDPTKgT-tVbw) ([alt link](http://archive.today/uIcCC))
+
+***2026-07-18:*** new book! [*The Tinklers Charts and Stories*](https://www.ideabooks.nl/9783906213569-the-tinklers-charts-and-stories)
+
+***2026-07-18:*** Thea Riofrancos in *NLR*, [The New World Climate Order](https://newleftreview.org/issues/ii159/articles/thea-riofrancos-the-new-world-climate-order)
+
+***2026-07-18:*** Josie Ó Súileabháin, [Anarchists on the War in Ukraine](https://freedomnews.org.uk/2026/07/16/review-anarchists-on-the-war-in-ukraine/)
+
+***2026-07-18:***  Reuters: [haxxx0rs post 14GB of plans for India’s biggest nuclear reactor](https://cybernews.com/security/india-nuclear-plant-blueprints-online-ransom/)
+
+***2026-07-18:*** [NPR on Russia’s nuclear-*powered* Burevestnik/Skyfall missile ](https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik)
+
+***2026-07-18:***  Brian Beutler, [In Search of a Shared Theory of Power](https://www.offmessage.net/p/shared-theory-of-power-zohran-mamdani-bernie-sanders-hakeem-jeffries-darializa-avila-chevalier-newyork-donald-trump-gavin-newsom-gerrymandering-beto-orourke-pete-buttigieg-supreme-court-)
+
+***2026-07-18:*** Josh Kline in *October* on [NY Real Estate and the Ruin of American Art](https://direct.mit.edu/octo/article/doi/10.1162/OCTO.a.539/135707/New-York-Real-Estate-and-the-Ruin-of-American-Art)
+
+***2026-07-18:*** [turns out it wouldn’t take that long for a monkey to type Shakespeare](https://arxiv.org/abs/2512.11880)
+
+***2026-07-18:*** Juliana Halpert on the [David Geffen Galleries at LACMA](https://www.e-flux.com/criticism/6782449/the-david-geffen-galleries-at-lacma) (🎩 FiG)
+
+***2026-07-18:*** *LRB* [on Nigel Farage](https://www.lrb.co.uk/blog/2026/july/foul-means)
+
+***2026-07-18:*** [ModHeader Malware: Inside the Chrome Spyware Google Removed](https://hackindex.io/research/modheader-malware-chrome-spyware)
+
+***2026-07-18:*** [Ana Mendieta, the Body Artist](https://www.newyorker.com/magazine/2026/07/20/ana-mendieta-the-body-artist)
+
+***2026-07-18:*** *WashMo* 2005: [Why do Dems promote campaign advisors who lose races?](https://washingtonmonthly.com/2005/01/12/fire-the-consultants-2/)
+
+***2026-07-18:*** *Guardian*: [wildfire smoke and “Profound, resigned hopelessness”](https://www.theguardian.com/world/2026/jul/18/canada-wildfires-air-quality)
+
+***2026-07-18:*** [2024 NJ meteorite with “alien world chemistry”](https://www.cbsnews.com/news/new-jersey-meteorite-alien-world-chemistry/)
+
+***2026-07-18:*** Rick Perlstein, [The Sudden But Well-Deserved Fall of Rahm Emanuel](https://www.newyorker.com/news/daily-comment/the-sudden-but-well-deserved-fall-of-rahm-emanuel) (2015)
+
+***
+
+***2026-07-17:*** *Guardian* [review](https://www.theguardian.com/books/2026/jul/15/culture-wars-isaac-butler-interview) of [Isaac Butler’s history of the US “culture wars”](https://www.bloomsbury.com/us/perfect-moment-9781639733514/)
+
+***2026-07-17:*** Naomi Klein: [SpaceX is a metaphor for the rapture of the super rich]( is a metaphor for the rapture of the super rich)
+
+***2026-07-17:*** Karl Bode: *[Why is Naomi Klein Funding Substack’s Hate Machine?](https://karlbode.com/why-is-naomi-klein-funding-substacks-hate-machine/)*
+
+***
+\[*vacay*]
+***
+
+***2026-07-02:*** [Claude Code marks requests steganographically](https://thereallo.dev/blog/claude-code-prompt-steganography) (🎩 IRR)
+
+### 2026-06
 
 ***2026-06-30:*** near-neologism! neological [[neological things|*cringeularity*]]
 
@@ -325,7 +379,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
 ***2026-06-01:*** Today in Tabs: [Who is Nick Bilton?](https://www.todayintabs.com/p/who-is-nick-bilton)
 
-***
+### 2026-05
 
 ***2026-05-31:*** “[What replaces wages as the mechanism of dignified participation in this country?](https://www.blueamp.co/p/what-bezos-dell-and-the-magnificent)”
 
