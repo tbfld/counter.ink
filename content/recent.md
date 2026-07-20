@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-07-20:*** [“The Great Blogging Collapse”](https://danielstanica.com/posts/Great-Blogging-Collapse) (🎩 IRR)
+
+***2026-07-20:*** [AI slop undermining bird observation](https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe)
+
+***2026-07-20:*** PDR: [Vaughan Cornish’s Wave Studies (1910–1914)](https://publicdomainreview.org/collection/cornish-waves/)
+
 ***2026-07-20:*** [2026 Venice Biennale Implodes: Diplomatic Collapse, Historic Strike, and the Privatisation of Art](https://nettime.org/Lists-Archives/nettime-l-2605/msg00010.html)
 
 ***2026-07-20:*** [the craziest TV segment ever](https://youtu.be/3bRuTkmTIjg): [Luther Blissett](https://en.wikipedia.org/wiki/Luther_Blissett_(pseudonym)) fantasy football (2004)
