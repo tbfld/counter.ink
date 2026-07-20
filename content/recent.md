@@ -27,6 +27,21 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-07-20:*** [2026 Venice Biennale Implodes: Diplomatic Collapse, Historic Strike, and the Privatisation of Art](https://nettime.org/Lists-Archives/nettime-l-2605/msg00010.html)
+
+***2026-07-20:*** [the craziest TV segment ever](https://youtu.be/3bRuTkmTIjg): [Luther Blissett](https://en.wikipedia.org/wiki/Luther_Blissett_(pseudonym)) fantasy football (2004)
+
+***2026-07-20:*** The [Facebook Fluff Busting (FB) Purity](https://www.fbpurity.com/) extension [might be dead](https://www.facebook.com/brian.olewnick/posts/pfbid02fVd2GFeyjYqMJGBQJmgWotXNB4SgWDHFLdmrMD8QdBUjzoUwkhD1RJQX8ELQBFPol)
+
+***2026-07-20:*** [Pilot Razor Point II pen discontinued](https://www.reddit.com/r/pens/comments/1o7tyra/pilot_razor_point_ii/)
+
+***2026-07-20:*** [The Kleptocrat Nesting Dolls Behind Trump’s Potemkin Gas Stations](https://prospect.org/2026/07/20/kleptocrat-nesting-dolls-behind-trumps-potemkin-gas-stations-freedom-fuel/)
+
+***
+
+***2026-07-19:*** Hélène Cixous in Haaretz: [“I accept Israel's existence but don't identify with it”](http://archive.today/VLuMv)
+***
+
 ***2026-07-18:*** Paulina Borsook on Peter G Neuman: [Pavane for a dead prince](https://www.patreon.com/paulinaborsook/posts/pavane-for-dead-162897941)
 
 ***2026-07-18:*** *CJR*: [AI fake news bitching about AI fake news killing real news](https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/)
