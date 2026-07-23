@@ -27,6 +27,17 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-07-23:*** [NYT API search](developer.nytimes.com)
+
+***2026-07-23:*** “the painter” (as in “the painter was right”) is a [fascist meme-code](http://the-painter.urbanup.com/18470956)
+
+***2026-07-23:*** Mark Rosenzweig, [The Hostile Takeover That Looks Suspiciously Like Democracy: Panic behind *The Atlantic*’s attack on the democratic left](https://www.facebook.com/lycanthropism/posts/pfbid02HKEiWjYwzALy61CsbPdAqbipb47C1NdZLRzenHKTSGscdMT7DjXKqHNsjg1PcmqNl)
+
+***2026-07-23:*** [Barbara London reviews Rafael Lozano-Hemmer’s *Border Tuner_/_Sintonizador Fronterizo*](https://brooklynrail.org/2026/06/artseen/venice-biennale/)
+
+***2026-07-23:*** [The Emmy Awards Are Afraid of This Vulgar, Gory, Brilliant Show](http://archive.today/2026.07.23-124944/https://www.nytimes.com/2026/07/19/opinion/emmys-the-boys-amazon-homelander-snub.html)
+***
+
 ***2026-07-20:*** [“The Great Blogging Collapse”](https://danielstanica.com/posts/Great-Blogging-Collapse) (🎩 IRR)
 
 ***2026-07-20:*** [AI slop undermining bird observation](https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe)
