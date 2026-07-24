@@ -27,6 +27,18 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-07-24:*** Plat Asia (architect), [Cloud Tea Room](https://plat.asia/en/index.php/portfolio/cloud-tea-room/)
+
+***2026-07-24:*** [ICE abduction reconstructed from bodycam vids and bystander footage](https://www.instagram.com/reel/DbJHF-_Dpy1/) (🎩 CH1)
+
+***2026-07-24:*** Dean Blundell: [Trump Wants Canadians On Their Knees](https://deanblundell.substack.com/p/trump-doesnt-want-a-deal-he-wants?r=5t5giw&triedRedirect=true)
+
+***2026-07-24:*** FT: [The race to collect every book ever written](http://archive.today/2026.07.24-052233/https://www.ft.com/content/e6d1b811-8540-4436-b915-092e7c5b5636)
+
+***
+
+***2026-07-23:*** [why eyeglasses cost so much](https://www.worseonpurpose.com/p/your-glasses-got-worse-on-purpose) (🎩 KH/IRR)
+
 ***2026-07-23:*** [NYT API search](developer.nytimes.com)
 
 ***2026-07-23:*** “the painter” (as in “the painter was right”) is a [fascist meme-code](http://the-painter.urbanup.com/18470956)
