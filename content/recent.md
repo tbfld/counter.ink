@@ -27,6 +27,20 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-07-28:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — 16 new ones for *the FIFA Mix*
+
+***2026-07-28:***  [Japanese psychedelic band Les Rallizes Dénudés](https://www.psychedelicbabymag.com/2026/07/les-rallizes-denudes.html)
+***
+
+***2026-07-27:*** [Cybertruck is the new Edsal](https://www.bloomberg.com/news/features/2026-07-22/tesla-cybertruck-risks-becoming-the-ford-edsel-of-the-ev-era)
+
+***2026-07-27:*** [Emily Wilson reviews Nolan’s *Odyssey* in *LRB*](https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man)
+
+***
+
+***2026-07-25:*** Abigail Susik in. *LARB*: [Organizing Pessimism: Breton, necropolitics, and 100 years of surrealism](https://lareviewofbooks.org/article/andre-breton-nadja-magic-art-cavalier-perspective-pessimism/)
+***
+
 ***2026-07-24:*** Plat Asia (architect), [Cloud Tea Room](https://plat.asia/en/index.php/portfolio/cloud-tea-room/)
 
 ***2026-07-24:*** [ICE abduction reconstructed from bodycam vids and bystander footage](https://www.instagram.com/reel/DbJHF-_Dpy1/) (🎩 CH1)

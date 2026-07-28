@@ -459,3 +459,37 @@ yaml_end: true
 ![[rubio_army.jpeg|wmed relative|center]]
 
 ![[rubio_algae.jpeg|wmed relative|center]]
+
+![[rubio_pool-guy.JPG|wmed relative|center]]
+
+![[rubio_bison.jpeg|wmed relative|center]]
+
+![[rubio_chp.jpeg|wmed relative|center]]
+
+![[rubio_fifa-ref.jpeg|wmed relative|center]]
+
+![[rubio_fifa-trump.jpg|wmed relative|center]]
+
+![[rubio_fifa.jpeg|wmed relative|center]]
+
+![[rubio_mcconnell-1.jpeg|wmed relative|center]]
+
+![[rubio_mcconnell-2.jpg|wmed relative|center]]
+
+![[rubio_ninja-twins.JPG|wmed relative|center]]
+
+![[rubio_no-idea-7.jpeg|wmed relative|center]]
+
+![[rubio_no-idea-11.JPG|wmed relative|center]]
+
+![[rubio_swami.jpeg|wmed relative|center]]
+
+![[rubio_tmnj.jpeg|wmed relative|center]]
+
+![[rubio_trainers.jpeg|wmed relative|center]]
+
+![[rubio_usps.JPG|wmed relative|center]]
+
+![[rubio_waders.jpeg|wmed relative|center]]
+
+*OK enough of this rubbish*
