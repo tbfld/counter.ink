@@ -27,7 +27,9 @@ yaml_end: true
 
 ### 2026-07
 
-***2026-07-28:*** [Boo-Hooray exhibition archives](https://www.boo-hooray.com/exhibits)
+***2026-07-28:*** MoMA, Nov 28 1944 – Mar 4 1945: [Are Clothes Modern?](https://www.moma.org/calendar/exhibitions/3159)
+
+***2026-07-28:*** [Boo-Hooray exhibition archives](https://www.boo-hooray.com/exhibits\)
 
 ***2026-07-28:*** [stunning belated obit for the teen experimental filmmaker Barbara Rubin](http://archive.today/2026.07.26-113353/https://www.nytimes.com/2026/07/24/obituaries/barbara-rubin-overlooked.html)
 
