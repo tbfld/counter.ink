@@ -27,6 +27,11 @@ yaml_end: true
 
 ### 2026-07
 
+> [!note]+ [[2026-07-29-peeling-in-the-years|2026-07-29-peeling in the years]]
+> the von Hagens estate shouldn’t object to paying such a small sum to suitably inter him
+
+***
+
 ***2026-07-28:*** MoMA, Nov 28 1944 – Mar 4 1945: [Are Clothes Modern?](https://www.moma.org/calendar/exhibitions/3159)
 
 ***2026-07-28:*** [Boo-Hooray exhibition archives](https://www.boo-hooray.com/exhibits\)

@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-07-29-peeling-in-the-years|2026-07-29-peeling in the years]]
+> the von Hagens estate shouldn’t object to paying such a small sum to suitably inter him
+
 > [!note]+ [[2026-06-26-democratic-centrists-antisemitism-signal-noise|2026-06-26-democratic centrists, antisemitism, signal, noise]]
 > after the NY primaries, people went insane
 

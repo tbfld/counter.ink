@@ -244,6 +244,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-06-19-on-ehud-olmert-on-ethnic-cleansing|2026-06-19 on Ehud Olmert on ethnic cleansing]]
 	- [[2026-06-26-democratic-centrists-antisemitism-signal-noise|2026-06-26-democratic centrists, antisemitism, signal, noise]]
 	- [[2026-06-26-victual-signaling-or-makin-the-white-folks-feel-safe|2026-06-26-victual-signaling, or makin the white folks feel safe]]
+	- [[2026-07-29-peeling-in-the-years|2026-07-29-peeling in the years]]
 	- [[new|NEW!]]
 - **[[old|old]]**
 	- **[[nettime|nettime]]**
