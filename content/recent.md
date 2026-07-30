@@ -27,6 +27,16 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-07-30:*** Chris Lehmann, [Rahm Emanuel’s Losing Record](https://www.thenation.com/article/politics/rahm-emanuel-dsa/)
+
+***2026-07-30:*** [Adam Curtis’s 2015 film *Bitter Lake*](https://youtu.be/1pn2z7zp1V0) — the first 3.5 minutes alone 😮
+
+***2026-07-30:*** *The Economist*: [“How big is America’s ‘obesity penalty’?”](http://archive.today/2026.07.30-131533/https://www.economist.com/graphic-detail/2026/07/26/how-big-is-americas-obesity-penalty)
+
+***
+
+***2026-07-29:*** [Insta thread on Fauci and science](https://www.instagram.com/p/DbYWNSQFC1i/)
+
 > [!note]+ [[2026-07-29-peeling-in-the-years|2026-07-29-peeling in the years]]
 > the von Hagens estate shouldn’t object to paying such a small sum to suitably inter him
 
