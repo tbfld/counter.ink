@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-07-30:*** Karl Bode, [AI Doomsday Bullshit Is Getting Tired](https://karlbode.com/ai-doomsday-bullshit-is-getting-tired/)
+
 ***2026-07-30:*** Chris Lehmann, [Rahm Emanuel’s Losing Record](https://www.thenation.com/article/politics/rahm-emanuel-dsa/)
 
 ***2026-07-30:*** [Adam Curtis’s 2015 film *Bitter Lake*](https://youtu.be/1pn2z7zp1V0) — the first 3.5 minutes alone 😮
