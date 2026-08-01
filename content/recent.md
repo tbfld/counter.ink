@@ -46,7 +46,7 @@ yaml_end: true
 
 ***2026-07-28:*** MoMA, Nov 28 1944 – Mar 4 1945: [Are Clothes Modern?](https://www.moma.org/calendar/exhibitions/3159)
 
-***2026-07-28:*** [Boo-Hooray exhibition archives](https://www.boo-hooray.com/exhibits\)
+***2026-07-28:*** [Boo-Hooray exhibition archives](https://www.boo-hooray.com/exhibits/)
 
 ***2026-07-28:*** [stunning belated obit for the teen experimental filmmaker Barbara Rubin](http://archive.today/2026.07.26-113353/https://www.nytimes.com/2026/07/24/obituaries/barbara-rubin-overlooked.html)
 
@@ -84,7 +84,7 @@ yaml_end: true
 
 ***2026-07-23:*** Mark Rosenzweig, [The Hostile Takeover That Looks Suspiciously Like Democracy: Panic behind *The Atlantic*’s attack on the democratic left](https://www.facebook.com/lycanthropism/posts/pfbid02HKEiWjYwzALy61CsbPdAqbipb47C1NdZLRzenHKTSGscdMT7DjXKqHNsjg1PcmqNl)
 
-***2026-07-23:*** [Barbara London reviews Rafael Lozano-Hemmer’s *Border Tuner_/_Sintonizador Fronterizo*](https://brooklynrail.org/2026/06/artseen/venice-biennale/)
+***2026-07-23:*** [Barbara London reviews Rafael Lozano-Hemmer’s *Border Tuner / Sintonizador Fronterizo*](https://brooklynrail.org/2026/06/artseen/venice-biennale/)
 
 ***2026-07-23:*** [The Emmy Awards Are Afraid of This Vulgar, Gory, Brilliant Show](http://archive.today/2026.07.23-124944/https://www.nytimes.com/2026/07/19/opinion/emmys-the-boys-amazon-homelander-snub.html)
 ***
@@ -107,7 +107,7 @@ yaml_end: true
 
 ***
 
-***2026-07-19:*** Hélène Cixous in Haaretz: [“I accept Israel's existence but don't identify with it”](http://archive.today/VLuMv)
+***2026-07-19:*** Hélène Cixous in *Haaretz*: [“I accept Israel's existence but don't identify with it”](http://archive.today/VLuMv)
 ***
 
 ***2026-07-18:*** Paulina Borsook on Peter G Neuman: [Pavane for a dead prince](https://www.patreon.com/paulinaborsook/posts/pavane-for-dead-162897941)
