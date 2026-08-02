@@ -27,6 +27,16 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-08-02:*** [Social media democratised opinion, LLMs will reverse this](https://www.conspicuouscognition.com/p/how-ai-will-reshape-public-opinion) (🎩 TU)
+
+***2026-08-02:*** [cellular metabolism produces photons](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1348915/full) (🎩 DK)
+
+***
+
+***2026-08-01:*** *Tedium*: [Stirrup Stir-Up](https://tedium.co/2022/04/20/great-stirrup-controversy-history/) (2022)
+
+***
+
 ***2026-07-30:*** Karl Bode, [AI Doomsday Bullshit Is Getting Tired](https://karlbode.com/ai-doomsday-bullshit-is-getting-tired/)
 
 ***2026-07-30:*** Chris Lehmann, [Rahm Emanuel’s Losing Record](https://www.thenation.com/article/politics/rahm-emanuel-dsa/)
