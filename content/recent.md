@@ -27,6 +27,20 @@ yaml_end: true
 
 ### 2026-07
 
+> [!note]+ [[2026-0803-velvet-underground-interview-third-ear-1970|2026-08-03-velvet underground interview third ear 1970]]
+> Lou: Now that’s a silly question.
+
+***2026-08-03:*** [SNES Donkey Kong Country online!](https://rec0ded88.com/snes/play-donkey-kong-country/)
+
+***2026-08-03:*** [the missing chapter of the DNC’s 2024 postmortem](https://www.nytimes.com/interactive/2026/08/03/us/politics/democrats-2024-autopsy-missing-chapter.html)
+
+***2026-08-03:*** [excerpt from Hanna Rose Shell’s history of textile reuse](https://www.harvardmagazine.com/2021/02/montage-shoddy-noun) (🎩 LC)
+
+***2026-08-03:*** ex-Israeli negotiator on “[this is unhelpful to two states](https://www.instagram.com/reel/DblOKnrjNAV/)” (🎩 TK)
+
+***2026-08-03:*** proposal for [a UN “pay-where-you-play” corporate tax](https://taxjustice.net/press/countries-to-gain-500bn-more-tax-a-year-under-un-pay-where-you-play-plan/)
+***
+
 ***2026-08-02:*** [Social media democratised opinion, LLMs will reverse this](https://www.conspicuouscognition.com/p/how-ai-will-reshape-public-opinion) (🎩 TU)
 
 ***2026-08-02:*** [cellular metabolism produces photons](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1348915/full) (🎩 DK)

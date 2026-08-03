@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-0803-velvet-underground-interview-third-ear-1970|2026-08-03-velvet underground interview third ear 1970]]
+> Lou: Now that’s a silly question.
+
 > [!note]+ [[2026-07-29-peeling-in-the-years|2026-07-29-peeling in the years]]
 > the von Hagens estate shouldn’t object to paying such a small sum to suitably inter him
 
