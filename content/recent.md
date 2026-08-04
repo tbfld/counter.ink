@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-08-04:*** [August 3 Ed Dept letter to universities](https://www.ed.gov/media/document/national-call-action-university-presidents-and-governing-boards-114351.pdf) (🎩 BA)
+
 > [!note]+ [[2026-08-04-preweb-flyers-from-1980-s-nyc|2026-08-04-pre-web flyers from 1980s nyc]]
 > RESTORES YOUR LOST NATURE
 
