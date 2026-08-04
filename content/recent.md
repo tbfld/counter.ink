@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-07
 
+> [!note]+ [[2026-08-04-preweb-flyers-from-1980-s-nyc|2026-08-04-pre-web flyers from 1980s nyc]]
+> RESTORES YOUR LOST NATURE
+
 ***2026-08-04:*** [“Israel’s rave music drowns out the sound of its victims”](https://www.currentaffairs.org/news/israels-rave-music-drowns-out-the-sound-of-its-victims)
 
 ***2026-08-04:***  [Anton Jäger in *NLR* on “hyperpolitics”](https://newleftreview.org/issues/ii159/articles/anton-jager-hyperpolitics-in-command) (see also [this nettime thread](https://nettime.org/Lists-Archives/nettime-l-2607/msg00023.html))

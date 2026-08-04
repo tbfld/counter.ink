@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-08-04-preweb-flyers-from-1980-s-nyc|2026-08-04-pre-web flyers from 1980s nyc]]
+> RESTORES YOUR LOST NATURE
+
 > [!note]+ [[2026-08-04-fun-with-corporation-names|2026-08-04 fun with corporation names]]
 > Bed Bath & Beyond Meat
 
