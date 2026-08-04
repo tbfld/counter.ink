@@ -27,13 +27,24 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-08-04:*** [“Israel’s rave music drowns out the sound of its victims”](https://www.currentaffairs.org/news/israels-rave-music-drowns-out-the-sound-of-its-victims)
+
+***2026-08-04:***  [Anton Jäger in *NLR* on “hyperpolitics”](https://newleftreview.org/issues/ii159/articles/anton-jager-hyperpolitics-in-command) (see also [this nettime thread](https://nettime.org/Lists-Archives/nettime-l-2607/msg00023.html))
+
+***2026-08-04:*** [Field Guide to US Legacy Media Pundits](https://www.mcsweeneys.net/articles/a-field-guide-to-legacy-media-pundits-in-the-united-states)
+
+***2026-08-04:*** [chart font](https://flowingdata.com/2026/08/03/datatype-font-turns-text-into-charts/)
+
+***2026-08-04:*** [future timeline based on betting market forecasts](https://when.val.run)
+
+***2026-08-04:*** *The Nation*: [Is the era of US military bases in the Middle East over?](https://www.thenation.com/article/politics/us-military-bases-middle-east-iran-war-foreign-policy-withdrawal/)
 
 > [!note]+ [[2026-08-04-fun-with-corporation-names|2026-08-04 fun with corporation names]]
 > Bed Bath & Beyond Meat
 
 ***
 
-***2026-08-04:*** [Jasmine Sun on AI data centers, Ezra Klein as sidekick](https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html)
+***2026-08-04:*** [Jasmine Sun](https://jasmi.news/) on AI data centers, [Ezra Klein as sidekick](https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html)
 
 ***2026-08-04:*** ‘[Abandonment is the only legal path for people to get clean water](https://www.theguardian.com/us-news/2026/aug/01/hartman-colorado-town-abandoned).’
 
