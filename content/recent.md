@@ -27,6 +27,17 @@ yaml_end: true
 
 ### 2026-07
 
+
+> [!note]+ [[2026-08-04-fun-with-corporation-names|2026-08-04 fun with corporation names]]
+> Bed Bath & Beyond Meat
+
+***
+
+***2026-08-04:*** [Jasmine Sun on AI data centers, Ezra Klein as sidekick](https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html)
+
+***2026-08-04:*** ‘[Abandonment is the only legal path for people to get clean water](https://www.theguardian.com/us-news/2026/aug/01/hartman-colorado-town-abandoned).’
+
+***
 > [!note]+ [[2026-0803-velvet-underground-interview-third-ear-1970|2026-08-03-velvet underground interview third ear 1970]]
 > Lou: Now that’s a silly question.
 
