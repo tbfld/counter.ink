@@ -27,6 +27,28 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-08-05:*** Steve Vladeck on the [Alien Terrorist Removal Court](https://www.justsecurity.org/148285/the-alien-terrorist-removal-courts-first-case/)
+
+***2026-08-05:*** [“The Absent Angel”](https://jewishcurrents.org/the-absent-angel): where Klee’s Angelus Novus isn’t (my take is [[2026-06-07-angelus-novus-sorta|here]])
+
+***2026-08-05:*** *404* on *404*: [AI training book-mulchers are on the run](https://www.404media.co/ai-company-training-scanning-books-database-isbndb/)
+
+***2026-08-05:*** *Atlantic*: [The Great Chinese Oil Mystery](http://archive.today/2026.08.01-233316/https://www.theatlantic.com/economy/2026/07/china-iran-usa-oil-prices/688086/)
+
+***2026-08-05:*** US military GPS jamming [caused a medevac plane to crash](https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/)
+
+***2026-08-05:*** [Trump & Co are installing paramilitaries in USPS facilities](https://www.rawstory.com/raw-investigates/this-may-be-trumps-next-move-to-take-over-midterms-and-privatize-the-mail/)
+
+***2026-08-05:*** [Andreas Sterzing](https://sterzing.co.uk/asp/profile_links.html)’s dazzling slideshow of [NYC’s Lower East Side ’83–’87](https://vimeo.com/420453175)
+
+***2026-08-05:*** Dan Froomkin is *on it*: [What is the resistance governing agenda?](https://www.headsupnews.org/p/what-is-the-resistance-governing)
+
+***2026-08-05:*** *Ars*: [How headlights got brighter, whiter, and more blinding after dark](https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/)
+
+***2026-08-05:*** my old employer, the New School, [fires another gadfly](https://www.nytimes.com/2026/08/05/nyregion/new-school-faculty-fired-nyc.html)
+
+***
+
 ***2026-08-04:*** [The Sane NYC DSA vs the Crazy National DSA](https://nathannewman.substack.com/p/the-sane-nyc-dsa-vs-the-crazy-national)
 
 ***2026-08-04:*** [August 3 Ed Dept letter to universities](https://www.ed.gov/media/document/national-call-action-university-presidents-and-governing-boards-114351.pdf) (🎩 BA)
