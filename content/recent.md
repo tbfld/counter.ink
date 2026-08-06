@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-08-06:*** [strange illegal biolab story from May that seems to have gone nowhere](https://www.rawstory.com/trump-2676971582/)
+
 ***2026-08-06:*** [Eco Jurisprudence Monitor]()
 
 ***2026-08-06:*** Internet Archive: [*Spy* magazine repository](https://dn760102.eu.archive.org/0/items/SpyMagazine/Spy%20Magazine%201986-1998/) (🎩 JD)
