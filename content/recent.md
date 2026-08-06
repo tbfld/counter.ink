@@ -27,6 +27,13 @@ yaml_end: true
 
 ### 2026-07
 
+***2026-08-06:*** LRB > William Davies on NEETs: [“Not in Employment, Education or Training”](https://www.lrb.co.uk/the-paper/v48/n14/william-davies/young-people-are-different)
+
+***2026-08-06:*** Gil Durán: [“If we don’t fight back, we don’t have a future”](https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley)
+
+***2026-08-06:*** *M-W*: [words coined in your birth year](https://www.merriam-webster.com/time-traveler/) (pick 5 that match your vibe)
+***
+
 ***2026-08-05:*** Steve Vladeck on the [Alien Terrorist Removal Court](https://www.justsecurity.org/148285/the-alien-terrorist-removal-courts-first-case/)
 
 ***2026-08-05:*** [“The Absent Angel”](https://jewishcurrents.org/the-absent-angel): where Klee’s Angelus Novus isn’t (my take is [[2026-06-07-angelus-novus-sorta|here]])
