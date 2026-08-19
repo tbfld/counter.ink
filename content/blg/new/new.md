@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-08-19-the-greatest-tv-broadcast-ever|2026-08-19 the greatest tv broadcast ever]]
+> “The coin of the kingdom of the mad dangles on my chest to remind me of the eternal oscillation of human fortunes”
+
 > [!note]+ [[2026-08-04-preweb-flyers-from-1980-s-nyc|2026-08-04-pre-web flyers from 1980s nyc]]
 > RESTORES YOUR LOST NATURE
 

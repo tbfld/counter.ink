@@ -25,7 +25,48 @@ yaml_end: true
 <!-- RECENT_POSTS_START -->
 ## 2026
 
-### 2026-07
+### 2026-08
+
+***2026-08-19:*** *WiReD*: [Mamdani’s Tech Team Is What DOGE Should Have Been](https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/) (um, ok...)
+
+***2026-08-19:*** Adam McKay on [the gargantuan lie collapsing the world’s climate]()
+
+***2026-08-19:*** *New Sci*: [LED lightbulbs are screwing us up](https://www.newscientist.com/article/2582914-the-shock-revelation-that-light-bulbs-are-wrecking-your-metabolism/)
+
+***2026-08-19:*** [Incendiaries: The People’s Flag Show 1970](https://80wse.org/exhibitions/incendiaries-the-people-s-flag-show-1970) (NYU 9 Sep 2026 – 16 Jan 2027)
+
+***2026-08-19:*** Ed Kilgore, [How to end gerrymandering](https://nymag.com/intelligencer/article/this-big-idea-could-fix-americas-gerrymandering-madness.html)
+
+***2026-08-19:*** [Antifascism, weaponized: Russian WW2 memory in the war against Ukraine](https://helsinkinotebooks.com/2026/05/15/the-weaponization-of-antifascism-russian-wwii-memory-in-the-war-against-ukraine/)
+
+***2026-08-19:*** [Grok turns on its maker](https://futurism.com/future-society/grok-calls-for-assassination-elon-musk) (so maybe it really is intelligent?)
+
+***2026-08-19:*** [The US’s “First Car-Free Neighborhood”](https://www.dwell.com/article/culdesac-tempe-car-free-neighborhood-resident-experience-8a14ebc7)
+
+***2026-08-19:*** BBC, [New Sweden: The US's long-lost “secret” colony](https://www.bbc.com/travel/article/20260629-new-sweden-the-uss-long-lost-secret-colony)
+
+***2026-08-19:*** [How American military planners anticipated failure in Iran](https://www.amerikanets.com/p/they-saw-it-coming)
+
+***2026-08-19:*** Alex Thomas, [GOPers Are Realizing They Wrecked the Middle Class](https://newrepublic.com/article/213967/vance-future-republican-economic-policy)
+
+***2026-08-19:*** David Hollingshead, [Humanists Have Done Nothing Wrong](https://defector.com/humanists-have-done-nothing-wrong)
+
+***2026-08-19:*** *NY Mag* on [the “shoplifting epidemic”](https://www.curbed.com/article/walgreens-duane-reade-cvs-rite-aide-nyc-shoplifting-new-liberty-loans.html)
+
+***2026-08-19:*** [WFHB](https://wfhb.org/)’s [We, the Shackled: Nancy MacLean on *Democracy in Chains*](https://exchange.prx.org/pieces/213296)
+
+***2026-08-19:*** [Chuck Grassley’s vintage vacuum “Beth”](https://www.rawstory.com/chuck-grassley-2677712280/)
+
+***2026-08-19:*** (2021) [the Indian Head Test Pattern restoration is done](http://pharis-video.com/p4788.htm)
+
+***2026-08-19:*** Matt Seybold, [Neuroplasticity as a Praxis](https://www.theamericanvandal.com/p/neuroplasticity-as-a-praxis)
+
+***2026-08-19:*** turns out [feeding on the prison industrial complex isn’t sustainable](https://calmatters.org/economy/2026/08/california-prisons-jobs-after-closing/) (duh)
+
+> [!note]+ [[2026-08-19-the-greatest-tv-broadcast-ever|2026-08-19 the greatest tv broadcast ever]]
+> “The coin of the kingdom of the mad dangles on my chest to remind me of the eternal oscillation of human fortunes”
+
+***
 
 ***2026-08-06:*** [strange illegal biolab story from May that seems to have gone nowhere](https://www.rawstory.com/trump-2676971582/)
 
@@ -116,6 +157,9 @@ yaml_end: true
 ***2026-08-01:*** *Tedium*: [Stirrup Stir-Up](https://tedium.co/2022/04/20/great-stirrup-controversy-history/) (2022)
 
 ***
+
+
+### 2026-07
 
 ***2026-07-30:*** Karl Bode, [AI Doomsday Bullshit Is Getting Tired](https://karlbode.com/ai-doomsday-bullshit-is-getting-tired/)
 
