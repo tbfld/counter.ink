@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-19:*** *Vanity Fair*: [When Freaks Were Chic](https://www.vanityfair.com/story/danceteria-oral-history): An Oral History of [Danceteria](https://en.wikipedia.org/wiki/Danceteria)
+
+***2026-08-19:*** 1987: [Tom Wolfe on “plutography,” or graphic depiction of the acts of the rich](https://www.tiktok.com/@deadwronghistory1/video/7644509251540356374)
+
 ***2026-08-19:*** *WiReD*: [Mamdani’s Tech Team Is What DOGE Should Have Been](https://www.wired.com/story/mamdani-assembles-his-nyc-tech-team/) (um, ok...)
 
 ***2026-08-19:*** Adam McKay on [the gargantuan lie collapsing the world’s climate]()
