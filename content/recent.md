@@ -27,6 +27,31 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-21:*** [The People's Ledger](https://msjessiemeghan.github.io/taxtherich/) (🎩 JL — *for making it!*)
+
+***2026-08-21:*** [Cabells’ Predatory Reports](https://en.wikipedia.org/wiki/Cabells%27_Predatory_Reports) on *[predatory journals](https://en.wikipedia.org/wiki/Predatory_publishing)* (see also [Beall’s](https://en.wikipedia.org/wiki/Beall's_List))
+
+***
+
+***2026-08-20:*** [NYC’s SWANA scene](https://nymag.com/tags/habibi-city/) (i.e., South West Asian / North Africa)
+
+***2026-08-20:*** [Iris van Herpen at the Brooklyn Museum](https://www.brooklynmuseum.org/exhibitions/iris-van-herpen)
+
+***2026-08-20:*** *The Economist* [“imagines the repercussions of a leak from a Russian lab”](http://archive.today/2026.08.15-062349/https://www.economist.com/culture/2026/07/30/the-terrifying-threat-of-a-genetically-engineered-plague)
+
+***2026-08-20:*** [how cases are assigned to judges is the weak link in an independent judiciary](https://www.bbc.com/news/articles/cvgvyz8e27zo)
+
+***2026-08-20:***  Anthony Conwright in *NYT*: [not a civil war but a slaveholders’ rebellion](http://archive.today/2026.08.02-050502/https://www.nytimes.com/2026/08/02/opinion/civil-war-slaveholders-rebellion-slavery.html)
+
+***2026-08-20:*** *Sci Am*: empirical evidence that [bees play](https://www.scientificamerican.com/article/ball-rolling-bumble-bees-just-wanna-have-fun/)
+
+***2026-08-20:*** *Haaretz*: [Defending an Israel that no longer exists](http://archive.today/2026.08.18-165341/https://www.haaretz.com/israel-news/haaretz-today/2026-08-18/ty-article/.highlight/the-american-jewish-establishment-is-defending-an-israel-that-no-longer-exists/000001a0-14d7-df40-afe2-9df741e90000)
+
+> [!note]+ [[2026-08-20-adjunctification-aint-all-bad|2026-08-20-adjunctification ain’t all bad]]
+> ostensibly critical coverage of this issue is basically a highbrow version of tradwife rhetoric
+
+***
+
 ***2026-08-19:*** *Vanity Fair*: [When Freaks Were Chic](https://www.vanityfair.com/story/danceteria-oral-history): An Oral History of [Danceteria](https://en.wikipedia.org/wiki/Danceteria)
 
 ***2026-08-19:*** 1987: [Tom Wolfe on “plutography,” or graphic depiction of the acts of the rich](https://www.tiktok.com/@deadwronghistory1/video/7644509251540356374)

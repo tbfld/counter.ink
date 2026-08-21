@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-08-20-adjunctification-aint-all-bad|2026-08-20-adjunctification ain’t all bad]]
+> ostensibly critical coverage of this issue is basically a highbrow version of tradwife rhetoric
+
 > [!note]+ [[2026-08-19-the-greatest-tv-broadcast-ever|2026-08-19 the greatest tv broadcast ever]]
 > “The coin of the kingdom of the mad dangles on my chest to remind me of the eternal oscillation of human fortunes”
 

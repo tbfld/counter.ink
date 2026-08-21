@@ -248,6 +248,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-08-04-fun-with-corporation-names|2026-08-04 fun with corporation names]]
 	- [[2026-08-04-preweb-flyers-from-1980-s-nyc|2026-08-04-pre-web flyers from 1980s nyc]]
 	- [[2026-08-19-the-greatest-tv-broadcast-ever|2026-08-19 the greatest tv broadcast ever]]
+	- [[2026-08-20-adjunctification-aint-all-bad|2026-08-20-adjunctification ain’t all bad]]
 	- [[2026-0803-velvet-underground-interview-third-ear-1970|2026-08-03-velvet underground interview third ear 1970]]
 	- [[new|NEW!]]
 - **[[old|old]]**
