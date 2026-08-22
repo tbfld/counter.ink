@@ -27,6 +27,15 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-22:*** [Clouds of Knowledge with Their Ears Open](https://lareviewofbooks.org/article/clouds-of-knowledge-with-their-ears-open/)
+
+***2026-08-22:*** David Corn in *MJ* on Natalie Harp: [conspiracy theories need not apply](https://link.motherjones.com/public/47153292)
+
+***2026-08-22:***  [Laura Kipnis reviews *Against Affect*](https://criticalinquiry.uchicago.edu/laura_kipnis_reviews_against_affect/) (🎩 LK)
+***
+
+***2026-08-21:*** [Substack Collapse]()
+
 ***2026-08-21:*** [The People's Ledger](https://msjessiemeghan.github.io/taxtherich/) (🎩 JL — *for making it!*)
 
 ***2026-08-21:*** [Cabells’ Predatory Reports](https://en.wikipedia.org/wiki/Cabells%27_Predatory_Reports) on *[predatory journals](https://en.wikipedia.org/wiki/Predatory_publishing)* (see also [Beall’s](https://en.wikipedia.org/wiki/Beall's_List))
