@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-22:*** [The Fantasists Who Fooled Putin]([https://airmail.news/issues/2026-8-22/the-fantasists-who-fooled-putin](http://archive.today/2026.08.22-064419/https://airmail.news/issues/2026-8-22/the-fantasists-who-fooled-putin)) (🎩 SH)
+
 ***2026-08-22:*** [Clouds of Knowledge with Their Ears Open](https://lareviewofbooks.org/article/clouds-of-knowledge-with-their-ears-open/)
 
 ***2026-08-22:*** David Corn in *MJ* on Natalie Harp: [conspiracy theories need not apply](https://link.motherjones.com/public/47153292)
