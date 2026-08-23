@@ -27,6 +27,15 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-23:*** [“Missing” Epstein files involving Trump found](https://www.rawstory.com/jeffrey-epstein-2677759745/)
+
+***2026-08-23:*** [Mexico’s publicly designed Olinia Carga electric microvehicle](https://mexico-now.com/olinia-carga-mexicos-new-electric-cargo-vehicle/) (🎩 CH1)
+
+***2026-08-23:*** *PDR*: [Gottfried Mind, The Raphael of Cats](https://publicdomainreview.org/essay/gottfried-mind-the-raphael-of-cats/) 
+
+***2026-08-23:*** Insta: [Italian frescoes and painted ceilings as seen from windows](https://www.instagram.com/soffittidallefinestre) (🎩 FiG)
+***
+
 ***2026-08-22:*** [The Fantasists Who Fooled Putin]([https://airmail.news/issues/2026-8-22/the-fantasists-who-fooled-putin](http://archive.today/2026.08.22-064419/https://airmail.news/issues/2026-8-22/the-fantasists-who-fooled-putin)) (🎩 SH)
 
 ***2026-08-22:*** [Clouds of Knowledge with Their Ears Open](https://lareviewofbooks.org/article/clouds-of-knowledge-with-their-ears-open/)
