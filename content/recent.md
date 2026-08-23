@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-23:*** [JULIAN’s “Crimson Report” on the current epidemic of lynchings](https://drive.google.com/file/d/1twIekbOTlto0wEtY0uAL_0IW__VV1Ity/view)
+
 ***2026-08-23:*** [“Missing” Epstein files involving Trump found](https://www.rawstory.com/jeffrey-epstein-2677759745/)
 
 ***2026-08-23:*** [Mexico’s publicly designed Olinia Carga electric microvehicle](https://mexico-now.com/olinia-carga-mexicos-new-electric-cargo-vehicle/) (🎩 CH1)
