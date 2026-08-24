@@ -22,7 +22,7 @@ status:
 RSS: false
 yaml_end: true
 ---
-Doesn’t [Pichai’s response to that Google pseudo-manifesto]([https://www.recode.net/2017/8/7/16110696/firing-google-ceo-employee-penned-controversial-memo-on-women-has-violated-its-code-of-conduct](https://web.archive.org/web/20170831212139/https://www.recode.net/2017/8/7/16110696/firing-google-ceo-employee-penned-controversial-memo-on-women-has-violated-its-code-of-conduct)) seem awfully ham-handed? It reads like something written by a man, about men, and for men — in which women mainly appear as third parties and indirect objects, always ‘they,’ sometimes ‘we,’ never a ‘you’ that might (gasp!) *exclude* men.
+Doesn’t [Pichai’s response to that Google pseudo-manifesto](https://www.recode.net/2017/8/7/16110696/firing-google-ceo-employee-penned-controversial-memo-on-women-has-violated-its-code-of-conduct) (via [archive.org](https://web.archive.org/web/20170831212139/https://www.recode.net/2017/8/7/16110696/firing-google-ceo-employee-penned-controversial-memo-on-women-has-violated-its-code-of-conduct)) seem awfully ham-handed? It reads like something written by a man, about men, and for men — in which women mainly appear as third parties and indirect objects, always ‘they,’ sometimes ‘we,’ never a ‘you’ that might (gasp!) *exclude* men.
 
 (ADDED 2026-01-24: The memo:)
 

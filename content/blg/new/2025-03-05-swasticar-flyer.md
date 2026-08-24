@@ -11,7 +11,6 @@ order:
 enableToc: true
 permalink: swasticar
 aliases:
-  - swasticar
   - wankpanzer
   - incelcamino
 

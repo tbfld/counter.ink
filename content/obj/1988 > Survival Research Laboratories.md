@@ -33,7 +33,7 @@ As a reward for my efforts, in the performance I got to run the smoke machine (a
 
 ![[1988_srl-grid.jpeg|wmed relative|left]]
 
-Here’s [a copy of the script](content/obj/obj_images/19880517-srl-misfortunes-script.pdf) and, thanks to Martin Renko (who I don’t know), [a video of the performance](https://www.youtube.com/watch?v=jSnTcHTinN0) (minus the Joy Division soundtrack he added):
+Here’s [[19880517-srl-misfortunes-script.pdf|a copy of the script]] and, thanks to Martin Renko (who I don’t know), [a video of the performance](https://www.youtube.com/watch?v=jSnTcHTinN0) (minus the Joy Division soundtrack he added):
 
 
 <video controls>

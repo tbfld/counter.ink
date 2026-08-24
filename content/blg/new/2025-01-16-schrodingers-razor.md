@@ -10,7 +10,8 @@ images: true
 order: 
 enableToc: 
 permalink: 
-aliases: 
+aliases:
+  - 2025-01-16-notes
 
 publish: 
 date: 2025-01-16

@@ -27,6 +27,16 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-24:*** UPDATED: [[2019-07-18-newport-ads]]
+
+***2026-08-24:*** [Me explaining AI to friends](https://bsky.app/profile/tbfld.bsky.social/post/3mttfe2n2ts2v) (2:59 video, found)
+
+***2026-08-24:*** [Rentier Black Hole: residential property as a capital sink](https://rentierblackhole.com/) (🎩 JS)
+
+***
+
+***2026-08-23:*** *e-flux*: [Who owns the city? Art and the property economy](https://www.e-flux.com/announcements/6785844/who-owns-the-city-art-and-the-property-economy) (🎩 MR)
+
 ***2026-08-23:*** [JULIAN’s “Crimson Report” on the current epidemic of lynchings](https://drive.google.com/file/d/1twIekbOTlto0wEtY0uAL_0IW__VV1Ity/view)
 
 ***2026-08-23:*** [“Missing” Epstein files involving Trump found](https://www.rawstory.com/jeffrey-epstein-2677759745/)
@@ -38,7 +48,7 @@ yaml_end: true
 ***2026-08-23:*** Insta: [Italian frescoes and painted ceilings as seen from windows](https://www.instagram.com/soffittidallefinestre) (🎩 FiG)
 ***
 
-***2026-08-22:*** [The Fantasists Who Fooled Putin]([https://airmail.news/issues/2026-8-22/the-fantasists-who-fooled-putin](http://archive.today/2026.08.22-064419/https://airmail.news/issues/2026-8-22/the-fantasists-who-fooled-putin)) (🎩 SH)
+***2026-08-22:*** [The Fantasists Who Fooled Putin](https://airmail.news/issues/2026-8-22/the-fantasists-who-fooled-putin) (via [archive.today](http://archive.today/2026.08.22-064419/https://airmail.news/issues/2026-8-22/the-fantasists-who-fooled-putin)) (🎩 SH)
 
 ***2026-08-22:*** [Clouds of Knowledge with Their Ears Open](https://lareviewofbooks.org/article/clouds-of-knowledge-with-their-ears-open/)
 
@@ -263,7 +273,7 @@ yaml_end: true
 
 ***2026-07-23:*** [why eyeglasses cost so much](https://www.worseonpurpose.com/p/your-glasses-got-worse-on-purpose) (🎩 KH/IRR)
 
-***2026-07-23:*** [NYT API search](developer.nytimes.com)
+***2026-07-23:*** [NYT API search](https://developer.nytimes.com)
 
 ***2026-07-23:*** “the painter” (as in “the painter was right”) is a [fascist meme-code](http://the-painter.urbanup.com/18470956)
 
@@ -521,7 +531,7 @@ yaml_end: true
 
 ***2026-06-14:*** Reuters: Israeli firm BlackCore [meddling in NY and Scotland votes?](https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/)
 
-***2026-06-14:*** [José-Carlos Mariátegui]([https://link.springer.com/article/10.1007/s11213-025-09717-2#auth-Jos__Carlos-Mari_tegui-Aff1](https://link.springer.com/researchers/32444902SN)), “[Beyond Project Cybersyn: Tracing the Influence of Stafford Beer Projects and Ideas in Latin America](https://link.springer.com/article/10.1007/s11213-025-09717-2#citeas),” [*Systemic Practice and Research Action*](https://link.springer.com/journal/11213) (I mean, how can you not love that journal title?!) 38.9 (2025), [DOI](https://doi.org/10.1007/s11213-025-09717-2)
+***2026-06-14:*** [José-Carlos Mariátegui](https://link.springer.com/researchers/32444902SN), “[Beyond Project Cybersyn: Tracing the Influence of Stafford Beer Projects and Ideas in Latin America](https://link.springer.com/article/10.1007/s11213-025-09717-2#citeas),” [*Systemic Practice and Research Action*](https://link.springer.com/journal/11213) (I mean, how can you not love that journal title?!) 38.9 (2025), [DOI](https://doi.org/10.1007/s11213-025-09717-2)
 
 ***2026-06-14:*** 🔥🔥🔥  reply from [José-Carlos Mariátegui](https://ata.org.pe/) on [the lost history of Latin American cybernetics projects](https://nettime.org/Lists-Archives/nettime-l-2606/msg00005.html)
 

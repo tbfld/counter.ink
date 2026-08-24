@@ -22,4 +22,4 @@ yaml_end: true
 ---
 “When it comes to the point where you occasionally look forward to being in prison on the basis that you might be able to spend a day reading a book, the realization dawns that perhaps the situation has become a little more stressful than you would like.”
 
-([*NYT*]([https://www.nytimes.com/2010/10/24/world/24assange.html](https://archive.ph/20120909041904/http://www.nytimes.com/2010/10/24/world/24assange.html)))
+([*NYT*](https://www.nytimes.com/2010/10/24/world/24assange.html) via [archive.ph](https://archive.ph/20120909041904/http://www.nytimes.com/2010/10/24/world/24assange.html))
