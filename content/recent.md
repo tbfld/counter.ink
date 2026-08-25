@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-25:*** Lina Mounzer, [A Year of War Without End](https://themarkaz.org/a-year-of-war-without-end/)
+
+***2026-08-25:*** [Daniel A. Barber’s architectural art](https://danielabarber.net/)
+
 ***2026-08-25:*** Farah Mokhtareizadeh, [Anti-Imperialism and Iran's Political Prisoners](https://farahazadimokh.substack.com/p/who-names-the-world-anti-imperialism)
 ***
 
