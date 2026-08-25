@@ -27,6 +27,9 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-25:*** Farah Mokhtareizadeh, [Anti-Imperialism and Iran's Political Prisoners](https://farahazadimokh.substack.com/p/who-names-the-world-anti-imperialism)
+***
+
 ***2026-08-24:*** UPDATED: [[2019-07-18-newport-ads]]
 
 ***2026-08-24:*** [Me explaining AI to friends](https://bsky.app/profile/tbfld.bsky.social/post/3mttfe2n2ts2v) (2:59 video, found)
