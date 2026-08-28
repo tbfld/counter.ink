@@ -27,6 +27,20 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-28:*** new entry in [[neological things]]!: *zeitgeistlet*
+
+***2026-08-28:*** Jodi Dean, “[Large Language Mommies](https://jodi7768.substack.com/p/whos-your-mommy)”
+
+***2026-08-28:*** [Humanity Needs an AI Nonproliferation Treaty](http://archive.today/2026.08.27-115427/https://www.theatlantic.com/ideas/2026/08/ai-nonproliferation-usa-china/688421/) (🎩 JK)
+
+***2026-08-28:*** *AJ+*: [Dolly Parton is HUGE across Africa](https://www.instagram.com/reel/DclsAydt6kd/)
+
+***2026-08-28:*** [Minnesota’s “Truth Council” on ICE’s activities](https://mn.gov/governor/about-gov/councils/truth-council/)
+
+***2026-08-28:*** [Chomsky after Epstein](https://strangematters.coop/noam-chomsky-jeffrey-epstein-campist-foreign-policy/)
+
+***
+
 ***2026-08-27:*** [UAE is building anti-drone “cope cages” around oil-storage tanks](https://www.instagram.com/reel/DcXQhaONBTn/)
 
 ***2026-08-27:*** [Zuck's AI Manifesto as Redaction Poetry](https://bengrosser.com/projects/zuckerbergs-the-future-is-for-everyone-as-redaction-poetry/)
