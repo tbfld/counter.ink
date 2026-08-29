@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-08
 
+***2026-08-28:*** [how fingerprintable is your browser?](https://glassbox.codecanary.org/) (🎩 IRR)
+
 ***2026-08-28:*** new entry in [[neological things]]!: *zeitgeistlet*
 
 ***2026-08-28:*** Jodi Dean, “[Large Language Mommies](https://jodi7768.substack.com/p/whos-your-mommy)”
