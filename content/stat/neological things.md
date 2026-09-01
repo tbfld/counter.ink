@@ -139,6 +139,8 @@ yaml_end: true
 
 **yolocracy** (n.d., xitter)
 
+**zardozzy** (adj; [2026-09-01](https://www.facebook.com/tbyfield/posts/pfbid037pqhCmL6uggij7qwgRDqC5ZG55cGXCeh1xGbgqifft6cSnZ3aRghWmcKw5E7Nmugl)): *Zardoz*–like or otherwise evocative of *Zardoz*
+
 **zeitgeistlet** ([2026-08-28](https://www.facebook.com/tbyfield/posts/pfbid0icc7fXQw8UjTdpD7nHCopYuquvaWRSEJ8fcTcCrJfe1UxphLDneUuJLg3rEiCPqCl)): a mini-zeitgeist, possibly one of many
 
 **zeitvibe** ([2024–08-11](https://www.facebook.com/tbyfield/posts/pfbid0WwPvd59MGL3jcRFSMTzA4oYbBSjWLQnfrrpSe8knL3X95MCVe6TrCVJVvE8gjzjTl)): low-key zeitgeist
