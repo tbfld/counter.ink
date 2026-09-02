@@ -25,40 +25,9 @@ yaml_end: true
 <!-- RECENT_POSTS_START -->
 ## 2026
 
-### 2026-09
-
-***2026-09-02:***  Omer Bartov with Arnon Grunberg: [The Stranglehold of Memory](https://www.bostonreview.net/articles/the-stranglehold-of-memory/)
-
-***2036-09-02:*** [Comcast’s motion-detecting routers]([https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html](https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html)) (🎩 KH)
-
-***2026-09-02:*** [Ian Curtis’s record collection](https://www.cultmanchester.co.uk/post/cult-manchester-exclusive-there-was-some-sadness-attached-to-those-records) (🎩 MMcG)
-
-***2026-09-02:*** [Italy’s Bancaetica on Autistici/Inventati as s “terrorist” organization](https://www.bancaetica.it/area-stampa/autistici-inventati-banca-etica-condanna-uso-improprio-ofac-valutazioni-per-non-chiudere-il-conto/)
-
-***2026-09-02:*** [Radiance Films](https://www.radiancefilms.co.uk/) (UK; 🎩 MMcG)
-
-***
 ### 2026-08
 
-***2026-08-28:*** [how fingerprintable is your browser?](https://glassbox.codecanary.org/) (🎩 IRR)
-
-***2026-08-28:*** new entry in [[neological things]]!: *zeitgeistlet*
-
-***2026-08-28:*** Jodi Dean, “[Large Language Mommies](https://jodi7768.substack.com/p/whos-your-mommy)”
-
-***2026-08-28:*** [Humanity Needs an AI Nonproliferation Treaty](http://archive.today/2026.08.27-115427/https://www.theatlantic.com/ideas/2026/08/ai-nonproliferation-usa-china/688421/) (🎩 JK)
-
-***2026-08-28:*** *AJ+*: [Dolly Parton is HUGE across Africa](https://www.instagram.com/reel/DclsAydt6kd/)
-
-***2026-08-28:*** [Minnesota’s “Truth Council” on ICE’s activities](https://mn.gov/governor/about-gov/councils/truth-council/)
-
-***2026-08-28:*** [Chomsky after Epstein](https://strangematters.coop/noam-chomsky-jeffrey-epstein-campist-foreign-policy/)
-
-***
-
-***2026-08-27:*** [UAE is building anti-drone “cope cages” around oil-storage tanks](https://www.instagram.com/reel/DcXQhaONBTn/)
-
-***2026-08-27:*** [Zuck's AI Manifesto as Redaction Poetry](https://bengrosser.com/projects/zuckerbergs-the-future-is-for-everyone-as-redaction-poetry/)
+***2026-08-27:*** [Zuck's AI Manifesto as Redaction Poetry]([https://bengrosser.com/projects/zuckerbergs-the-future-is-for-everyone-as-redaction-poetry/](https://bengrosser.com/projects/zuckerbergs-the-future-is-for-everyone-as-redaction-poetry/)
 
 ***2026-08-27:*** *TNR* on Bates+: [There’s Nothing Wrong With “Subaru Socialists”](http://archive.today/2026.08.27-115510/https://newrepublic.com/article/214667/subaru-socialist-dsa-history-leftist-leaders-middle-class) (🎩 DD)
 
