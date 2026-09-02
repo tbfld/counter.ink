@@ -25,6 +25,15 @@ yaml_end: true
 <!-- RECENT_POSTS_START -->
 ## 2026
 
+### 2026-09
+
+***2026-09-02:*** [Ian Curtis’s record collection](https://www.cultmanchester.co.uk/post/cult-manchester-exclusive-there-was-some-sadness-attached-to-those-records) (🎩 MMcG)
+
+***2026-09-02:*** [Italy’s Bancaetica on Autistici/Inventati as s “terrorist” organization](https://www.bancaetica.it/area-stampa/autistici-inventati-banca-etica-condanna-uso-improprio-ofac-valutazioni-per-non-chiudere-il-conto/)
+
+***2026-09-02:*** [Radiance Films](https://www.radiancefilms.co.uk/) (UK; 🎩 MMcG)
+
+***
 ### 2026-08
 
 ***2026-08-28:*** [how fingerprintable is your browser?](https://glassbox.codecanary.org/) (🎩 IRR)
