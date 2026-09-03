@@ -24,6 +24,9 @@ yaml_end: true
 #### Recent posts
 <!-- RECENT_POSTS_START -->
 
+> [!note]+ [[2026-09-03-lake-america-doesnt-matter|2026-09-03-lake america doesnt matter]]
+> Offensive? Absolutely. Delusional? Without a doubt. But it won’t kill people.
+
 > [!note]+ [[2026-08-20-adjunctification-aint-all-bad|2026-08-20-adjunctification ain’t all bad]]
 > ostensibly critical coverage of this issue is basically a highbrow version of tradwife rhetoric
 

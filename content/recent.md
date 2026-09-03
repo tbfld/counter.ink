@@ -27,6 +27,22 @@ yaml_end: true
 
 ### 2026-09
 
+> [!note]+ [[2026-09-03-lake-america-doesnt-matter|2026-09-03-lake america doesnt matter]]
+> Offensive? Absolutely. Delusional? Without a doubt. But it won’t kill people.
+
+***2026-09-03:*** [Brian Reffin Smith’s Bayou “Miracle” Predictive Tapestry](https://www.facebook.com/permalink.php?story_fbid=pfbid0funQ196GsNLEgoh5uQMsbPYM9RGfhhbwuYY3PkfSqGieayNF3rDe84TkBhZEgs2al&id=100007534596150)
+
+***2026-09-03:*** Meet Vivmark, [the largest publicly traded landlord in US history](https://www.instagram.com/p/Dci4w4fnLL5/)
+
+***2026-09-03:*** David P Moore’s [1993 doc on the exploding comix scene](https://www.youtube.com/watch?app=desktop&v=JjnHhBd0PTM&ra=m) (🎩 MMcG)
+
+***2026-09-03:*** [Gloria Steinem on being a Playboy bunny](https://undercover.hosting.nyu.edu/files/original/5c9de8d1db51cede1395f6d6fa480ca24e872b76.pdf) (🎩 RP)
+
+***2026-09-03:*** [Bosnia's forgotten war is still with us](https://www.atlanticcouncil.org/content-series/the-big-story/bosnias-forgotten-war-is-still-with-us/)
+***
+
+***2026-09-02:*** [Matt Stoller on the history of the LSAT](www.thebignewsletter.com/p/the-law-school-admissions-racket)
+
 ***2026-09-02:***  Omer Bartov with Arnon Grunberg: [The Stranglehold of Memory](https://www.bostonreview.net/articles/the-stranglehold-of-memory/)
 
 ***2036-09-02:*** [Comcast’s motion-detecting routers]([https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html](https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html)) (🎩 KH)
