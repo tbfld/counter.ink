@@ -27,6 +27,36 @@ yaml_end: true
 
 ### 2026-09
 
+***2026-09-06:*** [Gloria Steinem 1965 Interview with Dorothy Parker](https://dorothyparker.com/2020/10/gloria-steinem-interview.html)
+
+***2026-09-06:*** Stephen Zunes, [On Hillary Clinton, Sexism, and US Foreign Policy](https://fpif.org/hillary-clinton-sexism-u-s-foreign-policy/) (🎩 SZ)
+
+***2026-09-06:*** Adafruit: [dithered QR code generator](https://blog.adafruit.com/2026/08/24/a-dithered-qr-code-generator/)
+
+***2026-09-06:*** [Isometric NYC](https://isometric.nyc/)
+
+***2026-09-06:*** [Judicial Immunity Applies Even If Judge Let AI Decide](https://abovethelaw.com/2026/08/judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case/)
+
+***2026-09-06:*** Tung-Hui Hu, [Grids and Bags: Two Ways to Summarize People](https://www.journals.uchicago.edu/doi/abs/10.1086/742475)
+
+***2026-09-06:*** [Bayeux Tapesty meme generator](https://share.google/b6FJnCWSB8vTU0x2l)  (🎩 MN)
+
+***
+
+***2026-09-04:*** [Brennan Center on Presidential Emergency Action Documents](https://www.brennancenter.org/our-work/research-reports/presidential-emergency-action-documents)
+
+***2026-09-04:*** [The Shadowy Powers that Trump Could Use to End American Democracy](https://www.thenation.com/article/politics/trump-presidential-emergency-action-documents-peads/)
+
+***2026-09-04:*** on Musk: [“Insane a person this chaotic has so much power”](https://www.hollywoodreporter.com/movies/movie-features/elon-musk-alex-gibney-documentary-1236686790/)
+
+***2026-09-04:*** [buffelgrass adobe houses](https://www.youtube.com/watch?v=J0HPM96Iun0) (ft. [Jacques Servin](https://en.wikipedia.org/wiki/Jacques_Servin) of the [Yes Men](https://en.wikipedia.org/wiki/The_Yes_Men))
+
+***2026-09-04:*** Alice Letoulat, [*L’Agent secret*, le goût de l’archive](https://lestempsquirestent.org/fr/numeros/numero-9/l-agent-secret-br-le-gout-de-l-archive)
+
+***2026-09-04:*** Amitava Kumar on Isaac Babel: [As Accurate as a Sliderule, as Natural as the Smell of Fennel](https://amitavakumar.substack.com/p/as-accurate-as-a-sliderule-as-natural)
+
+***
+
 > [!note]+ [[2026-09-03-lake-america-doesnt-matter|2026-09-03-lake america doesnt matter]]
 > Offensive? Absolutely. Delusional? Without a doubt. But it won’t kill people.
 
