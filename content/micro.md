@@ -12,6 +12,8 @@ tags:
 enableToc: false
 yaml_end: true
 ---
+(More recent micro entries have been moved to [[recent]].)
+
 ---
 ***2026-03-31:*** meet [Proton Meet](https://proton.me/business/blog/introducing-proton-meet)
 

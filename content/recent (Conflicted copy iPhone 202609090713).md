@@ -4,13 +4,13 @@ title: current and recent things
 description: exactly what it says on the label
 extract:
 created: 2025-11-03 20:20
-updated: 
+updated:
 author: tb
 images: false
 order: "55"
 enableToc:
 permalink:
-publish: true
+publish: false
 date: 2026-04-15
 tags:
   - directory
@@ -27,75 +27,7 @@ yaml_end: true
 
 ### 2026-09
 
-***2026-09-13:*** [the smallest house ever built on NYC’s Riverside Drive](https://ephemeralnewyork.wordpress.com/2026/09/07/this-tiny-steel-cottage-perched-on-a-rock-pile-is-the-smallest-house-ever-built-on-riverside-drive/)
-
-***2026-09-13:*** [Tante](https://tante.cc/) on AI: [“When this crashes, I want to see apologies”](https://pivot-to-ai.com/2026/08/21/tante-on-ai-when-this-thing-crashes-i-want-to-see-apologies/)
-
-***2026-09-13:*** [GhostTrack: a tool to track location or mobile number](https://github.com/HunxByts/GhostTrack)
-
-***2026-09-13:*** [flowsint: a modular investigation / recon platform focused on OSINT](https://www.flowsint.io/)
-
-***2026-09-13:*** *New Yorker*, 1944: the Bayeux-style [D-Day Invasion of France](https://rockwellcenter.org/essays-illustration/the-tapestry-of-invasion/) (🎩 MN)
-
-***2026-09-13:*** *WSJ*: [Meet the Factions Driving the DSA](https://www.wsj.com/politics/elections/meet-the-factions-driving-the-democratic-socialists-of-america-0c5e74f0)
-
-***2026-09-12:*** Sean Delone, [The Nonfiction Book Market is Collapsing](https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing)
-***
-
-***2026-09-10:*** [E-Prime: English without “to be”](https://en.wikipedia.org/wiki/E-Prime) (🎩 CD)
-***
-
-***2026-09-06:*** [Mike Leigh on the East Ender who brought world cinema to the UK](https://www.theguardian.com/film/2026/sep/01/mike-leigh-contemporary-films-charles-cooper-bfi) (🎩 JH)
-
-***2026-09-06:*** [Gloria Steinem 1965 Interview with Dorothy Parker](https://dorothyparker.com/2020/10/gloria-steinem-interview.html)
-
-***2026-09-06:*** Stephen Zunes, [On Hillary Clinton, Sexism, and US Foreign Policy](https://fpif.org/hillary-clinton-sexism-u-s-foreign-policy/) (🎩 SZ)
-
-***2026-09-06:*** Adafruit: [dithered QR code generator](https://blog.adafruit.com/2026/08/24/a-dithered-qr-code-generator/)
-
-***2026-09-06:*** [Isometric NYC](https://isometric.nyc/)
-
-***2026-09-06:*** [Judicial Immunity Applies Even If Judge Let AI Decide](https://abovethelaw.com/2026/08/judicial-immunity-still-applies-even-if-the-judge-let-ai-decide-the-case/)
-
-***2026-09-06:*** Tung-Hui Hu, [Grids and Bags: Two Ways to Summarize People](https://www.journals.uchicago.edu/doi/abs/10.1086/742475)
-
-***2026-09-06:*** [Bayeux Tapesty meme generator](https://share.google/b6FJnCWSB8vTU0x2l)  (🎩 MN)
-
-***
-
-***2026-09-04:*** [Brennan Center on Presidential Emergency Action Documents](https://www.brennancenter.org/our-work/research-reports/presidential-emergency-action-documents)
-
-***2026-09-04:*** [The Shadowy Powers that Trump Could Use to End American Democracy](https://www.thenation.com/article/politics/trump-presidential-emergency-action-documents-peads/)
-
-***2026-09-04:*** on Musk: [“Insane a person this chaotic has so much power”](https://www.hollywoodreporter.com/movies/movie-features/elon-musk-alex-gibney-documentary-1236686790/)
-
-***2026-09-04:*** [buffelgrass adobe houses](https://www.youtube.com/watch?v=J0HPM96Iun0) (ft. [Jacques Servin](https://en.wikipedia.org/wiki/Jacques_Servin) of the [Yes Men](https://en.wikipedia.org/wiki/The_Yes_Men))
-
-***2026-09-04:*** Alice Letoulat, [*L’Agent secret*, le goût de l’archive](https://lestempsquirestent.org/fr/numeros/numero-9/l-agent-secret-br-le-gout-de-l-archive)
-
-***2026-09-04:*** Amitava Kumar on Isaac Babel: [As Accurate as a Sliderule, as Natural as the Smell of Fennel](https://amitavakumar.substack.com/p/as-accurate-as-a-sliderule-as-natural)
-
-***
-
-> [!note]+ [[2026-09-03-lake-america-doesnt-matter|2026-09-03-lake america doesnt matter]]
-> Offensive? Absolutely. Delusional? Without a doubt. But it won’t kill people.
-
-***2026-09-03:*** [Brian Reffin Smith’s Bayou “Miracle” Predictive Tapestry](https://www.facebook.com/permalink.php?story_fbid=pfbid0funQ196GsNLEgoh5uQMsbPYM9RGfhhbwuYY3PkfSqGieayNF3rDe84TkBhZEgs2al&id=100007534596150)
-
-***2026-09-03:*** Meet Vivmark, [the largest publicly traded landlord in US history](https://www.instagram.com/p/Dci4w4fnLL5/)
-
-***2026-09-03:*** David P Moore’s [1993 doc on the exploding comix scene](https://www.youtube.com/watch?app=desktop&v=JjnHhBd0PTM&ra=m) (🎩 MMcG)
-
-***2026-09-03:*** [Gloria Steinem on being a Playboy bunny](https://undercover.hosting.nyu.edu/files/original/5c9de8d1db51cede1395f6d6fa480ca24e872b76.pdf) (🎩 RP)
-
-***2026-09-03:*** [Bosnia's forgotten war is still with us](https://www.atlanticcouncil.org/content-series/the-big-story/bosnias-forgotten-war-is-still-with-us/)
-***
-
-***2026-09-02:*** [Matt Stoller on the history of the LSAT](www.thebignewsletter.com/p/the-law-school-admissions-racket)
-
-***2026-09-02:***  Omer Bartov with Arnon Grunberg: [The Stranglehold of Memory](https://www.bostonreview.net/articles/the-stranglehold-of-memory/)
-
-***2036-09-02:*** [Comcast’s motion-detecting routers]([https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html](https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html)) (🎩 KH)
+***2036-09-02:*** [Comcast’s motion-detecting routers]([https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html](https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html))
 
 ***2026-09-02:*** [Ian Curtis’s record collection](https://www.cultmanchester.co.uk/post/cult-manchester-exclusive-there-was-some-sadness-attached-to-those-records) (🎩 MMcG)
 

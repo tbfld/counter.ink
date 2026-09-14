@@ -4,13 +4,13 @@ title: current and recent things
 description: exactly what it says on the label
 extract:
 created: 2025-11-03 20:20
-updated: 
+updated:
 author: tb
 images: false
 order: "55"
 enableToc:
 permalink:
-publish: true
+publish: false
 date: 2026-04-15
 tags:
   - directory
