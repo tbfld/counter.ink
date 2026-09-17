@@ -27,6 +27,26 @@ yaml_end: true
 
 ### 2026-09
 
+***2026-09-17:*** [Brian Reffin Smith reviews *Zombie Theory: A Reader*](https://leonardo.info/review/2018/03/review-of-zombie-theory-a-reader) (2018; 🎩 BRS)
+
+***2026-09-17:*** [Welcome to He Sapa. You’re on Stolen Land.](https://wordsaremonuments.org/welcome-to-he-sapa/) (🎩 RG)
+
+***2026-09-17:*** [Bureau International des Containers](https://en.wikipedia.org/wiki/Bureau_International_des_Containers)
+
+***2026-09-17:*** [Bureau des mésarchitectures](https://didierfaustino.com/) (🎩 JH)
+
+***2026-09-17:*** [Divisare](https://divisare.com/): “carefully selected and classified contemporary architecture, image by image, project by project, to create an ideal tool for organizing knowledge”
+
+***
+
+***2026-09-15:*** *WSJ*: [Colleges are accepting people who didn’t apply](olleges are accepting people who didn’t apply)
+
+***2026-09-15:*** [The whole OpenAI/Hugging Face story in plain English](https://www.dwarkesh.com/p/openai-huggingface)
+
+***2026-09-15:*** [The theory of multiple stupidities](https://pubmed.ncbi.nlm.nih.gov/28509117/)
+
+***
+
 ***2026-09-13:*** [the smallest house ever built on NYC’s Riverside Drive](https://ephemeralnewyork.wordpress.com/2026/09/07/this-tiny-steel-cottage-perched-on-a-rock-pile-is-the-smallest-house-ever-built-on-riverside-drive/)
 
 ***2026-09-13:*** [Tante](https://tante.cc/) on AI: [“When this crashes, I want to see apologies”](https://pivot-to-ai.com/2026/08/21/tante-on-ai-when-this-thing-crashes-i-want-to-see-apologies/)
