@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-09
 
+***2026-09-17:*** Scott Aaronson, [The Age of Wonders and Terrors](https://scottaaronson.blog/?p=10062) (🎩 s-t)
+
 ***2026-09-17:*** [Brian Reffin Smith reviews *Zombie Theory: A Reader*](https://leonardo.info/review/2018/03/review-of-zombie-theory-a-reader) (2018; 🎩 BRS)
 
 ***2026-09-17:*** [Welcome to He Sapa. You’re on Stolen Land.](https://wordsaremonuments.org/welcome-to-he-sapa/) (🎩 RG)
