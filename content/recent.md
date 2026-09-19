@@ -27,6 +27,21 @@ yaml_end: true
 
 ### 2026-09
 
+***2026-09-19:*** *Tedium*: [Does One Line Fix Google?](https://tedium.co/2024/05/17/google-web-search-make-default/) (🎩 IRR 👉🏼 [udm14.com](https://udm14.com/))
+
+***2026-09-19:*** Ned Resnikoff in *Dissent*: [The Left Needs Bureaucrats](https://dissentmagazine.org/article/the-left-needs-bureaucrats/)
+
+***
+
+***2026-09-18:*** [Rachel Cabitt’s Art of \[Album] Cover Art ~blog](https://theartofcoverart.substack.com/)
+
+***2026-09-18:*** Peter Max’s [Astrologicalendar]([https://70s-sci-fi-art.ghost.io/the-peter-max-astrologicalendar/](https://www.peculiarmanicule.com/1971-peter-max-calendar/))
+***
+
+***2026-09-17:*** *Grist*: [Indonesian boomtowns powering the world’s EVs](https://grist.org/labor/indonesia-nickel-chinese-workers-energy-transition/) (🎩 RW)
+
+***2026-09-17:*** [AntiFreeze](https://antifreeze.app/): real-time local ICE alerts *web app* ([the author](https://www.dailykos.com/stories/2026/3/20/2374166/community/i-built-an-ice-tracking-app-that-can-t-be-pulled-from-the-app-store-because-it-was-never-in-one/#comment_92890007))
+
 ***2026-09-17:*** Scott Aaronson, [The Age of Wonders and Terrors](https://scottaaronson.blog/?p=10062) (🎩 s-t)
 
 ***2026-09-17:*** [Brian Reffin Smith reviews *Zombie Theory: A Reader*](https://leonardo.info/review/2018/03/review-of-zombie-theory-a-reader) (2018; 🎩 BRS)
