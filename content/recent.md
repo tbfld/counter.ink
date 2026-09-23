@@ -27,6 +27,20 @@ yaml_end: true
 
 ### 2026-09
 
+***2026-09-23:*** [“Moral injury” is a mental health condition](https://hsph.harvard.edu/news/moral-injury-officially-recognized-as-mental-health-condition/) (🎩 CH1)
+
+***2026-09-23:*** [Toadstools and toxins](https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies): on people eating poisonous mushrooms
+
+***2026-09-23:*** *Tablet*: [Moscow’s Man at the United Nations](https://www.tabletmag.com/sections/history/articles/moscow-man-united-nations) (🎩 FC)
+
+***2026-09-23:*** La Monte Young and Marian Zazeela, [“The Well Tuned Piano”](https://youtu.be/up_RtM69unA)
+
+***2026-09-23:*** [Barnes Museum exhibition of Nakashima, Noguchi, and Asawa](https://www.inquirer.com/arts/noguchi-nakashima-asawa-japanese-american-mid-century-modern-barnes-20260922.html?int_promo=newsroom)
+
+***
+
+***2026-09-19:*** [printed IP/ICMP “ping” sent by pigeon per RFC 1149](https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216) (🎩 s-t)
+
 ***2026-09-19:*** *Tedium*: [Does One Line Fix Google?](https://tedium.co/2024/05/17/google-web-search-make-default/) (🎩 IRR 👉🏼 [udm14.com](https://udm14.com/))
 
 ***2026-09-19:*** Ned Resnikoff in *Dissent*: [The Left Needs Bureaucrats](https://dissentmagazine.org/article/the-left-needs-bureaucrats/)
