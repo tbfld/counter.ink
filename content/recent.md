@@ -27,6 +27,18 @@ yaml_end: true
 
 ### 2026-09
 
+***2026-09-23:*** John Judis, [The Death of the Professional-Managerial Class](https://www.compactmag.com/article/the-death-of-the-professional-managerial-class/)
+
+***2026-09-23:*** Colin Ward, *[The Child in the City](https://archive.org/details/childincity00wardrich)* (1979)
+
+***2026-09-23:*** [Fiorucci Made Me Hardcore](https://www.youtube.com/watch?app=desktop&v=-dS2McPYzEE)
+
+***2026-09-23:*** [Leonard Cohen, standup comedian](https://www.nfb.ca/film/ladies_and_gentlemen_mr_leonard_cohen/)
+
+***2026-09-23:*** [FCC commish Brendan Carr, dry-drunk cultist](https://www.rawstory.com/brendan-carr-cult/)
+
+***2026-09-23:*** [Runaway athletics spending threatens us colleges](athletics spending threatens us colleges)
+
 ***2026-09-23:*** [“Moral injury” is a mental health condition](https://hsph.harvard.edu/news/moral-injury-officially-recognized-as-mental-health-condition/) (🎩 CH1)
 
 ***2026-09-23:*** [Toadstools and toxins](https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies): on people eating poisonous mushrooms
