@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-09
 
+***2026-09-23:*** [Epuron commercial](https://www.youtube.com/watch?app=desktop&v=u5WV51pXBh0)
+
+***2026-09-23:*** [an inconvenient cone](https://truckslop.joshu.dev/)
+
+***2026-09-23:*** [“This website renders every single road within a city”](https://anvaka.github.io/city-roads/)
+
 ***2026-09-23:*** John Judis, [The Death of the Professional-Managerial Class](https://www.compactmag.com/article/the-death-of-the-professional-managerial-class/)
 
 ***2026-09-23:*** Colin Ward, *[The Child in the City](https://archive.org/details/childincity00wardrich)* (1979)
