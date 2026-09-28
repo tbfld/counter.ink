@@ -27,6 +27,33 @@ yaml_end: true
 
 ### 2026-09
 
+***2026-09-27:*** [“OMG, This Is So F—ed Up”: SV’s Secretive, Orgiastic Dark Side](https://www.vanityfair.com/news/2018/01/brotopia-silicon-valley-secretive-orgiastic-inner-sanctum)
+
+***
+
+***2026-09-26:*** [Apple’s Copland (June ’96) emulator in a browser](https://www.pagetable.com/300)
+
+***
+
+***2026-09-25:*** [suuuuuper-early panel discussion of Occupy Wall Street](https://youtu.be/pVzGNpVUUPk) (🎩 AD)
+
+***
+
+***2026-09-24:*** [*Born in Flames: The Biz of Arson and Remaking the American City*](https://www.benchansfield.com/born-in-flames)
+
+***2026-09-24:*** [150k tons of radioactive waste in the Atlantic are oozing](https://www.sciencealert.com/150000-tons-of-radioactive-waste-were-dumped-in-the-atlantic-decades-later-its-visibly-oozing) (🎩 JL)
+***
+
+***2026-09-23:*** LRB podcast with Will Davies: [What happened to the intellectual?](https://www.youtube.com/watch?v=fG1RRmjv760&t=2980s)
+
+***2026-09-23:*** Karl Bode, [Feckless Dems Wimp Out on Paramount Merger](https://karlbode.com/feckless-dems-fold-back-off-effort-to-kill-paramount-merger/)
+
+***2026-09-23:*** [“the new science of maps”](https://www.thenewscienceofmaps.com/)
+
+***2026-09-23:*** [*Re/Embodied Data: Ambiguities of Knowing*](https://adocs.de/de/buecher/theorie-praxis-open-accessebooks/reembodied-data)
+
+***2026-09-23:*** [*Computer Genesis*: A Vision of the ’70s](https://www.patreon.com/DrBillGenArtOG/posts/computer-genesis-158800655) (1977 exhibition catalog)
+
 ***2026-09-23:*** [Epuron commercial](https://www.youtube.com/watch?app=desktop&v=u5WV51pXBh0)
 
 ***2026-09-23:*** [an inconvenient cone](https://truckslop.joshu.dev/)
