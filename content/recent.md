@@ -25,7 +25,56 @@ yaml_end: true
 <!-- RECENT_POSTS_START -->
 ## 2026
 
+### 2026-10
+
+***2026-10-06:*** *Onion*: [DNC Releases Preemptive Midterm Autopsy](https://theonion.com/dnc-releases-preemptive-autopsy-into-why-they-lost-midterms/)
+
+***2026-10-06:*** [Cambridge Analytica Scandal Catches Up With Meta in Santa Fe](https://www.techpolicy.press/eight-years-on-cambridge-analytica-scandal-catches-up-with-meta-in-santa-fe/)
+
+***2026-10-06:*** [10 years of e-flux Architecture conf @ Columbia](https://www.arch.columbia.edu/events/4282-celebrating-10-years-of-e-flux-architecture) 
+
+***2026-10-06:*** [Jaromil](https://jaromil.dyne.org/): [How to hack institutions from the inside](https://www.youtube.com/watch?app=desktop&v=yF9yA-V12p8)
+
+***2026-10-06:*** [Pier Paolo Pasolini – Agnes Varda – New York 1967](https://vimeo.com/867613866)
+
+***2026-10-06:*** [“Tom of Finland Foundation Has Lost Its Way”](https://hyperallergic.com/queer-artists-say-tom-of-finland-foundation-has-lost-its-way/)
+
+***2026-10-06:*** [a “new-to-nature” biochemistry](https://www.biorxiv.org/content/10.64898/2026.10.01.756017v1) (🎩 CH1)
+
+***2026-10-06:*** [Amazing *NYT* story on Sedgwick](http://archive.today/3E3sW) (🎩 AM/DC; “pie” vid [here](https://vp.nyt.com/video/2026/10/01/179945_1_02obit-sedgwick-video_wg_720p.mp4))
+
+***2026-10-06:*** Roland Meyer on Bsky: [“Social media is a paranoia machine” thread](https://bsky.app/profile/bildoperationen.bsky.social/post/3mx4aso6ezs2m) (🎩 WC)
+***
+
+***2026-10-05:*** *H&G*: *[Euro heat revealing centuries-old ghost gardens](https://www.houseandgarden.co.uk/article/the-heatwave-is-revealing-centuries-old-ghost-gardens-at-our-favourite-stately-homes)*
+***
+
+***2026-10-02:*** McKenzie Wark, [Lifted AF](https://www.e-flux.com/journal/165/6776919/lifted-af)
+
+***2026-10-02:*** Marcin Wichary, [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+
+***2026-10-02:*** Clara Besson, [The font on Apollo panels was designed for routers](https://irz.fr/en/articles/gorton-pantograph-font-en/)
+
+***2026-10-02:*** Judith Nies, [The Long Swindle](https://orionmagazine.org/article/long-swindle/)
+
+***
+
+***2026-10-01:*** [Stealing Reasoning Traces from Proprietary LLM APIs](https://arxiv.org/abs/2608.09867)
+
+***
 ### 2026-09
+
+***2026-09-29:*** [Russian Origins of the Words “Defeatism” and ""Defeatist”](https://irrussianality.wordpress.com/2026/09/24/the-russian-origins-of-the-words-defeatism-and-defeatist/)
+
+***2026-09-29:***. Mondoweiss, [The Evolution of *NYT* Opinion on Gaza](https://mondoweiss.net/2026/09/the-evolution-of-new-york-times-opinion-on-gaza-from-unconditional-support-to-bounded-criticism/)
+
+***2026-09-29:*** Looks interesting: [Ground News](https://ground.news/)
+
+***2026-09-29:*** Yoshua Bengio, [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating) 
+
+***2026-09-29:*** [“The Chaos,”](https://ncf.idallen.com/english.html) a poem by [Gerard Nolst Trenité](https://en.wikipedia.org/wiki/Gerard_Nolst_Trenit%C3%A9) (🎩 JK)
+
+***
 
 ***2026-09-27:*** [“OMG, This Is So F—ed Up”: SV’s Secretive, Orgiastic Dark Side](https://www.vanityfair.com/news/2018/01/brotopia-silicon-valley-secretive-orgiastic-inner-sanctum)
 
