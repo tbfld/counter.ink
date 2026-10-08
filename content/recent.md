@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-10
 
+***2026-10-07:*** \[2018]: [the rise of thousand-author academic papers](https://www.nature.com/nature-index/news/paper-authorship-goes-hyper)
+
+***2026-10-06:*** Ex OZ PM Rudd: [The Evolution of Chinese Economic Strategy Under Xi Jinping](https://mrkrudd.substack.com/p/the-evolution-of-chinese-economic)
+
 ***2026-10-06:*** *Onion*: [DNC Releases Preemptive Midterm Autopsy](https://theonion.com/dnc-releases-preemptive-autopsy-into-why-they-lost-midterms/)
 
 ***2026-10-06:*** [Cambridge Analytica Scandal Catches Up With Meta in Santa Fe](https://www.techpolicy.press/eight-years-on-cambridge-analytica-scandal-catches-up-with-meta-in-santa-fe/)
