@@ -27,7 +27,52 @@ yaml_end: true
 
 ### 2026-10
 
+***2026-10-19:*** *Foreign Affairs*: [Iran’s Theory of Victory](https://www.foreignaffairs.com/iran/irans-theory-victory)
+
+***2026-10-19:*** *Cornell Sun*: [Open Letter from 200+ Faculty: We Will Too](https://www.cornellsun.com/article/2026/10/guest-room-6ad24bdbdfc7f)
+
+***2026-10-19:*** *Hellgate NYC* on *[Eric Adams pushing data centers](https://hellgatenyc.com/eric-adams-wisconsin-rapids-data-center-investigation/)*
+
+***2026-10-19:*** [30 Foundational AI Papers in 30 Days](https://github.com/Ojhaharsh/30u30)
+
+***2026-10-19:*** [How tf is Getty Images gong bust?!](https://www.reuters.com/business/getty-images-go-private-after-restructuring-deal-2026-10-12/)
+
+***2026-10-19:*** [Flexoki color scheme / theme](https://stephango.com/flexoki)
+
+***2026-10-19:*** [Burma Shave jingles](https://burma-shave.org/jingles/1939/careless) (🎩 JD?)
+
+***2026-10-19:*** NY Historical: [“You Should Be Dancing: New York, 1976+”](https://www.nyhistory.org/exhibitions/you-should-be-dancing-new-york-1976-and-beyond)
+
+***2026-10-19:*** [Israel sees US as “declining” and war as permanent](https://www.middleeastmonitor.com/20261014-israel-now-treats-us-as-declining-power-and-war-as-permanent-condition-says-former-intelligence-chief/)
+
+***2026-10-19:*** [the biz end of a Columbia U “antisemitism” investigation](https://www.columbiaspectator.com/opinion/2026/10/15/when-political-expression-becomes-a-discrimination-case-at-columbia/) (🎩 SB)
+
+***2026-10-18:*** [retired Penn prof arrested for blocking deliveryrobots](https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/)
+
+***2026-10-18:*** [“Governing a world with no promise other than that of its own collapse is shaping up to be more complicated than expected”](https://illwill.com/becoming-alive)
+
+***
+
+***2026-10-19:*** *Current Affairs*: [No Kings. No Demands. What Happened?](https://www.currentaffairs.org/news/no-kings.-no-demands.-what-happened)
+
+***
+
+***2026-10-16:*** [The Lucrative World of Literary Scams](https://www.thedial.world/articles/news/ai-book-scams)
+
+***
+
+***2026-10-13:*** [“relay translation” as a form of literary theft](“relay translation”) (🎩 SB)
+***
+
+***
+
+***2026-10-08:*** [quantum mitochrondria could explain a lot](https://www.biorxiv.org/content/10.64898/2026.09.10.750628v1)
+
+***
+
 ***2026-10-07:*** \[2018]: [the rise of thousand-author academic papers](https://www.nature.com/nature-index/news/paper-authorship-goes-hyper)
+
+***
 
 ***2026-10-06:*** Ex OZ PM Rudd: [The Evolution of Chinese Economic Strategy Under Xi Jinping](https://mrkrudd.substack.com/p/the-evolution-of-chinese-economic)
 
