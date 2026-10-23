@@ -27,6 +27,22 @@ yaml_end: true
 
 ### 2026-10
 
+***2026-10-23:*** [nice to see some experimentation in Latexy paper design](https://arxiv.org/pdf/2609.12303) (🎩 MIS)
+
+***2026-10-23:*** Poly Royal riots (ca. 1990): [student paper](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1046&context=cphistory&utm_id=97758_v0_s00_e0_tv2_a1demo0jsy8lvj), [*LA Times*](https://www.latimes.com/archives/la-xpm-1990-04-29-mn-498-story.html), [Cal Poly](https://www.calpoly.edu/historical-fact/poly-royal-established?utm_id=97758_v0_s00_e0_tv2_a1demo0jsy8lvj) (🎩 FIG)
+
+***2026-10-23:*** Russian disinfo in Israel: [“Write like a 38-year-old Israeli woman”](https://theins.press/en/inv/298619) (🎩 AE)
+
+***2026-10-23:*** [Radio superstation in Maine for sale](https://www.reddit.com/r/shortwave/comments/1x2dpi2/superstation_4_sale/) (also on [FB](https://www.facebook.com/TomasHood.NW7US/posts/pfbid02puWNuan9fj8FKpEk3nh84dDanabEBiYQ4wkQSBSkN7eEU7SfeKRe32rHoQs5vBJNl); 🎩 EA)
+
+***
+
+***2026-10-22:*** NIH: Arthur Ransome, *[On the Form of the Epidemic Wave and Some of Its Probable Causes](https://pmc.ncbi.nlm.nih.gov/articles/PMC5529837/)* (1882!!! 🎩 LC)
+
+***2026-10-22:*** [The Shape of Epidemics](https://www.bostonreview.net/articles/david-shumway-jones-stefan-helmreich-epidemic-waves/) (2020; 🎩 LC)
+
+***
+
 ***2026-10-19:*** *Foreign Affairs*: [Iran’s Theory of Victory](https://www.foreignaffairs.com/iran/irans-theory-victory)
 
 ***2026-10-19:*** *Cornell Sun*: [Open Letter from 200+ Faculty: We Will Too](https://www.cornellsun.com/article/2026/10/guest-room-6ad24bdbdfc7f)
