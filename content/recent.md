@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-10
 
+***2026-10-23:*** [newspaper says it won’t print BS from habitual liar](https://x.com/MCmuckraker/status/2112950541760569834) (🎩 CH2)
+
 ***2026-10-23:*** [nice to see some experimentation in Latexy paper design](https://arxiv.org/pdf/2609.12303) (🎩 MIS)
 
 ***2026-10-23:*** Poly Royal riots (ca. 1990): [student paper](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1046&context=cphistory&utm_id=97758_v0_s00_e0_tv2_a1demo0jsy8lvj), [*LA Times*](https://www.latimes.com/archives/la-xpm-1990-04-29-mn-498-story.html), [Cal Poly](https://www.calpoly.edu/historical-fact/poly-royal-established?utm_id=97758_v0_s00_e0_tv2_a1demo0jsy8lvj) (🎩 FIG)
