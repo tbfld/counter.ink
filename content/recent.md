@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-10
 
+***2026-10-23:*** [Embodied AI stacks blocks, draws mandalas, reinterprets sports](https://arxiv.org/abs/2610.07130) (🎩 AK)
+
+***2026-10-23:*** [“lost internet” Xitter bot has schizo episode](https://www.facebook.com/reel/3003119563381250) (🎩 PSL)
+
 ***2026-10-23:*** [newspaper says it won’t print BS from habitual liar](https://x.com/MCmuckraker/status/2112950541760569834) (🎩 CH2)
 
 ***2026-10-23:*** [nice to see some experimentation in Latexy paper design](https://arxiv.org/pdf/2609.12303) (🎩 MIS)
