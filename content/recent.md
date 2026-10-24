@@ -27,6 +27,24 @@ yaml_end: true
 
 ### 2026-10
 
+***2026-10-24:*** [Commission on Federal Paperwork: Drawings by Carol, 1976–1977](https://nickseaver.net/paperwork/) (🎩 NS)
+
+***2026-10-24:*** *GEEX* vol 2 on [“Sand, Glass, and Practice”](https://geex.glass/category/journal/volume-ii/) (🎩 DG)
+
+***
+
+***2026-10-23:*** [Proton maps Flock](https://proton.me/flock-camera-map) 
+
+***2026-10-23:*** NPR: [Swarmchaser describes hunting down rogue AI bots](https://www.iowapublicradio.org/news-from-npr/2026-10-19/swarmchaser-describes-hunting-down-rogue-ai-bots) (🎩 FS)
+
+***2026-10-23:*** [Marginal-Utility Case for Stealing My Grandmother’s Pain Pills](https://morewrong.lol/?post=marignal-utility-grandmothers-pain-pills)
+
+***2026-10-23:*** [mapped.earth](https://mapped.earth/): [How 1.5 billion acres changed hands](https://mapped.earth/invasion) (🎩 MW)
+
+***2026-10-23:*** [Tiny Little Office suite](https://tinylittleoffice.com/)
+
+***2026-10-23:*** [AI-generated 80YO couple not harassed by protestors](https://barry119.substack.com/p/paris-the-couple-who-never-was-the) 
+
 ***2026-10-23:*** [Embodied AI stacks blocks, draws mandalas, reinterprets sports](https://arxiv.org/abs/2610.07130) (🎩 AK)
 
 ***2026-10-23:*** [“lost internet” Xitter bot has schizo episode](https://www.facebook.com/reel/3003119563381250) (🎩 PSL)
