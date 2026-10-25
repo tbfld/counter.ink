@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-10
 
+***2026-10-25:*** [this design](https://legacy.donotresearch.net/) lost a lot [when they moved to Substack](https://donotresearch.substack.com/)
+
+***
+
+***2026-10-24:*** [Claude-gen worst-case AI scenario](https://x.com/skoorbkaz/status/2113392757548941441) 
+
 ***2026-10-24:*** [Character Assassination and Reputation Conference series ](https://communication.gmu.edu/research-and-centers/carp/carp-conferences)
 
 ***2026-10-24:*** extract from the 1996 net.art gem [I/O/D](https://bak.spc.org/iod/index.html) 3: [limbo.zip](files/limbo.zip) (157kb zip)
