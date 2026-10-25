@@ -27,6 +27,8 @@ yaml_end: true
 
 ### 2026-10
 
+***2026-10-24:*** [Character Assassination and Reputation Conference series ](https://communication.gmu.edu/research-and-centers/carp/carp-conferences)
+
 ***2026-10-24:*** extract from the 1996 net.art gem [I/O/D](https://bak.spc.org/iod/index.html) 3: [limbo.zip](files/limbo.zip) (157kb zip)
 
 ***2026-10-24:*** [Commission on Federal Paperwork: Drawings by Carol, 1976–1977](https://nickseaver.net/paperwork/) (🎩 NS)
