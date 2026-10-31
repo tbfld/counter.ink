@@ -27,6 +27,18 @@ yaml_end: true
 
 ### 2026-10
 
+***2026-10-31:*** [Why building physics killed Brutalism and gave birth to the dishonest facade](https://www.instagram.com/p/DfKVT3dgBJ8/?img_index=1) (🎩 FG)
+
+***
+
+***2026-10-30:*** [Iceland’s Flokinet refuses DHS demand to take down ICE lists](https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/)
+
+***2026-10-30:*** Eyal Weizman on *NAZA*: [Necro-Economics](https://www.lrb.co.uk/the-paper/v48/n20/eyal-weizman/necro-economics)
+
+***2026-10-30:*** [Killswitch: a programming language that LLMs can't use](https://blog.picheta.me/post/killswitch-lang/) (🎩 DM)
+
+***
+
 ***2026-10-25:*** [this design](https://legacy.donotresearch.net/) lost a lot [when they moved to Substack](https://donotresearch.substack.com/)
 
 ***
