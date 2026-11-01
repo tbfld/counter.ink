@@ -107,6 +107,8 @@ yaml_end: true
 
 **“the road to hell is paved with high road”** ([2024-01-24](https://www.facebook.com/tbyfield/posts/pfbid0jPiEVWxjVxBAmupPKDT4zUGfZKi7BkyVUx8YGEqHdSRTRePoziLoLJmcDcbneFUgl)) — not strictly a neologism but useful
 
+**schizopartisan** ([2026-11-01](); Google search with 0 hits [here](2026-11-01_schizopartisan.jpeg)) — a “mavericky” political or media figure more loyal to the moment than to any principle, party, or people
+
 **shocktrope** (n.d.): do as you will with it
 
 **shocktwerps** ([2025-02-02](https://www.facebook.com/tbyfield/posts/pfbid02NWmu8gJwoUBzbaSVbCWikzhmwWiYqC8Lpnw2uwXiwi53Rax9ro97pyXjDcPkeuEml)): DOGE employees

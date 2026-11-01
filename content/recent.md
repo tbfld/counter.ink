@@ -25,6 +25,11 @@ yaml_end: true
 <!-- RECENT_POSTS_START -->
 ## 2026
 
+### 2026-11
+
+***2026-11-01:*** : schizopartisan* ([2026-11-01](); Google search with 0 hits [here](2026-11-01_schizopartisan.jpeg)) — a “mavericky” political or media figure more loyal to the moment than to any principle, party, or people
+
+***
 ### 2026-10
 
 ***2026-10-31:*** [Why building physics killed Brutalism and gave birth to the dishonest facade](https://www.instagram.com/p/DfKVT3dgBJ8/?img_index=1) (🎩 FG)
