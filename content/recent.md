@@ -27,6 +27,10 @@ yaml_end: true
 
 ### 2026-11
 
+***2026-11-02:*** [geolocating vids with doppler background airplane noise](https://www.youtube.com/watch?v=UytYrhYLOKI) (🎩 MIS)
+
+***
+
 ***2026-11-01:*** : schizopartisan* ([2026-11-01](); Google search with 0 hits [here](2026-11-01_schizopartisan.jpeg)) — a “mavericky” political or media figure more loyal to the moment than to any principle, party, or people
 
 ***
