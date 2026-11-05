@@ -27,6 +27,18 @@ yaml_end: true
 
 ### 2026-11
 
+***2026-11-04:*** Maurizio Cattelan was first to do [the hand-heart gesture](https://www.huffpost.com/entry/post_b_6561968)
+
+***2026-11-04:*** Wikipedia: Maurizio Cattelan, [first]() to do [the hand-heart gesture](https://www.huffpost.com/entry/post_b_6561968) (1989)
+
+***2026-11-04:*** [macOS in a terminal](https://github.com/govijr/terminal-mac) and [iOS in a terminal](https://github.com/govijr/terminal-phone)
+
+***2026-11-04:*** [Harold Cruse, the Loneliest Black Radical Intellectual](https://jacobin.com/2026/11/cruse-biography-black-radical-intellectual (🎩 BB)
+
+***2026-11-04:*** [LLMs can natively read & write neural network weights](https://rikiyat.github.io/blog/weight-space-programming/)
+
+***
+
 ***2026-11-02:*** [geolocating vids with doppler background airplane noise](https://www.youtube.com/watch?v=UytYrhYLOKI) (🎩 MIS)
 
 ***
