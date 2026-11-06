@@ -27,6 +27,12 @@ yaml_end: true
 
 ### 2026-11
 
+> [!note]+ [[2026-11-05-a-bill-to-defeat-supreme-court-corruption|2026-11-05-a bill to defeat supreme court corruption]]
+> I spent several months thinking about this and (sorry, all you AI haterz) a little over fifteen minutes with Claude drafting it: a model bill to hobble corruption on the Supreme Court by (1) requiring complete financial disclosure from all SC justices for their full tenure to date plus the five preceding years, and (2) sending any findings that a justice knowingly and willfully refused to comply, or filed materially false or incomplete information, to Congress for possible impeachment. *We can do this!*
+
+***2026-11-05:*** Pluto Press puts [Marx/Engels Collected Works](https://www.marxists.org/archive/marx/works/cw/index.htm) back online (🎩 MW)
+***
+
 ***2026-11-04:*** Maurizio Cattelan was first to do [the hand-heart gesture](https://www.huffpost.com/entry/post_b_6561968)
 
 ***2026-11-04:*** Wikipedia: Maurizio Cattelan, [first]() to do [the hand-heart gesture](https://www.huffpost.com/entry/post_b_6561968) (1989)

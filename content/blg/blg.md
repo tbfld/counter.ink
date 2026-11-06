@@ -250,6 +250,7 @@ When social media came along, it more or less put an end to blogging. It’s got
 	- [[2026-08-19-the-greatest-tv-broadcast-ever|2026-08-19 the greatest tv broadcast ever]]
 	- [[2026-08-20-adjunctification-aint-all-bad|2026-08-20-adjunctification ain’t all bad]]
 	- [[2026-09-03-lake-america-doesnt-matter|2026-09-03-lake america doesnt matter]]
+	- [[2026-11-05-a-bill-to-defeat-supreme-court-corruption|2026-11-05-a bill to defeat supreme court corruption]]
 	- [[2026-0803-velvet-underground-interview-third-ear-1970|2026-08-03-velvet underground interview third ear 1970]]
 	- [[new|NEW!]]
 - **[[old|old]]**
