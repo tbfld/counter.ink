@@ -116,22 +116,3 @@ Congress may require justices to disclose their finances and may state its view 
 **(c) Effective date and application.** This Act takes effect on the date of enactment. Penalties and findings under section 3 apply only to a failure to file, or a false statement or omission, occurring after the date of enactment.
 
 **(d) Severability.** If any provision of this Act, or its application to any person or circumstance, is held invalid, the remainder of the Act, and its application to other persons or circumstances, shall not be affected. In particular, invalidity of section 2(a)(2) as applied to the five years before appointment shall not affect the requirements for the period after appointment.
-
-## Drafting notes
-
-The provisions above avoid "automatic impeachment" because Article I, sections 2, 3 and 5 leave the impeachment trigger, trial, and procedure to the House and Senate. The table lists the open choices and where the constitutional risk sits.
-
-| Choice | Lower-risk option | Higher-risk option |
-| --- | --- | --- |
-| Who reviews filings | Panel of senior circuit judges and retired Justices, with sitting Justices excluded | Executive-branch officer or DOJ |
-| Consequence of a finding | Certified referral to Congress, no effect on tenure | Suspension, recusal, or removal (conflicts with the Good Behavior Clause) |
-| Pre-appointment years | Reporting duty only, penalties for false or missing reports | Penalties tied to pre-enactment conduct (ex post facto and retroactivity arguments) |
-| Intent standard | Knowing and willful, clear and convincing evidence | Strict liability for errors (invites due process challenge) |
-| Scope of "complete" | Existing statutory categories plus defined additions | Open-ended "all financial records" (privacy and overbreadth challenges) |
-| Judicial review | Internal second-panel review on the record (section 4(g)), with no court review | Review in a court of appeals, which puts a lower court over a Justice and invites a challenge that reaches the Court itself |
-
-**Items to verify before circulating:** the dollar thresholds in section 2(c), and whether the Judicial Conference's existing committee structure should replace or support the Panel. Also check existing bill names before choosing a title, since several Supreme Court ethics bills are already pending.
-
-**Relationship to existing rules.** Before circulating, add a short comparison of this bill with the Court's own code of conduct (adopted November 13, 2023, with no enforcement mechanism and no disclosure requirement beyond existing law) and the Judicial Conference's March 2023 change that narrowed the personal hospitality exemption in gift reporting for judges and Justices. State where this bill goes beyond them, and consider adding a finding that describes the gap accurately. These points were checked against secondary sources (a Congressional Research Service summary and the judiciary's March 2023 announcement), so confirm them against the primary documents before circulating.
-
-**Splitting the bill.** If enactment, not messaging, is the goal, consider two bills. A narrow first bill would carry section 2 (the reporting scope, phase-in, security redactions, and public posting). A second bill would carry sections 3 to 5 (the Panel, certification, and referral), which are the more contested parts. The first can attract bipartisan support, and the second can move later or serve as the aspirational text. The "STOP Corruption" title suits a messaging bill but would likely cost votes on a bill meant to pass.
