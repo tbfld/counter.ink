@@ -116,3 +116,7 @@ Congress may require justices to disclose their finances and may state its view 
 **(c) Effective date and application.** This Act takes effect on the date of enactment. Penalties and findings under section 3 apply only to a failure to file, or a false statement or omission, occurring after the date of enactment.
 
 **(d) Severability.** If any provision of this Act, or its application to any person or circumstance, is held invalid, the remainder of the Act, and its application to other persons or circumstances, shall not be affected. In particular, invalidity of section 2(a)(2) as applied to the five years before appointment shall not affect the requirements for the period after appointment.
+
+***
+
+
