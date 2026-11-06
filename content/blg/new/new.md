@@ -22,6 +22,7 @@ RSS: false
 yaml_end: true
 ---
 #### Recent posts
+
 <!-- RECENT_POSTS_START -->
 
 > [!note]+ [[2026-11-05-a-bill-to-defeat-supreme-court-corruption|2026-11-05-a bill to defeat supreme court corruption]]

@@ -20,6 +20,11 @@ status:
 RSS: "true"
 yaml_end: true
 ---
+> *I spent several months thinking about this and (sorry, all you AI haterz) a little over fifteen minutes with Claude drafting it: a model bill to hobble corruption on the Supreme Court by (1) requiring complete financial disclosure from all SC justices for their full tenure to date plus the five preceding years, and (2) sending any findings that a justice knowingly and willfully refused to comply, or filed materially false or incomplete information, to Congress for possible impeachment. We can do this!*
+
+> ***Share and enjoy!***
+
+***
 
 Congress may require justices to disclose their finances and may state its view that knowing falsification is impeachable, but it cannot make impeachment automatic. These sections are drafted around that line.
 
