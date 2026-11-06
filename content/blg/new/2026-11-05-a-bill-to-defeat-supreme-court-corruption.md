@@ -15,7 +15,7 @@ publish: true
 date: 2026-11-05
 tags:
   - governance/law
-  - politics
+  - "#governance/corruption"
 status:
 RSS: "true"
 yaml_end: true
