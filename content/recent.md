@@ -30,7 +30,52 @@ yaml_end: true
 > [!note]+ [[2026-11-05-a-bill-to-defeat-supreme-court-corruption|2026-11-05-a bill to defeat supreme court corruption]]
 > I spent several months thinking about this and (sorry, all you AI haterz) a little over fifteen minutes with Claude drafting it: a model bill to hobble corruption on the Supreme Court by (1) requiring complete financial disclosure from all SC justices for their full tenure to date plus the five preceding years, and (2) sending any findings that a justice knowingly and willfully refused to comply, or filed materially false or incomplete information, to Congress for possible impeachment. *We can do this!*
 
+***2026-11-09:*** [Why Yemen and Oman are so different (YT vid)](https://www.youtube.com/watch?v=ufKqXnzGBm8)
+
+***2026-11-09:*** Paulina Porizkova: [Why I Now Call Myself a Feminist]([https://archive.li/8GBuO](http://archive.today/2026.11.09-102528/https://www.nytimes.com/2026/11/09/opinion/paulina-porizkova-nyt-175.html)) (NYT, depaywalled)
+
+***2026-11-09:*** [Michael Braungart, “Climate neutral, child-neutral, democracy-neutral”)](https://taz.de/Kreislaufwirtschaft/!6216561/) (auf Deutsch; 🎩 FC)
+
+***2026-11-09:*** AlterNet[ Insiders tanked Trump’s plan to overthrow the elections](https://www.alternet.org/trumps-second-attempt-to-overthrow-an-election-was-defeated-from-the-inside/)
+
+***2026-11-09:*** [Dave Imus’s immense hand-drawn maps](https://imusgeographics.com/)
+
+***2026-11-09:*** [Bigger than bombs: Tim Burns’s explosion art](https://theconversation.com/bigger-than-bombs-tim-burns-exhibition-explores-the-artist-behind-explosive-art-actions-294367)
+
+*2026-11-09:*** Said to be better than FlightRadar: [ADS-B Exchange](https://adsbexchange.com/)
+
+***2026-11-09:*** Internet Archive: [Rafi Segal and Eyal Weizman’s 2003 exhibition “A Civilian Occupation: The Politics of Israeli Architecture”](https://archive.org/details/200302_acivilian00rafi/mode/2up)
+
+***2026-11-09:*** Lit Hub: [Why the Broiler Chicken Is the True Symbol of the Anthropocene](https://lithub.com/why-the-broiler-chicken-is-the-true-symbol-of-the-anthropocene/)
+
+***2026-11-09:*** Layer3: [Residential proxies on the White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+
+***2026-11-09:*** [MemPalace: Milla Jovovich’s AI memory system](https://millaj.com/mempalace)
+
+***2026-11-09:*** [Niagara Frontier Radio Reading Service on YouTube](https://www.youtube.com/@niagarafrontierradioreadin2798?app=desktop)
+
+***2026-11-09:*** [Anthropeum — gamifying artifact origins](https://anthropeum.com/)
+
+***2026-11-09:*** *Lit Hub*: [Why can’t human editors identify AI?](https://lithub.com/why-cant-human-editors-identify-ai/)
+
+***
+
+***2026-11-08:*** Kazys Varnelis’s [Software is Lost](https://software.is-lost.org/) indy sw (Mac, Obsidian, Zotero)
+
+***2026-11-08:*** [WAVE FARM / WFMU / ARTxFM conf on experimental radio](https://wavefarm.org/wf/calendar/gphfwc) (🎩 JG)
+
+***
+
+***2026-11-07:*** Useful niche: [book series in order](https://www.bookseriesinorder.com/)
+
+***
+
+***2026-11-06:*** *Sci Am*: [The polar vortex is about to go haywire](https://www.scientificamerican.com/article/the-polar-vortex-is-about-to-go-haywire/)
+
+***
+
 ***2026-11-05:*** Pluto Press puts [Marx/Engels Collected Works](https://www.marxists.org/archive/marx/works/cw/index.htm) back online (🎩 MW)
+
 ***
 
 ***2026-11-04:*** Maurizio Cattelan was first to do [the hand-heart gesture](https://www.huffpost.com/entry/post_b_6561968)
@@ -52,6 +97,7 @@ yaml_end: true
 ***2026-11-01:*** : schizopartisan* ([2026-11-01](); Google search with 0 hits [here](2026-11-01_schizopartisan.jpeg)) — a “mavericky” political or media figure more loyal to the moment than to any principle, party, or people
 
 ***
+
 ### 2026-10
 
 ***2026-10-31:*** [Why building physics killed Brutalism and gave birth to the dishonest facade](https://www.instagram.com/p/DfKVT3dgBJ8/?img_index=1) (🎩 FG)
@@ -151,7 +197,6 @@ yaml_end: true
 ***
 
 ***2026-10-13:*** [“relay translation” as a form of literary theft](“relay translation”) (🎩 SB)
-***
 
 ***
 
@@ -182,9 +227,11 @@ yaml_end: true
 ***2026-10-06:*** [Amazing *NYT* story on Sedgwick](http://archive.today/3E3sW) (🎩 AM/DC; “pie” vid [here](https://vp.nyt.com/video/2026/10/01/179945_1_02obit-sedgwick-video_wg_720p.mp4))
 
 ***2026-10-06:*** Roland Meyer on Bsky: [“Social media is a paranoia machine” thread](https://bsky.app/profile/bildoperationen.bsky.social/post/3mx4aso6ezs2m) (🎩 WC)
+
 ***
 
 ***2026-10-05:*** *H&G*: *[Euro heat revealing centuries-old ghost gardens](https://www.houseandgarden.co.uk/article/the-heatwave-is-revealing-centuries-old-ghost-gardens-at-our-favourite-stately-homes)*
+
 ***
 
 ***2026-10-02:*** McKenzie Wark, [Lifted AF](https://www.e-flux.com/journal/165/6776919/lifted-af)
@@ -200,6 +247,7 @@ yaml_end: true
 ***2026-10-01:*** [Stealing Reasoning Traces from Proprietary LLM APIs](https://arxiv.org/abs/2608.09867)
 
 ***
+
 ### 2026-09
 
 ***2026-09-29:*** [Russian Origins of the Words “Defeatism” and ""Defeatist”](https://irrussianality.wordpress.com/2026/09/24/the-russian-origins-of-the-words-defeatism-and-defeatist/)
@@ -229,6 +277,7 @@ yaml_end: true
 ***2026-09-24:*** [*Born in Flames: The Biz of Arson and Remaking the American City*](https://www.benchansfield.com/born-in-flames)
 
 ***2026-09-24:*** [150k tons of radioactive waste in the Atlantic are oozing](https://www.sciencealert.com/150000-tons-of-radioactive-waste-were-dumped-in-the-atlantic-decades-later-its-visibly-oozing) (🎩 JL)
+
 ***
 
 ***2026-09-23:*** LRB podcast with Will Davies: [What happened to the intellectual?](https://www.youtube.com/watch?v=fG1RRmjv760&t=2980s)
@@ -282,6 +331,7 @@ yaml_end: true
 ***2026-09-18:*** [Rachel Cabitt’s Art of \[Album] Cover Art ~blog](https://theartofcoverart.substack.com/)
 
 ***2026-09-18:*** Peter Max’s [Astrologicalendar]([https://70s-sci-fi-art.ghost.io/the-peter-max-astrologicalendar/](https://www.peculiarmanicule.com/1971-peter-max-calendar/))
+
 ***
 
 ***2026-09-17:*** *Grist*: [Indonesian boomtowns powering the world’s EVs](https://grist.org/labor/indonesia-nickel-chinese-workers-energy-transition/) (🎩 RW)
@@ -323,9 +373,11 @@ yaml_end: true
 ***2026-09-13:*** *WSJ*: [Meet the Factions Driving the DSA](https://www.wsj.com/politics/elections/meet-the-factions-driving-the-democratic-socialists-of-america-0c5e74f0)
 
 ***2026-09-12:*** Sean Delone, [The Nonfiction Book Market is Collapsing](https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing)
+
 ***
 
 ***2026-09-10:*** [E-Prime: English without “to be”](https://en.wikipedia.org/wiki/E-Prime) (🎩 CD)
+
 ***
 
 ***2026-09-06:*** [Mike Leigh on the East Ender who brought world cinema to the UK](https://www.theguardian.com/film/2026/sep/01/mike-leigh-contemporary-films-charles-cooper-bfi) (🎩 JH)
@@ -372,13 +424,14 @@ yaml_end: true
 ***2026-09-03:*** [Gloria Steinem on being a Playboy bunny](https://undercover.hosting.nyu.edu/files/original/5c9de8d1db51cede1395f6d6fa480ca24e872b76.pdf) (🎩 RP)
 
 ***2026-09-03:*** [Bosnia's forgotten war is still with us](https://www.atlanticcouncil.org/content-series/the-big-story/bosnias-forgotten-war-is-still-with-us/)
+
 ***
 
 ***2026-09-02:*** [Matt Stoller on the history of the LSAT](www.thebignewsletter.com/p/the-law-school-admissions-racket)
 
 ***2026-09-02:***  Omer Bartov with Arnon Grunberg: [The Stranglehold of Memory](https://www.bostonreview.net/articles/the-stranglehold-of-memory/)
 
-***2036-09-02:*** [Comcast’s motion-detecting routers]([https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html](https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html)) (🎩 KH)
+***2026-09-02:*** [Comcast’s motion-detecting routers](https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html)) (🎩 KH)
 
 ***2026-09-02:*** [Ian Curtis’s record collection](https://www.cultmanchester.co.uk/post/cult-manchester-exclusive-there-was-some-sadness-attached-to-those-records) (🎩 MMcG)
 
@@ -387,6 +440,7 @@ yaml_end: true
 ***2026-09-02:*** [Radiance Films](https://www.radiancefilms.co.uk/) (UK; 🎩 MMcG)
 
 ***
+
 ### 2026-08
 
 ***2026-08-28:*** [how fingerprintable is your browser?](https://glassbox.codecanary.org/) (🎩 IRR)
@@ -418,6 +472,7 @@ yaml_end: true
 ***2026-08-27:*** [The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/)
 
 ***2026-08-27:*** [US 🤡 names Autistici/Inventati a “Specially Designated Global Terrorist” ](https://www.instagram.com/p/DcgvESnT4uP/)
+
 ***
 
 ***2026-08-25:*** Lina Mounzer, [A Year of War Without End](https://themarkaz.org/a-year-of-war-without-end/)
@@ -425,6 +480,7 @@ yaml_end: true
 ***2026-08-25:*** [Daniel A. Barber’s architectural art](https://danielabarber.net/)
 
 ***2026-08-25:*** Farah Mokhtareizadeh, [Anti-Imperialism and Iran's Political Prisoners](https://farahazadimokh.substack.com/p/who-names-the-world-anti-imperialism)
+
 ***
 
 ***2026-08-24:*** UPDATED: [[2019-07-18-newport-ads]]
@@ -446,6 +502,7 @@ yaml_end: true
 ***2026-08-23:*** *PDR*: [Gottfried Mind, The Raphael of Cats](https://publicdomainreview.org/essay/gottfried-mind-the-raphael-of-cats/) 
 
 ***2026-08-23:*** Insta: [Italian frescoes and painted ceilings as seen from windows](https://www.instagram.com/soffittidallefinestre) (🎩 FiG)
+
 ***
 
 ***2026-08-22:*** [The Fantasists Who Fooled Putin](https://airmail.news/issues/2026-8-22/the-fantasists-who-fooled-putin) (via [archive.today](http://archive.today/2026.08.22-064419/https://airmail.news/issues/2026-8-22/the-fantasists-who-fooled-putin)) (🎩 SH)
@@ -455,6 +512,7 @@ yaml_end: true
 ***2026-08-22:*** David Corn in *MJ* on Natalie Harp: [conspiracy theories need not apply](https://link.motherjones.com/public/47153292)
 
 ***2026-08-22:***  [Laura Kipnis reviews *Against Affect*](https://criticalinquiry.uchicago.edu/laura_kipnis_reviews_against_affect/) (🎩 LK)
+
 ***
 
 ***2026-08-21:*** [Substack Collapse]()
@@ -542,6 +600,7 @@ yaml_end: true
 ***2026-08-06:*** Gil Durán: [“If we don’t fight back, we don’t have a future”](https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley)
 
 ***2026-08-06:*** *M-W*: [words coined in your birth year](https://www.merriam-webster.com/time-traveler/) (pick 5 that match your vibe)
+
 ***
 
 ***2026-08-05:*** Steve Vladeck on the [Alien Terrorist Removal Court](https://www.justsecurity.org/148285/the-alien-terrorist-removal-courts-first-case/)
@@ -595,6 +654,7 @@ yaml_end: true
 ***2026-08-04:*** ‘[Abandonment is the only legal path for people to get clean water](https://www.theguardian.com/us-news/2026/aug/01/hartman-colorado-town-abandoned).’
 
 ***
+
 > [!note]+ [[2026-0803-velvet-underground-interview-third-ear-1970|2026-08-03-velvet underground interview third ear 1970]]
 > Lou: Now that’s a silly question.
 
@@ -607,6 +667,7 @@ yaml_end: true
 ***2026-08-03:*** ex-Israeli negotiator on “[this is unhelpful to two states](https://www.instagram.com/reel/DblOKnrjNAV/)” (🎩 TK)
 
 ***2026-08-03:*** proposal for [a UN “pay-where-you-play” corporate tax](https://taxjustice.net/press/countries-to-gain-500bn-more-tax-a-year-under-un-pay-where-you-play-plan/)
+
 ***
 
 ***2026-08-02:*** [Social media democratised opinion, LLMs will reverse this](https://www.conspicuouscognition.com/p/how-ai-will-reshape-public-opinion) (🎩 TU)
@@ -618,7 +679,6 @@ yaml_end: true
 ***2026-08-01:*** *Tedium*: [Stirrup Stir-Up](https://tedium.co/2022/04/20/great-stirrup-controversy-history/) (2022)
 
 ***
-
 
 ### 2026-07
 
@@ -650,6 +710,7 @@ yaml_end: true
 ***2026-07-28:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — 16 new ones for *the FIFA Mix*
 
 ***2026-07-28:***  [Japanese psychedelic band Les Rallizes Dénudés](https://www.psychedelicbabymag.com/2026/07/les-rallizes-denudes.html)
+
 ***
 
 ***2026-07-27:*** [Cybertruck is the new Edsal](https://www.bloomberg.com/news/features/2026-07-22/tesla-cybertruck-risks-becoming-the-ford-edsel-of-the-ev-era)
@@ -659,6 +720,7 @@ yaml_end: true
 ***
 
 ***2026-07-25:*** Abigail Susik in. *LARB*: [Organizing Pessimism: Breton, necropolitics, and 100 years of surrealism](https://lareviewofbooks.org/article/andre-breton-nadja-magic-art-cavalier-perspective-pessimism/)
+
 ***
 
 ***2026-07-24:*** Plat Asia (architect), [Cloud Tea Room](https://plat.asia/en/index.php/portfolio/cloud-tea-room/)
@@ -682,6 +744,7 @@ yaml_end: true
 ***2026-07-23:*** [Barbara London reviews Rafael Lozano-Hemmer’s *Border Tuner / Sintonizador Fronterizo*](https://brooklynrail.org/2026/06/artseen/venice-biennale/)
 
 ***2026-07-23:*** [The Emmy Awards Are Afraid of This Vulgar, Gory, Brilliant Show](http://archive.today/2026.07.23-124944/https://www.nytimes.com/2026/07/19/opinion/emmys-the-boys-amazon-homelander-snub.html)
+
 ***
 
 ***2026-07-20:*** [“The Great Blogging Collapse”](https://danielstanica.com/posts/Great-Blogging-Collapse) (🎩 IRR)
@@ -703,6 +766,7 @@ yaml_end: true
 ***
 
 ***2026-07-19:*** Hélène Cixous in *Haaretz*: [“I accept Israel's existence but don't identify with it”](http://archive.today/VLuMv)
+
 ***
 
 ***2026-07-18:*** Paulina Borsook on Peter G Neuman: [Pavane for a dead prince](https://www.patreon.com/paulinaborsook/posts/pavane-for-dead-162897941)
@@ -752,7 +816,9 @@ yaml_end: true
 ***2026-07-17:*** Karl Bode: *[Why is Naomi Klein Funding Substack’s Hate Machine?](https://karlbode.com/why-is-naomi-klein-funding-substacks-hate-machine/)*
 
 ***
+
 \[*vacay*]
+
 ***
 
 ***2026-07-02:*** [Claude Code marks requests steganographically](https://thereallo.dev/blog/claude-code-prompt-steganography) (🎩 IRR)
@@ -794,6 +860,7 @@ yaml_end: true
 ***2026-06-28:*** the [World Tension Index](https://worldtensionwatch.com/)
 
 ***2026-06-28:*** Rick Perlstein on [Vance and Watergate](https://www.theguardian.com/commentisfree/2026/jun/28/reagan-jd-vance-nixon-watergate-republicans)
+
 ***
 
 ***2026-06-27:*** [Martha Schwendener](https://www.flusserstudies.net/person/martha-schwendener) in the *Brooklyn Rail* on [Bill Cobbett](https://brooklynrail.org/2016/11/criticspage/william-cobbett/)
@@ -825,6 +892,7 @@ yaml_end: true
 ***2026-06-24:*** phrases-we-need: *groups that subsist entirely on a diet of moral panic*
 
 ***2026-06-24:*** Doug Henwood on Greenspan: [Requiem for the Bubble Master](https://www.thenation.com/article/economy/alan-greenspan-obituary-federal-reserve-neoliberalism-financial-bubbles-deregulation/)
+
 ***
 
 ***2026-06-23:*** Molly Kinder, [The “Messy Middle” (from now to “post-AGI abundance”)](https://mollykinder2.substack.com/p/the-messy-middle)
@@ -924,6 +992,7 @@ yaml_end: true
 ***2026-06-15:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — 26 new ones! the Spirit Air mix
 
 ***2026-06-15:*** Karl Bode on [the media and America's shittiest rich person](https://karlbode.com/the-spacex-ipo-is-a-giant-unworkable-con-orchestrated-by-an-overt-white-supremacist-huckster/)
+
 ***
 
 > [!note]+ [[2026-06-14-latin-american-cybernetic-projects|2026-06-14 Latin American cybernetic projects]]
@@ -954,11 +1023,13 @@ yaml_end: true
 ***2026-06-12:*** NPR from 2012 on [how the GOP strategically misuses “entitlement”](https://www.npr.org/2012/08/14/158756957/with-ryans-ascent-a-few-thoughts-on-entitlement) 
 
 ***2026-06-12:*** Euro diplomatic service “[dysfunctional](http://archive.today/2026.06.12-052835/https://www.ft.com/content/a7278d93-98fc-4fa7-a14c-d0c089b693dd?syn-25a6b1a6=1)” in current climate
+
 ***
 
 ***2026-06-11:*** [Russian Neo-Nazi network pushing “white lives matter” chaos in Britain](https://bylinetimes.com/2026/06/10/revealed-the-russian-neo-nazi-network-pushing-white-lives-matter-division-in-britain-promoted-by-tommy-robinson/)
 
 ***2026-06-11:*** [Why Structural Misogyny Is Structural](https://monastic.org/structural-mysogyny.html) (🎩 JB)
+
 ***
 
 ***2026-06-10:*** [Ultimate Web Scraper](https://chromewebstore.google.com/detail/ultimate-web-scraper/pdeldjlcnhallaapdggcmhpailpnnkmg) (for Chrome)
@@ -994,6 +1065,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-06-06:*** Sacco: “[Data-driven greenlighting rewards the legible past over the speculative future.](http://archive.today/2026.06.04-134435/https://www.economist.com/letters/2026/06/04/are-most-celebrity-book-clubs-irritating)”
 
 ***2026-06-06:*** [cops intervene at American Diabetes Association annual meeting](https://www.medpagetoday.com/special-reports/exclusives/121619) (🎩 PS)
+
 ***
 
 ***2026-06-05:*** Draitser: [Iran Strikes US Military in Kuwait, Major Media Fail](https://www.counterpunch.org/2026/06/05/iran-strikes-us-military-in-kuwait-major-media-fail-to-provide-key-detail/)
@@ -1073,12 +1145,12 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
 ***2026-05-31:*** UPDATED! the [marco-rubio-meme-compilation](https://counter.ink/blg/new/2026-04-14-marco-rubio-meme-compilation) — the Milli–Vanilla mix
 
-
 ***
 
 ***2026-05-29:*** [Find That Meme](https://www.findthatmeme.com/)
 
 ***2026-05-29:*** Eric Draitser, “[How I Learned that DC Never Changes and Almost No One Understands Russia’s War in Ukraine](https://www.counterpunch.org/2026/05/29/gen-strangelove-or-how-i-learned-that-dc-never-changes-and-almost-no-one-understands-russias-war-in-ukraine/)
+
 ***
 
 ***2026-05-24:*** [Osiris, a F/LOSS Real-Time OSINT Dashboard](https://github.com/simplifaisoul/osiris)
@@ -1086,6 +1158,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-24:*** Will Self: “[The Novel Is Dead. This Time It's for Real](https://x.com/wself/status/2057911404041302391)”
 
 ***
+
 ***2026-05-23:*** Bogost, “[AI exposed the wicked problems in higher ed that long predated AI](https://www.theatlantic.com/ideas/2026/05/ai-graduation-speeches-booing/687266/)”
 
 ***2026-05-23:*** piduantan\[dot]com [Science Hub Mutual Aid](https://www.pidantuan.com/)
@@ -1110,21 +1183,25 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-23:*** [U of C IT workers vote to unionize](https://www.bloodinthemachine.com/p/they-just-formed-the-biggest-tech?r=emv7&brid=YWdncwHpFllBj6ZkvV1hWDcKO3AQ&triedRedirect=true) (🎩 RW)
 
 ***2026-05-23:*** [*Inscription: The Journal of Material Text — Theory, Practice, History*](https://inscriptionjournal.com/)
+
 ***
 
 ***2026-05-22:*** [AI and New York City’s Fiscal Future](https://comptroller.nyc.gov/reports/ai-and-new-york-citys-fiscal-future/) seems overly optimistic
 
 ***2026-05-22:*** [John Stezaker’s collages](https://www.richardgraygallery.com/artists/john-stezaker) at [Richard Gray Gallery in Chicago](https://www.richardgraygallery.com/viewing-rooms/john-stezaker#tab-1:slideshow)
+
 ***
 
 ***2026-05-21:*** [rural USPS carriers right-hand-drive delivery vehicles](https://murileemartin.substack.com/p/junkyard-jewel-1999-oldsmobile-eighty)
 
 ***2026-05-21:*** Larry Niven’s [Ringworld but Baltimore](https://www.instagram.com/p/BxvnfyhpGUT/) (by [Fred Scharmen](https://www.morgan.edu/sap/frederick-scharmen))
+
 ***
 
 ***2026-05-20:*** my hero [Peter G. Neumann](http://archive.today/2026.05.19-002341/https://www.nytimes.com/2026/05/17/technology/peter-g-neumann-dead.html) [plays Tom Lehrer’s “Subway Song”](https://www.facebook.com/reel/1330818965816339)
 
 ***2026-05-20:*** [Neglected Books](https://neglectedbooks.com/) on the “[Writers from the Other Europe](https://neglectedbooks.com/?p=7808)” series
+
 ***
 
 ***2026-05-17:*** [Mekons origin story](https://www.thesouthernreporter.co.uk/news/borders-break-in-yielded-big-break-for-punk-rock-veterans-the-mekons-320296)
@@ -1132,6 +1209,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-17:*** [So much for EU digital sovereignty](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735) (🎩 WH)
 
 ***2026-05-17:*** *e-flux* journal #163 (May 2026): [Intellectuals](https://www.e-flux.com/journal/163)
+
 ***
 
 ***2026-05-16:*** meta[-coverage on the Albertan separatist movement](http://archive.today/2026.05.12-100723/https://www.thestar.com/opinion/star-columnists/why-albertas-independence-movement-is-bad-news-even-if--maybe-especially--if-they-lose/article_240e62fb-a398-4908-b67e-79f2d07a58c2.html)
@@ -1152,6 +1230,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-15:*** [Karin Spaink](https://en.wikipedia.org/wiki/Karin_Spaink), a Dutch hero, [RIP](https://www.spaink.net/2026/05/08/exit-spaink/)
 
 ***2026-05-15:*** Shane Reiner-Roth’s [everyverything.net](https://www.everyverything.net/)
+
 ***
 
 ***2026-05-14:*** David Hearts, “[Starmer is toast](https://www.middleeasteye.net/opinion/starmer-toast-stop-farage-now-britains-left-wing-forces-must-unite)” — on how to beat Farage
@@ -1159,6 +1238,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-14:*** [Lost Days at the Chelsea Hotel](https://www.curbed.com/article/patti-smith-robert-mapplethorpe-chelsea-hotel-artists-residents-lost-photos-albert-scopin.html)
 
 ***2026-05-14:*** [Doug Henwood, Ben Tarnoff, and Quinn Slobodian on Musk](https://jacobin.com/2026/05/musk-cyborgs-tech-wokeness-right)
+
 ***
 
 ***2026-05-13:*** [media sovereignty in the UK](https://mediasovereignty.org/?brid=YWdncwFCJ91_6oSajzEEEnhD5q6o)
@@ -1204,6 +1284,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-12:*** [Why Putin needs to end his war](https://www.theguardian.com/world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end)
 
 ***2026-05-12:*** [YOY fashy website traffic](https://therighting.com/traffic-reports/traffic-to-truth-social-soars-45-in-april-while-other-news-websites-decline/)
+
 ***
 
 ***2026-05-11:*** *Wash Post*: [Iran war threatens global food supply](http://archive.today/2026.05.10-074515/https://www.washingtonpost.com/world/2026/05/09/iran-farms-thailand-food/)
@@ -1219,6 +1300,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-11:*** *Le Monde* on the [genocidal rhetoric of Israel’s Channel 14](https://www.lemonde.fr/en/international/article/2026/05/10/there-are-no-innocents-in-gaza-channel-14-the-israeli-television-channel-accused-of-genocidal-rhetoric_6753311_4.html)
 
 ***2026-05-11:*** [this rec for Dem strategy](http://archive.today/2026.05.11-142437/https://www.nytimes.com/2026/05/09/opinion/climate-change-democrats-gas-prices.html) feels like it’s only half the story, if even
+
 ***
 
 ***2026-05-10:*** [Is Parkinsons environmental?](http://archive.today/2026.03.09-021014/https://www.wired.com/story/scientists-thought-parkinsons-was-in-our-genes-it-might-be-in-the-water/) Note the critique of research funding trends.
@@ -1228,6 +1310,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-10:***  the contemptible Megan McArdle on [Marco Rubio memes](https://archive.is/XfIP9)
 
 ***2026-05-10:*** UPDATED! [[2026-04-14-marco-rubio-meme-compilation]]
+
 ***
 
 ***2026-05-09:*** Gitreverse — “[steal any code and make it your own](https://www.gitreverse.com/)”
@@ -1245,6 +1328,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-09:*** Olia, “[Disarming Chekhov’s Gun](https://pad.profolia.org/s/chekhovs_gun)”
 
 ***2026-05-09:*** *Haaretz*: [Inside Israel's ultra-Orthodox Parallel State](https://archive.is/KRBPy#selection-711.1-711.46)
+
 ***
 
 ***2026-05-08:*** the [one-minute Mamdani ad](https://youtu.be/FLKZnVB4F9k) bazillionaires are throwing a tantrum over
@@ -1258,6 +1342,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-08:*** Julian Oliver’s [Science is Poetry AI honeytrap](https://julianoliver.com/projects/science-is-poetry/) (🎩 FS)
 
 ***2026-05-08:*** [Trump admin reinstating Biden-era pre-review of AI models](https://www.platformer.news/trump-administration-doomers-ai/)
+
 ***
 
 ***2026-05-07:*** [one whiny billionaire owns both private copies of the US Constitution](https://www.artnews.com/art-news/news/ken-griffin-constitution-kennedy-center-morning-links-1234783953/)
@@ -1269,7 +1354,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-07:*** [Biodiversity Information Standards (TDWG)](https://www.tdwg.org/)
 
 ***2026-05-07:*** [Incomplete List of LA Libraries, Reading Rooms, & Archives](https://veralistcenter.org/publications/an-incomplete-listing-of-los-angeles-libraries-reading-rooms-and-archives/)
+
 ***
+
 ### 2026-04
 
 ***2026-04-30:*** Letterform Archive, [A Century of French Sign Painters’ Alphabets](https://letterformarchive.org/news/inside-lettres-decoratives/)
@@ -1281,15 +1368,19 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-30:*** NYC Comptroller report on the [pied-à-terre tax](https://comptroller.nyc.gov/reports/the-pied-a-terre-tax-and-its-potential-revenues/)
 
 ***2026-04-30:*** it turns out krakens [were real](https://archive.is/red9D) (🎩 CH1)
+
 ***
+
 ***2026-04-28:*** Christopher Newfield, [Liner Note 52. Fighting for an Interdiscipline: The Humanities' Future](https://utotherescue.blogspot.com/2026/04/liner-note-52-fighting-for.html?spref=fb)
 
 ***2026-04-28:*** “[The Holy See is moving faster than most other legacy institutions to shape rules and guardrails in verifying reality](https://www.axios.com/2026/04/24/catholics-pope-vatican-artificial-intelligence)”
+
 ***
 
 ***2026-04-27:*** gives new meaning to “dry”: [TX’s eighth largest city running out of water](https://nz.news.yahoo.com/climate-scientists-shake-heads-first-181500551.html)
 
 ***2026-04-27:*** Pasquale Pillitteri, [Reverse-SynthID: Google AI's Invisible Watermark Has Been Broken](https://pasqualepillitteri.it/en/news/909/reverse-synthid-broken-google-ai-watermark-spectral-analysis)
+
 ***
 
 ***2026-04-24:*** NYC’s \#2 reckless driver [is an NYPD cop](https://nyc.streetsblog.org/2026/04/23/to-protect-and-swerve-nypd-cop-has-527-speeding-tickets-yet-remains-on-the-force)
@@ -1301,11 +1392,13 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-24:*** [Warehouse fire tracker](https://warehousefire.watch/)
 
 ***2026-04-24:*** [Palastrepublik Ice Age 4](https://igel-muc.de/rssshow.php?guid=20260423) (🎩 NTT)
+
 ***
 
 ***2026-04-23:*** looks like SC Chief Justice Roberts [may be profoundly corrupt](https://cmarmitage.substack.com/p/the-chief-justice-and-his-wife-took)
 
 ***2026-04-23:*** Mozilla: [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/) 
+
 ***
 
 ***2026-04-22:*** Ugh: *[Epstein, Flynn, Thiel, Weev, Poole, Yiannopoulos, Dershowitz](https://bylinetimes.com/2026/04/14/the-neo-nazi-enforcer-who-helped-build-peter-thiels-online-influence-empire/)* (🎩 FC)
@@ -1318,17 +1411,21 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-22:*** [networks of interdisciplinary praxis in post war British art (1950–1970)](https://monoskop.org/images/3/34/Interdisciplinary_Science_Reviews_42_1-2_The_Experimental_Generation_2017.pdf)
 
 ***2026-04-22:*** amazing *Guardian* [Shakespeare rundown](https://www.theguardian.com/stage/ng-interactive/2026/apr/22/every-shakespeare-play-ranked-lear-antony-cleopatra-hamlet)
+
 ***
 
 ***2026-04-18:*** [Gaza map of destruction](https://bearing-witness.com/destruction/) — 81% of the buildings damaged or destroyed
+
 ***
 
 ***2026-04-16:*** [transformer neural net in HyperTalk on a Macintosh SE/30](https://github.com/SeanFDZ/macmind) 
 
 ***2026-04-16:*** Alexander Kustov, “[Academics Need to Wake Up on AI, Part III](https://www.popularbydesign.org/p/academics-need-to-wake-up-on-ai-part-4c6)” 🎩 WH
+
 ***
 
 ***2026-04-15:*** [women photographers of the Bauhaus](https://www.theartnewspaper.com/2026/04/14/berlin-exhibition-focuses-in-on-women-photographers-of-the-bauhaus)
+
 ***
 
 > [!note]+ [[2026-04-14-marco-rubio-meme-compilation|2026-04-14 marco rubio meme compilation]]
@@ -1341,6 +1438,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-13:*** Eyal Weizman, “[All they will find is sand: Gaza’s Yellow Line](https://www.lrb.co.uk/the-paper/v48/n07/eyal-weizman/all-they-will-find-is-sand)”
 
 ***2026-04-13:*** Eyal’s forthcomingh book, [*Ungrounding*](https://www.penguin.co.uk/books/463141/ungrounding-by-weizman-eyal/9781911717331)
+
 ***
 
 ***2026-04-12:*** [CPAC Hungary](https://www.cpachungary.com/en/) 😂
@@ -1348,6 +1446,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-12:*** [PSPB: Period Sites in Period Browsers](https://www.chrisrcook.com/2020/06/09/pspb-period-sites-in-period-browsers/)
 
 ***2026-04-12:*** Angelique Kidjo covers the Talking Heads’ [Remain in Light](https://www.youtube.com/playlist?list=OLAK5uy_mbIYOh0HJq4wi9oYI-SjACbkSJHC_u7Ng)
+
 ***
 
 > [!note]+ [[2026-04-11-what-counts-as-a-concentration-camp|2026-04-11 what counts as a concentration camp]]
@@ -1360,14 +1459,17 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-11:*** UPDATED! [IG > Isotypist](https://www.instagram.com/isotypist/)
 
 ***2026-04-11:*** Evangelicals “[don’t have a theology; they have a dress code.](https://johnsundman.substack.com/p/bryon-noem-new-gods-armageddon-symmetry?utm_campaign=post-expanded-share&utm_medium=web&utm_id=97758_v0_s00_e0_tv0&triedRedirect=true)”
+
 ***
 
 ***2026-04-10:*** actually revolutionary: Mamdani’s [free childcare *all year round*](https://gothamist.com/news/most-of-mamdanis-free-child-care-for-2-year-olds-will-last-all-day-and-through-summer)
 
 ***2026-04-10:*** UPDATED! [[images]]
+
 ***
 
 ***2026-04-09:*** Nils Gilman, “[Electrostates vs. Petrostates](http://archive.today/2026.03.31-102123/https://foreignpolicy.com/2026/03/23/climate-change-world-order-green-transition-fossil-fuel/)” (paint me skeptical)
+
 ***
 
 ***2026-04-08:*** Alejandra Caraballo, “[The Last Bit of Normal](https://www.thedissident.news/the-last/)”
@@ -1391,6 +1493,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-08:*** Makau W. Mutua, “[Is the Age of Human Rights Over?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2668287)” (SSRN)
 
 ***2026-04-08:*** Jacob Geller’s 45-minute video essay [Fantasies of Nuremberg](https://www.youtube.com/watch?v=n9Ay5tzHIBU)
+
 ***
 
 ***2026-04-07:*** MoMA “Information” exhibition, [Jul 2 – Sep 20, 1970](https://www.moma.org/calendar/exhibitions/2686)
@@ -1428,12 +1531,15 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-05:*** [politicians’ stock trades](https://www.capitoltrades.com/)
 
 ***2026-04-05:*** hoof and mouth epidemic in Russia ([RL](https://russianlife.com/the-russia-file/russian-cattle-in-danger/), [Xitter](https://x.com/GrandpaRoy2/status/2037612134989963712), [Threads](https://www.threads.com/@billiebob57/post/DWueOvZiQpD/russia-lying-about-outbreak-of-hoof-and-mouth-disease))
+
 ***
 
 ***2026-04-04:*** “[Two kinds of AI users are emerging](https://martinalderson.com/posts/two-kinds-of-ai-users-are-emerging/)”
+
 ***
 
 ***2026-04-03:*** That saw about centuries, decades, weeks, and history — [who said it?]("There are decades where nothing happens; and there are weeks where decades happen")
+
 ***
 
 ***2026-04-02:*** Rona Lorimer’s “[Letter from Paris: Death of a Fascist](https://brooklynrail.org/2026/03/field-notes/letter-from-paris-death-of-a-fascist/)” feels very old-skool
@@ -1441,6 +1547,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-02:*** Phyllis Hofberg’s FB photo album [GOODNIGHT ⭐️](https://www.facebook.com/media/set/?set=a.10153799324295879&type=3)
 
 ***2026-04-02:*** Karen O’Rourke, “[Maupassant, I told him, is the only passion of my life](https://karenorourke.substack.com/p/maupassant-i-told-him-is-the-only)”
+
 ***
 
 ***2026-04-01:*** [YOLO Linux](https://yololinux.com/)
@@ -1448,7 +1555,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-01:*** *Guardian*: [how a satellite-smashing chain reaction could spiral out of control](https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control)
 
 ***2026-04-01:*** Jennifer Wenzel, “[A year of ‘acting’ presidency](https://www.columbiaspectator.com/opinion/2026/03/28/a-year-of-acting-presidency-what-will-be-the-legacy-of-the-shipman-era/)” at Columbia U
+
 ***
+
 ### 2026-03
 
 ***2026-03-31:*** [Car Seats as Contraception](https://www.journals.uchicago.edu/doi/abs/10.1086/731812)
@@ -1470,16 +1579,19 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-31:*** one of those elusive songs: Sade’s “[Killer Blow](https://youtu.be/-HPmO1lmS6I),” on the *Absolute Beginners* soundtrack
 
 ***2026-03-31:*** AJAM MC, [Demilitarize the Indian Ocean](https://ajammc.com/2026/03/28/demilitarize-the-indian-ocean/) (🎩 CH1)
+
 ***
 
 ***2026-03-29:*** [Comic Strip of the Day (CSotD)](https://www.dailycartoonist.com/index.php/category/csotd/)
 
 ***2026-03-29:*** The elusive SNL [“Bel Airabs” skit](https://www.bitchute.com/video/GAKzeC1XlDfO/)
+
 ***
 
 ***2026-03-28:*** Todd Field’s *Tár* according to [Wolfson](https://web.archive.org/web/20250910193151/https://waste.typepad.com/waste/2023/04/on-lydia-t%C3%A1rs-egot.html), [Millman](https://collider.com/tar-horror-movie/), and [Kearns](https://idyllopuspress.com/idyllopus/film/tar.htm) (all 🎩 MB)
 
 ***2026-03-28:*** [Ben Wolfson reads Philip Larkin](https://web.archive.org/web/20250623101736/waste.typepad.com/waste/2005/11/this_be_close_r.html) (from 2005! — 🎩 MB)
+
 ***
 
 ***2026-03-27:*** [Trump gave Iran a sanctions regime against the US](Trump just helped Iran to impose a sanctions regime on the US.)
@@ -1493,17 +1605,21 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-27:*** Naghmeh Sohrabi, “[The Catastrophe That Has Befallen All of Us](https://www.bostonreview.net/articles/the-catastrophe-that-has-befallen-all-of-us/)” (🎩 JK)
 
 ***2026-03-27:*** [Error 417 Expectation Failed](https://tldr.nettime.org/@Error417), the newsletter
+
 ***
 
 ***2026-03-26:*** Will Davies: the UK’s “[[Labour-Conservative-Liberal Democrat cartel]]”
 
 ***2026-03-25:*** Richard Seymour, “[The illusions of Machtpolitik](https://www.patreon.com/posts/153860247)” (🎩 JG)
+
 ***
 
 ***2026-03-24:*** Pankaj Mishra, “[The Authority of Thought](https://harpers.org/archive/2026/04/the-authority-of-thought-pankaj-mishra/)” (🎩 RW)
+
 ***
 
 ***2026-03-22:*** [RIP Agosto Machado](https://mailchi.mp/b27af82587a3/agosto-machado-in-memoriam)
+
 ***
 
 ***2026-03-20:*** [Bari Weiss shuts down CBS News Radio](https://radioinsight.com/headlines/343855/cbs-news-radio-to-shut-down-in-may/)
@@ -1515,6 +1631,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-20:***  the [vile](https://en.wikipedia.org/wiki/Lis_Smith#2020s) Lis Smith argues “[We Don’t Need More Lawyers in Congress](https://archive.ph/20260320093742/https://www.nytimes.com/2026/03/20/opinion/democrats-midterms-iran-future.html#selection-505.0-505.40)” (*NYT* 🎩 PA)
 
 ***2026-03-20:*** Mack Hagood, [Oral Residue: A Zombie Media Theory Rises Again](https://www.mackhagood.com/oral-residue-a-zombie-media-theory-rises-again/)
+
 ***
 
 ***2026-03-19:***  [Why Some Catholics Want Peter Thiel Burned at the Stake](https://www.themonastery.org/blog/why-some-catholics-want-peter-thiel-burned-at-the-stake)
@@ -1528,6 +1645,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-19:*** [The 49MB web page](https://thatshubham.com/blog/news-audit) (🎩 IRR)
 
 ***2026-03-19:*** Rough Trade’s 50th anniversary: [Essential: Post-punk](https://blog.roughtrade.com/gb/rough-trade-essential-post-punk/)
+
 ***
 
 ***2026-03-18:*** [[neological things]] updated: *rereification* (credit: Eric Hoffsten)
@@ -1540,6 +1658,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-18:*** Fotopoulos on “[Iran, the Western Left, and the ambiguity of allies](https://blog.uvm.edu/aivakhiv-ukrtaz/2026/03/09/fotopoulos-on-iran-the-western-left-the-ambiguity-of-allies/)”
 
 ***2026-03-18:*** [How to shoot a screen using a board of keys](https://unsung.aresluna.org/how-to-shoot-a-screen-using-a-board-of-keys/) (MacOS)
+
 ***
 
 ***2026-03-17:*** still kinda horrifying after 25 years: Jon Haddock’s [isometric historical events](https://whitelead.com/jrh/screenshots/)
@@ -1569,6 +1688,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-17:*** couldn’t see that coming... “[crappy luxury](https://gothamist.com/news/crappy-luxury-inside-nycs-brand-new-apartment-buildings-that-are-falling-apart)”
 
 ***2026-03-17:*** [U+237C ⍼ RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://ionathan.ch/2022/04/09/angzarr.html)
+
 ***
 
 ***2026-03-16:*** Sirantos Fotopoulos: [two ways to disappear a people](https://www.facebook.com/sirantos.fotopoulos/posts/pfbid0zKDUakCjjieoTqmLsB8M2a6sKAMU8DFsf3JUv299vF7JWmog2WeFP2TMPmV7NRABl)
@@ -1580,6 +1700,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-16:*** Hamid Dabashi’s unsentimental take on Euro philosophy: “[ethically bankrupt](https://www.middleeasteye.net/opinion/war-gaza-european-philosophy-ethically-bankrupt-exposed)”
 
 ***2026-03-16:*** Trump insider [thinks Israel May use nukes](https://archive.ph/U7TYJ) (I agree)
+
 ***
 
 ***2026-03-13:*** jigsaw puzzles [invented by a cartographer](https://en.wikipedia.org/wiki/John_Spilsbury_(cartographer)) (and [by a woman earlier](https://en.wikipedia.org/wiki/Jeanne-Marie_Leprince_de_Beaumont), ofc)
@@ -1587,20 +1708,24 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-13:*** [the whole zodiac is off](https://www.scientificamerican.com/article/your-zodiac-sign-is-likely-wrong-heres-how-to-find-the-correct-one/)
 
 ***2026-03-13:*** the [Great Wall of Memes](https://www.greatwallofmemes.com/)
+
 ***
 
 ***2026-03-12:*** [Sycophantic AI decreases prosocial intentions and promotes dependence](decreases prosocial intentions and promotes dependence)
+
 ***
 
 > [!note]+ [[2026-03-11-kessler-syndrome|2026-03-11 kessler syndrome]]
 > actor–network theory is just another name for Rube Goldberg
 
 ***2026-03-11:*** “[I built a spy satellite simulator in a browser](https://www.spatialintelligence.ai/p/i-built-a-spy-satellite-simulator)”
+
 ***
 
 ***2026-03-10:*** support the [Bivens Act](https://www.whitehouse.senate.gov/news/release/whitehouse-johnson-introduce-pair-of-bills-to-hold-federal-law-enforcement-accountable-for-constitutional-violations/#:~:text=Bivens%20Act%20would,Constitutional%20Accountability%20Act) — for starters
 
 ***2026-03-10:*** RIP [Tony Hoare](https://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
+
 ***
 
 > [!note]+ [[2026-03-09-leonard-cohen-mark-rowland-interview-1988|2026-03-09 leonard cohen mark rowland interview 1988]]
@@ -1612,6 +1737,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-09:*** [a tribute to Sylvère Lotringer](https://brooklynrail.org/2022/03/in-memoriam/A-Tribute-to-Sylvre-Lotringer/) (2022, 🎩 MW)
 
 ***2026-03-09:*** “[second hand zero-day](https://archive.ph/20260304113529/https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/#selection-1777.80-1777.101)” is not a phrase we want to see
+
 ***
 
 > [!note]+ [[2026-03-07-russian-techno-aesethetic-manifesto-of-the-day|2026-03-07 Russian techno-aesethetic manifesto of the day]]
@@ -1622,9 +1748,11 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-07:*** Claude solved a graph theory problem so [Knuth rethinks AI](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf) (🎩 DM)
 
 ***2026-03-07:*** the new Swiss non-exploitative LLM, [Apertus](https://www.swiss-ai.org/apertus) (🎩 DM)
+
 ***
 
 ***2026-03-06:*** Ervand Abrahamian, “[Iran Under Fire](https://newleftreview.org/issues/ii157/articles/ervand-abrahamian-iran-under-fire)”
+
 ***
 
 ***2026-03-03:*** Apple’s Pages UI 2009–2026 [just gets worse and worse](https://pxlnv.com/blog/window-chrome-of-our-discontent)
@@ -1636,6 +1764,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-02:*** [The Man in Seat 61](https://www.seat61.com/) is said to be an A+ source for train travel
 
 ***2026-03-02:*** "[forensic dystopianism](https://tldr.nettime.org/@tb/116161479355640524)"
+
 ***
 
 ***2026-03-01:*** [In edus, AI isn’t the real threat. It’s just the mirror](https://kylesaunders.substack.com/p/why-higher-educations-ai-backlash)
@@ -1643,10 +1772,13 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-03-01:*** [Russian vs Ukrainian army modernization](https://www.thebulwark.com/p/i-commanded-u-s-army-europe-heres-what-i-saw-in-the-russian-and-ukrainian-armies)
 
 ***2026-03-01:*** [the parlance of hyper-online misanthropes](https://www.gq.com/story/inside-the-psl-scale-the-looksmaxxer-rating-system)
+
 ***
+
 ### 2026-02
 
 ***2026-02-25:*** [the 80% bill](https://the80percentbill.com/bill/)
+
 ***
 
 ***2026-02-24:*** NBER working paper, “[Building Pro-Worker Artificial Intelligence](https://www.nber.org/papers/w34854)” (🎩 TU)
@@ -1656,7 +1788,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-02-24:*** Varvara Nedeoglo’s “[La petite mort des filles russes en terre libre](https://lestempsquirestent.org/fr/numeros/numero-8/omme-aux-yeux-de-poisson)” in *TQR*
 
 ***2026-02-24:*** [x86 CPU made in CSS](https://lyra.horse/x86css/) (🎩 IRR)
+
 ***
+
 ***2026-02-23:*** *Byte* magazine [visual archive](https://byte.tsundoku.io/) (🎩 KH)
 
 > [!note]+ [[2026-02-23-the-worst-pandering-to-the-worse|2026-02-23 the worst pandering to the worse]]
@@ -1689,9 +1823,11 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-02-22:*** Letters to the *Grauniad* about [men shoving women](https://www.theguardian.com/society/2026/feb/20/theres-an-epidemic-of-men-pushing-women-and-it-needs-to-stop)
 
 ***2026-02-22:*** [Rodney Graham’s inverted portraits of trees](https://observer.co.uk/culture/photography/article/the-grid-rodney-grahams-inverted-trees)
+
 ***
 
 ***2026-02-21:*** [How the *LA Review of Books* destroyed itself](https://nobaddaysinla.substack.com/p/how-the-la-review-of-books-destroyed)
+
 ***
 
 > [!note]+ [[2026-02-20two-thoughts-on-ethics|2026-02-20 two thoughts on ethics]]
@@ -1700,6 +1836,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-02-20:*** [Institute for the Study of War’s Russian Offensive Campaign Assessment](https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-february-19-2026/)
 
 ***2026-02-20:*** Toney Karon asks [if a proper World Cup is even possible in the US in 2026](https://tonykaron.substack.com/p/is-it-possible-to-hold-a-proper-world)
+
 ***
 
 ***2026-02-19:*** Marcin Wichary blog on [software craft and quality](https://unsung.aresluna.org/)
@@ -1710,12 +1847,15 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-02-19:*** [Epstein Helper](https://github.com/artmedlar/epstein-files-analyzer/tree/main)
 
 ***2026-02-19:*** Mamdani unpolicing advisor [Alex Vitale](https://en.wikipedia.org/wiki/Alex_S._Vitale)’s [review](https://link.springer.com/epdf/10.1007/s10612-026-09876-1?sharing_token=CnF5cuKuk9E5oQ6IuP5Dhfe4RwlQNchNByi7wbcMAY5r8QvNIOWgDKnRDAUKDfkHCFkKqIkMhEXThHzMQdMVh-g6vNm2kJ3eXoMMYTK7PCiOIUafnty9pHGwdV7up96D6-bFwnckAdmEwW0sLvqKOFKQsfvhiiMsnQgzvTO-wb4%3D) of [David Garland’s Law and Order Leviathan](https://press.princeton.edu/books/hardcover/9780691271194/law-and-order-leviathan)
+
 ***
 
 ***2026-02-18:*** Paul Krugman: “[Now Trumpists Are Menacing Economists](https://youtu.be/lzZdxmSmBaM)”
+
 ***
 
 ***2026-02-16:*** worth reading: [defunding is what’s ‘really’ killing the humanities](https://utotherescue.blogspot.com/2026/02/liner-note-47-did-atlantics-anti-woke.html) (🎩 EW)
+
 ***
 
 > [!note]+ [[2026-02-15-when-does-policy-become-conspiracy|2026-02-15-when does policy become conspiracy]]
@@ -1724,11 +1864,13 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***
 
 ***2026-02-13:*** a miners / Sandinista football jersey [mystery](https://www.claptoncfc.co.uk/2026/02/07/searching-for-more-information-on-donated-sandinista-num-shirt/) 🎩SS)
+
 ***
 
 ***2026-02-12:*** [Will Manidis](https://x.com/willmanidis/status/2021655191901155534) takes down Schumer’s “something big”
 
 ***2026-02-12:*** [Gary Marcus](https://garymarcus.substack.com/p/about-that-matt-shumer-post-that) takes down Schumer’s “something big”
+
 ***
 
 ***2026-02-11:*** RIP *Byte* mag illustrator [Robert Tinney](https://arstechnica.com/gadgets/2026/02/byte-magazine-artist-robert-tinney-who-illustrated-the-birth-of-pcs-dies-at-78/)
@@ -1738,7 +1880,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-02-11:*** [How liminalism became our defining aesthetic](https://hyperallergic.com/how-liminalism-became-the-defining-aesthetic-of-our-time/)
 
 ***2026-02-11:*** updated! [[images]]
+
 ***
+
 ***2026-02-10:*** [Lit Crit in the Age of AI](https://newleftreview.org/issues/ii155/articles/nan-da-literary-criticism-in-the-age-of-ai) (🎩BB)
 
 ***2026-02-10:*** “[most of us barely noticed there was also a sports event](https://www.meditationsinanemergency.com/auspicious-omens-and-excellent-insubordination/)” (🎩RW)
@@ -1750,7 +1894,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-02-10:*** Dominic Pettman [on the first lady and historian of the robocene](https://publicdomainreview.org/essay/some-remarks-on-the-legacy-of-madame-francine-descartes/)
 
 ***2026-02-10:*** “[How Close did we Come to Teaching Jeffrey Epstein?](https://tonykaron.substack.com/p/how-close-did-we-come-to-teaching)”
+
 ***
+
 ***2026-02-09:*** RFK Jr’s [heroin voice](https://crookedtimber.org/2026/01/24/a-very-short-post-about-heroin-voice/)
 
 ***2026-02-09:*** Jim Biglan, [artist](https://www.jim-biglan.website/) (🎩 CH1)
@@ -1759,22 +1905,31 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 > me on the NYT on ICE in Idaho
 
 ***2026-02-09:***  👉🏼 [The Journey and Return of Elizabeth Fisher](https://newohioreview.org/2025/10/23/essay-the-journey-and-return-of-elizabeth-fisher/) (🎩 [JP](https://www.facebook.com/julie.phillips.7902/posts/pfbid0xRmUzrXvtZK5fnVRLmeG8SHdfCQPKXXQnxkwUcoRRbPQbMc5W1t5MjFJZPWnnGKZl))
+
 ***
+
 ***2026-02-08:*** “[trauma-ridden vessels who least resist inhuman economic forces](https://www.asomo.co/p/the-green-room-epstein-elite-loneliness)”
 
 ***2026-02-08:*** “[the most overwrought AI legal filings you will ever gaze upon](https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/)”
+
 ***
+
 ***2026-02-07:*** [Epstein / Kubrick/ Led Zeppelin / Baldessari](https://www.justice.gov/epstein/files/DataSet%203/EFTA00004012.pdf)
 
 ***2026-02-07:***  [Why your university has so many administrators](https://archive.ph/az57z#selection-2811.0-2811.46)
+
 ***
+
 ***2026-02-06:*** Marco Rubio was [the acting archivist of the United States](https://www.reuters.com/world/us/marco-rubio-steps-down-acting-head-us-national-archives-2026-02-05/)?!
+
 ***
+
 ***2026-02-05:*** Joohn Choe’s predictions for [how the next election will unfold](https://www.facebook.com/choejoohn/posts/pfbid02LGbyE6YJTfikVXhDboVE6FYuhz3eCN22FGwDHcXE7cEGpTNw2d9HA8CPzoy6LGsPl)
 
 ***2026-02-05:*** [Turkish m-reduplication](https://x.com/nxd1979/status/2018659987976040813)
 
 ***2026-02-05:*** [anti-phonetic alphabet](https://www.panix.com/~vr/alphabet.html) ca. 2000 (🎩 ST)
+
 ***
 
 ***2026-02-04:*** [The Moral Stupefaction of the American Public](https://www.bostonreview.net/articles/the-moral-stupefaction-of-the-american-public/) (🎩DL)
@@ -1796,7 +1951,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-02-02:*** ABC — Australian one — [on the neoliberal Atlas Network](https://www.abc.net.au/news/2026-01-26/atlas-network-mont-pelerin-society-neoliberal-think-tanks/105700628)
 
 ***2026-02-02:*** [the missing chapter](https://alvyray.com/DigitalLight/default.htm#Supplemental) from Alvy Ray Smith’s *The Pixel*
+
 ***
+
 ### 2026-01
 
 ***2026-01-28:*** *The Intercept*’s [guide to ICE patches](https://theintercept.com/2026/01/28/ice-cbp-patches-guide-to-identifying-immigration-agents/)
@@ -1804,7 +1961,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-01-28:*** older men who watch construction, gives unsolicited advice: [*umarell*](https://en.wikipedia.org/wiki/Umarell)
 
 ***2026-01-28:*** [Linux running in a PDF](https://github.com/ading2210/linuxpdf)
+
 ***
+
 ***2026-01-27:*** a [very smart approach](https://www.choate.edu/ai/gen) to AI in education
 
 > [!note]+ [[2026-01-27-how-to-punish-ice|2026-01-27-how to punish ice]]
@@ -1819,12 +1978,14 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 > me on Robin on Hall on etc
 
 ***
+
 ***2026-01-26:*** [Ruminations on that DHS Penguin Tweet](https://youtu.be/c7WqVx9x89s)
 
 > [!note]+ [[2026-01-26-postmature-antifascists|2026-01-26 postmature antifascists]]
 > we’re “on the brink” means it hasn’t “really” happened yet — but it has
 
 ***
+
 ***2026-01-24:*** Bellingcat’s [online forensic toolkit](https://bellingcat.gitbook.io/toolkit)
 
 ***2026-01-24:*** *Chronicle of Higher Ed* [reviews](http://archive.today/2026.01.22-192641/https://www.chronicle.com/article/higher-eds-future-is-managed-decline) new Bryan Alexander book [*Peak Higher Ed*](https://www.press.jhu.edu/books/title/53967/peak-higher-ed)
@@ -1835,6 +1996,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 > learning from aviation accidents
 
 ***
+
 ***2026-01-23:*** [best indy / community radio stations in the US](https://www.ldial.org/)
 
 ***2026-01-23:*** [poli-sci syllabus sourced from random internet posts](https://bsky.app/profile/mosheroperandi.bsky.social/post/3ltsooofgnk2k)
@@ -1842,16 +2004,21 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-01-23:*** AI bots [are incompatible with democracy](https://garymarcus.substack.com/p/ai-bot-swarms-threaten-to-undermine)
 
 ***2026-01-23:*** satisfying lost-and-found story of [a Harry Bertoia sculpture](https://www.smithsonianmag.com/smart-news/forgotten-for-decades-in-a-dusty-mall-basement-a-long-lost-harry-bertoia-sculpture-is-back-on-display-180987968/)
+
 ***
+
 ***2026-01-22:*** F/LOSS CLI tool for “optimizing” Macs (incl. TouchID for sudo!): [mole](https://github.com/tw93/Mole)
 
 ***
+
 ***2026-01-21:*** “[the real reasons new yorkers’ groceries cost so much](https://www.vitalcitynyc.org/articles/nyc-grocery-cost-explained)” (🎩JK)
 
 ***2026-01-21:*** Redditor says [MMS patch brought Verizon down](https://www.reddit.com/r/verizon/comments/1qdsc0g/i_think_i_found_what_caused_yesterdays_outage/) (🎩IRR)
 
 ***2026-01-21:*** End of an era: [Gmail dropping POP3 support](https://support.google.com/mail/answer/16604719) (🎩IRR)
+
 ***
+
 ***2026-01-20:*** [sage, nomad, demon — just not an assistant](https://x.com/aiamblichus/status/2013379529771790553) (🎩RL)
 
 ***2026-01-20:*** # [ASCII characters are not pixels](https://alexharri.com/blog/ascii-rendering)
@@ -1860,6 +2027,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 > history, humor, science, law — this one's got it all
 
 ***
+
 ***2026-01-19:*** [Scavenged Luxury](https://scavengedluxury.tumblr.com/) on Tumblr (🎩TM)
 
 ***2026-01-19:*** [same actress, same play for forty years](https://www.thetimes.com/us/news-today/article/perfect-crime-off-broadway-catherine-russell-w5wckfkkb)
@@ -1870,31 +2038,40 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 > not working out too well for Trump & Co
 
 ***
+
 ***2026-01-18:*** interview with the [graffiti artist Sluto](https://www.bombingscience.com/sluto-interview/)
 
 ***2026-01-18:*** David French on [the normative vs prerogative states](http://archive.today/GcR4e)
+
 ***
+
 > [!note]+ [[2026-01-16-lowering-the-bar-in-FL-etc|2026-01-16-lowering the bar in FL etc]]
 > FL SC says FU to ABA over JD EDU
 
 ***
+
 ***2026-01-14:*** “[Why I Will Not Cast My Electoral Vote for Donald Trump](https://www.nytimes.com/2016/12/05/opinion/why-i-will-not-cast-my-electoral-vote-for-donald-trump.html)”
 
 ***2026-01-14:*** [The China Syndrome and American decline](https://www.patreon.com/posts/148151858)
+
 ***
 
 ***2026-01-13:*** [Times Square FB group](https://www.facebook.com/groups/347911852086113/)
+
 ***
 
 ***2026-01-11:*** gently brutal [NYRB review](https://archive.is/9PZRV) of Douthat’s doorstop
+
 ***
 
 ***2026-01-10:*** historian of Venezuela [AMA on FB](https://www.facebook.com/george.ciccariellomaher/posts/pfbid0sST8oe6WhWNioeedxRr4eATtoBkDwPYDG7adqUVy2VBbXMuWNzeP83cznR4CJCoPl)
 
 ***2026-01-10:*** [automating medieval manuscript transcription](https://www.inria.fr/en/comma-medieval-manuscripts-transcribed)
+
 ***
 
 ***2026-01-09:*** VZ: [The cash waterfall is upstream of sovereignty itself](https://substack.com/home/post/p-183664310)
+
 ***
 
 ***2026-01-08:*** neatocal for [planning an entire year](https://abetusk.github.io/neatocal/)
@@ -1905,6 +2082,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 > WTFJHT, DJT, PE, and RE
 
 ***
+
 ## 2025
 
 ### 2025-12
@@ -1913,36 +2091,46 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 > not obeying is not enough
 
 ***
+
 > [!note]+ [[2025-12-29-on-chomsky-and-epstein|2025-12-29 on chomsky and epstein]]
 > a short Q&A on two men
 
 ***
+
 ***2025-12-23:*** [RAM price skyockets thanks to OpenAI](https://www.mooreslawisdead.com/post/sam-altman-s-dirty-dram-deal)
 
 ***
+
 ***2025-12-16:*** Jaro on [Longfellow-ZK](https://news.dyne.org/the-birth-of-zkcc/)
 
 ***
+
 ***2025-12-15:*** private equity is [setting rural America on fire](https://archive.ph/uwa49)
 
 ***
+
 ***2025-12-10:*** [AAUP on AI](https://www.aaup.org/reports-publications/aaup-policies-reports/topical-reports/artificial-intelligence-and-academic)
 
 ***
+
 ***2025-12-07:*** [Cyber Ciani](https://miai.musif.eu/cyber-ciani/)
 
 ***
+
 ***2025-12-03:*** [Dictionary of Non-notable Artists](https://0x0a.li/en/text/dictionary-of-non-notable-artists/)
 
 ***
+
 ***2025-12-01:*** [the best font ever](https://www.fontspace.com/pramo-font-f4878)
 
 ***
+
 ### 2025-11
 
 ***2025-11-29:*** [Poor Theory](https://uchri.org/foundry/poor-theory/) (🎩 SXW)
 
 ***
+
 ***2025-11-26:*** Hyman Rickover’s [rules for govt management](https://www.nr-ha.org/books-sources/management-magazine-rickover-on-management)
 
 ***2025-11-26:*** how’d I miss [a walking city block](https://bldgblog.com/2025/07/architectural-dressage/)?
@@ -1950,32 +2138,41 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-11-26:*** *epic* list of [journal RSS feeds](https://gist.github.com/hubgit/5453202) on Github
 
 ***
+
 ***2025-11-23:*** [framework for combining geospatial resources](https://allmaps.org/iiif-partnership)
 
 ***
+
 ***2025-11-22:*** Github > [allaboutrss](https://github.com/AboutRSS/ALL-about-RSS)
 
 ***
+
 ***2025-11-20:*** a much-needed homage to [Martha Wilson](https://artifacts.movie/martha-wilson/)
 
 ***
+
 ***2025-11-18:*** Seemingly legit tool for [sandboxing attachments](https://dangerzone.rocks/about/)
 
 ***
+
 ***2025-11-14:*** [first AI-orchestrated cyber espionage](https://www.anthropic.com/news/disrupting-AI-espionage)
 
 ***
+
 ***2025-11-09:*** # [The Rise of Parasitic AI](https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai)
 
 ***
+
 ***2025-11-08:*** [Sam Altman’s pants are totally on fire](https://garymarcus.substack.com/p/sam-altmans-pants-are-totally-on)
 
 ***
+
 ***2025-11-07:*** [Wordle in 1973](https://troypress.com/1973-implementation-of-wordle-was-published-by-dec/)
 
 ***2025-11-07:*** [oldversion.com](http://www.oldversion.com/)
 
 ***
+
 ***2025-11-06:*** [Altman’s Long Goodbye movie poster](https://filmartgallery.com/products/the-long-goodbye-15)
 
 ***2025-11-06:*** [news.kagi.com](https://news.kagi.com/)
@@ -1985,11 +2182,13 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-11-06:*** [visual/video search engine for Reddit](https://infini.wtf/)
 
 ***
+
 ***2025-11-03:*** [Tony Karon’s blog](https://tonykaron.com/)
 
 ***2025-11-03:*** [Chi-town saying no to predatory stadium financing](https://www.fieldofschemes.com/2025/11/03/23308/sportswriters-alarmed-as-bears-again-do-not-get-1b-in-tax-money-toward-new-stadium/)
 
 ***
+
 ### 2025-10
 
 ***2025-10-31:*** [Cop Sculpture](1993–94 > Cop Sculpture) is on [IG](https://www.instagram.com/cop.sculpture/)
@@ -1999,14 +2198,15 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-10-31:*** “[Human Only Public License](https://vanderessen.com/posts/hopl/)” (🎩 US)
 
 ***
-***
+
 ***2025-10-10:*** [Bill Ayers on “sewer socialism” and free buses](https://www.dopemag.org/articles-1/free-buses-prr67) (🎩 JB)
 
 ***
-***
+
 ***2025-10-06:*** Dollar General Carl Schmitt, Curtis Yarvin, has “[think realistically about how to flee the country](https://www.thenerdreich.com/panicked-curtis-yarvin-jd-vance-guru-plans-to-flee-usa/)”
 
 ***
+
 ### 2025-09
 
 ***2025-09-26:*** [Complete History of the Soviet Union, Arranged to the Melody of Tetris](https://youtu.be/hWTFG3J1CP8)
@@ -2016,6 +2216,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-09-26:*** “[raw, unfiltered takes from everyday people on the topics that matter most](https://inauf.co/)”
 
 ***
+
 ***2025-09-25:*** *Jacobin* as [“the politics of demoralization in service of the Dem Party”](https://www.wsws.org/en/articles/2025/09/25/qbcd-s25.html)
 
 ***2025-09-25:*** *Teen Vogue* on [rapture ideology](https://www.teenvogue.com/story/the-rapture-didnt-come-tiktok)
@@ -2023,13 +2224,15 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-09-25:*** a pretty sharp [AI video about MAGA](https://youtu.be/nD_25aSMSFc)
 
 ***
-***
+
 ***2025-09-15:*** [kitsch is central to MAGA](https://cybelecanterel.substack.com/p/lost-in-the-kingdom-of-kitsch) (🎩 AO)
 
 ***
+
 ***2025-09-14:*** bsky thread on [climate disruption narratives](https://bsky.app/profile/mliebreich.bsky.social/post/3lysob7e3322a)
 
 ***
+
 ***2025-09-12:*** [chopstick sleeve exhibition](https://letterformarchive.org/news/this-just-in-chopstick-sleeves-as-emissaries-of-japanese-typography-and-culture/)
 
 ***2025-09-12:*** [Kirk was killed by a meme](https://www.garbageday.email/p/charlie-kirk-was-killed-by-a-meme)
@@ -2037,27 +2240,35 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-09-12:*** FARK [bans misogyny](https://m.fark.com/comments/8378910?)
 
 ***
+
 ***2025-09-06:*** [“Nothing comes without its world”](https://brooklynrail.org/2017/12/art/DONNA-HARAWAY-with-Thyrza-Nichols-Goodeve/) (🎩 CS)
 
 ***
+
 ***2025-09-05:*** Counterfacto, a tool for analyzing Xitter search results [“to highlight counterfactual statements on certain topics”](https://github.com/Commonfare-net/counterfacto)
 
 ***
+
 ***2025-09-03:*** Western Cell Division, [“Opening Gaps and Filling Them Up...WESTERN CELL DIVISION and You”](https://archive.org/details/western_cell_division_and_you/) (Baltimore, MD: Dialectical Immaterialism Press, 1987)
 
 ***
+
 ### 2025-08
 
 ***
+
 ***2025-08-13:*** David Dayen sheds more light on the fund-raising machines that dominate the Democratic Party — [this time in California](https://prospect.org/politics/2025-08-13-establishment-struggles-control-california-governors-race/)
 
 ***
+
 ***2025-08-11:*** a great [Michael Tomasky column](https://newrepublic.com/article/198965/donald-trump-putin-europe-ukraine) on Trump, Putin, UA, and UE
 
 ***
+
 ***2025-08-10:*** Charlie Stross thread on a [proposed interstellar travel design](https://wandering.shop/@cstross/114993194582954593) (🎩 KD)
 
 ***
+
 ***2025-08-08:*** Al-Jazeera on Trump’s “[fascist anti-psychiatry](https://www.aljazeera.com/opinions/2025/8/8/trump-and-the-global-rise-of-fascist-anti-psychiatry)”
 
 ***2025-08-08:*** Glyn Morgan’s [belated review](https://morganmorgan.substack.com/p/arthur-goldhammers-shooting-war) of Arthur Goldhammer’s 2012 novel [*Shooting War*](https://isbn.nu/9781480224391)
@@ -2071,14 +2282,17 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-08-08:*** A+ explanation of the [sinking market for US bonds](https://www.facebook.com/permalink.php?story_fbid=pfbid0rH6MQg2YYqhqJeSCttM3uDGCGse6WH98MJW9BFbB6DvwhFpUN9nJmw6BtDMgjAX4l&id=100014591748791)
 
 ***
+
 ### 2025-05
 
 ***2025-05-30:*** high school graduation [hit with fake ticket DOS attack](https://www.newsbreak.com/worcester-telegram-gazette-1590723/4029532153183-counterfeit-ticket-scam-leads-to-parents-missing-worcester-high-school-graduation)
 
 ***
+
 ***2025-05-25:*** “I Was Targeted by a Hostile Crypto Spambot Swarm That Revealed [How X’s Algorithm Has Been Truly Broken](https://bylinetimes.com/2025/05/20/x-spam-algorithm-elon-musk-bots/)”
 
 ***
+
 ***2025-05-14:*** the [Big Boy graveyard on Google Maps or scene from *The Matrix?*](https://www.google.com/maps/place/Big+Boy+Graveyard/@39.1298382,-84.4879424,3a,48.9y/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgICf-YyldA!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4nq8nfuKXRiBsx4G4DiAr42MB85vM6lRTndibgDuxcOZYvRpW4UmqrlmhsGFvOOD6ymafzckVdte3EfpGYtUTfFbzNWvyjGK_oESdvaL-XbrWC1Y2Yi7haKA5kxTUqLn09ztNvPf%3Dw203-h152-k-no!7i4032!8i3024!4m15!1m7!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!2sBig+Boy+Graveyard!8m2!3d39.1297008!4d-84.4876367!16s%2Fg%2F11vy7trg56!3m6!1s0x8841b300307d0f87:0xac256c28fc171bb3!8m2!3d39.1297008!4d-84.4876367!10e5!16s%2Fg%2F11vy7trg56?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D)
 
 ***2025-05-14:*** [a letter from concerned Palantir alumni to the tech workers of Silicon Valley](https://s3.documentcloud.org/documents/25930212/the-scouring-of-the-shire.pdf
@@ -2088,25 +2302,30 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-05-14:*** big props to *The Verge*’s for using [“supposed" and "putative" to describe Trump's minions who were named without qualification or process to replace people who were illegally fired](https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter)
 
 ***
+
 ***2025-05-08:*** find who owns a publisher [from a book’s barcode](https://whoisbn.net/fr/) (🎩 NTT)
 
 ***2025-05-08:*** poem [“For a Student Who Used AI to Write a Paper”](https://poets.org/poem/student-who-used-ai-write-paper)
 
 ***
+
 ***2025-05-07:*** this guy says John Fetterman’s [always been a mess](https://paydayreport.com/fettermans-long-history-of-toxic-relationships-in-braddock/) (🎩 RP)
 
 ***
+
 ***2025-05-01:*** an exoplanet whose [“atmosphere is thick with clouds of vaporized metal, and it rains liquid sapphires and rubies”](https://www.sciencealert.com/planets-record-smashing-iron-wind-hides-a-climate-unlike-anything-weve-seen) (🎩CT)
 
 ***2025-05-01:*** click whither: [a random website generator](https://randomgenerate.io/random-website-generator
 (🎩CT)
 
 ***
+
 ### 2025-04
 
 ***2025-04-30:*** “five nuns fled a northern Italian convent after the abbess was sacked amid [‘grave vicissitudes’](https://www.msn.com/en-us/news/world/nuns-flee-convent-after-abbess-sacked/ar-AA1DVvF8)”
 
 ***
+
 ***2025-04-08:*** [Dan Goodin quoting Matthew Green and Matt Blaze is a pretty good working definition of trust](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/)
 
 ***2025-04-08:*** [“YOU HAVE NO REAL FRIENDS AND WILL DIE ALONE”](https://archive.ph/20250407225348/https://www.404media.co/elon-musk-is-hounded-by-haters-in-path-of-exile-2-chat/#selection-935.123-935.168)
@@ -2114,24 +2333,29 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-04-08:*** [“the tariffs are another tool for Trump to compel loyalty from industries in the US”](https://thelastbillionaires.com/why-the-plan-behind-trumps-tyranny-by-tariff-matters/)
 
 ***
+
 ***2025-04-06:*** amazing rundown of [Trump’s penchant for cheating at golf](https://www.palmbeachpost.com/story/sports/2023/02/03/trump-and-golf-fancy-resorts-a-list-partners-cheating-at-highest-level/69857594007/)
 
 ***2025-04-06:*** Russia: [“an ideology without principles’](https://re-russia.net/en/expertise/022/)? (🎩 FC)
 
 ***
+
 ***2025-04-03:*** Perry Anderson on [“Regime Change in the West”](https://www.lrb.co.uk/contributors/perry-anderson)(of which McKenzie Wark says, [“It takes forever to get Marxists to embrace a new concept, and then they never want to give it up.”](https://www.facebook.com/mckenziewark/posts/pfbid0UYr3ZVTYgWxVrGeqcZPxZobXGRrhV2BDG1DFpeRN63CU4QdrXsDczKCyaxRLgd11l?comment_id=1346209333351514&reply_comment_id=601356182881276&__cft__[0]=AZVJtMgHfoE0t3F4_wP3gJu_Fef7Ee4p-WGRN6KiLYtgUlCkxi-Nq6vi1wEmW2BiRvW1Fe89MBERF2gy0nU320e8Frls7C9xTFk3OwSTswaVvBp32T8rx6Q5Y25HsOdElnreM1qP615BLAl2jDyHPKL3IrRZhmolpQ3XG-MV5o_JfA&__tn__=R]-R))
 
 ***2025-04-03:*** Public Domain Review — one of the best things on the net — on [perfect animals](https://publicdomainreview.org/essay/elephants-horses-and-the-proportions-of-paradise/)
 
 ***
+
 ***2025-04-02:*** Princeton has [a better idea](https://bsky.app/profile/nickseaver.website/post/3lltnsob6ts2b) than hiding: [selling bonds](https://www.dailyprincetonian.com/article/2025/04/princeton-news-adpol-issuing-bonds-same-day-federal-government-pauses-grants)
 
 ***
+
 ***2025-04-01:*** Facebook seems to be [f\*ing with Heather Cox Richardson’s daily posts](https://www.facebook.com/FearAndLoathingCloserToTheEdge/posts/pfbid02NAWghKLKdTyZXYKhYh2hSrjLupBhuvSa8j7bngLzyTTMPvZLRQuFbM2GsmtLjSYVl)(additional report by [Mark Lemley](https://www.facebook.com/mark.lemley/posts/pfbid0mbR2QLQAmEqsQoNaKn3vjJDo2FokYzEtz9k3ethdzPUyLAhXN8YGvrBSuuBnmHG2l))
 
 ***2025-04-01:*** Laura Kipnis on [the history “weaponization” of federal funding](https://www.facebook.com/laura.kipnis/posts/pfbid02KbfBw5dWG7HLqHWgy9pqJXd9CinE3Gnucx7sHMgdvgo1JGUFvwnhjFEZ7DJypvfql)
 
 ***
+
 ### 2025-03
 
 ***2025-03-30:*** The Rutgers faculty senate did what faculty senates everywhere *should have been doing* — passing [resolutions demanding positive, collective action from the admin](https://senate.rutgers.edu/wp-content/uploads/2025/03/Resolution-to-Establish-a-Mutual-Defense-Compact-for-the-Universities-of-the-Big-Ten-Academic-Alliance-in-Defense-of-Academic-Freedom-Institutional-Integrity-and-the-Research.pdf)
@@ -2139,6 +2363,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-03-30:*** The architect [Kazys Varnelis](https://varnelis.net/) drops an excellent neologism: [*Ghiblification*](https://bsky.app/profile/kazys.bsky.social/post/3llmcko77hz2r)
 
 ***
+
 ***2025-03-29:*** # John Zorn’s [Hermetic Cartography](https://drawingcenter.org/bookstore/books/john-zorn-hermetic-cartography-1)
 
 ***2025-03-29:*** # Dean Blundell on [Canada cutting ties with the US](https://deanblundell.substack.com/p/breaking-canada-officially-cuts-ties)
@@ -2146,34 +2371,43 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-03-29:*** a powerful statement about [Vance and the 1968 Broken Arrow B-52 crash in Greenland](https://www.facebook.com/galya.morrell/posts/pfbid0JwKrJE4NUmxdiRbk32jGS4AEF77KSdFqqapXNEwqPRyXqH7pueyFRzxD8SdCrTMyl)
 
 ***
+
 ***2025-03-27:*** Rolux’s [Vectorisation(s) Du cinéma](https://rolux.org/video/vectorisation(s)_du_cin%c3%a9ma_1a/) (2020)
 
 ***
+
 ***2025-03-26:*** Interesting syllabus [“about the representation of the city across media and disciplines”](https://www.fig-projects.com/?p=1555) by Fabrizio Gallianti
 
 ***
+
 ***2025-03-25:*** “Turd Reich” images [for download](https://mcusercontent.com/bd36014b9888db9081d204e78/files/27983e2f-9aa0-bf57-321f-53c4dbdeb252/the_turd_reich_A0_.pdf)
 
 ***
+
 ***2025-03-24:*** [Letter to USC on edu transparency re natsec risks posed by Chinese nationals in STEM](https://selectcommitteeontheccp.house.gov/media/letters/letter-dr-carol-folt-president-usc-transparency-universities-national-security-risks)
 
 ***
+
 ***2025-03-23:*** For those of a certain age, [this clock design](https://social.yetzt.me/@yetzt/statuses/01JQ17NBRG9NH2N5BB6Q97T7R3) is a work of unsurpassed candor, wit, and genius. For others, its meaning will be lost, like tears in the rain.
 
 ***2025-03-23:*** [a *brilliant* takedown some new book](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Freallandsend.bsky.social%2Fpost%2F3lkbiboxarc2z&viewtype=unroll) called *In Covid’s Wake: How Our Politics Failed Us*
 
 ***
+
 ***2025-03-21:*** Michael Ignatieff, who headed up CEU in Budapest, on [what US edus should do](https://archive.ph/20250314193712/https://www.chronicle.com/article/how-a-university-fights-an-authoritarian-regime)
 
 ***2025-03-21:*** I was sure that [Tesla coined](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/) the fabulous word “embrittlement,” [but it was far more popular in 1967 and 1983](https://books.google.com/ngrams/graph?content=embrittlement&year_start=1800&year_end=2022&corpus=en&smoothing=3)
 
 ***
+
 ***2025-03-16:*** I’m probably more familiar with arbitration than most people from spending several years following ICANN, but even so[ the International Centre for Dispute Resolution’s “Emergency International Arbitral Tribunal,” sounded a bit dystopian.](https://about.fb.com/wp-content/uploads/2025/03/Arbitration-Interim-Award.pdf)
 
 ***
+
 ***2025-03-13:*** MFA Houston’s page for [Alexey Titarenko’s photographs](https://emuseum.mfah.org/people/16608/alexey-titarenko/objects)
 
 ***
+
 ***2025-03-11:*** Marian Zazeela and La Monte Young’s Music and Light Box [on display in NYC Mar 27 – Apr 12](https://melafoundation.org/music-light-box-2025.html)
 
 ***2025-03-11:*** Columbia’s own James Schamus [on Trump’s attacks on the university](https://lithub.com/a-columbia-professors-message-to-his-fellow-jewish-faculty-members/)
@@ -2185,6 +2419,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-03-11:*** Starship 8 blowing up in the Bahamas [is gorgeous](https://x.com/NorcrossUSA/status/1897796234502349117) — Musk should do it more often
 
 ***
+
 ***2025-03-10:*** I didn’t realize the great [Onethingwell](https://onethingwell.org/) started up the stopped again
 
 ***2025-03-10:*** [this *still* isn’t happiness](https://thisisnthappiness.com/)
@@ -2192,6 +2427,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-03-10:*** This [U Chicago AAUP statement is good.](https://uchicagoaaup.wordpress.com/) But they had to publish it on Wordpress because, apparently, faculty can’t speak *as* the university in the same way that administrators can — which is strange when you think about it.
 
 ***
+
 ***2025-03-09:*** FB’s explicitly blocking access to Gil Durán’s *Nerd Reich* [because it “addresses topics like the ‘Network State’ concept and critiques of tech industry figures](https://bsky.app/profile/gilduran.com/post/3ljy3wqbs2c26)
 
 ***2025-03-09:*** Mike Masnick on [“Why Techdirt Is Now a Democracy Blog”](https://www.techdirt.com/2025/03/04/why-techdirt-is-now-a-democracy-blog-whether-we-like-it-or-not/)
@@ -2200,11 +2436,10 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
  > A helpful PDF that you can print out and leave on every Tesla you see!
 
-### 2025-02
-
 ***2025-03-07:*** [“the empathy exploit”](https://www.cnn.com/2025/03/05/politics/elon-musk-rogan-interview-empathy-doge) is quite a phrase
 
 ***
+
 ***2025-03-06:*** [Timeline of Technological Buffoonery in the DOGE Era](https://boehs.org/node/doge-tech)
 
 ***2025-03-06:*** “We think it perspicacious to note” that if CRMEP’s philosophy students want to [win this fight](https://www.e-flux.com/notes/658933/open-letter-from-crmep-students-researchers-on-kingston-university-s-proposed-closure-of-the-department-of-humanities) — and they should — they’ll need to find better copy-writers.
@@ -2214,11 +2449,13 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-03-06:*** “# [“Space focused on technology, new media and artistic research”](https://escuderoandaluz.com/ "Home")
 
 ***
+
 ***2025-03-04:*** Columbia U (my alma mater and neighbor for deacdes) [keeps on screwing up its handling of the pro-Palestinian protests](https://www.dropsitenews.com/p/columbia-university-gaza-student-disclinary-office)
 
 ***2025-03-04:*** Dictionary.com doesn’t know how to pronounce [the singular word *interstice*](https://www.dictionary.com/browse/interstice)
 
 ***
+
 ***2025-03-03:*** not enough people understand that [*Musk’s goal is to exterminate multitudes*](https://medium.com/age-of-awareness/a-unifying-theory-of-elon-musk-66b841ee0f71) — and Trump is cool with that because that’d make him a Great Man
 
 ***2025-03-03:*** Association of Collegiate Schools of Architecture’s *Journal of Architectural Education* [pulls its call for an issue about Palestine](https://www.archpaper.com/2025/02/acsa-cancels-fall-2025-journal-of-architectural-education-issue-on-palestine-and-fires-its-interim-executive-editor/) (2025-03-10: [the board resigned en bloc](https://www.instagram.com/p/DHCwxrPJ86N/?img_index=1) — *good for them!*)
@@ -2226,11 +2463,13 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-03-03:*** Gregg Gonsalves gets warmer than most — [the Trump admin wants to destroy universties](https://www.thenation.com/article/society/trump-universities-research-cuts-reaction/) — but his analysis still focuses on science, which is a mistake.
 
 ***
+
 ### 2025-02
 
 ***2025-02-27:*** Steve Vladeck notes Big Law partners worry [“they could jeopardize their economic future by protecting the rule of law”](https://www.stevevladeck.com/p/bonus-126-chill-all-the-lawyers) 🎻 🔬 😭 🌊
 
 ***
+
 ***2025-02-26:*** a super obit for [a fascinating guy](https://provincetownindependent.org/obituaries/2025/02/19/christopher-jencks-celebrated-scholar-and-teacher-dies-at-88/), Chistopher “Sandy” Jencks (🎩 [LF](https://en.wikipedia.org/wiki/Liza_Featherstone))
 
 ***2025-02-26:*** an awful squib about [N5N1 killing sand hill cranes in southern Indiana](https://www.facebook.com/marc.haggerty.3/posts/pfbid02iuYy6Ki5mWpR7ZjARTt149t5N3v3TqdGi6NCn86ieayQvNHyE6ASQgX85j7EskFRl)
@@ -2238,6 +2477,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-02-26:*** on [Christian support for Trump and liberal denialism](https://www.liberalcurrents.com/trump-the-redeemer/) (🎩 Mike McG)
 
 ***
+
 ***2025-02-24:*** 40% of the glaciers in Central Europe [melted between 2000 and 2023](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Glacier_melt_intensifying_freshwater_loss_and_accelerating_sea-level_rise)
 
 ***2025-02-24:*** Peter Sellers’s 1975 ads for TWA are brilliant ([this one](https://youtu.be/Wy26PYeP4aY&t=60) especially), but [the *meta-ad* he made](https://youtu.be/Wy26PYeP4aY?&t=179) is next-*next*-**next**-***next*** level
@@ -2245,6 +2485,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-02-24:*** Wankpanzer vs Pinto [according to a hobbyist stats blog that looks great](https://www.someweekendreading.blog/cybertruck-vs-pinto/)
 
 ***
+
 ***2025-02-22:*** CPAC as [gonzo politics](https://www.facebook.com/100079779344617/posts/618133597522613/?mibextid=rS40aB7S9Ucbxw6v)
 
 ***2025-02-22:*** Paul Prudence [has a really sharp aesthetic](https://bsky.app/profile/mrprudence.bsky.social)
@@ -2256,6 +2497,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-02-22:*** I wrote [a Bsky thread about Trump’s attacks on higher ed](https://bsky.app/profile/tbfld.bsky.social/post/3lirrqbtzis2p)
 
 ***
+
 ***2025-02-21:*** *WiReD* has a razor-sharp take on the fashion shift among broligarchs: “everyone missed that they were dressing for the job they really wanted”: [emperors.](https://www.instagram.com/reel/DF_E0ruM1CA/)
 
 ***2025-02-21:*** Ithaca’s Lavender Hill Commune, [“home away from home in the 1970s for many displaced members of what is now known as the LGBTQ+ community, has been officially listed in the National Register of Historic Places.”](https://www.ithacajournal.com/story/news/2025/02/21/ithaca-lavender-hill-lgbtq-commune-national-register-of-historic-places/79425486007/)
@@ -2265,11 +2507,13 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-02-21:*** In a time of unprecedented crisis, House Minority Leader Hakeem Jeffries [is promoting his “vividly illustrated book — the perfect holiday gift to inspire the whole family!”](https://bsky.app/profile/unraveledpress.com/post/3linkppo6ls2j
 
 ***
+
 ***2025-02-20:*** [this Xitter thread](https://threadreaderapp.com/thread/1686514452647329793.html) is unusually dense with smart observations (e.g., fascism is “a counter-revolution against a revolution that never took place,” and “the only mode of moral argumentation you ever see from a reactionary is whataboutism”)
 
 ***2025-02-20:*** A phrase we’ll see more of, I wager: [“the shallow state”](https://www.google.com/search?q=%22the+shallow+state%22)
 
 ***
+
 ***2025-02-12:*** Lucian Truscott offers a preview [of blue-on-blue violence](https://luciantruscott.substack.com/p/how-the-looming-trump-constitutional)
 
 ***2025-02-12:*** Chris Newfield gives a masterclass on [why the proposed change in NIH funding would be a systemic catastrophe for US higher ed](https://utotherescue.blogspot.com/2025/02/liner-note-15-real-crisis-in-research.html)
@@ -2279,6 +2523,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-02-12:*** Trump wants to [cancel 50% of the office space leased by the federal government](https://www.arnoldporter.com/en/perspectives/advisories/2025/02/doge-and-gsa-officials-pledge-acceleration)
 
 ***
+
 ***2025-02-10:*** Feb 10 is the anniversary of [the first (reported) collision involving an active and a dead satellite](https://en.wikipedia.org/wiki/2009_satellite_collision)
 
 ***2025-02-10:*** Why doomscroll when you can eduscroll? a 🏆 to [aizk](https://x.com/Aizkmusic) for their brrrrrilliant [TikTok-like interface for Wikipedia](https://wikitok.vercel.app/)
@@ -2292,6 +2537,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-02-10:*** [“far center”](https://nymag.com/intelligencer/article/pamela-paul-goodbye-to-the-new-york-times-opinion-columnist.html) seems like a useful political category, and this piece on that op-ed pest Pamela Paul is hilarious ~
 
 ***
+
 ***2025-02-05:*** Yessssssss a [Facebook skullpaper](https://imgflip.com/memegenerator/360192240/Facebook-Skulls-Background) meme generator!
 
 ***2025-02-05:*** Gil Duran’s Nerd Reich on [the blueprint for Musk’s coup](https://www.thenerdreich.com/the-network-state-coup-is-happening-right-now/)
@@ -2303,7 +2549,6 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-02-05:*** Newly minted AG Pam Bondi [issued a rule](https://news.bloomberglaw.com/antitrust/bondi-confirmed-as-trumps-attorney-general-to-lead-doj-shake-up) that requires spies to be caught doing “more traditional espionage” (tiny cameras and hand-cranked radios?), which is *literally* like saying that thieves have to be caught wearing a black-and-white striped shirt and carrying a canvas bag ovr their shoulder
 
 ***
-### 2025-01
 
 ***2025-02-01:*** James Fallows offer the kind of [high-level, well-informed context for the DC plane crash](https://fallows.substack.com/p/it-had-been-16-years-since-a-fatal) we need more of
 
@@ -2314,6 +2559,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-02-01:*** the PPRuNe (Professional Pilots Rumor Network) [thread devoted to the DC crash](https://www.pprune.org/accidents-close-calls/663888-aa5342-down-dca.html)
 
 ***
+
 ### 2025-01
 
 ***2025-01-29:*** *Really* interesting Bsky thread](https://bsky.app/profile/dorsaamir.bsky.social/post/3lglw6iefus2g) on the whether the [Müller-Lyer illusion](https://en.wikipedia.org/wiki/M%C3%BCller-Lyer_illusion) is culturally informed
@@ -2327,6 +2573,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-01-29:*** “Raging Misogynist” Now Federal Government H.R.’s Top Lawyer” is [quite a headline
 
 ***
+
 ***2025-01-24:*** Why do “AIs” default to the condescending voice middle-school textbook Q&As, [like this Anne Franke bot?](https://fedihum.org/@lavaeolus/113842459724961937)
 
 ***2025-01-24:*** I don’t understand [how this is possible](https://www.daisukesamejima.com/flatball), but I also don’t understand how it would be impossible — [Jessica Valenti](https://en.wikipedia.org/wiki/Jessica_Valenti)’s *[Abortion, Every Day](https://jessica.substack.com/p/teenager-arrested-in-idaho-continuing)* substack will become more relevant to more people with every day that passes
@@ -2334,6 +2581,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-01-24:*** [a new issue of *The Diagram* is out!](https://thediagram.com/24_4/)
 
 ***
+
 ***2025-01-16:*** Matt Stoller’s Jan 13 issue of his anti/trust-related newsletter “Big” has a [jaw-dropping list of the regulatory issues “Meta” faces](https://www.thebignewsletter.com/p/monopoly-round-up-la-fires-change) (does anyone really believe in that name?), i.e., why Zuck is groveling up a storm at Mar-a-Lago
 
 ***2025-01-16:*** Jim Henson’s muppets [weren’t always so peace-loving](https://youtu.be/cvXYOFoOzZ4)
@@ -2343,6 +2591,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-01-16:*** [a site with zillions of links to English-language literary magazines](https://thepagename.blogspot.com/), with short excerpts of pieces recently ran (🎩SB)
 
 ***
+
 ***2025-01-11:*** Las Vegas Cybertruck bomber Matthew Livelsberger’s [two “minifestoes,”](https://nevadacurrent.com/wp-content/uploads/2025/01/PO-003a-01-03-25-Livelsbergers-Letters.pdf) less than a page each, basically advocate exterminating half the US population (guess which half!)
 
 ***2025-01-11:*** Dennis Cooper has put together [a pretty epic set of images on his blog](https://denniscooperblog.com/lps/)
@@ -2358,6 +2607,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-01-11:*** Will Stancil’s Bluesky thread on our [“massive information infrastructure which privileges conspiracy theories, demagoguery, bigotry, lies, and hysteria”](https://bsky.app/profile/whstancil.bsky.social/post/3lfczzpptz22j) is *well* worth reading (as is his whole feed)
 
 ***
+
 ***2025-01-04:*** Via the amazing [FIG Projects](http://www.fig-projects.com/) on [Facebook](https://www.facebook.com/figprojects), an intriguing site on [Housing Standardization](https://housingstandardisation.com/)
 
 ***2025-01-04:*** [“Meet The Blind Birder Reimagining Accessibility In The Outdoors”](https://www.sciencefriday.com/segments/blind-birder-accessible-colombia/) (Science Friday)
@@ -2392,6 +2642,7 @@ An epic list of [“Awesome MacOS Software”](https://github.com/phmullins/awes
 ***2025-01-04:*** MIT Tech review on [how to pitch them](https://www.technologyreview.com/how-to-pitch-mit-technology-review/)
 
 ***
+
 ## 2024
 
 ### 2024-12
