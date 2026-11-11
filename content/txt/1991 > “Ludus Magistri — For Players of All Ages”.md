@@ -67,30 +67,28 @@ Obviously, neither militaristic toys nor the military’s war games were postwar
 
 NOTES
 
-[^1] Gilles Deleuze and Felix Guattari, *A Thousand Plateaus* (Minneapolis: University of Minnesota Press, 1987), p. 75.
+1. Gilles Deleuze and Felix Guattari, *A Thousand Plateaus* (Minneapolis: University of Minnesota Press, 1987), p. 75.
 
-[^2] It is significant that the dissent heard herein — these protestors on the historical level, and Barbara Ehrenreich (cited below) on the commentarial level — are women’s voices; it is equally significant that theirs are not the only dissenting voices. This is a tale of cooptation, and many of those questions identified as “gender issues” were elaborated within — and by the logic of — the larger developments described herein: so, on the subject of difference, see note 3.
+2. It is significant that the dissent heard herein — these protestors on the historical level, and Barbara Ehrenreich (cited below) on the commentarial level — are women’s voices; it is equally significant that theirs are not the only dissenting voices. This is a tale of cooptation, and many of those questions identified as “gender issues” were elaborated within — and by the logic of — the larger developments described herein: so, on the subject of difference, see note 3.
 
-[^3] Quoted in Barbara Ehrenreich, *Fear of Falling: The Inner Life of the Middle Class* (New York: Pantheon, 1989), p. 70–71. Ehrenreich brilliantly demonstrates in her history of the postwar “professional-managerial” middle class that statements about “Americans” are invariably produced by and for this class. Her implied caveat applies to this essay as well as to Nancy Dwyer’s subtextual “burn,” though I would add this exemplary anecdote: When Brezhnev remarked to Jou En-lai on their respective achievements, adding, “you must admit, though, that your roots are bourgeois while mine are proletarian,” Jou replied, “Yes, and we have each betrayed our class.”
+3. Quoted in Barbara Ehrenreich, *Fear of Falling: The Inner Life of the Middle Class* (New York: Pantheon, 1989), p. 70–71. Ehrenreich brilliantly demonstrates in her history of the postwar “professional-managerial” middle class that statements about “Americans” are invariably produced by and for this class. Her implied caveat applies to this essay as well as to Nancy Dwyer’s subtextual “burn,” though I would add this exemplary anecdote: When Brezhnev remarked to Jou En-lai on their respective achievements, adding, “you must admit, though, that your roots are bourgeois while mine are proletarian,” Jou replied, “Yes, and we have each betrayed our class.”
 
-[^4] For an overview, see “Game Theory,” International Encyclopedia of the Social Sciences, ed. David L. Sills (New York: Macmillan and The Free Press, 1968), vol. 6, pp. 62ff.; a thorough bibliography can be found in Martin Shubik, Game Theory in the Social Sciences: Concepts and Solutions (Cambridge, Mass.: MIT Press, 1982).
+4. For an overview, see “Game Theory,” International Encyclopedia of the Social Sciences, ed. David L. Sills (New York: Macmillan and The Free Press, 1968), vol. 6, pp. 62ff.; a thorough bibliography can be found in Martin Shubik, Game Theory in the Social Sciences: Concepts and Solutions (Cambridge, Mass.: MIT Press, 1982).
 
-[^5] In *War in the Age of Intelligent Machines* (New York: Swerve Editions, forthcoming), Manuel De Landa —  to whom my thesis owes much — demonstrates that the history of mathematics is fundamental to military history because mathematical theories are invariably applied first or quickly appropriated by the war machine. Indeed: set theory, which emerged as a field in the years before World War Il, was rigorously applied in the early computers used for code-breaking and radar during the war, only later to be institutionalized in game theory (ca. 1949) and taught in grammar schools as the “new math” (ca. 1958).
+5. In *War in the Age of Intelligent Machines* (New York: Swerve Editions, forthcoming), Manuel De Landa —  to whom my thesis owes much — demonstrates that the history of mathematics is fundamental to military history because mathematical theories are invariably applied first or quickly appropriated by the war machine. Indeed: set theory, which emerged as a field in the years before World War Il, was rigorously applied in the early computers used for code-breaking and radar during the war, only later to be institutionalized in game theory (ca. 1949) and taught in grammar schools as the “new math” (ca. 1958).
 
-[^6] David Riesman (with Nathan Glazer and Reuel Denney), *The Lonely Crowd: A Study of the Changing American Character* (New Haven: Yale University Press, 1961), p. 51. (quoted in Ehrenreich, p. 83).
+6. David Riesman (with Nathan Glazer and Reuel Denney), *The Lonely Crowd: A Study of the Changing American Character* (New Haven: Yale University Press, 1961), p. 51. (quoted in Ehrenreich, p. 83).
 
-[^7] See Ehrenreich, *Fear of Falling*, p. 84.
+7. See Ehrenreich, *Fear of Falling*, p. 84.
 
-[^8] I use “strategy” in Michel Foucault’s sense, as summarized by Eric Alliez and Michel Feher (“The Luster of Capital,” *Zone* 1/2, p. 358n25) — “a coherent whole of normative practices which does not need, in order to function, to be reflected in the individual consciousness of a strategist or even in the collective consciousness of a dominant class” — with a proviso: Foucault’s adoption of this militaristic term and its subsequent proliferation throughout criticism are in themselves symptoms of the intensifying metastasis discussed here.
+8. I use “strategy” in Michel Foucault’s sense, as summarized by Eric Alliez and Michel Feher (“The Luster of Capital,” *Zone* 1/2, p. 358n25) — “a coherent whole of normative practices which does not need, in order to function, to be reflected in the individual consciousness of a strategist or even in the collective consciousness of a dominant class” — with a proviso: Foucault’s adoption of this militaristic term and its subsequent proliferation throughout criticism are in themselves symptoms of the intensifying metastasis discussed here.
 
-[^9] On the military aspect of fracturing the family cell — or the production of “nuclear family,” if you will — *Defense and Ecological Struggles* (New York: Semiotext\[e], 1990), esp. pp. 68ff.
+9. On the military aspect of fracturing the family cell — or the production of “nuclear family,” if you will — *Defense and Ecological Struggles* (New York: Semiotext\[e], 1990), esp. pp. 68ff.
 
-[^10] And not without consequence: Gerald Graff describes post-structuralism as the fifth column of the “real ‘avant-garde’ (of] advanced capitalism, with its built-in need lo destroy all vestiges of tradition, all orthodox ideologies, all continuous and stable forms of reality in order to stimulate higher levels of consumption” (“Culture, Criticism and Unreality,” in *Literature Against Itself* \
+10. And not without consequence: Gerald Graff describes post-structuralism as the fifth column of the “real ‘avant-garde’ (of] advanced capitalism, with its built-in need lo destroy all vestiges of tradition, all orthodox ideologies, all continuous and stable forms of reality in order to stimulate higher levels of consumption” (“Culture, Criticism and Unreality,” in *Literature Against Itself* \[London, 1979]. p 8, quoted in Peter Dews, *Logics of Disintegration* (London: Verso, 1987), p. xvi).
 
-[London, 1979]. p 8, quoted in Peter Dews, *Logics of Disintegration* (London: Verso, 1987), p. xvi).
+11. See Virilio, pp. 82ff.
 
-[^11] See Virilio, pp. 82ff.
+12. Guy DeBord. *Society of the Spectacle*, trans. Donald Nicholson-Smith (unpublished), sec. 147; see also Alliez and Feher, p. 317.
 
-[^12] Guy DeBord. *Society of the Spectacle*, trans. Donald Nicholson-Smith (unpublished), sec. 147; see also Alliez and Feher, p. 317.
-
-[^13] For analyses of this inevitable process, see Deleuze and Giattari, Ch. 12. “1227: Treatise on Nomadology — The War Machine,” and, in a more historical mold, De Landa.
+13. For analyses of this inevitable process, see Deleuze and Giattari, Ch. 12. “1227: Treatise on Nomadology — The War Machine,” and, in a more historical mold, De Landa.

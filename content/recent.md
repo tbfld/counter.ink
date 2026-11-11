@@ -30,6 +30,14 @@ yaml_end: true
 > [!note]+ [[2026-11-05-a-bill-to-defeat-supreme-court-corruption|2026-11-05-a bill to defeat supreme court corruption]]
 > I spent several months thinking about this and (sorry, all you AI haterz) a little over fifteen minutes with Claude drafting it: a model bill to hobble corruption on the Supreme Court by (1) requiring complete financial disclosure from all SC justices for their full tenure to date plus the five preceding years, and (2) sending any findings that a justice knowingly and willfully refused to comply, or filed materially false or incomplete information, to Congress for possible impeachment. *We can do this!*
 
+***2026-11-10:*** [Most of human history is waiting to be found — underwater](https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/)
+
+***
+
+***2026-11-09:*** Karl Bode: [US govt networks will need to be torched and rebuilt](https://karlbode.com/u-s-government-it-systems-are-completely-compromised-and-will-require-a-total-rebuild/)
+
+***2026-11-09:*** [See what your (Apple) computer “knows” about you](https://github.com/8rank/iKnow) (🎩 IRR)
+
 ***2026-11-09:*** [Why Yemen and Oman are so different (YT vid)](https://www.youtube.com/watch?v=ufKqXnzGBm8)
 
 ***2026-11-09:*** Paulina Porizkova: [Why I Now Call Myself a Feminist]([https://archive.li/8GBuO](http://archive.today/2026.11.09-102528/https://www.nytimes.com/2026/11/09/opinion/paulina-porizkova-nyt-175.html)) (NYT, depaywalled)
