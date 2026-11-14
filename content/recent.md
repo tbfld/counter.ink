@@ -30,6 +30,27 @@ yaml_end: true
 > [!note]+ [[2026-11-05-a-bill-to-defeat-supreme-court-corruption|2026-11-05-a bill to defeat supreme court corruption]]
 > I spent several months thinking about this and (sorry, all you AI haterz) a little over fifteen minutes with Claude drafting it: a model bill to hobble corruption on the Supreme Court by (1) requiring complete financial disclosure from all SC justices for their full tenure to date plus the five preceding years, and (2) sending any findings that a justice knowingly and willfully refused to comply, or filed materially false or incomplete information, to Congress for possible impeachment. *We can do this!*
 
+***
+
+***2026-11-14:*** [Ocean Depth Map)
+
+***
+
+***2026-11-13:*** [Are AI bots running these Philly and NJ news sites?](https://billypenn.com/2026/11/11/ai-slop-local-news-philadelphia-new-jersey/)
+
+***2026-11-13:*** [Sean Jacobs](https://africasacountry.com/author/sean-jacobs) in *Jaobin*: [El-Sayed’s Sports Fluency Is a Political Asset](https://jacobin.com/2026/11/el-sayed-sports-politics-progressives)
+
+***2026-11-13:*** [Jacqueline Soohen on MUBI](https://mubi.com/en/cast/jacqueline-soohen)
+
+***
+
+***2026-11-12:*** James Bridle, [Benchmarking](https://emergencemagazine.org/essay/benchmarking/) (🎩 BB)
+
+***2026-11-12:*** [This is not a poem](https://webyarns.com/poem.html)
+
+***2026-11-12:*** [WikiBlame](https://wikiblame.toolforge.org//wikiblame.php): a search revision history of MediaWikis
+***
+
 ***2026-11-10:*** [Most of human history is waiting to be found — underwater](https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/)
 
 ***
