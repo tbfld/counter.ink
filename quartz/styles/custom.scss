@@ -60,3 +60,42 @@ body {
 // .callout .callout-content {
 //   display: block !important;
 // }
+// TB ADDED 2026-11-15: image captions, adapted from viz.counter.ink
+// (see plugins/transformers/imageCaption.ts). An image alone in its paragraph
+// followed by an all-italic paragraph is tagged .image-with-caption /
+// .image-caption at build time. The image is centered, so is the caption.
+$caption-scale: 0.85; // 15% smaller than body text
+
+article p.image-with-caption {
+  text-align: center;
+  margin-bottom: 0;
+
+  > img {
+    vertical-align: bottom; // no baseline gap under the image
+    margin-bottom: 0.4rem;
+  }
+}
+
+article p.image-caption {
+  text-align: center;
+  font-style: italic;
+  font-size: calc(1rem * #{$caption-scale});
+  line-height: 1.5;
+  margin-top: 0;
+}
+
+// TB ADDED 2026-11-14: vertical gaps between blocks cut by 15% (was 50%).
+// Line spacing inside paragraphs is unchanged. To revert, delete this block.
+article p {
+  margin-top: 0.85em; // browser default 1em
+  margin-bottom: 0.85em;
+}
+
+article blockquote,
+article .callout {
+  margin: 0.85rem 0; // was 1rem 0
+}
+
+article hr {
+  margin: 1.7rem auto; // was 2rem auto
+}

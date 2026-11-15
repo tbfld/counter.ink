@@ -34,8 +34,13 @@ from zoneinfo import ZoneInfo
 
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent
-POSTS_DIR = REPO / "content" / "blg" / "new"
-IMAGES_DIR = REPO / "content" / "ci-img"
+LIVE_POSTS_DIR = REPO / "content" / "blg" / "new"
+LIVE_IMAGES_DIR = REPO / "content" / "blg" / "new" / "new_images"
+# Output goes to a staging area OUTSIDE content/ first (the repo auto-syncs/publishes
+# content/), then --promote moves reviewed files into the live folders.
+STAGING = HERE / "staging"
+POSTS_DIR = STAGING / "posts"
+IMAGES_DIR = STAGING / "images"
 LEDGER = HERE / "seen.json"
 URL_RE = re.compile(r"https?://\S+")
 
@@ -129,6 +134,60 @@ def body_len(text: str) -> int:
     return len(URL_RE.sub("", text).strip())
 
 
+def body_words(text: str) -> int:
+    return len(URL_RE.sub("", text).split())
+
+
+def outside_words(text: str) -> int:
+    """Words outside {{{ ... }}} blocks (your framing vs. quoted/re-posted material)."""
+    return len(re.sub(r"\{\{\{.*?\}\}\}", " ", URL_RE.sub("", text), flags=re.S).split())
+
+
+def _norm(s: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "", s.lower())
+
+
+def site_index():
+    """Normalized text of every post already under content/blg (for duplicate detection)."""
+    idx = []
+    for f in (REPO / "content" / "blg").rglob("*.md"):
+        try:
+            idx.append((f, _norm(f.read_text(encoding="utf-8", errors="ignore"))))
+        except OSError:
+            pass
+    return idx
+
+
+def find_on_site(text: str, idx):
+    """Return the path of a site post containing a distinctive chunk of this text, else None."""
+    t = _norm(URL_RE.sub("", text))
+    if len(t) < 200:
+        return None
+    probes = [t[len(t) // 4: len(t) // 4 + 60], t[len(t) // 2: len(t) // 2 + 60], t[-120:-60]]
+    for f, body in idx:
+        if sum(pr in body for pr in probes) >= 2:
+            return str(f.relative_to(REPO))
+    return None
+
+
+def draft_extract(text: str, limit: int = 200) -> str:
+    t = text
+    m = re.search(r"\{\{\{", t)
+    if m and len(t[:m.start()].split()) < 45 and t[:m.start()].rstrip().endswith(":"):
+        t = t[m.end():]  # skip "Imma up this from my comment:" boilerplate
+    t = URL_RE.sub("", t).replace("{{{", "").replace("}}}", "")
+    t = re.sub(r"\[\^?\d+\]", "", t)
+    t = re.sub(r"^\s*[\(\[][^)\]]{0,140}\b(pic|photo|image|painting|pic to make)[^)\]]*[\)\]]\s*", "", t, flags=re.I)  # "(photo to make you look)" asides
+    t = re.sub(r"^(Imma|Today.s Imma)[- ]up[- ]this[^:]{0,120}:\s*", "", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    if len(t) <= limit:
+        return t
+    cut = t[:limit]
+    ends = [cut.rfind(c) for c in (". ", "? ", "! ")]
+    best = max(ends)
+    return (cut[:best + 1] if best > limit * 0.5 else cut.rsplit(" ", 1)[0] + "…").strip()
+
+
 def load_ledger(path):
     p = Path(path)
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
@@ -138,7 +197,7 @@ def save_ledger(path, ledger):
     Path(path).write_text(json.dumps(ledger, indent=2, ensure_ascii=False, sort_keys=True) + "\n", encoding="utf-8")
 
 
-def filter_posts(posts, since, until, min_chars, seen, include_seen):
+def filter_posts(posts, since, until, min_chars, seen, include_seen, min_words=0):
     out = []
     for p in posts:
         d = p.ts.date()
@@ -146,7 +205,7 @@ def filter_posts(posts, since, until, min_chars, seen, include_seen):
             continue
         if until and d > until:
             continue
-        if body_len(p.text) < min_chars:
+        if body_len(p.text) < min_chars or body_words(p.text) < min_words:
             continue
         if p.id in seen and not include_seen:
             continue
@@ -240,7 +299,12 @@ def build_header(title, description, extract, ts, has_media, tags) -> str:
 
 def body_text(text: str) -> str:
     text = text.replace("\r\n", "\n").strip()
-    return re.sub(r"\n+", "\n\n", text)  # FB newline = line break; Markdown needs blank lines
+    text = re.sub(r"\n+", "\n\n", text)
+    # FB-style footnotes "[1] ..." -> Obsidian "[^1]: ..." (only when a definition line exists)
+    for n in sorted(set(re.findall(r"(?m)^\[(\d{1,2})\]\s", text))):
+        text = re.sub(rf"(?m)^\[{n}\]\s+", f"[^{n}]: ", text)
+        text = re.sub(rf"(?<!\^)\[{n}\](?!:)", f"[^{n}]", text)
+    return text  # FB newline = line break; Markdown needs blank lines
 
 
 def emit(selected, args):
@@ -250,17 +314,18 @@ def emit(selected, args):
     report = []
     for post, sel in selected:
         d = post.ts.strftime("%Y-%m-%d")
-        title = clean(sel.get("title")) or f"{d} {suggest_phrase(post.text)}".strip()
+        title = clean(sel.get("title")) or suggest_phrase(post.text)
+        title = re.sub(r"^\d{4}-\d{2}-\d{2}[\s-]*", "", title).strip()  # titles no longer lead with a date (2026-11-14)
         slug = slugify(re.sub(r"^\d{4}-\d{2}-\d{2}[\s-]*", "", title))
         stem, n = f"{d}-{slug}", 2
-        while (posts_dir / f"{stem}.md").exists():
+        while (posts_dir / f"{stem}.md").exists() and not args.overwrite_staging:
             stem, n = f"{d}-{slug}-{n}", n + 1
 
         names = []
         for i, src in enumerate(post.media, 1):
             base = stem if len(post.media) == 1 else f"{stem}-{i}"
             name = f"{base}{src.suffix.lower()}"
-            while (images_dir / name).exists():
+            while (images_dir / name).exists() and not args.overwrite_staging:
                 base += "-x"
                 name = f"{base}{src.suffix.lower()}"
             if not args.dry_run:
@@ -344,7 +409,7 @@ def render_page(posts, vocab):
     for i, p in enumerate(posts):
         d = p.ts.strftime("%Y-%m-%d")
         imgs = "".join(f'<img src="/media/{i}/{j}" loading="lazy">' for j in range(len(p.media)))
-        title = html.escape(f"{d} {suggest_phrase(p.text)}", quote=True)
+        title = html.escape(suggest_phrase(p.text), quote=True)
         cards.append(f"""<div class=card data-id="{p.id}" data-text="{html.escape(p.text.lower(), quote=True)}">
 <label><input type=checkbox class=pick> <strong>{d}</strong></label>
 <div class=meta>{p.ts.strftime('%H:%M')} · {body_len(p.text)} chars · {len(p.media)} media · {len(p.links)} link(s)</div>
@@ -412,13 +477,103 @@ def serve(posts, args):
 
 
 # --------------------------------------------------------------------------
+# Propose / apply: non-interactive review flow (manifest = JSON you or Claude edit)
+# --------------------------------------------------------------------------
+def dump_manifest(cands, path, meta):
+    idx = site_index()
+    items = [{
+        "id": p.id, "select": False, "date": f"{p.ts:%Y-%m-%d}", "words": body_words(p.text),
+        "own_words": outside_words(p.text), "images": len(p.media), "on_site": find_on_site(p.text, idx),
+        "title": "", "description": "", "extract": draft_extract(p.text), "tags": [],
+        "text": p.text,
+    } for p in cands]
+    Path(path).parent.mkdir(parents=True, exist_ok=True)
+    Path(path).write_text(json.dumps({"meta": meta, "items": items}, indent=1, ensure_ascii=False) + "\n",
+                          encoding="utf-8")
+
+
+def apply_manifest(path, posts, args):
+    man = json.loads(Path(path).read_text(encoding="utf-8"))
+    by_id = {p.id: p for p in posts}
+    chosen = []
+    for it in man["items"]:
+        if not it.get("select"):
+            continue
+        post = by_id.get(it["id"])
+        if it.get("on_site") and not args.force:
+            print(f"skip (already on site as {it['on_site']}): {it['id']}", file=sys.stderr)
+            continue
+        if not post:
+            print(f"warning: {it['id']} not in this export; skipped", file=sys.stderr)
+            continue
+        tags = it.get("tags") or []
+        chosen.append((post, {**it, "tags": ",".join(tags) if isinstance(tags, list) else tags}))
+    out = emit(chosen, args)
+    if not args.dry_run:  # remember explicit declines (tier C) so they stop resurfacing
+        ledger = load_ledger(args.ledger)
+        for it in man["items"]:
+            if it.get("tier") == "C" and it["id"] not in ledger:
+                ledger[it["id"]] = {"date": it["date"], "status": "skipped", "platform": "facebook"}
+        save_ledger(args.ledger, ledger)
+    return out
+
+
+def write_report(manifest_path, out_path):
+    man = json.loads(Path(manifest_path).read_text(encoding="utf-8"))
+    items = man["items"]
+    def line(it):
+        first = re.sub(r"\s+", " ", it["text"])[:90]
+        tags = ", ".join(it.get("tags") or [])
+        flags = f" **ON SITE:** `{it['on_site']}`" if it.get("on_site") else ""
+        return (f"- {it['date']} · {it['words']}w ({it.get('own_words', '?')} outside quotes) · "
+                f"**{it.get('title') or '(untitled)'}** · tags: {tags or '—'}{flags}\n  > {first}…")
+    sel = [i for i in items if i.get("select") and not i.get("on_site")]
+    maybe = [i for i in items if not i.get("select") and i.get("tier") == "B"]
+    skip = [i for i in items if i.get("tier") == "C" or (i.get("on_site") and i not in sel)]
+    rest = [i for i in items if i not in sel + maybe + skip]
+    parts = ["---", "publish: false", "---", f"# Review: {man['meta'].get('export', '')}",
+             f"{len(items)} candidates at ≥{man['meta'].get('min_words')} words since {man['meta'].get('since')}. "
+             "Tier A = staged; B = borderline (flip `select` to true in the manifest and re-run `--apply`); C = skipped.", ""]
+    for name, grp in (("Staged (tier A)", sel), ("Borderline (tier B)", maybe),
+                      ("Skipped (tier C / already on site)", skip), ("Untriaged", rest)):
+        parts += [f"## {name} ({len(grp)})", *[line(i) for i in grp], ""]
+    Path(out_path).write_text("\n".join(parts), encoding="utf-8")
+    print(f"wrote {out_path}")
+
+
+def promote(args):
+    """Move reviewed files from staging into the live content folders (never overwrites)."""
+    moved = 0
+    for src_dir, dst_dir, pat in ((Path(args.posts_dir), Path(args.live_posts_dir), "*.md"),
+                                  (Path(args.images_dir), Path(args.live_images_dir), "*")):
+        for f in sorted(src_dir.glob(pat)):
+            if not f.is_file() or f.name.startswith("."):
+                continue
+            dst = dst_dir / f.name
+            if dst.exists():
+                print(f"skip (exists): {dst.name}")
+                continue
+            dst_dir.mkdir(parents=True, exist_ok=True)
+            shutil.move(str(f), dst)
+            moved += 1
+    print(f"promoted {moved} file(s) into content/. Next: run your Templater index-update step and validate_yaml_headers.py.")
+
+
+# --------------------------------------------------------------------------
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--export", required=True, help="path to the unzipped platform export")
+    ap.add_argument("--export", help="path to the unzipped platform export")
+    ap.add_argument("--min-words", type=int, default=300, help="minimum length in words, URLs excluded (default 300)")
+    ap.add_argument("--dump", metavar="FILE", help="write candidates to a manifest JSON for review/tagging, then exit")
+    ap.add_argument("--apply", metavar="FILE", help="emit the entries marked select:true in a reviewed manifest")
+    ap.add_argument("--force", action="store_true", help="with --apply: write even if flagged on_site; with --dump: overwrite an existing manifest")
+    ap.add_argument("--overwrite-staging", action="store_true",
+                    help="re-running --apply replaces same-named files in staging (live content/ is never overwritten)")
+    ap.add_argument("--promote", action="store_true", help="move staged posts/images into content/ and exit")
     ap.add_argument("--platform", default="facebook", choices=list(INGESTERS))
     ap.add_argument("--since", help="YYYY-MM-DD (default: day after newest already-ported post)")
     ap.add_argument("--until", help="YYYY-MM-DD")
-    ap.add_argument("--min-chars", type=int, default=300, help="minimum length, URLs excluded (default 300)")
+    ap.add_argument("--min-chars", type=int, default=0, help="also require this many characters (default 0)")
     ap.add_argument("--tz", help="IANA timezone for post times (default: this computer's)")
     ap.add_argument("--list", action="store_true", help="print candidates and exit")
     ap.add_argument("--all", action="store_true", help="write all candidates, no selection page")
@@ -428,23 +583,48 @@ def main():
     ap.add_argument("--posts-dir", default=str(POSTS_DIR))
     ap.add_argument("--images-dir", default=str(IMAGES_DIR))
     ap.add_argument("--ledger", default=str(LEDGER))
+    ap.add_argument("--live-posts-dir", default=str(LIVE_POSTS_DIR), help="where --promote puts posts")
+    ap.add_argument("--live-images-dir", default=str(LIVE_IMAGES_DIR), help="where --promote puts images")
+    ap.add_argument("--vocab", action="store_true", help="print your existing tag vocabulary (most used first) and exit")
+    ap.add_argument("--report", metavar="MANIFEST", help="MANIFEST.json -> REVIEW.md (next to it) and exit")
     ap.add_argument("--port", type=int, default=8765)
     ap.add_argument("--no-open", action="store_true")
     args = ap.parse_args()
 
+    if args.promote:
+        return promote(args)
+    if args.vocab:
+        print("\n".join(tag_vocab(400)))
+        return
+    if args.report:
+        return write_report(args.report, Path(args.report).with_name("REVIEW.md"))
+    if not args.export:
+        ap.error("--export is required")
     tz = ZoneInfo(args.tz) if args.tz else None
     seen = load_ledger(args.ledger)
     since = date.fromisoformat(args.since) if args.since else default_since(seen)
     until = date.fromisoformat(args.until) if args.until else None
 
     posts = INGESTERS[args.platform](args.export, tz)
-    cands = filter_posts(posts, since, until, args.min_chars, seen, args.include_seen)
-    print(f"{len(posts)} posts in export; {len(cands)} match "
-          f"(since {since or 'start'}, until {until or 'now'}, >= {args.min_chars} chars)")
+    cands = filter_posts(posts, since, until, args.min_chars, seen, args.include_seen, args.min_words)
+    span = f"{min(p.ts for p in posts):%Y-%m-%d} to {max(p.ts for p in posts):%Y-%m-%d}" if posts else "empty"
+    print(f"{len(posts)} posts in export ({span}); {len(cands)} match "
+          f"(since {since or 'start'}, until {until or 'now'}, >= {args.min_words} words)")
+    if args.apply:
+        print(apply_manifest(args.apply, posts, args))
+        return
+    if args.dump:
+        if Path(args.dump).exists() and not args.force:
+            sys.exit(f"{args.dump} already exists (it may hold your review work). "
+                     "Pick another name, or pass --force to overwrite.")
+        dump_manifest(cands, args.dump, {"export": Path(args.export).name, "since": str(since),
+                                          "min_words": args.min_words, "tz": args.tz})
+        print(f"wrote {len(cands)} candidates to {args.dump}")
+        return
 
     if args.list:
         for p in cands:
-            print(f"{p.ts:%Y-%m-%d}  {body_len(p.text):5d} chars  {len(p.media)} img  {p.text[:70]!r}")
+            print(f"{p.ts:%Y-%m-%d}  {body_words(p.text):5d} words ({outside_words(p.text):4d} outside {{{{{{}}}}}})  {len(p.media)} img  {p.text[:60]!r}")
         return
     if not cands:
         return

@@ -23,3 +23,6 @@ README-tailscale*.md
 README-qnap*.md
 *qnap*.sh
 *tailscale*.sh
+
+# Pipeline staging (reviewed, then promoted into content/)
+pipeline/staging/

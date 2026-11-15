@@ -28,8 +28,26 @@ yaml_end: true
 > [!note]+ [[2026-11-05-a-bill-to-defeat-supreme-court-corruption|2026-11-05-a bill to defeat supreme court corruption]]
 > I spent several months thinking about this and (sorry, all you AI haterz) a little over fifteen minutes with Claude drafting it: a model bill to hobble corruption on the Supreme Court by (1) requiring complete financial disclosure from all SC justices for their full tenure to date plus the five preceding years, and (2) sending any findings that a justice knowingly and willfully refused to comply, or filed materially false or incomplete information, to Congress for possible impeachment. *We can do this!*
 
+> [!note]+ [[2026-10-27-the-israeli-election|The Israeli election]]
+> a short analysis of the Israeli election
+
+> [!note]+ [[2026-10-27-admin-bloat-and-what-universities-do|Admin bloat and what universities do]]
+> “admin bloat” critiques of universities forget most of what universities do
+
+> [!note]+ [[2026-10-21-humanities-critiques-of-ai|Humanities critiques of AI]]
+> why humanities critiques of AI feel intellectually bankrupt
+
+> [!note]+ [[2026-10-12-jacobin-and-the-missing-decades-of-the-paperback|Jacobin and the missing decades of the paperback]]
+> Jacobin’s history of the paperback minus any history
+
+> [!note]+ [[2026-10-10-ai-in-the-lineage-of-the-photocopier|AI in the lineage of the photocopier]]
+> photocopiers, faxes, word processors, desktop publishing, OCR, print on demand, AI
+
 > [!note]+ [[2026-09-03-lake-america-doesnt-matter|2026-09-03-lake america doesnt matter]]
 > Offensive? Absolutely. Delusional? Without a doubt. But it won’t kill people.
+
+> [!note]+ [[2026-09-03-ending-the-world-as-a-check-and-balance|Ending the world as a check and balance]]
+> ending the world as the ultimate check and balance, and what happens when deterrence inverts
 
 > [!note]+ [[2026-08-20-adjunctification-aint-all-bad|2026-08-20-adjunctification ain’t all bad]]
 > ostensibly critical coverage of this issue is basically a highbrow version of tradwife rhetoric
@@ -50,11 +68,20 @@ yaml_end: true
 > [!note]+ [[2026-07-29-peeling-in-the-years|2026-07-29-peeling in the years]]
 > the von Hagens estate shouldn’t object to paying such a small sum to suitably inter him
 
+> [!note]+ [[2026-07-25-the-direction-of-dimensional-typography|The direction of dimensional typography]]
+> the orientation of dimensional typography
+
+> [!note]+ [[2026-07-18-the-long-ships-and-the-year-1000|The Long Ships and the year 1000]]
+> reading The Long Ships and thinking about millenarianism around the turn of the millennium
+
 > [!note]+ [[2026-06-26-democratic-centrists-antisemitism-signal-noise|2026-06-26-democratic centrists, antisemitism, signal, noise]]
 > after the NY primaries, people went insane
 
 > [!note]+ [[2026-06-26-victual-signaling-or-makin-the-white-folks-feel-safe|2026-06-26-victual-signaling, or makin the white folks feel safe]]
 > there’s a river of semiotic pink slime coursing through our body politic
+
+> [!note]+ [[2026-06-22-october-on-the-fate-of-cca|October on the fate of CCA]]
+> On October,  on art-school closures
 
 > [!note]+ [[2026-06-19-on-ehud-olmert-on-ethnic-cleansing|2026-06-19 on Ehud Olmert on ethnic cleansing]]
 > a few thoughts on Olmert’s op-ed in *Haaretz*
@@ -70,6 +97,72 @@ yaml_end: true
 
 > [!note]+ [[2026-06-05-ai-and-collectivism|2026-06-05 ai and collectivism]]
 > The way we glue these questions together is the essence of political economy
+
+> [!note]+ [[2026-04-30-the-minority-partys-job|The minority party's job]]
+> a Dem Party *now* that’s strategically planning
+
+> [!note]+ [[2026-04-21-the-two-swords|The two swords]]
+> forty years and two swords
+
+> [!note]+ [[2026-04-15-the-yale-report-on-trust-in-higher-education|The Yale report on trust in higher ed]]
+> a few thoughts reading on the Yale report
+
+> [!note]+ [[2026-04-15-continuity-or-discontinuity|Continuity or discontinuity?]]
+> a fork in the road, and one branch leads in a circle
+
+> [!note]+ [[2026-04-09-satoshi-cypherpunks-and-java|Satoshi, Cypherpunks, and Java]]
+> The days of Satoshi’s anonymity are probably numbered
+
+> [!note]+ [[2026-04-04-the-alt-national-park-service-and-the-missing-democratic-strategy|on “alt” / “rogue”  federal agency accounts]]
+> “Alt” and “Rogue” federal agency accounts are fine, but don’t set much store in them
+
+> [!note]+ [[2026-04-01-the-fantasy-of-war-with-china|The fantasy of war with China]]
+> war with China is a delusion
+
+> [!note]+ [[2026-03-19-je-suis-iranien|je suis iranien]]
+> why formulas like “I stand with the people of Iran’ isn’t enough
+
+> [!note]+ [[2026-03-12-decommissioned-minesweepers|Whither our minesweepers]]
+> minesweeper srs wtf
+
+> [!note]+ [[2026-03-10-antisemitism-antisemitism-and-antisemitism|antisemitism, “antisemitism”, and ‘“antisemitism”’]]
+> antisemitism as idea, as word, and and as phenomenon
+
+> [!note]+ [[2026-03-08-genocide-as-shibboleth|“Genocide” as shibboleth]]
+> how genocide" became a shibboleth for the US left
+
+> [!note]+ [[2026-03-07-the-aircraft-carrier-that-cant-turn|Drone swarms and the aircraft carrier that can't turn]]
+> this war will mark the true end of the “pax americana”
+
+> [!note]+ [[2026-02-23-nuclear-subs-and-greenland|Nuclear subs and Greenland]]
+> what’s Greenland got to do with  the scale of US nuclear sub ops
+
+> [!note]+ [[2026-02-19-the-epstein-files-and-the-personnel-records|The Epstein files and personnel records]]
+> what claims about reviewing the Epstein files suggests about DOJ personnel records
+
+> [!note]+ [[2026-02-09-bad-bunnys-bildungshalftimeshow|Bad Bunny Bildungshalftimeshow]]
+> Bad Bunny's halftime show is a new genre
+
+> [!note]+ [[2026-01-22-men-men-men|Men Men Men]]
+> a reply on shifting sexual and gender norms and who gets to define them
+
+> [!note]+ [[2026-01-18-liberalism-at-the-breaking-point|Liberalism at the breaking point]]
+> liberalism's exhaustion, zombie institutions, and more
+
+> [!note]+ [[2025-12-14-against-active-shooter|Against “active shooter”]]
+> let’s make “active shooter” go away
+
+> [!note]+ [[2025-12-11-who-is-speaking-out-at-the-new-school|Who’s speaking out at the New School]]
+> who is and isn't protesting the New School cuts, and what that says and may not say
+
+> [!note]+ [[2025-12-11-tallahassee-its-firefighters-and-city-hall|Tallahassee, its firefighters, and city hall]]
+> Tallahassee's city government, its fire department, and some modest grassroots politics
+
+> [!note]+ [[2025-12-10-the-new-school-and-gothamists-tired-tropes|The New Schooland Gothamist's tired tropes]]
+> notes on a Gothamist story about the New School
+
+> [!note]+ [[2025-11-08-on-the-nyc-ballot-initiatives|On the NYC ballot initiatives]]
+> why NYC's ballot initiatives were hard to evaluate, and why it matters
 
 > [!note]+ [[2024-06-04-israel-and-the-columbia-law-review|2024-06-04 Israel and the Columbia Law Review]]
 > a short essay written two years ago about Israel and Columbia Law

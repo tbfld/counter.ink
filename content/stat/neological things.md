@@ -4,7 +4,7 @@ title: neological things
 description: misc words and phrases I’ve (thought I) coined
 extract:
 created: 2025-08-08 14:24
-updated: 2026-01-20 12:25
+updated: 2026-11-24 19:26
 author: tb
 images: false
 order:
