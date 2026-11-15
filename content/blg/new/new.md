@@ -28,6 +28,9 @@ yaml_end: true
 > [!note]+ [[2026-11-05-a-bill-to-defeat-supreme-court-corruption|2026-11-05-a bill to defeat supreme court corruption]]
 > I spent several months thinking about this and (sorry, all you AI haterz) a little over fifteen minutes with Claude drafting it: a model bill to hobble corruption on the Supreme Court by (1) requiring complete financial disclosure from all SC justices for their full tenure to date plus the five preceding years, and (2) sending any findings that a justice knowingly and willfully refused to comply, or filed materially false or incomplete information, to Congress for possible impeachment. *We can do this!*
 
+> [!note]+ [[2026-11-14-uss-south-dakota-mystery|The Curious Case of the USS South Dakota]]
+> We think of subs in cinematic terms (what other sources do we have?), but a better analogy for an arctic command would be playing two games of MarioKart at the same time — one right side up and one upside down.
+
 > [!note]+ [[2026-10-27-the-israeli-election|The Israeli election]]
 > a short analysis of the Israeli election
 
