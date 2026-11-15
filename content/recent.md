@@ -35,13 +35,18 @@ yaml_end: true
 > [[2026-10-27-the-israeli-election|The Israeli election]] (2026-10-27) ~ [[2026-10-27-admin-bloat-and-what-universities-do|Admin bloat and what universities do]] (2026-10-27) ~ [[2026-10-21-humanities-critiques-of-ai|Humanities critiques of AI]] (2026-10-21) ~ [[2026-10-12-jacobin-and-the-missing-decades-of-the-paperback|Jacobin and the missing decades of the paperback]] (2026-10-12) ~ [[2026-10-10-ai-in-the-lineage-of-the-photocopier|AI in the lineage of the photocopier]] (2026-10-10) ~ [[2026-09-03-ending-the-world-as-a-check-and-balance|Ending the world as a check and balance]] (2026-09-03) ~ [[2026-07-25-the-direction-of-dimensional-typography|The direction of dimensional typography]] (2026-07-25) ~ [[2026-07-18-the-long-ships-and-the-year-1000|The Long Ships and the year 1000]] (2026-07-18) ~ [[2026-06-22-october-on-the-fate-of-cca|October on the fate of CCA]] (2026-06-22) ~ [[2026-04-30-the-minority-partys-job|The minority party's job]] (2026-04-30) ~ [[2026-04-21-the-two-swords|The two swords]] (2026-04-21) ~ [[2026-04-15-the-yale-report-on-trust-in-higher-education|The Yale report on trust in higher ed]] (2026-04-15) ~ [[2026-04-15-continuity-or-discontinuity|Continuity or discontinuity?]] (2026-04-15) ~ [[2026-04-09-satoshi-cypherpunks-and-java|Satoshi, Cypherpunks, and Java]] (2026-04-09) ~ [[2026-04-04-the-alt-national-park-service-and-the-missing-democratic-strategy|on “alt” / “rogue”  federal agency accounts]] (2026-04-04) ~ [[2026-04-01-the-fantasy-of-war-with-china|The fantasy of war with China]] (2026-04-01) ~ [[2026-03-19-je-suis-iranien|je suis iranien]] (2026-03-19) ~ [[2026-03-12-decommissioned-minesweepers|Whither our minesweepers]] (2026-03-12) ~ [[2026-03-10-antisemitism-antisemitism-and-antisemitism|antisemitism, “antisemitism”, and ‘“antisemitism”’]] (2026-03-10) ~ [[2026-03-08-genocide-as-shibboleth|“Genocide” as shibboleth]] (2026-03-08) ~ [[2026-03-07-the-aircraft-carrier-that-cant-turn|Drone swarms and the aircraft carrier that can't turn]] (2026-03-07) ~ [[2026-02-23-nuclear-subs-and-greenland|Nuclear subs and Greenland]] (2026-02-23) ~ [[2026-02-19-the-epstein-files-and-the-personnel-records|The Epstein files and personnel records]] (2026-02-19) ~ [[2026-02-09-bad-bunnys-bildungshalftimeshow|Bad Bunny Bildungshalftimeshow]] (2026-02-09) ~ [[2026-01-22-men-men-men|Men Men Men]] (2026-01-22) ~ [[2026-01-18-liberalism-at-the-breaking-point|Liberalism at the breaking point]] (2026-01-18) ~ [[2025-12-14-against-active-shooter|Against “active shooter”]] (2025-12-14) ~ [[2025-12-11-who-is-speaking-out-at-the-new-school|Who’s speaking out at the New School]] (2025-12-11) ~ [[2025-12-11-tallahassee-its-firefighters-and-city-hall|Tallahassee, its firefighters, and city hall]] (2025-12-11) ~ [[2025-12-10-the-new-school-and-gothamists-tired-tropes|The New School and Gothamist's tired tropes]] (2025-12-10) ~ [[2025-11-08-on-the-nyc-ballot-initiatives|On the NYC ballot initiatives]] (2025-11-08)
 ***
 
+
+***2026-11-14:*** [Superdark Factory: toward the full automation of software](https://superdark.antikythera.org/) (🎩 FS)
+
+***2026-11-14:*** [Ocean depth map](https://quantrar.com/ocean-depth-map/)
+
 ***2026-11-14:*** [Toothbrush ATC: US air traffic on a toothbrush CPU](https://faa.caseyhandmer.com/)
 
 ***
 
 ***2026-11-13:*** [Are AI bots running these Philly and NJ news sites?](https://billypenn.com/2026/11/11/ai-slop-local-news-philadelphia-new-jersey/)
 
-***2026-11-13:*** [Sean Jacobs](https://africasacountry.com/author/sean-jacobs) in *Jaobin*: [El-Sayed’s Sports Fluency Is a Political Asset](https://jacobin.com/2026/11/el-sayed-sports-politics-progressives)
+***2026-11-13:*** [Sean Jacobs](https://africasacountry.com/author/sean-jacobs) in *Jacobin*: [El-Sayed’s Sports Fluency Is a Political Asset](https://jacobin.com/2026/11/el-sayed-sports-politics-progressives)
 
 ***2026-11-13:*** [Jacqueline Soohen on MUBI](https://mubi.com/en/cast/jacqueline-soohen)
 
