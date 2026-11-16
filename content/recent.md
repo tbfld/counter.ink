@@ -29,6 +29,22 @@ yaml_end: true
 > [!note]+ [[2026-11-05-a-bill-to-defeat-supreme-court-corruption|2026-11-05-a bill to defeat Supreme Court corruption]]
 > I spent several months thinking about this and (sorry, all you AI haterz) a little over fifteen minutes with Claude drafting it: a model bill to hobble corruption on the Supreme Court by (1) requiring complete financial disclosure from all SC justices for their full tenure to date plus the five preceding years, and (2) sending any findings that a justice knowingly and willfully refused to comply, or filed materially false or incomplete information, to Congress for possible impeachment. *We can do this!*
 
+***2026-11-16:*** [(7) Claudia (@claudia_popstar) / X](https://x.com/claudia_popstar)
+
+***2026-11-16:*** [The Lasting Influence of John Berger | The New Yorker](https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review?utm_source=facebook&utm_medium=social&utm_campaign=dhfacebook&utm_content=app.dashsocial.com%2Fnewyorkermag%2Flibrary%2Fmedia%2F746168314)
+
+***2026-11-16:*** [The Best Case Against Schumer and Jeffries Is Geography, Not Ideology | The New Republic](https://newrepublic.com/article/218012/schumer-jeffries-democrats-leader-geography-ideology?utm_source=social&utm_medium=facebook&utm_campaign=sharebtn)
+
+***2026-11-16:*** [A New Wave of Neo-Nazi Accelerationism is Rising - Global Project Against Hate and Extremism](https://globalextremism.org/post/neo-nazi-accelerationism-is-rising/)
+
+***
+
+***2026-11-15:*** Sally Mju in *PRoB*: [Marx Is Still the Number One Sociologist](https://pghrev.com/marx-is-still-the-number-one-sociologist/) ✊🏼 🐯
+
+***
+
+> [!tip]- ***NEW!*** Seventeen shorter posts from Nov 2025 through Oct 2026: 
+> [[2026-10-27-open-everything-until-it-isnt|Open everything, until it isn’t]] (2026-10-27) ~ [[2026-10-19-locating-girlhood-at-the-american-folk-art-museum|Locating Girlhood at the American Folk Art Museum]] (2026-10-19) ~ [[2026-09-09-the-lost-craft-of-editing|The lost craft of editing]] (2026-09-09) ~ [[2026-09-03-steinem-and-the-cia-in-context|Steinem and the CIA, in context]] (2026-09-03) ~ [[2026-09-02-periodization-is-everything|If you know the world could end at any minute, there’s no need to hurry]] (2026-09-02) ~ [[2026-08-21-depleting-the-us|Depleting the US]] (2026-08-21) ~ [[2026-07-26-incrementalism-by-experience|Incrementalism, by experience]] (2026-07-26) ~ [[2026-07-11-breakaway-street-sign-posts|Flock cameras and breakaway signposts]] (2026-07-11) ~ [[2026-06-16-a-new-university-in-exile|A New new university in exile]] (2026-06-16) ~ [[2026-06-09-listening-to-the-radio|Listening to the radio, RIP]] (2026-06-09) ~ [[2026-05-22-research-that-should-be-off-limits|Research that should be off-limits]] (2026-05-22) ~ [[2026-04-08-nyt-on-back-as-satoshi-article|The NYT on Adam Back-as-Satoshi]] (2026-04-08) ~ [[2026-02-19-hate-crimes-and-the-problem-of-classes|Hate crimes and the problem of classes]] (2026-02-19) ~ [[2025-12-22-criminals-of-deliberation|Criminals of deliberation]] (2025-12-22) ~ [[2025-12-07-saic-the-video-data-bank-and-the-new-school|SAIC, the Video Data Bank, and art schools in general]] (2025-12-07) ~ [[2025-11-26-what-the-democrats-should-announce|What the Democrats should announce]] (2025-11-26) ~ [[2025-11-16-holocaust-revisionism-and-the-age-of-ai-fakes|Holocaust revisionism and the age of AI fakes]] (2025-11-16)
 ***
 
 > [!tip]- ***NEW!*** Thirty-one long-form posts from Nov 2025 through Oct 2026: 
@@ -73,7 +89,7 @@ yaml_end: true
 
 ***2026-11-09:*** [Why Yemen and Oman are so different (YT vid)](https://www.youtube.com/watch?v=ufKqXnzGBm8)
 
-***2026-11-09:*** Paulina Porizkova: [Why I Now Call Myself a Feminist]([https://archive.li/8GBuO](http://archive.today/2026.11.09-102528/https://www.nytimes.com/2026/11/09/opinion/paulina-porizkova-nyt-175.html)) (NYT, depaywalled)
+***2026-11-09:*** Paulina Porizkova: [Why I Now Call Myself a Feminist](http://archive.today/2026.11.09-102528/https://www.nytimes.com/2026/11/09/opinion/paulina-porizkova-nyt-175.html) (NYT, depaywalled)
 
 ***2026-11-09:*** [Michael Braungart, “Climate neutral, child-neutral, democracy-neutral”)](https://taz.de/Kreislaufwirtschaft/!6216561/) (auf Deutsch; 🎩 FC)
 
@@ -153,6 +169,9 @@ yaml_end: true
 
 ***
 
+> [!note]+ [[2026-10-27-open-everything-until-it-isnt|Open everything, until it isn’t]]
+> punishments that keep pace with inflation
+
 > [!note]+ [[2026-10-27-admin-bloat-and-what-universities-do|Admin bloat and what universities do]]
 > “admin bloat” critiques of universities forget most of what universities do
 
@@ -215,6 +234,9 @@ yaml_end: true
 > why humanities critiques of AI feel intellectually bankrupt
 
 ***
+
+> [!note]+ [[2026-10-19-locating-girlhood-at-the-american-folk-art-museum|Locating Girlhood at the American Folk Art Museum]]
+> a don’t-miss exhibition of early American schoolgirl art
 
 ***2026-10-19:*** *Foreign Affairs*: [Iran’s Theory of Victory](https://www.foreignaffairs.com/iran/irans-theory-victory)
 
@@ -444,6 +466,11 @@ yaml_end: true
 
 ***
 
+> [!note]+ [[2026-09-09-the-lost-craft-of-editing|The lost craft of editing]]
+> why we need editors and why we don’t
+
+***
+
 ***2026-09-06:*** [Mike Leigh on the East Ender who brought world cinema to the UK](https://www.theguardian.com/film/2026/sep/01/mike-leigh-contemporary-films-charles-cooper-bfi) (🎩 JH)
 
 ***2026-09-06:*** [Gloria Steinem 1965 Interview with Dorothy Parker](https://dorothyparker.com/2020/10/gloria-steinem-interview.html)
@@ -476,6 +503,9 @@ yaml_end: true
 
 ***
 
+> [!note]+ [[2026-09-03-steinem-and-the-cia-in-context|Steinem and the CIA, in context]]
+> against the copy-paste wing of the left
+
 > [!note]+ [[2026-09-03-ending-the-world-as-a-check-and-balance|Ending the world as a check and balance]]
 > ending the world as the ultimate check and balance, and what happens when deterrence inverts
 
@@ -493,6 +523,9 @@ yaml_end: true
 ***2026-09-03:*** [Bosnia's forgotten war is still with us](https://www.atlanticcouncil.org/content-series/the-big-story/bosnias-forgotten-war-is-still-with-us/)
 
 ***
+
+> [!note]+ [[2026-09-02-periodization-is-everything|If you know the world could end at any minute, there’s no need to hurry]]
+> how we slice and dice time
 
 ***2026-09-02:*** [Matt Stoller on the history of the LSAT](www.thebignewsletter.com/p/the-law-school-admissions-racket)
 
@@ -581,6 +614,9 @@ yaml_end: true
 ***2026-08-22:***  [Laura Kipnis reviews *Against Affect*](https://criticalinquiry.uchicago.edu/laura_kipnis_reviews_against_affect/) (🎩 LK)
 
 ***
+
+> [!note]+ [[2026-08-21-depleting-the-us|Depleting the US]]
+> The Big Ugly Bill the next administration will inherit
 
 ***2026-08-21:*** [Substack Collapse]()
 
@@ -786,6 +822,11 @@ yaml_end: true
 
 ***
 
+> [!note]+ [[2026-07-26-incrementalism-by-experience|Incrementalism, by experience]]
+> incremental and abrupt change, from Bernie to DOGE
+
+***
+
 > [!note]+ [[2026-07-25-the-direction-of-dimensional-typography|The direction of dimensional typography]]
 > the orientation of dimensional typography
 
@@ -891,6 +932,11 @@ yaml_end: true
 ***
 
 \[*vacay*]
+
+***
+
+> [!note]+ [[2026-07-11-breakaway-street-sign-posts|Flock cameras and breakaway signposts]]
+> Flock hardware fails a basic safety standard
 
 ***
 
@@ -1055,6 +1101,9 @@ yaml_end: true
 
 ***
 
+> [!note]+ [[2026-06-16-a-new-university-in-exile|A New new university in exile]]
+> the New School needs to go into exile again
+
 ***2026-06-16:*** Alex Ross, [Jürgen Habermas Defended Reason in a Darkening Age](http://archive.today/2026.06.15-101044/https://www.newyorker.com/magazine/2026/06/22/jurgen-habermas-desperate-fight-for-democracy)
 
 ***2026-06-16:*** [Why is Britain's economy becoming unfixable?](https://youtu.be/NbFI5vbIGfI) (20-minute video)
@@ -1111,6 +1160,11 @@ yaml_end: true
 ***2026-06-10:*** [Ultimate Web Scraper](https://chromewebstore.google.com/detail/ultimate-web-scraper/pdeldjlcnhallaapdggcmhpailpnnkmg) (for Chrome)
 
 ***2026-06-10:*** [German court holds Google’s liable for its AI-generated lies](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
+
+***
+
+> [!note]+ [[2026-06-09-listening-to-the-radio|Listening to the radio, RIP]]
+> listening to the radio used to be easy and fun
 
 ***
 
@@ -1261,6 +1315,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-05-23:*** [*Inscription: The Journal of Material Text — Theory, Practice, History*](https://inscriptionjournal.com/)
 
 ***
+
+> [!note]+ [[2026-05-22-research-that-should-be-off-limits|Research that should be off-limits]]
+> We need principles to distinguishe ideas that should never be pursued?
 
 ***2026-05-22:*** [AI and New York City’s Fiscal Future](https://comptroller.nyc.gov/reports/ai-and-new-york-citys-fiscal-future/) seems overly optimistic
 
@@ -1564,6 +1621,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2026-04-09:*** Nils Gilman, “[Electrostates vs. Petrostates](http://archive.today/2026.03.31-102123/https://foreignpolicy.com/2026/03/23/climate-change-world-order-green-transition-fossil-fuel/)” (paint me skeptical)
 
 ***
+
+> [!note]+ [[2026-04-08-nyt-on-back-as-satoshi-article|The NYT on Adam Back-as-Satoshi]]
+> as if the cypherpunks weren’t aware of “stylometry”
 
 ***2026-04-08:*** Alejandra Caraballo, “[The Last Bit of Normal](https://www.thedissident.news/the-last/)”
 
@@ -1958,6 +2018,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
 ***
 
+> [!note]+ [[2026-02-19-hate-crimes-and-the-problem-of-classes|Hate crimes and the problem of classes]]
+> US hate-crime law defines victims by category, which misses the cases that matter most
+
 > [!note]+ [[2026-02-19-the-epstein-files-and-the-personnel-records|The Epstein files and personnel records]]
 > what claims about reviewing the Epstein files suggests about DOJ personnel records
 
@@ -2232,6 +2295,11 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
 ***
 
+> [!note]+ [[2025-12-22-criminals-of-deliberation|Criminals of deliberation]]
+> how do you deter a trillionaire?
+
+***
+
 ***2025-12-16:*** Jaro on [Longfellow-ZK](https://news.dyne.org/the-birth-of-zkcc/)
 
 ***
@@ -2260,6 +2328,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
 ***
 
+> [!note]+ [[2025-12-07-saic-the-video-data-bank-and-the-new-school|SAIC, the Video Data Bank, and art schools in general]]
+> we need a broader analysis of how and why art / design schools are failing
+
 ***2025-12-07:*** [Cyber Ciani](https://miai.musif.eu/cyber-ciani/)
 
 ***
@@ -2277,6 +2348,9 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***2025-11-29:*** [Poor Theory](https://uchri.org/foundry/poor-theory/) (🎩 SXW)
 
 ***
+
+> [!note]+ [[2025-11-26-what-the-democrats-should-announce|What the Democrats should announce]]
+> we need a platform for fixing what Trump broke
 
 ***2025-11-26:*** Hyman Rickover’s [rules for govt management](https://www.nr-ha.org/books-sources/management-magazine-rickover-on-management)
 
@@ -2299,6 +2373,11 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 ***
 
 ***2025-11-18:*** Seemingly legit tool for [sandboxing attachments](https://dangerzone.rocks/about/)
+
+***
+
+> [!note]+ [[2025-11-16-holocaust-revisionism-and-the-age-of-ai-fakes|Holocaust revisionism and the age of AI fakes]]
+> AI slop and the new past(s)
 
 ***
 

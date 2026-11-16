@@ -79,6 +79,16 @@
     "file": "pipeline/staging/posts/2025-12-11-who-is-speaking-out-at-the-new-school.md",
     "platform": "facebook"
   },
+  "fb-2ecafdfc4beb": {
+    "date": "2026-07-11",
+    "file": "pipeline/staging/posts/2026-07-11-breakaway-street-sign-posts.md",
+    "platform": "facebook"
+  },
+  "fb-2f3a1d03727d": {
+    "date": "2026-06-09",
+    "file": "pipeline/staging/posts/2026-06-09-listening-to-the-radio.md",
+    "platform": "facebook"
+  },
   "fb-3097aa3a95fd": {
     "date": "2026-05-31",
     "platform": "facebook",
@@ -94,6 +104,11 @@
     "platform": "facebook",
     "status": "skipped"
   },
+  "fb-39e462bfae12": {
+    "date": "2026-05-22",
+    "file": "pipeline/staging/posts/2026-05-22-research-that-should-be-off-limits.md",
+    "platform": "facebook"
+  },
   "fb-3cc64fe54c0e": {
     "date": "2026-09-03",
     "platform": "facebook",
@@ -103,6 +118,11 @@
     "date": "2026-06-26",
     "platform": "facebook",
     "status": "skipped"
+  },
+  "fb-473a2bf9cc77": {
+    "date": "2026-09-02",
+    "file": "pipeline/staging/posts/2026-09-02-periodization-is-everything.md",
+    "platform": "facebook"
   },
   "fb-5494f0a62ce5": {
     "date": "2025-12-19",
@@ -118,6 +138,11 @@
     "date": "2025-12-23",
     "platform": "facebook",
     "status": "skipped"
+  },
+  "fb-5f6c514ce20a": {
+    "date": "2026-10-19",
+    "file": "pipeline/staging/posts/2026-10-19-locating-girlhood-at-the-american-folk-art-museum.md",
+    "platform": "facebook"
   },
   "fb-69a768f19924": {
     "date": "2026-10-12",
@@ -174,6 +199,11 @@
     "file": "pipeline/staging/posts/2026-02-19-the-epstein-files-and-the-personnel-records.md",
     "platform": "facebook"
   },
+  "fb-89dbc25e0cdc": {
+    "date": "2026-02-19",
+    "file": "pipeline/staging/posts/2026-02-19-hate-crimes-and-the-problem-of-classes.md",
+    "platform": "facebook"
+  },
   "fb-8cf1b3429cb7": {
     "date": "2026-10-27",
     "file": "pipeline/staging/posts/2026-10-27-admin-bloat-and-what-universities-do.md",
@@ -198,6 +228,11 @@
     "date": "2025-12-22",
     "platform": "facebook",
     "status": "skipped"
+  },
+  "fb-a52153e7d26e": {
+    "date": "2026-10-27",
+    "file": "pipeline/staging/posts/2026-10-27-open-everything-until-it-isnt.md",
+    "platform": "facebook"
   },
   "fb-a75c197ef5b0": {
     "date": "2025-12-10",
@@ -224,6 +259,16 @@
     "file": "pipeline/staging/posts/2026-03-08-genocide-as-shibboleth.md",
     "platform": "facebook"
   },
+  "fb-b959a2b94160": {
+    "date": "2025-11-16",
+    "file": "pipeline/staging/posts/2025-11-16-holocaust-revisionism-and-the-age-of-ai-fakes.md",
+    "platform": "facebook"
+  },
+  "fb-bb80fa8c3bdd": {
+    "date": "2025-12-07",
+    "file": "pipeline/staging/posts/2025-12-07-saic-the-video-data-bank-and-the-new-school.md",
+    "platform": "facebook"
+  },
   "fb-be5cb71d1920": {
     "date": "2026-10-24",
     "platform": "facebook",
@@ -244,6 +289,11 @@
     "platform": "facebook",
     "status": "skipped"
   },
+  "fb-c479b7995217": {
+    "date": "2026-04-08",
+    "file": "pipeline/staging/posts/2026-04-08-the-nyts-back-as-satoshi-article.md",
+    "platform": "facebook"
+  },
   "fb-cccb6019aca5": {
     "date": "2026-10-21",
     "file": "pipeline/staging/posts/2026-10-21-humanities-critiques-of-ai.md",
@@ -253,6 +303,11 @@
     "date": "2026-09-10",
     "platform": "facebook",
     "status": "skipped"
+  },
+  "fb-d29724265c27": {
+    "date": "2025-12-22",
+    "file": "pipeline/staging/posts/2025-12-22-criminals-of-deliberation.md",
+    "platform": "facebook"
   },
   "fb-d467cc9b24b4": {
     "date": "2026-04-15",
@@ -264,10 +319,30 @@
     "file": "pipeline/staging/posts/2025-11-23-cleaning-up-the-digital-rats-nests.md",
     "platform": "facebook"
   },
+  "fb-d9f2ba47c98f": {
+    "date": "2025-11-26",
+    "file": "pipeline/staging/posts/2025-11-26-what-the-democrats-should-announce.md",
+    "platform": "facebook"
+  },
+  "fb-dc47272ed973": {
+    "date": "2026-10-05",
+    "file": "pipeline/staging/posts/2026-10-05-pseudonyms-for-academic-authors.md",
+    "platform": "facebook"
+  },
+  "fb-e17274240d1e": {
+    "date": "2026-09-09",
+    "file": "pipeline/staging/posts/2026-09-09-the-lost-craft-of-editing.md",
+    "platform": "facebook"
+  },
   "fb-e32828e51476": {
     "date": "2026-07-30",
     "platform": "facebook",
     "status": "skipped"
+  },
+  "fb-e7d1597213eb": {
+    "date": "2026-09-03",
+    "file": "pipeline/staging/posts/2026-09-03-steinem-and-the-cia-in-context.md",
+    "platform": "facebook"
   },
   "fb-e93e3604e54c": {
     "date": "2026-04-01",
@@ -277,6 +352,16 @@
   "fb-ec8e4245e088": {
     "date": "2026-04-15",
     "file": "pipeline/staging/posts/2026-04-15-continuity-or-discontinuity.md",
+    "platform": "facebook"
+  },
+  "fb-eccda57aafba": {
+    "date": "2026-07-26",
+    "file": "pipeline/staging/posts/2026-07-26-incrementalism-by-experience.md",
+    "platform": "facebook"
+  },
+  "fb-f1c8c6acfe3d": {
+    "date": "2026-06-16",
+    "file": "pipeline/staging/posts/2026-06-16-a-new-university-in-exile.md",
     "platform": "facebook"
   },
   "fb-f2bb477589cf": {
@@ -292,6 +377,11 @@
   "fb-f9a889e7204b": {
     "date": "2026-07-18",
     "file": "pipeline/staging/posts/2026-07-18-the-long-ships-and-the-year-1000.md",
+    "platform": "facebook"
+  },
+  "fb-fbcd75e3e99c": {
+    "date": "2026-08-21",
+    "file": "pipeline/staging/posts/2026-08-21-depleting-the-us.md",
     "platform": "facebook"
   },
   "fb-fd971b3dfcba": {

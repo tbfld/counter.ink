@@ -35,6 +35,7 @@ from zoneinfo import ZoneInfo
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent
 LIVE_POSTS_DIR = REPO / "content" / "blg" / "new"
+FB_URL_PLACEHOLDER = "FB-URL-TODO"
 LIVE_IMAGES_DIR = REPO / "content" / "blg" / "new" / "new_images"
 # Output goes to a staging area OUTSIDE content/ first (the repo auto-syncs/publishes
 # content/), then --promote moves reviewed files into the live folders.
@@ -339,6 +340,8 @@ def emit(selected, args):
         embeds = "\n".join(f"![[{n_}]]" for n_ in names)
         extra = [u for u in dict.fromkeys(post.links) if u not in post.text]
         parts = []
+        # The FB export has no permalink for your own posts: paste the URL over the placeholder (or set "fb_url" in the manifest).
+        parts.append(f"\\[Orig to [FB]({clean(sel.get('fb_url')) or FB_URL_PLACEHOLDER})]")
         if embeds and args.images_at == "top":
             parts.append(embeds)
         if post.text:

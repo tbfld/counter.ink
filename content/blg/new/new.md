@@ -37,8 +37,14 @@ yaml_end: true
 > [!note]+ [[2026-10-27-admin-bloat-and-what-universities-do|Admin bloat and what universities do]]
 > “admin bloat” critiques of universities forget most of what universities do
 
+> [!note]+ [[2026-10-27-open-everything-until-it-isnt|Open everything, until it isn’t]]
+> punishments that keep pace with inflation
+
 > [!note]+ [[2026-10-21-humanities-critiques-of-ai|Humanities critiques of AI]]
 > why humanities critiques of AI feel intellectually bankrupt
+
+> [!note]+ [[2026-10-19-locating-girlhood-at-the-american-folk-art-museum|Locating Girlhood at the American Folk Art Museum]]
+> a don’t-miss exhibition of early American schoolgirl art
 
 > [!note]+ [[2026-10-12-jacobin-and-the-missing-decades-of-the-paperback|Jacobin and the missing decades of the paperback]]
 > Jacobin’s history of the paperback minus any history
@@ -46,11 +52,23 @@ yaml_end: true
 > [!note]+ [[2026-10-10-ai-in-the-lineage-of-the-photocopier|AI in the lineage of the photocopier]]
 > photocopiers, faxes, word processors, desktop publishing, OCR, print on demand, AI
 
+> [!note]+ [[2026-09-09-the-lost-craft-of-editing|The lost craft of editing]]
+> why we need editors and why we don’t
+
 > [!note]+ [[2026-09-03-lake-america-doesnt-matter|2026-09-03-lake america doesnt matter]]
 > Offensive? Absolutely. Delusional? Without a doubt. But it won’t kill people.
 
 > [!note]+ [[2026-09-03-ending-the-world-as-a-check-and-balance|Ending the world as a check and balance]]
 > ending the world as the ultimate check and balance, and what happens when deterrence inverts
+
+> [!note]+ [[2026-09-03-steinem-and-the-cia-in-context|Steinem and the CIA, in context]]
+> against the copy-paste wing of the left
+
+> [!note]+ [[2026-09-02-periodization-is-everything|If you know the world could end at any minute, there’s no need to hurry]]
+> how we slice and dice time
+
+> [!note]+ [[2026-08-21-depleting-the-us|Depleting the US]]
+> The Big Ugly Bill the next administration will inherit
 
 > [!note]+ [[2026-08-20-adjunctification-aint-all-bad|2026-08-20-adjunctification ain’t all bad]]
 > ostensibly critical coverage of this issue is basically a highbrow version of tradwife rhetoric
@@ -71,11 +89,17 @@ yaml_end: true
 > [!note]+ [[2026-07-29-peeling-in-the-years|2026-07-29-peeling in the years]]
 > the von Hagens estate shouldn’t object to paying such a small sum to suitably inter him
 
+> [!note]+ [[2026-07-26-incrementalism-by-experience|Incrementalism, by experience]]
+> incremental and abrupt change, from Bernie to DOGE
+
 > [!note]+ [[2026-07-25-the-direction-of-dimensional-typography|The direction of dimensional typography]]
 > the orientation of dimensional typography
 
 > [!note]+ [[2026-07-18-the-long-ships-and-the-year-1000|The Long Ships and the year 1000]]
 > reading The Long Ships and thinking about millenarianism around the turn of the millennium
+
+> [!note]+ [[2026-07-11-breakaway-street-sign-posts|Flock cameras and breakaway signposts]]
+> Flock hardware fails a basic safety standard
 
 > [!note]+ [[2026-06-26-democratic-centrists-antisemitism-signal-noise|2026-06-26-democratic centrists, antisemitism, signal, noise]]
 > after the NY primaries, people went insane
@@ -92,14 +116,23 @@ yaml_end: true
 > [!note]+ [[2026-06-17-a-more-or-less-complete-abdullah-ibrahim-playlist-and-how-i-made-it|2026-06-17 a more or less complete Abdullah Ibrahim playlist and how I made it]]
 >  the closest thing there is to a chronological discography for Ibrahim on Spotify
 
+> [!note]+ [[2026-06-16-a-new-university-in-exile|A New new university in exile]]
+> the New School needs to go into exile again
+
 > [!note]+ [[2026-06-14-latin-american-cybernetic-projects|2026-06-14 Latin American cybernetic projects]]
 > “Cybersyn was one node in a vast number of continental cybernetic projects in the Latin American region that, for roughly two decades, provided ideas on feedback, planning, and modelling that were directly incorporated into State-backed and think-tank projects.”
+
+> [!note]+ [[2026-06-09-listening-to-the-radio|Listening to the radio, RIP]]
+> listening to the radio used to be easy and fun
 
 > [!note]+ [[2026-06-07-angelus-novus-sorta|2026-06-07-angelus novus sorta]]
 > a mawkish fetish that academics identified with to excuse themselves from engaging in serious political struggle
 
 > [!note]+ [[2026-06-05-ai-and-collectivism|2026-06-05 ai and collectivism]]
 > The way we glue these questions together is the essence of political economy
+
+> [!note]+ [[2026-05-22-research-that-should-be-off-limits|Research that should be off-limits]]
+> We need principles to distinguishe ideas that should never be pursued?
 
 > [!note]+ [[2026-04-30-the-minority-partys-job|The minority party's job]]
 > a Dem Party *now* that’s strategically planning
@@ -115,6 +148,9 @@ yaml_end: true
 
 > [!note]+ [[2026-04-09-satoshi-cypherpunks-and-java|Satoshi, Cypherpunks, and Java]]
 > The days of Satoshi’s anonymity are probably numbered
+
+> [!note]+ [[2026-04-08-nyt-on-back-as-satoshi-article|The NYT on Adam Back-as-Satoshi]]
+> as if the cypherpunks weren’t aware of “stylometry”
 
 > [!note]+ [[2026-04-04-the-alt-national-park-service-and-the-missing-democratic-strategy|on “alt” / “rogue”  federal agency accounts]]
 > “Alt” and “Rogue” federal agency accounts are fine, but don’t set much store in them
@@ -143,6 +179,9 @@ yaml_end: true
 > [!note]+ [[2026-02-19-the-epstein-files-and-the-personnel-records|The Epstein files and personnel records]]
 > what claims about reviewing the Epstein files suggests about DOJ personnel records
 
+> [!note]+ [[2026-02-19-hate-crimes-and-the-problem-of-classes|Hate crimes and the problem of classes]]
+> US hate-crime law defines victims by category, which misses the cases that matter most
+
 > [!note]+ [[2026-02-09-bad-bunnys-bildungshalftimeshow|Bad Bunny Bildungshalftimeshow]]
 > Bad Bunny's halftime show is a new genre
 
@@ -151,6 +190,9 @@ yaml_end: true
 
 > [!note]+ [[2026-01-18-liberalism-at-the-breaking-point|Liberalism at the breaking point]]
 > liberalism's exhaustion, zombie institutions, and more
+
+> [!note]+ [[2025-12-22-criminals-of-deliberation|Criminals of deliberation]]
+> how do you deter a trillionaire?
 
 > [!note]+ [[2025-12-14-against-active-shooter|Against “active shooter”]]
 > let’s make “active shooter” go away
@@ -163,6 +205,15 @@ yaml_end: true
 
 > [!note]+ [[2025-12-10-the-new-school-and-gothamists-tired-tropes|The New Schooland Gothamist's tired tropes]]
 > notes on a Gothamist story about the New School
+
+> [!note]+ [[2025-12-07-saic-the-video-data-bank-and-the-new-school|SAIC, the Video Data Bank, and art schools in general]]
+> we need a broader analysis of how and why art / design schools are failing
+
+> [!note]+ [[2025-11-26-what-the-democrats-should-announce|What the Democrats should announce]]
+> we need a platform for fixing what Trump broke
+
+> [!note]+ [[2025-11-16-holocaust-revisionism-and-the-age-of-ai-fakes|Holocaust revisionism and the age of AI fakes]]
+> AI slop and the new past(s)
 
 > [!note]+ [[2025-11-08-on-the-nyc-ballot-initiatives|On the NYC ballot initiatives]]
 > why NYC's ballot initiatives were hard to evaluate, and why it matters
