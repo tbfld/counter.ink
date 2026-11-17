@@ -88,11 +88,13 @@ export default (() => {
     const rawSlug = fileData.slug || slug || ''
     const canonicalPath = rawSlug.replace(/^content\//, '').replace(/\.md$/, '')
     
+    const plainDescription = description.replace(/<[^>]*>/g, "")
+
     const schemaData = {
       "@context": "https://schema.org",
       "@type": "BlogPosting",
       "headline": fileData.frontmatter?.title ?? title.replace(titleSuffix, ''),
-      "description": description,
+      "description": plainDescription,
       "author": {
         "@type": "Person",
         "name": fileData.frontmatter?.author || "ted byfield"
@@ -110,6 +112,8 @@ export default (() => {
       }
     }
 
+    const schemaJson = JSON.stringify(schemaData).replace(/<\/script>/gi, "<\\/script>")
+
     return (
       <head>
         <title>{title}</title>
@@ -119,9 +123,7 @@ export default (() => {
           content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' plausible.io cdnjs.cloudflare.com cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com cdn.jsdelivr.net; img-src 'self' data:; font-src 'self' cdn.jsdelivr.net; connect-src 'self' plausible.io; base-uri 'self'; form-action 'self';"
         />
         {slug && (
-          <script type="application/ld+json">
-            {JSON.stringify(schemaData)}
-          </script>
+          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: schemaJson }} />
         )}
         {cfg.theme.fontOrigin === "local" && (
           <link rel="stylesheet" href="/static/fonts.css" />

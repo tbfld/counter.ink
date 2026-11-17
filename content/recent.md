@@ -527,7 +527,7 @@ yaml_end: true
 > [!note]+ [[2026-09-02-periodization-is-everything|If you know the world could end at any minute, there’s no need to hurry]]
 > how we slice and dice time
 
-***2026-09-02:*** [Matt Stoller on the history of the LSAT](www.thebignewsletter.com/p/the-law-school-admissions-racket)
+***2026-09-02:*** [Matt Stoller on the history of the LSAT](https://www.thebignewsletter.com/p/the-law-school-admissions-racket)
 
 ***2026-09-02:***  Omer Bartov with Arnon Grunberg: [The Stranglehold of Memory](https://www.bostonreview.net/articles/the-stranglehold-of-memory/)
 
@@ -1767,7 +1767,7 @@ in the Humanities and the Humanistic Social Sciences](https://cdn.vanderbilt.edu
 
 ***
 
-***2026-03-26:*** Will Davies: the UK’s “[[Labour-Conservative-Liberal Democrat cartel]]”
+***2026-03-26:*** Will Davies: the UK’s “Labour-Conservative-Liberal Democrat cartel”
 
 ***2026-03-25:*** Richard Seymour, “[The illusions of Machtpolitik](https://www.patreon.com/posts/153860247)” (🎩 JG)
 

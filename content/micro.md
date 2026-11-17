@@ -53,7 +53,7 @@ yaml_end: true
 
 ***2026-03-27:*** [Error 417 Expectation Failed](https://tldr.nettime.org/@Error417), the newsletter
 ***
-***2026-03-26:*** Will Davies: the UK’s “[[Labour-Conservative-Liberal Democrat cartel]]”
+***2026-03-26:*** Will Davies: the UK’s “Labour-Conservative-Liberal Democrat cartel”
 
 ***2026-03-25:*** Richard Seymour, “[The illusions of Machtpolitik](https://www.patreon.com/posts/153860247)” (🎩 JG)
 ***

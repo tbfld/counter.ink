@@ -51,7 +51,7 @@ I write constantly but I never especially wanted to “be” a writer, so most o
 
 [[1999 > Mute — “Not Pale Fire” a review of Michael Light’s book Full Moon]] (*Mute* [London])
 
-[[1999–2001 > the roving_reporter]] on ICANN ([tbtf.com](https://tbtf.com/))
+1999–2001 > the roving_reporter on ICANN ([tbtf.com](https://tbtf.com/))
 
 [[2000 > “Exporting the Apocalypse”]] a review of Lawrence Lessig’s 1999 *Code and Other Laws of Cyberspace* (*Mute* \[London])
 
