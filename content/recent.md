@@ -29,13 +29,53 @@ yaml_end: true
 > [!note]+ [[2026-11-05-a-bill-to-defeat-supreme-court-corruption|2026-11-05-a bill to defeat Supreme Court corruption]]
 > I spent several months thinking about this and (sorry, all you AI haterz) a little over fifteen minutes with Claude drafting it: a model bill to hobble corruption on the Supreme Court by (1) requiring complete financial disclosure from all SC justices for their full tenure to date plus the five preceding years, and (2) sending any findings that a justice knowingly and willfully refused to comply, or filed materially false or incomplete information, to Congress for possible impeachment. *We can do this!*
 
-***2026-11-16:*** [(7) Claudia (@claudia_popstar) / X](https://x.com/claudia_popstar)
+***2026-11-22:*** [METAL MACHINE Music For Airports](https://www.youtube.com/watch?app=desktop&v=17AiDQ2b0ww) (🎩 KF)
 
-***2026-11-16:*** [The Lasting Influence of John Berger | The New Yorker](https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review?utm_source=facebook&utm_medium=social&utm_campaign=dhfacebook&utm_content=app.dashsocial.com%2Fnewyorkermag%2Flibrary%2Fmedia%2F746168314)
+***2026-11-22:*** [“august” on nettime: Heidi Grundmann 1938–2026](https://nettime.org/Lists-Archives/nettime-l-2611/msg00031.html)
 
-***2026-11-16:*** [The Best Case Against Schumer and Jeffries Is Geography, Not Ideology | The New Republic](https://newrepublic.com/article/218012/schumer-jeffries-democrats-leader-geography-ideology?utm_source=social&utm_medium=facebook&utm_campaign=sharebtn)
+***2026-11-22:*** [Ben Fry: Learning from Lombardi (2009/2016)](https://medium.com/@ben_fry/learning-from-lombardi-a28032a7eb5)
 
-***2026-11-16:*** [A New Wave of Neo-Nazi Accelerationism is Rising - Global Project Against Hate and Extremism](https://globalextremism.org/post/neo-nazi-accelerationism-is-rising/)
+***2026-11-22:*** [Kiwi Hellenist: How to make sense of ancient Greek colours](https://kiwihellenist.blogspot.com/2020/05/ancient-greek-colours.html?m=1)
+
+***2026-11-22:*** [John Berger was a voice in GTA](https://www.rockstargames.com/newswire/article/398a4552519kk9/RIP-John-Berger-Famous-British-Novelist-Art-Critic-and-Secret-GTA-Lond)
+
+***2026-11-22:*** [Ethyl Eichelberger's "Fowl Ball" at the Pyramid Club NYC](https://www.youtube.com/watch?app=desktop&v=80ZTIu3Oyqc)
+
+***2026-11-22:*** [*Ear* magazine, an indy about new music and politics, archive 1975–1991)](https://dlib.nyu.edu/ear/)
+
+***2026-11-22:*** [Nuclear-Powered Lighthouses Lined the USSR’s Arctic Coast](https://www.iflscience.com/the-ussr-had-nuclear-powered-lighthouses-lining-its-arctic-coast-and-they-became-as-big-a-problem-as-you-can-imagine-84237)
+
+***
+
+***2026-11-21:*** [Why did the Ottomans wait 284 years to adopt the printing press?](https://themontrealreview.com/Articles/the_ottoman_printing_press_debate.php)
+
+***2026-11-21:*** [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/?link_source=ta_first_comment&taid=6b00c2efc626ea0001147afd&utm_campaign=trueanthem&utm_content=6b00c2eec626ea0001147af5&utm_medium=social&utm_source=facebook)
+
+***
+
+***2026-11-20:*** Justin Jin, [Transitus Sonorum](https://confluence.gallatin.nyu.edu/sections/portfolio/transitus-sonorum) (🎩 KH)
+
+***2026-11-20:*** [Meaning without reference in large language models | alphaXiv](https://www.alphaxiv.org/abs/2208.02957) (🎩 WH)
+
+***
+
+***2026-11-19:*** [First impressions: the fledgling years of the Black Sparrow Press, 1966-1970](https://archive.org/details/firstimpressions00bruc/page/48/mode/2up)
+
+***2026-11-19:*** Bruno Ginammi’s 2022 book *HOME* ([vid](https://youtu.be/8xnPeer6DhI), more info [here](https://brunaginammi.com/en/books) and [here](https://collezionedonatapizzi.com/da-aggiungere-bruna-ginammi/); 🎩 FG)
+
+***
+
+***2026-11-17:*** Said to be superb: [Derek Hook explans Lacan](https://www.youtube.com/@derekhookonlacan) (🎩 LY via UL/SM)
+
+***
+
+***2026-11-16:*** Confusing af: [@claudia_popstar](https://x.com/claudia_popstar) (🎩 R Lux)
+
+***2026-11-16:*** *New Yorker*: [The Lasting Influence of John Berger | The New Yorker](https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review?utm_source=facebook&utm_medium=social&utm_campaign=dhfacebook&utm_content=app.dashsocial.com%2Fnewyorkermag%2Flibrary%2Fmedia%2F746168314)
+
+***2026-11-16:*** Tomasky: [The Case Against Schumer and Jeffries Is Geography](https://newrepublic.com/article/218012/schumer-jeffries-democrats-leader-geography-ideology?utm_source=social&utm_medium=facebook&utm_campaign=sharebtn)
+
+***2026-11-16:*** [Neo-Nazi Accelerationism]] on the rise (https://globalextremism.org/post/neo-nazi-accelerationism-is-rising/) (🎩 [Stewart Home](https://en.wikipedia.org/wiki/Stewart_Home))
 
 ***
 

@@ -26,3 +26,6 @@ README-qnap*.md
 
 # Pipeline staging (reviewed, then promoted into content/)
 pipeline/staging/
+
+# Local preview output (hidden from Obsidian; see local-preview script)
+.site/
